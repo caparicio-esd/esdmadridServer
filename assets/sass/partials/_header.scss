@@ -1,0 +1,50 @@
+.header {
+  background-color: $ui_black;
+  color: white;
+  font-size: 14px;
+  padding: $spacer * .5 $spacer;
+  min-height: $spacer * 3;
+
+  #menu-superior {
+    display: block;
+
+    @include media(map-get($bp, 'mobile_l')) {
+      display: none;
+    }
+
+    .menu-superior_holder {
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+
+  ul {
+    display: flex;
+    list-style: none;
+    margin: 0 0 0 $spacer * 3;
+    padding: 0;
+
+    &.lang_menu {
+      text-transform: uppercase;
+
+      li:first-child {
+        border-right: 1px solid rgb(138, 138, 138);
+        margin-right: $spacer * .75;
+        padding-right: $spacer * .75;
+      }
+
+      li:last-child {
+        margin: 0;
+      }
+    }
+
+    li {
+      margin: 0 0 0 $spacer;
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+    }
+  }
+}
