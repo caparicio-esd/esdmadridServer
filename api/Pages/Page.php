@@ -48,24 +48,3 @@ add_action('rest_api_init', function () {
     );
 });
 
-add_action('rest_api_init', function () {
-    register_rest_route(
-        'esd/v1',
-        'page',
-        array(
-            'methods' => 'GET',
-            'callback' => 'redirect_rest_pages'
-        )
-    );
-});
-
-add_action('rest_api_init', function () {
-    register_rest_route(
-        'esd/v1',
-        'page/special',
-        array(
-            'methods' => 'GET',
-            'callback' => 'redirect_rest_pages'
-        )
-    );
-});

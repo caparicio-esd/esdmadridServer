@@ -131,3 +131,32 @@ class esd_BE_EscuelaCrece extends esd_BE_Entity
         $this->unset_props();
     }
 }
+
+
+/**
+ * 
+ */
+class esd_BE_PlanEstudios extends esd_BE_EscuelaCrece
+{
+    public $to_unset_props = [
+        'content',
+        'content_text',
+        'recent_posts',
+        'thumbnail',
+        'prev_post',
+        'next_post',
+        'categories',
+        'accordion',
+        'links', 
+        'content_raw', 
+        'summary', 
+        'template'
+    ];
+
+    public function __construct($post)
+    {
+        parent::__construct($post);
+        $this->unset_props();
+    }
+}
+
