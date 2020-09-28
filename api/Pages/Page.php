@@ -22,7 +22,7 @@ function redirect_rest_pages()
 function get_rest_pages($request)
 {
     // fetch params
-    $pslug = $request['page_slug'];
+    $pslug = $request['slug'];
 
     // fetch db
     $results = new WP_Query(array(
@@ -40,7 +40,7 @@ function get_rest_pages($request)
 add_action('rest_api_init', function () {
     register_rest_route(
         'esd/v1',
-        'page/(?P<page_slug>\d+)',
+        'page/(?P<slug>[-\w]+)',
         array(
             'methods' => 'GET',
             'callback' => 'get_rest_pages'

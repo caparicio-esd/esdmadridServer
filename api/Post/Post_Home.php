@@ -13,7 +13,7 @@
 function get_rest_post_home($request)
 {
     // fetch params
-    $pslug = $request['post_slug'];
+    $pslug = $request['slug'];
 
     // fetch db
     $results = get_posts(array(
@@ -35,7 +35,7 @@ function get_rest_post_home($request)
 add_action('rest_api_init', function () {
     register_rest_route(
         'esd/v1',
-        'posts/(?P<post_slug>\d+)',
+        'posts/(?P<slug>[-\w]+)',
         array(
             'methods' => 'GET',
             'callback' => 'get_rest_post_home'
