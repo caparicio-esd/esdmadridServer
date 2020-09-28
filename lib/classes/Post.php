@@ -9,16 +9,16 @@
 class esd_BE_Post extends esd_BE_Entity
 {
     public $categories;
-    public $prev;
-    public $next;
+    public $prev_post;
+    public $next_post;
     protected $category_types = array('category', 'post_tag', 'department');
 
     function __construct($post)
     {
         parent::__construct($post);
         $this->categories = $this->get_categories();
-        $this->prev = get_previous_post($this->id);
-        $this->next = get_next_post($this->id);
+        $this->prev_post = get_previous_post($this->ID);
+        $this->next_post = get_next_post($this->ID);
     }
 
     /**
@@ -26,7 +26,7 @@ class esd_BE_Post extends esd_BE_Entity
      */
     function get_categories()
     {
-        $terms = wp_get_post_terms($this->id, $this->category_types);
+        $terms = wp_get_post_terms($this->ID, $this->category_types);
         $categories_out = [];
 
         foreach ($terms as $index => $term) {
@@ -46,9 +46,9 @@ class esd_BE_Post extends esd_BE_Entity
 class esd_BE_Post_Home_ListItem extends esd_BE_Post
 {
     public $to_show_props = [
-        'id', 'slug', 'url', 'guid',
+        'ID', 'slug', 'url', 'guid',
         'title', 'content_text',
-        'thumbnails',
+        'thumbnail',
         'template',
         'categories'
     ];
@@ -68,19 +68,19 @@ class esd_BE_Post_Home_ListItem extends esd_BE_Post
  */
 class esd_BE_Post_Home_Single extends esd_BE_Post
 {
-    public $recent;
+    public $recent_posts;
 
     function __construct($post)
     {
         parent::__construct($post);
-        $this->recent = $this->get_recent_posts();
+        $this->recent_posts = $this->get_recent_posts();
     }
 
     function get_recent_posts()
     {
         $posts_out = [];
         $posts = get_posts(array(
-            'post__not_in'   => array($this->id),
+            'post__not_in'   => array($this->ID),
             'post_type'      => 'post',
             'posts_per_page' => 5,
             'orderby'        => 'post_date_created'
@@ -103,7 +103,7 @@ class esd_BE_Post_Home_Single extends esd_BE_Post
 class esd_BE_Post_SuperSimplified extends esd_BE_Post
 {
     public $to_show_props = [
-        'id', 'slug', 'url',
+        'ID', 'slug', 'url',
         'title',
         'template',
     ];
@@ -124,10 +124,10 @@ class esd_BE_Post_SuperSimplified extends esd_BE_Post
 class esd_BE_Post_Search extends esd_BE_Post
 {
     public $to_show_props = [
-        'id', 'slug', 'url',
+        'ID', 'slug', 'url',
         'title', 'content_text',
         'template',
-        'thumbnails',
+        'thumbnail',
         'categories'
     ];
 

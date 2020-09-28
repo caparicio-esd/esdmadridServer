@@ -2,7 +2,7 @@
 
 trait Dom_Extractor
 {
-
+    use Utils;
 
     /**
      * @function utils_normalize_content
@@ -12,7 +12,7 @@ trait Dom_Extractor
      * 
      * Cleans all not needed tags, normalizes media src and href
      */
-    function utils_normalize_content($content)
+    public function utils_normalize_content($content)
     {
         $domDocument = new DOMDocument();
         @$domDocument->loadHTML(
@@ -42,7 +42,7 @@ trait Dom_Extractor
      * 
      * Eliminates void tags
      */
-    function kill_void_tags($dom)
+    public function kill_void_tags($dom)
     {
         $tagsToRemove = array();
         $tagNames = array('div', 'p', 'h1', 'h2', 'h3', 'h4', 'span');
@@ -76,7 +76,7 @@ trait Dom_Extractor
      * 
      * Normalize media srcs...
      */
-    function normalize_media($dom)
+    public function normalize_media($dom)
     {
         $tagNames = array('img', 'a');
 
@@ -107,7 +107,7 @@ trait Dom_Extractor
      * 
      * Normalize hrefs
      */
-    function normalize_urls($dom)
+    public function normalize_urls($dom)
     {
         $tagNames = array('a');
 
@@ -122,8 +122,8 @@ trait Dom_Extractor
                         ($attr->name == 'href' && !strpos($attr->value, 'uploads')) ||
                         ($attr->name == 'data-saferedirecturl' && !strpos($attr->value, 'uploads'))
                     ) {
-                        if (strpos($attr->value, $this->api_root) > -1) {
-                            $attr->value = htmlentities(str_replace($this->api_root, '', $attr->value));
+                        if (strpos($attr->value, esd_BE__BasicData::$api_root) > -1) {
+                            $attr->value = htmlentities(str_replace(esd_BE__BasicData::$api_root, '', $attr->value));
                         }
                     }
                 }

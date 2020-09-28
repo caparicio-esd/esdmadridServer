@@ -8,9 +8,9 @@
 
 abstract class esd_BE_Entity
 {
-    use Utils; 
-    
-    public $id;
+    use Utils, Flags, Dom_Extractor;
+
+    public $ID;
     public $slug;
     public $url;
     public $guid;
@@ -27,13 +27,13 @@ abstract class esd_BE_Entity
     public $summary;
 
     public $template;
-    public $thumbnails;
+    public $thumbnail;
 
 
 
     function __construct($post)
     {
-        $this->id = $post->ID;
+        $this->ID = $post->ID;
         $this->slug = $post->post_name;
         $this->url = esd_BE__BasicData::$root . '/' . $this->slug;
         $this->guid = $post->guid;
@@ -45,12 +45,12 @@ abstract class esd_BE_Entity
         $this->author_picture = $this->get_author_picture($post->post_author);
 
         $this->title = $post->post_title;
-        $this->content_raw = 'content...';
-        $this->content_text = 'content txt...';
-        $this->summary = $post->post_excerpt;
+        $this->content_raw = $this->utils_normalize_content($post->post_content);
+        $this->content_text = $this->utils_clean_content($post->post_content);
+        $this->summary = $post->post_excerpt;        
 
-        $this->template = 'a';
-        $this->thumbnails = $this->get_post_thumbnails();
+        $this->template = $this->get_post_template_field_by_id($post->ID)->template;
+        $this->thumbnail = $this->get_post_thumbnails();
     }
 
 
@@ -83,7 +83,7 @@ abstract class esd_BE_Entity
         $sizes = get_intermediate_image_sizes();
 
         foreach ($sizes as $size) {
-            $gtp = get_the_post_thumbnail_url($this->id, $size);
+            $gtp = get_the_post_thumbnail_url($this->ID, $size);
             $thumbnails[$size] = $gtp;
         }
         return $thumbnails;
@@ -121,5 +121,17 @@ abstract class esd_BE_Entity
             }
             unset($this->{'to_show_props'});
         }
+    }
+
+    public function order_props()
+    {
+        $sortorder = [
+            'ID', 'slug', 'url', 'guid',
+            'title', 'content', 'content_text', 'summary',
+            'template', 'date_creation', 'date_modification',
+            'prev_post', 'next_post',
+            'thumbnail', 'categories', 'recent_posts',
+            'accordion', 'links'
+        ];
     }
 }

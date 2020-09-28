@@ -43,18 +43,18 @@ trait Flags {
     {
         $result_out = new stdClass();
         
-        foreach ($this->template_collection as $result) {
+        foreach (esd_BE__BasicData::$template_collection as $result) {
             if ($result->id == $pid) {
                 $result_out = $result;
             break;
             } else {
                 $template = '';
                 if ($this->utils_get_post_type($pid) == 'post') {
-                    $template = $this->flag_options[1];
+                    $template = esd_BE__BasicData::$flag_options[1];
                 } else if ($this->utils_get_post_type($pid) == 'page') {
-                    $template = $this->flag_options[0];
+                    $template = esd_BE__BasicData::$flag_options[0];
                 } else {
-                    $template = $this->flag_options[1];
+                    $template = esd_BE__BasicData::$flag_options[1];
                 }
 
                 $result_out->id = 0;
