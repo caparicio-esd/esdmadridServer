@@ -8,7 +8,7 @@
 
 abstract class esd_BE_Entity
 {
-    use Utils, Flags, Dom_Extractor;
+    use Flags, Dom_Extractor;
 
     public $ID;
     public $slug;
