@@ -26,17 +26,11 @@ class esd_BE_Post extends esd_BE_Entity
      */
     function get_categories()
     {
-        $categories_raw = wp_get_post_terms($this->id, $this->category_types);
+        $terms = wp_get_post_terms($this->id, $this->category_types);
         $categories_out = [];
 
-        foreach ($categories_raw as $index => $category_raw) {
-            $category_out = new stdClass();
-            $category_out->ID = $category_raw->term_id;
-            $category_out->name = $category_raw->name;
-            $category_out->slug = $category_raw->slug;
-            $category_out->url = get_category_link($category_raw->term_id);
-
-            array_push($categories_out, $category_out);
+        foreach ($terms as $index => $term) {
+            array_push($categories_out, new Term($term));
         }
 
         return $categories_out;

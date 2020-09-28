@@ -1,8 +1,8 @@
 <?php 
 
 /**
- * Algunas propiedades estáticas y funciones 
- * estáticas como utilidades de aplicación
+ * Clase que almacena propiedades estáticas para toda la aplicación
+ * 
  */
 
 
@@ -30,9 +30,6 @@ class esd_BE__BasicData
         "template_escuela_crece"
     ];
     public static $template_collection;
-
-
-    // public static 
 
     public function __construct()
     {

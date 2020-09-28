@@ -1,47 +1,8 @@
 <?php
 
-/*
-- Posts
-/wp/v2/posts
-- Post Revisions
-/wp/v2/revisions
-- Categories
-/wp/v2/categories
-- Tags
-/wp/v2/tags
-- Pages
-/wp/v2/pages
-- Comments
-/wp/v2/comments
-- Taxonomies
-/wp/v2/taxonomies
-- Media
-/wp/v2/media
-- Users
-/wp/v2/users
-- Post Types
-/wp/v2/types
-- Post Statuses
-/wp/v2/statuses
-- Settings
-/wp/v2/settings
-*/
 
 
-
-
-
-/**
- * 
- * Needed stuff for admin
- */
-
-// Custom Post Fields
-// Custom Post types
-// Both are based in CPT-UI and ACF plugins. 
-// Be sure the installation is coming with theese two plugins
-
-
+// hooks
 function register_hooks()
 {
     register_nav_menu('menu-1', __('Menú 1'));
@@ -52,10 +13,8 @@ function register_hooks()
 add_action('init', 'register_hooks');
 
 
-
 // register taxonomy portfolio
 require dirname(__FILE__) . '/admin/taxonomy_portfolio.php';
-
 
 
 
@@ -70,7 +29,6 @@ require dirname(__FILE__) . '/lib/root.php';
  * 
  * API
  */
-
 require dirname(__FILE__) . '/api/Post/Posts_Home.php';
 require dirname(__FILE__) . '/api/Post/Post_Home.php';
 
