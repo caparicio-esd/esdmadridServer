@@ -87,12 +87,19 @@ trait Dom_Extractor
                 $attrs = $tag->attributes;
 
                 foreach ($attrs as $attr) {
-                    if ($attr->name == 'src' || $attr->name == 'href') {
+                    if (
+                        $attr->name == 'src' ||
+                        $attr->name == 'srcset' ||
+                        $attr->name == 'href'
+                    ) {
                         $attr->value = htmlentities($attr->value);
                         $attr->value = $this->utils_replace_strange_strings($attr->value);
                         $attr->value = $this->utils_change_url_protocol($attr->value);
                     }
-                    if ($attr->name == 'src') {
+                    if (
+                        $attr->name == 'src' ||
+                        $attr->name == 'srcset'
+                    ) {
                         $attr->value = $this->utils_static_assets_url($attr->value);
                     }
                 }
