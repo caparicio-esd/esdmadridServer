@@ -17,7 +17,7 @@ function get_rest_post_home($request)
 
     // fetch db
     $results = get_posts(array(
-        'post_name' => $pslug, 
+        'name' => $pslug, 
         'post_type' => 'any'
     ));
 
