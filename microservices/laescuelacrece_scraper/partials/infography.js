@@ -6,15 +6,16 @@ const infography = {
     ],
     author: 'Estrella Juárez',
     thumbs: [
+        
         '2016/10/lec_estrella_0015_Capa-3.jpg',
-        '2016/10/lec_estrella_0015_Capa-6.jpg',
-        '2016/10/lec_estrella_0015_Capa-8.jpg',
-        '2016/10/lec_estrella_0015_Capa-11.jpg',
-        '2016/10/lec_estrella_0015_Capa-13.jpg',
-        '2016/10/lec_estrella_0015_Capa-14.jpg',
-        '2016/10/lec_estrella_0015_Capa-15.jpg',
-        '2016/10/lec_estrella_0015_Capa-16.jpg',
-        '2016/10/lec_estrella_0015_Capa-18.jpg'
+        '2016/10/lec_estrella_0012_Capa-6.jpg',
+        '2016/10/lec_estrella_0010_Capa-8.jpg',
+        '2016/10/lec_estrella_0007_Capa-11.jpg',
+        '2016/10/lec_estrella_0005_Capa-13.jpg',
+        '2016/10/lec_estrella_0004_Capa-14.jpg',
+        '2016/10/lec_estrella_0003_Capa-15.jpg',
+        '2016/10/lec_estrella_0002_Capa-16.jpg',
+        '2016/10/lec_estrella_0000_Capa-18.jpg'
     ]
 };
 
