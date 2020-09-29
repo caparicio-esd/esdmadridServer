@@ -118,7 +118,8 @@ function just_needed_stuff_menu($menu_item)
 
     $menu->menu_id = $menu_item->ID;
     $menu->menu_title = $menu_item->title;
-    $menu->menu_url = str_replace(esd_BE__BasicData::$api_root, "", $menu_url);
+    $menu->menu_url = str_replace(esd_BE__BasicData::$root, "", $menu_url);
+    $menu->menu_slug = str_replace('/', '', $menu->menu_url);
     $menu->menu_template = $template;
     $menu->children = [];
 
