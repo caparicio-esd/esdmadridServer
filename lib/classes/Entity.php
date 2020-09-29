@@ -84,6 +84,7 @@ abstract class esd_BE_Entity
 
         foreach ($sizes as $size) {
             $gtp = get_the_post_thumbnail_url($this->ID, $size);
+            $gtp = $this->utils_static_assets_url($gtp);
             $thumbnails[$size] = $gtp;
         }
         return $thumbnails;

@@ -75,8 +75,8 @@ trait Utils
     {
         if (strrpos($strIn, '/wp-content/uploads/') !== false) {
             $strIn = str_replace('http://', 'https://', $strIn);
-            $strOut = esd_BE__BasicData::$static_assets;
-            return $strOut;
+            // $strOut = esd_BE__BasicData::$static_assets;
+            return $strIn;
         } else {
             return $strIn;
         }
@@ -94,5 +94,25 @@ trait Utils
     {
         $post_type = get_post_type($pId);
         return $post_type;
+    }
+
+
+    /**
+     * @function utils_get_post_type
+     * 
+     * @param {Number} $pId -> Post ID Number
+     * @return {String} $post_type
+     * 
+     * Returns the post_type from a postID
+     */
+    public function utils_static_assets_url($url)
+    {
+        $url_out = str_replace(
+            esd_BE__BasicData::$api_static_assets, 
+            esd_BE__BasicData::$origin_statics_there, 
+            $url
+        );
+
+        return $url_out;
     }
 }

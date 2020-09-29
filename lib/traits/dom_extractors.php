@@ -92,6 +92,9 @@ trait Dom_Extractor
                         $attr->value = $this->utils_replace_strange_strings($attr->value);
                         $attr->value = $this->utils_change_url_protocol($attr->value);
                     }
+                    if ($attr->name == 'src') {
+                        $attr->value = $this->utils_static_assets_url($attr->value);
+                    }
                 }
             }
         }

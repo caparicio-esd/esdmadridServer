@@ -11,9 +11,9 @@ class esd_BE_Post_Portfolio_ListItem extends esd_BE_Post
     public $categories = [];
     public $categories_name = [];
     public $to_unset_props = [
-        'recent',
-        'prev',
-        'next',
+        'recent_posts',
+        'prev_post',
+        'next_post',
     ];
 
     public function __construct($post)
