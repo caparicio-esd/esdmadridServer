@@ -156,13 +156,13 @@ class esd_BE_PlanEstudios extends esd_BE_EscuelaCrece
         'links', 
         'content_raw', 
         'summary', 
-        'template'
     ];
 
     public function __construct($post)
     {
         parent::__construct($post);
         $this->unset_props();
+        $this->template = 'single_plan_estudios';
     }
 }
 

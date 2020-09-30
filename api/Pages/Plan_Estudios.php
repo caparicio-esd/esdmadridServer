@@ -12,8 +12,8 @@
  */
 
 
-function get_plan_estudios()
-{   
+function get_rest_plan_estudios()
+{       
     // glob
     $plan_estudios_URL = array(
         'grafico' => 'plan-de-estudios-diseno-grafico',
@@ -46,10 +46,10 @@ function get_plan_estudios()
 add_action('rest_api_init', function () {
     register_rest_route(
         'esd/v1',
-        'page/plan-estudios',
+        'page/special/plan-estudios',
         array(
             'methods' => 'GET',
-            'callback' => 'get_plan_estudios'
+            'callback' => 'get_rest_plan_estudios'
         )
     );
 });
