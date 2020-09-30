@@ -18,6 +18,9 @@ class esd_BE_Page extends esd_BE_Entity
         $this->accordion_ids = $this->get_accordion_ids();
         $this->accordion = $this->extract_siteorigin_accordion($post);
         $this->unset_props();
+
+        // 
+        $this->template = $this->accordion !== null ? 'single_accordion' : 'single_no_sidebar';
     }
 
 
@@ -101,6 +104,9 @@ class esd_BE_Page extends esd_BE_Entity
 
                 array_push($acc_out, $a);
             }
+        } else {
+
+            $acc_out = null;
         }
 
         return $acc_out;
