@@ -1,26 +1,26 @@
 {
-  "name": "asignaturas_create",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "get_course:producto": "node api.js -g producto",
-    "get_course:grafico": "node api.js -g grafico",
-    "get_course:interiores": "node api.js -g interiores",
-    "get_course:moda": "node api.js -g moda"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.20.0",
-    "chalk": "^4.1.0",
-    "cheerio": "^1.0.0-rc.3",
-    "he": "^1.2.0",
-    "natural": "^2.1.5",
-    "normalize-text": "^2.3.1",
-    "pdf-parse": "^1.1.1",
-    "xlsx": "^0.16.7",
-    "yargs": "^16.0.3"
-  }
+    "name": "asignaturas_create",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "get_course:producto": "node api.js -g producto",
+        "get_course:grafico": "node api.js -g grafico",
+        "get_course:interiores": "node api.js -g interiores",
+        "get_course:moda": "node api.js -g moda"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.20.0",
+        "chalk": "^4.1.0",
+        "cheerio": "^1.0.0-rc.3",
+        "he": "^1.2.0",
+        "natural": "^2.1.5",
+        "normalize-text": "^2.3.1",
+        "pdf-parse": "^1.1.1",
+        "xlsx": "^0.16.7",
+        "yargs": "^16.0.3"
+    }
 }

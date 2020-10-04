@@ -1,19 +1,19 @@
 form p {
-  margin-bottom: $spacer * .5;
+    margin-bottom: $spacer * 0.5;
 }
 
-input[type="text"] {
-  background: transparent;
-  border: 1px solid white;
-  padding: $spacer * .5 $spacer;
-  outline: 0;
-  color: white;
-  display: block;
-  width: 100%;
+input[type='text'] {
+    background: transparent;
+    border: 1px solid white;
+    padding: $spacer * 0.5 $spacer;
+    outline: 0;
+    color: white;
+    display: block;
+    width: 100%;
 }
 
-input[type="submit"] {
-  @extend input[type="text"];
-  width: auto;
-  display: inline-block;
+input[type='submit'] {
+    @extend input[type='text'];
+    width: auto;
+    display: inline-block;
 }

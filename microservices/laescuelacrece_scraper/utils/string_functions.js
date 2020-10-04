@@ -1,16 +1,12 @@
-
-
-
 module.exports = function () {
-
     /**
      * String Prototypes
      */
     String.prototype.capitalize01 = function () {
-        return this.split(' ').map(t => t[0] + t.slice(1).toLowerCase()).join(' ');
+        return this.split(' ')
+            .map((t) => t[0] + t.slice(1).toLowerCase())
+            .join(' ');
     };
-
-
 
     /**
      * String Prototypes
@@ -27,9 +23,18 @@ module.exports = function () {
                     return pais;
                 } else {
                     pais = pais.replace('/', '');
-                    pais = pais.split('–').map(t => t[0] + t.slice(1).toLowerCase()).join('-');
-                    pais = pais.split('-').map(t => t == 'Uk' ? 'UK' : t).join('-');
-                    pais = pais.split('-').map(t => t == 'Eeuu' ? 'EEUU' : t).join('-');
+                    pais = pais
+                        .split('–')
+                        .map((t) => t[0] + t.slice(1).toLowerCase())
+                        .join('-');
+                    pais = pais
+                        .split('-')
+                        .map((t) => (t == 'Uk' ? 'UK' : t))
+                        .join('-');
+                    pais = pais
+                        .split('-')
+                        .map((t) => (t == 'Eeuu' ? 'EEUU' : t))
+                        .join('-');
 
                     return pais;
                 }
@@ -37,13 +42,11 @@ module.exports = function () {
         })(out[1]);
 
         return {
-            name: out[0].split(' ').map(t => t[0] + t.slice(1).toLowerCase()).join(' '),
-            pais
+            name: out[0]
+                .split(' ')
+                .map((t) => t[0] + t.slice(1).toLowerCase())
+                .join(' '),
+            pais,
         };
     };
-
 };
-
-
-
-

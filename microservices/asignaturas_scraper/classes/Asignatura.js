@@ -14,18 +14,17 @@ const cols = [
     'TURNO',
     'ESPECIALIDAD',
     'CARÁCTER',
-    'SEMESTRE'
+    'SEMESTRE',
 ];
 
 class Asignatura {
     constructor(data, id = 0) {
-
-        this.id = id
+        this.id = id;
         this.title = data[cols[6]].trim();
         this.type = data[cols[10]];
         this.department = data[cols[4]]; // departamento didáctico
-        this.departmentCode = data[cols[3]];      // cuerpo docente
-        this.branch = data[cols[9]];     // especialidad
+        this.departmentCode = data[cols[3]]; // cuerpo docente
+        this.branch = data[cols[9]]; // especialidad
         this.courseRaw = data[cols[5]];
         this.course = [];
         this.semester = data[cols[11]];
@@ -42,13 +41,16 @@ class Asignatura {
     }
 
     setCourse(data, cols) {
-        if (this.isMaster) { // master
+        if (this.isMaster) {
+            // master
             this.course.push(data[cols[7]]);
         }
-        if (!this.isMaster && this.type == 'OE') { // OE 
+        if (!this.isMaster && this.type == 'OE') {
+            // OE
             this.course.push(+this.courseRaw[2]);
         }
-        if (!this.isMaster && this.type == 'FB') { // FB
+        if (!this.isMaster && this.type == 'FB') {
+            // FB
             this.course.push(+this.courseRaw[2]);
         }
     }
@@ -66,11 +68,9 @@ class Asignatura {
         this.groups.push(group);
     }
 
-    printBeautifulOutput() {
-        
-    }
+    printBeautifulOutput() {}
 }
 
 module.exports = {
-    Asignatura
+    Asignatura,
 };

@@ -54,8 +54,7 @@
     font-family: 'Source Sans Pro';
     src: url('SourceSansPro-It.eot');
     src: url('SourceSansPro-It.eot?#iefix') format('embedded-opentype'),
-        url('SourceSansPro-It.woff') format('woff'),
-        url('SourceSansPro-It.ttf') format('truetype');
+        url('SourceSansPro-It.woff') format('woff'), url('SourceSansPro-It.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }

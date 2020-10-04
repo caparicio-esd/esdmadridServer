@@ -4,7 +4,6 @@ let c_no = svg.querySelector('.c_no_outline');
 let br = svg.querySelector('.brand');
 let loaded = false;
 
-
 let animationIn = anime.timeline({
     easing: 'easeOutExpo',
     delay: 1000,
@@ -12,55 +11,73 @@ let animationIn = anime.timeline({
 animationIn.add({
     targets: c_o,
     opacity: 1,
-    duration: 100
+    duration: 100,
 });
-animationIn.add({
-    targets: c_o,
-    strokeDashoffset: [anime.setDashoffset, 0],
-    duration: 1500
-}, 50);
-animationIn.add({
-    targets: c_no,
-    opacity: 1,
-    duration: 1000
-}, 500);
-animationIn.add({
-    targets: [br],
-    duration: 2500,
-    opacity: 1
-}, 2000);
-
-
+animationIn.add(
+    {
+        targets: c_o,
+        strokeDashoffset: [anime.setDashoffset, 0],
+        duration: 1500,
+    },
+    50,
+);
+animationIn.add(
+    {
+        targets: c_no,
+        opacity: 1,
+        duration: 1000,
+    },
+    500,
+);
+animationIn.add(
+    {
+        targets: [br],
+        duration: 2500,
+        opacity: 1,
+    },
+    2000,
+);
 
 let animationMouseIn = anime.timeline({
     easing: 'easeOutExpo',
     autoplay: false,
-    duration: 1500
+    duration: 1500,
 });
-animationMouseIn.add({
-    targets: [c_no],
-    scale: .9,
-}, 0);
-animationMouseIn.add({
-    targets: [br],
-    scale: 1.1,
-}, 100);
-
+animationMouseIn.add(
+    {
+        targets: [c_no],
+        scale: 0.9,
+    },
+    0,
+);
+animationMouseIn.add(
+    {
+        targets: [br],
+        scale: 1.1,
+    },
+    100,
+);
 
 let animationMouseOut = anime.timeline({
     easing: 'easeOutExpo',
     autoplay: false,
     duration: 1500,
-    direction: 'reverse'
+    direction: 'reverse',
 });
-animationMouseOut.add({
-    targets: [c_no],
-    scale: .9,
-}, 0);
-animationMouseOut.add({
-    targets: [br],
-    scale: 1.1,
-}, 100);
+animationMouseOut.add(
+    {
+        targets: [c_no],
+        scale: 0.9,
+    },
+    0,
+);
+animationMouseOut.add(
+    {
+        targets: [br],
+        scale: 1.1,
+    },
+    100,
+);
 
 svg.addEventListener('mouseenter', function () {
     anime.remove([c_no, br]);
@@ -70,9 +87,6 @@ svg.addEventListener('mouseleave', function () {
     anime.remove([c_no, br]);
     animationMouseOut.play();
 });
-
-
-
 
 // let brand_animation = anime.timeline({
 //     easing: 'easeOutExpo',
@@ -105,9 +119,6 @@ svg.addEventListener('mouseleave', function () {
 // }, 2000);
 // brand_animation.play();
 
-
-
-
 // let brand_animation_in = anime.timeline({
 //     easing: 'easeOutExpo',
 //     autoplay: false,
@@ -136,7 +147,6 @@ svg.addEventListener('mouseleave', function () {
 //     brand_animation_in.play();
 // };
 
-
 // let branding_out = () => {
 //     brand_animation_in.children.forEach(c => {
 //         c.animatables.forEach(d => {
@@ -153,7 +163,6 @@ svg.addEventListener('mouseleave', function () {
 //     }, 100);
 //     brand_animation_out.play();
 // };
-
 
 // svg.addEventListener('mouseenter', function () {
 //     branding_in();
