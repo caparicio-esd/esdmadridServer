@@ -1,15 +1,15 @@
-<?php 
+<?php
 
 /**
  * Clase que almacena propiedades estáticas para toda la aplicación
- * 
+ *
  */
 
 
 
 class esd_BE__BasicData
 {
-    use Flags; 
+    use Flags;
 
     public static $root;
     public static $api_root;
@@ -27,7 +27,8 @@ class esd_BE__BasicData
         "porfolio_home",
         "porfolio_single",
         "home",
-        "template_escuela_crece"
+        "template_escuela_crece",
+        "template_contacto"
     ];
     public static $template_collection;
 
