@@ -70,6 +70,7 @@ add_action('rest_api_init', function () {
  */
 function get_menu_template($menu_item)
 {
+
     // if simple post 
     if ($menu_item->object == 'post') {
         $template_flag = esd_BE__BasicData::$flag_options[1];
@@ -111,7 +112,7 @@ function just_needed_stuff_menu($menu_item)
     $menu = new stdClass();
 
     // check if custom link: 
-    $menu_url = $menu_item->type == 'custom' ? '#' : $menu_item->url;
+    $menu_url = $menu_item->url == '' ? '#' : $menu_item->url;
 
     // create template flags
     $template = get_menu_template($menu_item);
