@@ -20,7 +20,7 @@ class esd_BE_Page extends esd_BE_Entity
         $this->unset_props();
 
         // 
-        $this->template = $this->accordion !== null ? 'single_accordion' : 'single_no_sidebar';
+        $this->template = $this->accordion !== null ? 'single_accordion' : $this->template;
     }
 
 
