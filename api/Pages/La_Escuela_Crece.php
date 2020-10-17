@@ -36,7 +36,7 @@ function get_la_escuela_crece()
 add_action('rest_api_init', function () {
     register_rest_route(
         'esd/v1',
-        'page/special/laescuelacrece',
+        'page/special/la-escuela-crece',
         array(
             'methods' => 'GET',
             'callback' => 'get_la_escuela_crece'
