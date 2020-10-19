@@ -17,7 +17,7 @@ function get_la_escuela_crece()
 
     // fetch db
     $results = new WP_Query(array(
-        'pagename' => 'laescuelacrece' 
+        'pagename' => 'la-escuela-crece' 
     ));
 
     // fetch file
