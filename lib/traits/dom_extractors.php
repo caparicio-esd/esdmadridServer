@@ -141,4 +141,57 @@ trait Dom_Extractor
         }
         return $dom;
     }
+
+
+    /**
+     * @function normalize_media
+     * 
+     * @param {dom} $dom -> DOM
+     * @return {text} $domOut
+     * 
+     * Normalize media srcs...
+     */
+    public function extract_links($dom)
+    {
+        $tagNames = array('a');
+        $linkTypes = array('pdf', 'doc', 'docx');
+        $linksTr = [];
+        $links = [];
+
+        // extract
+        foreach ($tagNames as $tagName) {
+            $tags = $dom->getElementsByTagName($tagName);
+
+            foreach ($tags as $tag) {
+                $attrs = $tag->attributes;
+
+                foreach ($attrs as $attr) {
+                    if (
+                        $attr->name == 'href'
+                    ) {
+                        $attr->value = htmlentities($attr->value);
+                        $attr->value = $this->utils_replace_strange_strings($attr->value);
+                        $attr->value = $this->utils_change_url_protocol($attr->value);
+                        $attr->value = $this->utils_static_assets_url($attr->value);
+
+                        array_push($linksTr, $attr->value);
+                    }
+                }
+            }
+        }
+
+        //filter
+        foreach ($linksTr as $linkTr) {
+            foreach ($linkTypes as $linkType) {
+                if (preg_match('/(.*?)\.(' . $linkType .  ')$/', $linkTr)) {
+                    $link = new stdClass();
+                    $link->type = $linkType;
+                    $link->content = $linkTr;
+                    array_push($links, $link);
+                }
+            }
+        }
+    
+        return $links;
+    }
 }

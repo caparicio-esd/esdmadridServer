@@ -17,12 +17,26 @@ class esd_BE_Page extends esd_BE_Entity
         parent::__construct($post);
         $this->accordion_ids = $this->get_accordion_ids();
         $this->accordion = $this->extract_siteorigin_accordion($post);
+        $this->links = $this->get_links();
         $this->unset_props();
 
         // 
         $this->template = $this->accordion !== null ? 'single_accordion' : $this->template;
     }
 
+    /**
+     * 
+     */
+    function get_links() 
+    {
+        $domDocument = new DOMDocument();
+        @$domDocument->loadHTML(
+            mb_convert_encoding($this->content_raw, 'HTML-ENTITIES'),
+            LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
+        );
+        $links = $this->extract_links($domDocument);
+        return $links;
+    }
 
     /**
      * 
