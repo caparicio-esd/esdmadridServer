@@ -46,7 +46,9 @@ abstract class esd_BE_Entity
 
         $this->title = $post->post_title;
         $this->content_raw = $this->utils_normalize_content($post->post_content);
-        $this->content_text = $this->utils_clean_content($post->post_content);
+        $this->content_text = $this->utils_normalize_content(
+            $this->utils_clean_content($post->post_content)
+        );
         $this->summary = $post->post_excerpt;        
 
         $this->template = $this->get_post_template_field_by_id($post->ID)->template;
