@@ -155,7 +155,7 @@ trait Dom_Extractor
     {
         $tagNames = array('a');
         $linkTypes = array('pdf', 'doc', 'docx');
-        $linksTr = [];
+        $linksTag = [];
         $links = [];
 
         // extract
@@ -163,6 +163,7 @@ trait Dom_Extractor
             $tags = $dom->getElementsByTagName($tagName);
 
             foreach ($tags as $tag) {
+                $linkTag = new stdClass();
                 $attrs = $tag->attributes;
 
                 foreach ($attrs as $attr) {
@@ -174,24 +175,29 @@ trait Dom_Extractor
                         $attr->value = $this->utils_change_url_protocol($attr->value);
                         $attr->value = $this->utils_static_assets_url($attr->value);
 
-                        array_push($linksTr, $attr->value);
+                        $linkTag->url = $attr->value;
+                        $linkTag->title = $tag->nodeValue;
+                        array_push($linksTag, $linkTag);
                     }
                 }
             }
         }
 
         //filter
-        foreach ($linksTr as $linkTr) {
+        foreach ($linksTag as $linkTag) {
             foreach ($linkTypes as $linkType) {
-                if (preg_match('/(.*?)\.(' . $linkType .  ')$/', $linkTr)) {
+                if (preg_match('/(.*?)\.(' . $linkType .  ')$/', $linkTag->url)) {
+                    
                     $link = new stdClass();
                     $link->type = $linkType;
-                    $link->content = $linkTr;
+                    $link->url = $linkTag->url;
+                    $link->title = trim($linkTag->title);
+                    
                     array_push($links, $link);
                 }
             }
         }
     
-        return $links;
+        return sizeof($links) > 0 ? $links : null;
     }
 }
