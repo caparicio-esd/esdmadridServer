@@ -21,17 +21,17 @@ class Profesor {
         this.email = '';
         this.department = ''; // departamento didáctico (proyectos, medios, ...)
         this.departmentCode = ''; // cuerpo docente (522, 511...)        
-
+        this.branch = '';
     }
     setIdx(idx) {
         this.id = idx;
     }
 
-    addExtraData(email, department, departmentCode) {
+    addExtraData(email, department, departmentCode, especialidad) {
         this.email = email;
         this.department = department;
         this.departmentCode = departmentCode;
-        
+        this.branch = especialidad;
     }
  
 }

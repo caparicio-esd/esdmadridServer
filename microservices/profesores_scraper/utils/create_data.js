@@ -83,7 +83,7 @@ const setExtraData = () => {
         const profesor = profesores.find((prof) => (prof.surname1 + ' ' + prof.surname2 +', '+ prof.name) == rd['PROFESOR/A'].trim())                 
 
         if(profesor){
-            profesor.addExtraData(rd[cols2[2]], rd[cols2[4]],rd[cols2[3]]);
+            profesor.addExtraData(rd[cols2[2]], rd[cols2[4]],rd[cols2[3]],rd[cols2[9]]);
         }
     });
 };
