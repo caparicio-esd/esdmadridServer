@@ -15,10 +15,18 @@
 
 function get_rest_company_items()
 {
+    // fetch param
+    $especialidad = isset($_GET['especialidad']) ? $_GET['especialidad'] : 'companies';
 
-    $response = [];
+    // fetch file
+    $uri = get_template_directory() . '/microservices/extract_companies/data/clean/' . $especialidad . '.json';
+    $json = file_get_contents($uri);
+    $data = json_decode($json, TRUE);
 
-
+    // construct response
+    $response = $data;
+    
+    
     return $response;
 }
 
