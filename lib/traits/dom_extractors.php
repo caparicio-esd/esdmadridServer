@@ -139,15 +139,20 @@ trait Dom_Extractor
 
 
     /**
-     * @function normalize_media
+     * @function extract_links
      * 
      * @param {dom} $dom -> DOM
-     * @return {text} $domOut
      * 
-     * Normalize media srcs...
+     * Extract links from text
      */
-    public function extract_links($dom)
+    public function extract_links($content)
     {
+        $domDocument = new DOMDocument();
+        @$domDocument->loadHTML(
+            mb_convert_encoding($content, 'HTML-ENTITIES'),
+            LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
+        );
+
         $tagNames = array('a');
         $linkTypes = array('pdf', 'doc', 'docx');
         $linksTag = [];
@@ -155,7 +160,7 @@ trait Dom_Extractor
 
         // extract
         foreach ($tagNames as $tagName) {
-            $tags = $dom->getElementsByTagName($tagName);
+            $tags = $domDocument->getElementsByTagName($tagName);
 
             foreach ($tags as $tag) {
                 $linkTag = new stdClass();
@@ -167,7 +172,6 @@ trait Dom_Extractor
                     ) {
                         $attr->value = htmlentities($attr->value);
                         $attr->value = $this->utils_replace_strange_strings($attr->value);
-                        // $attr->value = $this->utils_change_url_protocol($attr->value);
                         $attr->value = $this->utils_static_assets_url($attr->value);
 
                         $linkTag->url = $attr->value;
@@ -182,17 +186,65 @@ trait Dom_Extractor
         foreach ($linksTag as $linkTag) {
             foreach ($linkTypes as $linkType) {
                 if (preg_match('/(.*?)\.(' . $linkType .  ')$/', $linkTag->url)) {
-                    
+
                     $link = new stdClass();
                     $link->type = $linkType;
                     $link->url = $linkTag->url;
                     $link->title = trim($linkTag->title);
-                    
+
                     array_push($links, $link);
                 }
             }
         }
-    
+
         return sizeof($links) > 0 ? $links : null;
+    }
+
+    /**
+     * @function extract_accordion
+     * 
+     * @param {dom} $dom -> DOM
+     * 
+     * Extract links from text
+     */
+    public function extract_accordion($content)
+    {
+        $domDocument = new DOMDocument();
+        @$domDocument->loadHTML(
+            mb_convert_encoding($content, 'HTML-ENTITIES'),
+            LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
+        );
+
+        $accordion_sections = [];
+        $accordion_section = null;
+        $accordion_content = null;
+        $tags = $domDocument->childNodes[0]->childNodes;
+
+        foreach ($tags as $tag) {
+            if ($tag->nodeName == 'h2') {
+                if ($accordion_section != null && $accordion_content != null) {
+                    
+                    $accordion_section->title = $tag->nodeValue; 
+                    $accordion_section->content = html_entity_decode($accordion_content->saveHTML());
+                    $accordion_section->content = $this->utils_replace_strange_strings($accordion_section->content);
+                    $accordion_section->content = $this->utils_static_assets_url($accordion_section->content);
+                    $accordion_section->links = $this->extract_links($accordion_section->content);
+                    array_push($accordion_sections, $accordion_section);
+                }
+                $accordion_section = new stdClass();
+                $accordion_content = new DOMDocument();
+                $accordion_content->loadHTML(mb_convert_encoding("<div class=\"accordion_content\"></div>", 'HTML-ENTITIES'), LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
+            
+            } else {
+                if ($accordion_content) {
+                    if ($tag instanceof DOMElement) {
+                        $node = $accordion_content->importNode($tag, true);
+                        $accordion_content->documentElement->appendChild($node);
+                    }                    
+                }
+            }
+        }
+
+        return $accordion_sections;
     }
 }

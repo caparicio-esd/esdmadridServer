@@ -16,7 +16,7 @@ class esd_BE_Page extends esd_BE_Entity
     {
         parent::__construct($post);
         $this->accordion_ids = $this->get_accordion_ids();
-        $this->accordion = $this->extract_siteorigin_accordion($post);
+        $this->accordion = $this->get_accordion($post);
         $this->links = $this->get_links();
         $this->unset_props();
 
@@ -29,12 +29,7 @@ class esd_BE_Page extends esd_BE_Entity
      */
     function get_links() 
     {
-        $domDocument = new DOMDocument();
-        @$domDocument->loadHTML(
-            mb_convert_encoding($this->content_raw, 'HTML-ENTITIES'),
-            LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
-        );
-        $links = $this->extract_links($domDocument);
+        $links = $this->extract_links($this->content_raw);
         return $links;
     }
 
@@ -58,6 +53,15 @@ class esd_BE_Page extends esd_BE_Entity
         }
 
         return $out;
+    }
+
+    /**
+     * 
+     */
+    public function get_accordion() 
+    {        
+        $links = $this->extract_accordion($this->content_raw);
+        return $links;
     }
 
     /**
