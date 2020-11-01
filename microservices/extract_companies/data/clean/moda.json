@@ -1,0 +1,1371 @@
+[
+    {
+        "index": 5,
+        "id": 433,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "CHANEL, S.A.",
+        "address": "c/ Ortega y Gasset, 22-24, 6º - 28006 Madrid",
+        "web": "https://www.chanel.com/es_ES/?param=value&gclid=EAIaIQobChMI1Z3O1_D45gIVDcjeCh2VjguaEAAYASAAEgL0m_D_BwE",
+        "objectives": [
+            "Apoyo en la venta: a través de pequeñas reparaciones y apoyo en caja.",
+            "Apoyo en el stock a través de la reposición, seguimiento de inventario, ayuda supervisada en gestión de transfers.",
+            "Empaquetado.",
+            "Ayuda en la gestión de los turnos: clientes y trabajadores."
+        ],
+        "picture": "/data/clean/pictures/120.jpeg"
+    },
+    {
+        "index": 15,
+        "id": 416,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "A CON100CIA SHOWROOM, S.L.U.",
+        "address": "c/ Covarrubias, 1 - 1º - 28010 Madrid",
+        "web": "http://www.acon100cia.com/showroom",
+        "objectives": [
+            "Participar en proyectos de expansión de firmas.",
+            "Organización de colecciones.",
+            "Composición  y envío de look book.",
+            "Difusión en redes sociales.",
+            "Asistente de ventas de colecciones en campaña. .",
+            "Organización de campaña.",
+            "Soporte y Organización de Press Day.",
+            "Contacto telefónico con clientes para citas nueva campaña.",
+            "Gestión de datos de Prospecciones para captar clientes Potenciales.",
+            "Soporte al Back office."
+        ],
+        "picture": "/data/clean/pictures/110.png"
+    },
+    {
+        "index": 52,
+        "id": 384,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "MÁQUINA DE COSAS BONITAS, S.L.U. (RITA VON)",
+        "address": "c/ Normas, 4 - 28043 Madrid",
+        "web": "https://ritavon.es/",
+        "objectives": [
+            "Producción de dos líneas de complementos en marca blanca para dos marcas de moda infantil",
+            "Realización de pedidos a medida",
+            "Gestión de ventas online y preparación de envíos",
+            "Apoyo en el diseño de colecciones y en la creación de material de comunicación"
+        ],
+        "picture": "/data/clean/pictures/232.jpeg"
+    },
+    {
+        "index": 57,
+        "id": 379,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "TALLER 3 PUNTADAS, S.L.",
+        "address": "c/ San Bernardino, 15 - 28013 Madrid",
+        "web": "https://es-es.facebook.com/Taller-3-Puntadas",
+        "objectives": [
+            "Elaboración de marcadas para posterior producción en masa.",
+            "Estudio y análisis en cuanto a tejidos, colores, patrones y prendas.",
+            "Seguimiento directo de las muestras hasta la producción.",
+            "Búsqueda de proveedores de tejidos y fornituras.",
+            "Apoyo a taller, confección y transformación de patronaje y escalado.",
+            "Colaboración en eventos de muestra de la colección para clientes.",
+            "Colaboración en equipo de diseño de la marca “mans concept” "
+        ],
+        "picture": "/data/clean/pictures/224.jpg"
+    },
+    {
+        "index": 60,
+        "id": 376,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "MARIA & FISHER, S.L. (MARIAKE FISHERMAN)",
+        "address": "c/ Calvario, 36A - 06220 Villafranca de los Barros (Badajoz)",
+        "web": "https://www.mariakefisherman.com/",
+        "objectives": [
+            "Apoyo equipo de diseño de colección de moda",
+            "Estudio y análisis de tendencias de moda, en cuanto a tejidos, colores, patrones y prendas.",
+            "Seguimiento directo de las muestras hasta la producción.",
+            "Dibujo de figurines para colección y desarrollo fichas técnicas.",
+            "Búsqueda de proveedores de tejidos y fornituras",
+            "Apoyo a taller, confección y transformación de patronaje, escalado.",
+            "Apoyo gestión showroom, preparación de ropa, seguimiento, trato directo con estilistas y prensa internacionales y apoyo en diferentes shootings de la firma.",
+            "Apoyo diseño gráfico para colección, print, logos.",
+            "Elaboración y maquetación de look books y line sheet"
+        ],
+        "picture": "/data/clean/pictures/227.jpeg"
+    },
+    {
+        "index": 63,
+        "id": 373,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "XUTCHILL S.L.",
+        "address": "C/ Fomento 12 Local  - 28013 Madrid",
+        "web": "https://www.xutchill.com/",
+        "objectives": [
+            "Desarrollo de ideas para los productos de la tienda online, tanto para la línea propia de la empresa como para proporcionar ideas de personalización de los productos.",
+            "Colaboración con nuestro equipo para diseñar y generar elementos útiles para la promoción de nuestros productos a través de las redes sociales. ",
+            "Seguimiento de trabajos realizados en el taller con diseñadores de moda, para promocionarlos en nuestra web y redes sociales. ",
+            "Desarrollo de una línea propia de diseño que vender a través de nuestra tienda online, en la que combine las técnicas que usamos en la empresa. ",
+            "Manejo de maquinaria de bordado y estampación textil. ",
+            "Acudir a eventos de diseño de moda para promocionar nuestra empresa. "
+        ],
+        "picture": "/data/clean/pictures/242.jpeg"
+    },
+    {
+        "index": 68,
+        "id": 368,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "ELLAS LO BORDAN S.L.",
+        "address": "C/ Geranios 30, -  28029 Madrid",
+        "web": "https://www.ellaslobordan.es/",
+        "objectives": [
+            "Con el fin de ayudar a la formación integral del alumno, y a través de las prácticas en la empresa tendrá la oportunidad de ampliar los contenidos teóricos adquiridos en su formación académica  y de ponerlos en práctica en el desempeño de un repertorio de cometidos profesionales dentro del ámbito empresarial real. Todo ello le permitirá adquirir las competencias necesarias para la consecución de los objetivos de aprendizaje  previstos en el plan de estudios y acercarle a lo que será su futuro profesional.",
+            "Al incorporarse a un equipo de trabajo profesional con un proyecto empresarial dentro del sector textil/moda tendrá oportunidad de conocer la realidad del mundo empresarial del sector.",
+            "Por otro lado participar en todos los procesos necesarios para el desarrollo de un proyecto textil/moda de principio a fin le permitirá tener una visión global necesaria para el diseño de un proyecto en el futuro.",
+            "Actividades a desarrollar en ELB durante el período de prácticas:",
+            "Durante su estancia en prácticas el alumno participará en el desarrollo de todas las actividades diarias de la empresa en general y particularmente relacionadas con su especialidad, integrado dentro del equipo de trabajo multidisciplinar de la empresa, y desde los distintos departamentos (área de diseño, área de producción, área de comunicación, área formativa, área administrativa, área social, etc.) lo que le permitirá poner en práctica distintas competencias curriculares:",
+            "• Interpretar breafing de cliente",
+            "• Inspiración y concepto de colección - mood board",
+            "• Diseño de colección o producto ad hoc",
+            "• Desarrollo de la cadena de suministros (localización y gestión con proveedores o subproveedores)",
+            "• Visitas a proveedores y ferias",
+            "• Desarrollo de Patronaje",
+            "• Desarrollo de Prototipado",
+            "• Análisis de escandallos y consumos",
+            "• Realización de presupuestos para cliente",
+            "• Realización de ficha técnica de producto para dpto. de producción (software Ilustrator, Indesign, etc.)",
+            "• Control de preproducción",
+            "• Práctica en cadena de producción",
+            "• Uso de maquinaria textil industrial (plana, overlock, recubridora, bordadora, etc.)",
+            "• Control de calidad",
+            "• Management / dirección de equipo de producción",
+            "• trabajo administrativo para producción (cumplimentación albarán, hoja de pedido, factura, etc.)",
+            "• Cadena logística (envíos, gestión de almacén, etc.)",
+            "• Conocer canales de venta (tienda online, mercados, tiendas multimarca, etc.)",
+            "• Participación en diseño de estrategias de comunicación y sus aplicaciones (imagen de marca, aplicaciones gráficas de comunicación y producto, diseño web",
+            "• Normativa textil (etiquetado, certificaciones, test de calidad",
+            "• Packaging de producto",
+            "• Presentación de producto (diseño de espacios expositivos y showroom)",
+            "• Diseño de presentación de proyecto a un cliente",
+            "• Estrategias y negociación de venta de proyecto",
+            "• Diseño e implementación de metodología del proyecto Ellas lo bordan.",
+            "*Como contenido extraordinario y por tratarse de una empresa de inserción laboral con una clara misión formativa de las mujeres participantes en el proyecto, el alumno tendrá la oportunidad de trabajar en el área formativa enseñando a las mujeres en su itinerario de formación diario en el puesto de trabajo. Ayudando así a resolver pequeños problemas, poniendo en práctica sus habilidades de comunicación, de estructurar contenidos e integrándose en un contexto multicultural."
+        ],
+        "picture": "/data/clean/pictures/259.jpeg"
+    },
+    {
+        "index": 82,
+        "id": 354,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "TINONÍ CREACIONES",
+        "address": "C/ Ronda de Segovia nº39 2ºH -  28005 Madrid",
+        "web": "http://www.tinonicreaciones.com/",
+        "objectives": [
+            "Diseñar el vestuario teatral del musical \"Por culpa del amor\" Producido por Tinoní Creaciones. ",
+            "Diseñar el vestuario teatral de “Boleros” Producido por Tinoní Creaciones.",
+            "Trabajar siguiendo las pautas del director artístico y la jefa de escenografía.",
+            "Crear un vestuario adaptado a las necesidades teatrales realizando un estudio de las necesidades de cada personaje, estilo, época, estudio de color, material, etc...",
+            "Realizar la confección de dicho vestuario"
+        ],
+        "picture": "/data/clean/pictures/249.jpg"
+    },
+    {
+        "index": 98,
+        "id": 338,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "BUILDING EFASHION S.L. (JORGE VÁZQUEZ)",
+        "address": "c/ Orellana, 12 - bajo izq - 28004 Madrid",
+        "web": "https://jvporjorgevazquez.com/",
+        "objectives": [
+            "Asistencia en el área de producción de la colección, taller.",
+            "Asistencia en el área de diseño y desarrollo de la nueva colección.",
+            "Ayuda en la preparación del desfile. "
+        ],
+        "picture": "/data/clean/pictures/185.png"
+    },
+    {
+        "index": 102,
+        "id": 334,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "TERESA HELBIG ATELIER, S.L.",
+        "address": "c/ Mallorca 184 - bajo - 08036 Barcelona",
+        "web": "https://www.teresahelbig.com/?lang=es",
+        "objectives": [
+            "Tareas de soporte en Atelier: organización de tejidos, fornituras, confeccion de glasillas, contacto y gestión de proveedores.",
+            "Tareas de soporte a patrón y corte: apoyo a patronaje por ordenador ( gerber) y apoyo a operaciones de corte.",
+            "Apoyo al equipo de diseño: moodboards, bocetos, fichas técnicas…",
+            "Tareas de soporte a showroom: atención y venta a clientas.",
+            "Tareas de soporte en comunicación: tareas de apoyo en desfiles y redes sociales."
+        ],
+        "picture": "/data/clean/pictures/179.jpeg"
+    },
+    {
+        "index": 106,
+        "id": 330,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "TRIBECA MEDIA S.L./SFERA ECOMMERCE",
+        "address": "c/ Espalter, 11 - bajo izq. - 28014 Madrid",
+        "web": "http://ta.digital/",
+        "objectives": [
+            "Apoyo estilismo en sesiones de fotos.",
+            "Vestir a los modelos para las sesiones de fotos.",
+            "Documentación de prendas en el sistema llamado “GMS”."
+        ],
+        "picture": "/data/clean/pictures/183.png"
+    },
+    {
+        "index": 108,
+        "id": 328,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "INTERECONOMÍA TV, S.L.",
+        "address": "c/ Modesto Lafuente, 42 - 28003 Madrid",
+        "web": "https://eltorotv.com/",
+        "objectives": [
+            "“Shopping”.",
+            "Visitas a “Showrooms”.",
+            "Elección del vestuario de los presentadores."
+        ],
+        "picture": "/data/clean/pictures/196.png"
+    },
+    {
+        "index": 109,
+        "id": 327,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "LORENZO CAPRILE, S.L.",
+        "address": "c/ Claudio Coello, 20 - 1ºIzq. - 28001 Madrid",
+        "web": "http://www.lorenzocaprile.es/",
+        "objectives": [
+            "Confección de prendas a medida  en el taller."
+        ],
+        "picture": "/data/clean/pictures/197.jpg"
+    },
+    {
+        "index": 110,
+        "id": 326,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "MARÍA ESCOTÉ INTERNACIONAL S.L.",
+        "address": "c/ San Bernardo, 72 bis - 3º 5 - 28015 Madrid",
+        "web": "http://mariaescote.com/shop/",
+        "objectives": [
+            "Gestión de Stock e inventario.",
+            "Control de producción taller.",
+            "Gestión cesión de prensa y medios."
+        ],
+        "picture": "/data/clean/pictures/198.jpeg"
+    },
+    {
+        "index": 112,
+        "id": 324,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "BINES VINTAGE & OUTLET, S.L.",
+        "address": "c/ Apeadero, 32 - 28290 Las Matas (Madrid)",
+        "web": "https://www.facebook.com/Bines-Vintage-Outlet-105300076168586/?ref=page_internal",
+        "objectives": [
+            "Composición temática de las colecciones, conocimiento de materiales e historia del traje.",
+            "Evaluación de trabajos realizados, estilismos escaparatismos.",
+            "Contacto directo con el equipo, diseño, costura, venta, compra, vestuario espectáculo.",
+            "Dotación del material necesario.",
+            "Acceso a fuentes de memoria."
+        ],
+        "picture": "/data/clean/pictures/211.jpg"
+    },
+    {
+        "index": 113,
+        "id": 323,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "ESPERANZA BERROCAL DORAL (CHROMOSOME)",
+        "address": "c/ Isla Graciosa, 4  - 28770 Colmenar Viejo (Madrid)",
+        "web": "http://chromosomeresidence.com/",
+        "objectives": [
+            "Conocer y entender le concepto de la colección a desarrollar para su presentación en Junio y Septiembre, mediante un desfile y lo que ello conlleva.",
+            "Patronaje y escalado de las prendas.",
+            "Desarrollar fichas técnicas para talleres.",
+            "Contactar con diversos proveedores, pedidos de tejidos, muestras, botones. Seguimiento del proceso.",
+            "Contacto con nuestra agencia de comunicación y estilistas.",
+            "Desfile Junio , el alumno estará presente en las negociaciones para conseguir los espacios, finaciacion...busqueda de modelos, casting internacional."
+        ],
+        "picture": "/data/clean/pictures/212.jpeg"
+    },
+    {
+        "index": 119,
+        "id": 317,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "THE SPANICH RATPACK, S.L. (LA COMPETENCIA TV)",
+        "address": "c/ Miguel Fleta, 8 - 28037 Madrid",
+        "web": "https://twitter.com/lacompetencia_",
+        "objectives": [
+            "Participará en todo el proceso relacionado con la obtención de vestuario para la creación de un personaje, teniendo en cuenta las dificultades que puedan generarse y aportando posibles soluciones.",
+            "Asistirá y participará en medida de lo posible en toda la cadena de creación de un programa o serie, desde el punto de vista del Departamento de Vestuario.",
+            "Dentro del departamento, no sólo conocerá y colaborará con las funciones del Estilista, sino también del Sastre: realización de arreglos, limpieza, planchado...",
+            "Realizará todas las tareas necesarias aprendiendo a optimizar los recursos disponibles: localización de proveedores, selección de prendas, contraste de albaranes, almacenaje, mantenimiento y devolución.",
+            "Estas prácticas las desarrollará tanto en la serie ELLA ES TU PADRE, como en otros proyectos de la productora en los que el departamento de vestuario esté involucrado: PEPPER3, RIDICULOUSNESS, MAPFRE, CNN...",
+            "Junto con el resto del departamento, desarrollará diversas tareas profesionales para aprender a adaptarse a proyectos diferentes: lectura y desglose de guión, documentación, prueba de vestuario, creación de un dossier y grabación."
+        ],
+        "picture": "/data/clean/pictures/218.jpeg"
+    },
+    {
+        "index": 121,
+        "id": 315,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "ENTHEOS, S.L. (ISABEL NAVARRO)",
+        "address": "c/ Príncipe de Vergara, 90 - 1º D  - 28006 Madrid",
+        "web": "http://www.isabelnavarromodels.com/",
+        "objectives": [
+            "Marketing y comunicación de moda.",
+            "Gestión de moda.",
+            "Organización de eventos de moda.",
+            "Organización de pasarelas de moda."
+        ],
+        "picture": "/data/clean/pictures/209.jpg"
+    },
+    {
+        "index": 122,
+        "id": 314,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "KYRA MALÚ, S.L.",
+        "address": "c/ Pasión, 8  - 28901 Getafe (Madrid)",
+        "web": "https://kyramalu.es/es/",
+        "objectives": [
+            "Apoyo en la búsqueda de tendencias y creación de moodboards. Soporte en el área de prototipos.",
+            "Crear sesiones de autoevaluación para conocer el desarrollo que está teniendo la alumna en prácticas.",
+            "Contacto con proveedores, búsqueda y compra de materiales.",
+            "Soporte en la elaboración de patrones y medidas para cada una de las prendas. Colaborar en las pruebas de muestrario. Participación en los cambios necesarios hasta la confirmación final de prototipos, revisando patrones y cortando muestras. Realización de escalado, fichas técnicas, fichas de escandallos. Soporte en la organización y gestión de producción.",
+            "Participar en cada uno de los procesos necesarios para la realización de una prenda con el objetivo de conocer todas las áreas por donde pasa el producto dentro de un taller. Labores administrativas.",
+            "Participar en todas las familias de producto moda mujer para conocer las diferentes metodologías de trabajo que utiliza la empresa y poder desempeñar actividades dentro de la cadena de producción."
+        ],
+        "picture": "/data/clean/pictures/208.png"
+    },
+    {
+        "index": 123,
+        "id": 313,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "FUNDACIÓN JESÚS DEL POZO",
+        "address": "c/ Labastida, 2 - 28034 Madrid",
+        "web": "https://www.pyd.es/compromiso/fundacion-jesus-del-pozo/",
+        "objectives": [
+            "Realizará tareas en el departamento de desarrollo que comprende patronaje, corte y confección, formado por un equipo de diferentes nacionalidades (española, inglesa, francesa).",
+            "Utilización de programas informáticos como Word, Excel y Lectra (programa específico de patronaje).",
+            " Realizará tareas de planificación y organización para el desarrollo de las próximas colecciones ( Delpozo SS18 y RS18) junto a la Dirección Técnica en la recepción de diseños, preparación de pruebas, planificación del trabajo con el equipo de patronaje…"
+        ],
+        "picture": "/data/clean/pictures/199.jpg"
+    },
+    {
+        "index": 127,
+        "id": 309,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "CITRUS TEXTILE S.L. (TUGERS)",
+        "address": "c/ Tubo, 6 - 28223 Pozuelo de Alarcón (Madrid)",
+        "web": "https://tugers.com/es/",
+        "objectives": [
+            "Diseño de nuevos modelos.",
+            "Ayuda en la realización de la nueva temporada.",
+            "Análisis de productos vendidos.",
+            "Búsqueda de tendencias.",
+            "Contacto con proveedores.",
+            "Fichas técnicas",
+            "Programas y herramientas: Adobe; Photoshop"
+        ],
+        "picture": "/data/clean/pictures/203.png"
+    },
+    {
+        "index": 130,
+        "id": 307,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "AGUSTÍN GARCÍA MONTERO (SASTRERÍA SERNA)",
+        "address": "c/ General Pardiñas, 54 -  28001 Madrid",
+        "web": "http://sastreriaserna.com/",
+        "objectives": [
+            "Trabajo en equipo y colabracion con personas de otros ambitos profesionales (fotografos, blogueros, artesanos, ...)",
+            "Desarrollo de actividades de marketing y redes sociales.",
+            "Escaparatismo y decoración.",
+            "Asesoramiendo y diseño.",
+            "Trato con representantes "
+        ],
+        "picture": "/data/clean/pictures/205.png"
+    },
+    {
+        "index": 150,
+        "id": 287,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "SASTRERÍA CORNEJO, S.A.",
+        "address": "c/ Rufino González, 4 bis - 28028 Madrid",
+        "web": "https://www.sastreriacornejo.com/es/",
+        "objectives": [
+            "Restauración de vestuario para cine, teatro y televisión.",
+            "Trabajos con piel en taller de zapatería.",
+            "Trabajos específicos en taller de sombrerería.",
+            "Participación en el proceso y elaboración de patrones."
+        ],
+        "picture": "/data/clean/pictures/314.jpg"
+    },
+    {
+        "index": 154,
+        "id": 285,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "FUNDACIÓN SÍNDROME DE DOWN MADRID",
+        "address": "c/ Caídos de la División Azul, 15 - 28016 Madrid",
+        "web": "http://www.downmadrid.org/",
+        "objectives": [
+            "Poner en marcha actividades relacionadas con el diseño de camisetas y sudaderas.",
+            "Elaboración de prendas de nueva colección, diseño, patronaje, corte y confección.",
+            "Participar en la creación de nuevos diseños así como su producción con la maquinaria necesaria.",
+            "Diseño de otros productos (calzado), con imágenes de Arte Down.",
+            "Diseño de nuevas líneas de producto."
+        ],
+        "picture": "/data/clean/pictures/316.png"
+    },
+    {
+        "index": 162,
+        "id": 278,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "LEYRE FERNÁNDEZ VALIENTE (LEYRE VALIENTE)",
+        "address": "c/ Cedillo del Condado, 2 - 2º B - 28044 Madrid",
+        "web": "https://www.leyrevaliente.com/",
+        "objectives": [
+            "Las funciones desempeñadas por la alumna a lo largo de sus prácticas serán:",
+            "* Escalados de patrones.",
+            "* Adaptación de patrones sencillos a medida de clientas.",
+            "* Realización de patrones de prendas nuevas.",
+            "* Modificaciones/correcciones de patrones.",
+            "* Confección de toiles de patrones nuevos o de modificaciones o escalados nuevos.",
+            "* Pruebas sobre maniquí.",
+            "* Corte de prendas y preparación para llevar a taller.",
+            "* Confección de prendas sencillas (Rematadora, Maquina plana)",
+            "* Confección a mano de acabados finales de prendas.",
+            "* Realización de drapeados.",
+            "* Colocación, corte y confección de tejidos plisados.",
+            "* Clasificación de tejidos y sus características.",
+            "* Etiquetado de todas las prendas con características de su tejido.",
+            "* Asisitir en fitting y otras labores de presentación de colección/desfile.",
+            "* Otras tareas relacionadas."
+        ],
+        "picture": "/data/clean/pictures/334.png"
+    },
+    {
+        "index": 169,
+        "id": 271,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "MANÉMANÉ (MIGUEL ÁNGEL PÉREZ BECERRO)",
+        "address": "c/ Hortaleza, 102 - 4º C - 28004 Madrid",
+        "web": "https://www.manemane.es/",
+        "objectives": [
+            "Diseño de colección oi 16 17.",
+            "Desarrollo de patrones y tuales.",
+            "Confección de pruebas y prototipos.",
+            "Estilismo y montaje de desfile.",
+            "Realización de documentación de venta de colección."
+        ],
+        "picture": "/data/clean/pictures/354.jpeg"
+    },
+    {
+        "index": 171,
+        "id": 269,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "CODATEX INSPIRATION (OTADUY)",
+        "address": "c/ Torrent de L'Olla, 45 - 08012 Barcelona",
+        "web": "https://otaduy.co/",
+        "objectives": [
+            "Control de calidad de las prendas, comprobación de patrones y tejidos, así como modelos.",
+            "Atelier; ayuda en la costura a mano, terminación de la prenda, botones, hojales, etc…",
+            "Confección de pequeños tocados y accesorios para el pelo.",
+            "Atención al cliente, gestión de la agenda y aprendizaje de cómo  se cierran las ventas."
+        ],
+        "picture": "/data/clean/pictures/351.jpg"
+    },
+    {
+        "index": 178,
+        "id": 262,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "JUAN CARLOS PAJARES MANZANO",
+        "address": "c/ Aragón 28 - 2º B - 19180 Marchamalo (Guadalajara)",
+        "web": "http://www.juancarlospajares.com/",
+        "objectives": [
+            "Asistencia en diseño de colecciones, prendas puntuales y encargos a medida. Asistencia en búsqueda de nuevas formas y técnicas en el diseño.",
+            "Asistencia y realización de prototipos y producción: patronaje, transformaciones, corte, confección de toiles y pequeñas prendas. Asistencia en coordinación de producción, seguimiento de la misma, estando en contacto con talleres y proveedores. Control de calidad.",
+            "Asistencia en coordinación de producción, seguimiento de la misma, estando en contacto con talleres y proveedores. Control de calidad.",
+            "Asistencia en la comunicación e imagen de marca: contacto con medios, prensa, mailing, showroom, estilistas y celebrities. Asistencia al showroom y coordinación de shoppings con la agencia de comunicación.",
+            "Asistencia en la imagen de marca: diseño gráfico, realización de catálogos, redes sociales y todo lo relacionado con la visibilidad y con potenciar la imagen tanto física como medios online y publicidad.",
+            "Asistencia en desfiles, sesiones fotográficas y producciones. Estilismo."
+        ],
+        "picture": "/data/clean/pictures/338.png"
+    },
+    {
+        "index": 179,
+        "id": 261,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "LEONOR & SOFIA",
+        "address": "Plaza Mariano de Cavia, 1 - Esc. Izda,  1º - 28007 Madrid",
+        "web": "https://blog.leonorysofia.com/",
+        "objectives": [
+            "Organización de agenda y atención al cliente.",
+            "Organización y reposición de tejidos y materiales generales (inventario, contacto con proveedores, etc...)",
+            "Cálculo, corte y preparación de paquetes de tejidos para su envío a talleres de costura.",
+            "Mantenimiento del muestrario del showroom.",
+            "Redes sociales.",
+            "Supervisión de los tiempos agenda/talleres.",
+            "Labores propias de talleres de confección (costura de remates, bajos, botones, arreglos...)",
+            "Cálculo, corte y preparación de paquetes de tejidos para su confección.",
+            "Mantenimiento del muestrario del showroom.",
+            "Planchado de costuras y acabados de los vestidos."
+        ],
+        "picture": "/data/clean/pictures/339.png"
+    },
+    {
+        "index": 181,
+        "id": 259,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "PEANUTS MONKEYS, S.L.",
+        "address": "c/ Ayala, 66 - 1º izq - 28001 Madid",
+        "web": "https://www.peanutsmonkeys.com/",
+        "objectives": [
+            "Gestión de una agencia de publicidad.",
+            "Gestión de proyectos.",
+            "Administración de contenidos.",
+            "Consultoría.",
+            "Creación de campañas.",
+            "Asistencia a dirección, a departamento de clientes,  digital, comercial y creativo."
+        ],
+        "picture": "/data/clean/pictures/341.png"
+    },
+    {
+        "index": 184,
+        "id": 256,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "THE AVANT",
+        "address": "c/ Enric Granados, 106 - 08008 Barcelona",
+        "web": "https://theavant.com/es/",
+        "objectives": [
+            "Colocación de las etiquetas en la prenda tanto de su composición como de marca.",
+            "Ordenar el stock de patrones por tipos (abrigos con abrigos, faldas con faldas, pantalones con pantalones etc.)",
+            "Mantener el taller limpio una vez finalizada la jornada.",
+            "Atender las necesidades de la tienda en caso de que sea necesario apoyo.",
+            "Asegurarse de que las prendas en tienda están bien planchadas y en óptimas condiciones para su venta.",
+            "Apoyo en el diseño del escaparate de la tienda."
+        ],
+        "picture": "/data/clean/pictures/311.png"
+    },
+    {
+        "index": 186,
+        "id": 254,
+        "especialidad": [
+            "grafico",
+            "moda",
+            "producto"
+        ],
+        "name": "MARCALIS",
+        "address": "c/ Caleruega, 51 - 2º C - 28033 Madrid",
+        "web": "http://marcalis.com/",
+        "objectives": [
+            "Con sede en Madrid, será el apoyo de nuestro equipo de diseño y presentación de productos.",
+            "Como parte de su trabajo, se espera que pueda llevar a cabo una investigación y un análisis en profundidad de la imagen y marca de nuestros clientes, realizar propuestas de diseños en base a sus necesidades y participar en la preparación de la documentación para las presentaciones.",
+            "Imprescindible nivel alto PHOTOSHOP."
+        ],
+        "picture": "/data/clean/pictures/309.png"
+    },
+    {
+        "index": 187,
+        "id": 253,
+        "especialidad": [
+            "grafico",
+            "moda"
+        ],
+        "name": "A.M. FASHION & ACCESSPROES",
+        "address": "c/ Puerto de Somosierra, 35 - Nave 25 - 28935 Móstoles (Madrid)",
+        "web": "https://twitter.com/comunicationexp",
+        "objectives": [
+            "Diseño y desarrollo de artes finales, creatividad para produo de moda.",
+            "Realización de presentación y propuestas, ayuda en las campañas.",
+            "Diseño grafico y dibujo para producto de moda.",
+            "Office y email."
+        ],
+        "picture": "/data/clean/pictures/278.jpg"
+    },
+    {
+        "index": 188,
+        "id": 252,
+        "especialidad": [
+            "grafico",
+            "moda",
+            "producto"
+        ],
+        "name": "MEOLLO GLOBAL LOCAL",
+        "address": "Avda. Concha Espina, 7 - 1º izda. - 28016 Madrid",
+        "web": "https://meollo.net/",
+        "objectives": [
+            "Comunicación entre alumno ,compañeros y tutor para el desarrollo de catálogos y estampaciones textiles acorde a la imagen del proyecto, desde un boceto, montaje o render, hasta el resultado final. Asimilar los consejos y correcciones del tutor para la mejora de dichos trabajos en la medida de lo posible.",
+            "Trabajo en equipo junto a sus compañeros de la empresa desde su propio sector de diseñador gráfico, a diseñador industrial , responsable de finanzas o de ventas,etc  en multitud de contextos para lograr  un fin común.",
+            "Aprendizaje y mejora de sus capacidades con programas de diseño gráfico y diseño por ordenador. Adaptación a las nuevas tecnologías de diseño gráfico textil.",
+            "Aprendizaje y adaptación al contexto actual de trabajo en el campo de Diseño Grafico. Aprendizaje del sector desde sus inicios hasta la actualidad ,para su comprensión y utilización de los conocimientos adquiridos en el desarrollo de sus tareas en la empresa.",
+            "Desarrollar una actividad concreta que pueda ser integrada en la totalidad del proyecto y posteriormente poder aplicarla en cualquier ámbito en su correspondiente puesto de trabajo de Diseñador grafico.",
+            "Aprendizaje de la metodología de trabajo de nuestra empresa para crear una pauta repetitiva  que siempre pueda guiarle para acometer las tareas de su puesto de trabajo tanto en esta empresa como en cualquier otra."
+        ],
+        "picture": "/data/clean/pictures/310.jpeg"
+    },
+    {
+        "index": 190,
+        "id": 250,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "LOOK ART S.L.",
+        "address": "c/ Embajadores, 100 - 7º izda. - 28012 Madrid",
+        "objectives": [
+            "Estilismo y vestuario de proyectos audiovisuales.",
+            "Trabajos de sastrería.",
+            "Patronaje y confección."
+        ],
+        "picture": ""
+    },
+    {
+        "index": 193,
+        "id": 247,
+        "especialidad": [
+            "grafico",
+            "moda"
+        ],
+        "name": "CLOSKET WORLD",
+        "address": "c/ Claudio Coello, 18 - 3º - 28001 Madrid",
+        "objectives": [
+            "Desarrollo del léxico fashionista y aplicación de las tendencias de moda para descripción de las características de cada prenda.",
+            "Retoque y silueteado de imágenes a través de herramienta photoshop.",
+            "Análisis de las prendas, calidad, estado, composición…",
+            "Referenciación de producto en el backoffice de la aplicación.",
+            "Preparación de fotos para catálogo.",
+            "Selección de prendas aptas para catálogo."
+        ],
+        "picture": "/data/clean/pictures/282.jpeg"
+    },
+    {
+        "index": 194,
+        "id": 246,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "LADY CACAHUETE, S.L.",
+        "address": "Corredera Baja de San Pablo, 26 - Bj - 28004 Madrid",
+        "web": "http://www.ladycacahuete.com/",
+        "objectives": [
+            "Seguimiento y colaboración en el desarrollo de una colección de temporada, desde la selección de materias primas, elaboración del diseño, producción y puesta a la venta de los modelos.",
+            "Desarrollo de Patronaje.",
+            "Corte y confección.",
+            "Marketing del producto.",
+            "Escaparatismo."
+        ],
+        "picture": "/data/clean/pictures/283.jpeg"
+    },
+    {
+        "index": 195,
+        "id": 245,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "ANA LOCKING (All about Ana, S.L.)",
+        "address": "c/ Hortaleza, 108  - 3ª dcha. - 28004 Madrid",
+        "web": "http://www.analocking.com/es/inicio.html",
+        "objectives": [
+            "Asistente en el área de producción de la colección verano 2016: marcadas, tallaje de patrones, corte de prototipos, preparación de prendas para su entrega en taller de confección.",
+            "Asistente en el área de diseño y desarrollo de la nueva colección invierno 2016-17: marcadas, corte de prototipos, preparación de modelos para su confección al taller de costura de prototipos. Pruebas y fittings de prototipos.",
+            "Desfile: preparación de colección para el desfile de febrero, fittings con modelos, organización de bacstage, etc.",
+            "Asistente del departamento de prensa: preparación de prendas para la salida a los diferentes medios de revistas, estilistas, editoras de moda etc. Recepción de prendas de los diferentes medios de prensa."
+        ],
+        "picture": "/data/clean/pictures/284.jpeg"
+    },
+    {
+        "index": 196,
+        "id": 244,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "KITIPONGO",
+        "address": "c/ Ramón de Aguinaga, 1 - 1ºA - 28028 Madrid",
+        "web": "https://kitipongo.es/",
+        "objectives": [
+            "Patronaje y escalado de diversas prendas de la colección de verano de Kitipongo así como ayudar en el patronaje de la colección de invierno de 2016, corte de prendas,  almacén y compras.",
+            "Ampliar mercado en el exterior, conseguir contactos, y también comunicación con prensa…",
+            "Patronista, escaladora.",
+            "Comercio exterior, comunicación."
+        ],
+        "picture": "/data/clean/pictures/285.png"
+    },
+    {
+        "index": 200,
+        "id": 240,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "MOMACOSTUME, S.L.",
+        "address": "c/ Ortega y Gasset, 65 - 6º izda - 28006 Madrid",
+        "web": "https://www.momacostume.com/",
+        "objectives": [
+            "Atención y orientación al cliente.",
+            "Fitting de prendas.",
+            "Auxiliar de diseño.",
+            "Auxiliar de patronaje.",
+            "Auxiliar de confección."
+        ],
+        "picture": "/data/clean/pictures/275.png"
+    },
+    {
+        "index": 202,
+        "id": 238,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "LEX BUSSINESS ESTUYDIO LEGAL, S.L",
+        "address": "EL EXPEDIENTE NO SE ENVÍA A LA EMPRESA POR FALTA DE AUTORIZACIÓN DE LA DIRECTORA - ",
+        "objectives": [],
+        "picture": ""
+    },
+    {
+        "index": 208,
+        "id": 232,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "MOISES NIETO",
+        "address": "c/ Santa Teresa, 12 - 1º izda. - 28004 Madrid",
+        "web": "https://www.moisesnieto.com/",
+        "objectives": [
+            "Procesos de diseño, corte y confección.",
+            "Desarrollo de Fichas Técnicas.",
+            "Creación de Moodboards.",
+            "Producción y control de calidad.",
+            "Fitting y desfiles."
+        ],
+        "picture": "/data/clean/pictures/272.png"
+    },
+    {
+        "index": 231,
+        "id": 209,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "CALABUCH COSTUMES AND SERVICES COMPANY, S.L.",
+        "address": "c/ Nicolás Morales, 37 - 28026 Madrid",
+        "web": "http://www.calabuch.es/",
+        "objectives": [
+            "Catalogación y ordenación de los fondos de vetuario teorico-practico.",
+            "Ejecucion de arreglos o adaptaciones de confeccion.",
+            "Asistencia de vestuario para eventos.",
+            "Organización y realización estilística de proyecto."
+        ],
+        "picture": "/data/clean/pictures/292.jpg"
+    },
+    {
+        "index": 235,
+        "id": 205,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "ACICALA ESTILISMO, S.L.U.",
+        "address": "c/ Alcalá, 518 - 28027 Madrid",
+        "web": "http://www.tres60grupo.com/",
+        "objectives": [
+            "Estilismo.",
+            "Vestir actores.",
+            "Ayudar en rodaje.",
+            "Retoques de sastrería."
+        ],
+        "picture": "/data/clean/pictures/295.jpeg"
+    },
+    {
+        "index": 259,
+        "id": 181,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "MD-IMAGE, S.L.",
+        "address": "C/. Padilla, 4 - 1º Izqda. - 28006 Madrid",
+        "web": "http://www.mdimage.es/",
+        "objectives": [
+            "Selección y recogida de prendas.",
+            "Creación y selección de estilismos.",
+            "Ayudante  de estilismo para shooting.",
+            "Revisión y repaso de créditos de las revistas.",
+            "Creación de entradas para blog.",
+            "Ayuda en la gestión y administración de las revistas."
+        ],
+        "picture": "/data/clean/pictures/113.jpeg"
+    },
+    {
+        "index": 260,
+        "id": 180,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "LADY PAJARITA",
+        "address": "Velázquez, 15 - 28001 Madrid",
+        "web": "https://www.pinterest.es/ladypajarita/",
+        "objectives": [
+            "Diseño : Investigación, bocetaje, fichas técnicas.",
+            "Patronaje con pruebas, rectificaciones y topless.",
+            "Selección de materiales (telas y fornituras)",
+            "Confección a medida y confección industrializada.",
+            "Atención personalizada, atendiendo en el atelier."
+        ],
+        "picture": "/data/clean/pictures/48.jpg"
+    },
+    {
+        "index": 261,
+        "id": 179,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "PIER PAOLO A. GIORDANO",
+        "address": "C/. Santa Ana, 15 - 4º - 28012 Madrid",
+        "web": "https://www.pierpaoloalvaro.com/",
+        "objectives": [
+            "Auxiliar taller.  Apoyo  al taller  en lo que se refiere a manipulación y confección de prendas.",
+            "Auxiliar de patronaje. Apoyo en la realización de nuevos patrones. Rectificación o posibles modificaciones  de patrones ya realizados.  Corte de prendas."
+        ],
+        "picture": "/data/clean/pictures/49.jpg"
+    },
+    {
+        "index": 269,
+        "id": 171,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "SECONDS COLLECTION, S.L.",
+        "address": "C/. Hortaleza 106  2º izda. - 28004 Madrid",
+        "objectives": [
+            "Auxiliar diseño y producción. Gestión de muestrarios. Pedidos de tejidos, fornituras, etc., tanto para muestrario como de producción. Ejecución de fichas técnicas. Realización de cartas de color. Apoyo en la gestión con tallerres, control de calidad de las prendas, gestión de envíos a tiendas.",
+            "Auxiliar de patronaje. Apoyo en la realizaci´no de nuevos patrones. rectificación o posibles modificaciones de patrones ya realizados. Corte de prendasd partiendo tanto de marcadas digitalizadas como hechas a mano.",
+            "Auxiliar taller. Apoyo de la jefa de taller en lo que se refiere a manipulación y confección de prendas.",
+            "Auxiliar de administración. Gestión y seguimiento de pedidos, confirmaciones de órdenes de clientes. Preparación de envíos.",
+            "Auxiliar prensa. Soporte al gabinete de prensa, redes sociales, etc."
+        ],
+        "picture": ""
+    },
+    {
+        "index": 274,
+        "id": 166,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "CHANEL",
+        "address": " - ",
+        "web": "https://www.chanel.com/es_ES/?param=value&gclid=EAIaIQobChMI8ZLjz9yX5gIVBdreCh2eKQvLEAAYASAAEgLP1vD_BwE",
+        "objectives": [],
+        "picture": "/data/clean/pictures/80.jpeg"
+    },
+    {
+        "index": 283,
+        "id": 157,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "OSHIYA SL",
+        "address": "C/. Puenteareas, 17 6º pta. 12 - 28002 Madrid",
+        "web": "http://www.oshiya.es/",
+        "objectives": [
+            "Diseño.",
+            "Patronaje.",
+            "Corte.",
+            "Confección."
+        ],
+        "picture": "/data/clean/pictures/123.png"
+    },
+    {
+        "index": 320,
+        "id": 122,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Your Taylor Vip. S.L.",
+        "address": "c/ Sófocles, 3 - 28230 Las Rozas de Madrid",
+        "objectives": [
+            "Estilismo. Sesiones fotográficas",
+            "Marketing. Redes socialees. Webs.",
+            "Organización eventos"
+        ],
+        "picture": "/data/clean/pictures/118.png"
+    },
+    {
+        "index": 321,
+        "id": 121,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Mi Pequeño Lucas Family, S.L.",
+        "address": "C/ Lagasca, 48 - 28001 Madrid",
+        "web": "https://www.mipequenolucas.es/",
+        "objectives": [],
+        "picture": "/data/clean/pictures/14.jpg"
+    },
+    {
+        "index": 327,
+        "id": 115,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Miguel Palacio Unzaga",
+        "address": "C/ Montesquinza, 24 - 1º izq - 28010 Madrid",
+        "objectives": [
+            "Preparación, comprobación y revisión de patrones en el taller",
+            "Comunicación con medios y estilistas",
+            "Preparación y devolución de shopping para editoriales",
+            "Preparación de órdenes de corte y cantidades para producción",
+            "Preparación colección MBFW y fitting en Ifema",
+            "Produccción. Elección de modelos y tejidos",
+            "Seguimiento de prensa y clipping mensual"
+        ],
+        "picture": ""
+    },
+    {
+        "index": 333,
+        "id": 109,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "LACERIBBON, S.L. (Tocado y Hundido)",
+        "address": "C/ Montera nº 38, 1º - 28013  Madrid",
+        "web": "https://tocadoyhundido-online.com/",
+        "objectives": [],
+        "picture": "/data/clean/pictures/10.jpeg"
+    },
+    {
+        "index": 342,
+        "id": 101,
+        "especialidad": [
+            "grafico",
+            "moda"
+        ],
+        "name": "Adolfo Domínguez, S.A.",
+        "address": "P.I. San Ciprian de Viñas c4 p8 - 32901 S. Ciprian Viñas Ourense",
+        "web": "https://www.adolfodominguez.com/es/",
+        "objectives": [
+            "Realización de tareas en un entorno de trabajo web y comercio electrónico",
+            "Adaptación de comunicaciones a campañas, a través de mail y banners",
+            "Tratamiento de imágenes para web y dispositivos móviles",
+            "Colaboración en nuevo proyecto: investigación, conceptualización y realización de productos multimedia, digitales (landing page, banner, mailing) y físicos gráficos por medio de packaging, etiquetado y folleto informativo"
+        ],
+        "picture": "/data/clean/pictures/5.png"
+    },
+    {
+        "index": 346,
+        "id": 97,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Ion Fiz ",
+        "address": "C/ Barquillo,10 - 28004 Madrid",
+        "web": "https://www.ionfiz.com/",
+        "objectives": [
+            "Asistencia a reuniones profesionales, en calidad de observador",
+            "Asistencia de diseñador en atelier",
+            "Asistente de backstage pasarela",
+            "Patronaje",
+            "Corte",
+            "Pruebas de trajes",
+            "Confección de ajuste y arreglos",
+            "Mensajería y logística de empresa",
+            "Selección y estilismo para exhibición ante clientes"
+        ],
+        "picture": "/data/clean/pictures/8.png"
+    },
+    {
+        "index": 347,
+        "id": 96,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Blur Producciones, S.L.",
+        "address": "C/ Alfonso XII, 10 - 28014 Madrid",
+        "web": "https://www.blurfilms.tv/",
+        "objectives": [],
+        "picture": "/data/clean/pictures/20.jpeg"
+    },
+    {
+        "index": 348,
+        "id": 95,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Leandro Cano",
+        "address": "C/ Lope de Vega, 11, b 3A - 41003 Madrid",
+        "web": "https://www.leandrocano.com/",
+        "objectives": [
+            "Realización de fichas técnicas",
+            "Transformaciones de patrones",
+            "Acabados finales de prendas",
+            "Costura a mano"
+        ],
+        "picture": "/data/clean/pictures/21.png"
+    },
+    {
+        "index": 349,
+        "id": 94,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "El Tocador Vintage",
+        "address": "c/ Apodaca, 6 (El Tocador Vintage)\n - 28004 Madrid",
+        "web": "http://www.eltocadorvintage.com/",
+        "objectives": [
+            "Asistencia a reuniones profesionales, en calidad de observador",
+            "Asistencia de diseñador en atelier",
+            "Corte",
+            "Pruebjas de trajes",
+            "Confección de ajuste y arreglos",
+            "Mensajería y logística de empresa",
+            "Selección y estilismo para exhibición ante clientes"
+        ],
+        "picture": "/data/clean/pictures/22.jpg"
+    },
+    {
+        "index": 350,
+        "id": 93,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Suma Cruz, S.L.",
+        "address": "C/ Zorrilla, 23 - 28014 Madrid",
+        "web": "https://www.sumacruz.com/",
+        "objectives": [
+            "Taller: creación de tocados",
+            "Visita a eventos relacionados con la marca",
+            "Conocer el valor real de los materiales, los productos y las diferentes gestiones relacionadas",
+            "Participación en los procesos de diseño, comunicación, logística y marketing",
+            "Ceñirse al trabajo requerido dentro de los plazos acordados y en los horarios",
+            "Participación en todo el proceso desde el encargo, diseño, realización y entrega de un tocado"
+        ],
+        "picture": "/data/clean/pictures/35.png"
+    },
+    {
+        "index": 352,
+        "id": 91,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "La Condesa Conde S.L.",
+        "address": "C/ Castelló, 48 - 6ºB - 28001 Madrid",
+        "web": "https://www.lacondesa.es/",
+        "objectives": [],
+        "picture": "/data/clean/pictures/37.png"
+    },
+    {
+        "index": 359,
+        "id": 84,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Victor Cruz Talents, S.L.",
+        "address": "C/ Leganitos, 1 - 3º - 28013 Madrid",
+        "objectives": [],
+        "picture": ""
+    },
+    {
+        "index": 361,
+        "id": 82,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Disfraces Izquierdo, S.L.",
+        "address": "C/Amor de Dios, 13 - Local - 28014 Madrid",
+        "web": "http://www.calabuch.es/index.html",
+        "objectives": [
+            "Diseño de vestuario escénico",
+            "Documentación para la caracterización estilística: fuentes histiriográficas, artísticas y digitales",
+            "Adaptación a la oferta económica del cliente",
+            "Pruebas de prototipos",
+            "Confección en máquina plana y remalladora, todo tipo de tejidos",
+            "Estilismo: coordinación de trajes y complementos, diseñados ex profeso o adaptados del depósito de la empresa",
+            "Cine, teatro, televisión, fiestas y eventos diversos, etc"
+        ],
+        "picture": "/data/clean/pictures/292.jpg"
+    },
+    {
+        "index": 362,
+        "id": 81,
+        "especialidad": [
+            "grafico",
+            "moda"
+        ],
+        "name": "Roman y Asociados, S:A:",
+        "address": "C/ Velazquez, 46 - 28001 Madrid",
+        "web": "https://romanrm.com/",
+        "objectives": [],
+        "picture": "/data/clean/pictures/34.jpeg"
+    },
+    {
+        "index": 363,
+        "id": 80,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Bebascloset, S.L.",
+        "address": "Pº Parques, 6 bis, B A - 28109 Alcobendas, Madrid",
+        "web": "https://bebascloset.com/es/",
+        "objectives": [
+            "Apoyo en taller de costura a medida: patronaje, corte y confección",
+            "Apoyo en atención al público",
+            "Apoyo en el área de comunicación, redes sociales, look-books",
+            "Apoyo en el área de producción: gestión de inventario"
+        ],
+        "picture": "/data/clean/pictures/33.jpeg"
+    },
+    {
+        "index": 365,
+        "id": 78,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Gemma María Morera Ample",
+        "address": "C/Sta. Casilda, 1 - 5ºB - 28005 Madrid",
+        "objectives": [
+            "Producciones de moda: Set de fotografía y preparación de looks",
+            "Rutas de personal shopper y asesoramiento",
+            "Rutas de shopping, asistiendo a showroom y realización de agenda de contactos",
+            "Recepción y devolución de los shoppings"
+        ],
+        "picture": ""
+    },
+    {
+        "index": 368,
+        "id": 75,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Allegra design, S.L.",
+        "address": "C/ Martínez Izquierdo, 45 - 28028 Madrid",
+        "objectives": [],
+        "picture": ""
+    },
+    {
+        "index": 381,
+        "id": 62,
+        "especialidad": [
+            "grafico",
+            "moda"
+        ],
+        "name": "García Distribuciones, C.B.",
+        "address": "Corredera Baja de San Pablo, 26 - 28004 Madrid",
+        "web": "https://www.garciamadrid.com/",
+        "objectives": [],
+        "picture": "/data/clean/pictures/31.png"
+    },
+    {
+        "index": 387,
+        "id": 56,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Marisa de la Fuente Alonso",
+        "address": "C/ Hermanos Machado, 6 - 28017 Madrid",
+        "web": "https://www.marisadelafuente.com/",
+        "objectives": [],
+        "picture": "/data/clean/pictures/142.png"
+    },
+    {
+        "index": 389,
+        "id": 54,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Julianea, S.L.",
+        "address": "C/ María de Pacheco, s/n - 45880 Corral de Almaguer (Toledo)",
+        "web": "https://www.revermile.com/es/",
+        "objectives": [],
+        "picture": "/data/clean/pictures/143.png"
+    },
+    {
+        "index": 390,
+        "id": 53,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Studios Middel Burg, S.L.",
+        "address": "C/ Velazquez, 35 - 28001 Madrid",
+        "objectives": [],
+        "picture": ""
+    },
+    {
+        "index": 397,
+        "id": 46,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Amaya Arzuaga, S.L.",
+        "address": "C/ Valverde, 33 - 28004 Madrid",
+        "objectives": [],
+        "picture": ""
+    },
+    {
+        "index": 400,
+        "id": 43,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Guias de Espacios de Decoración, S.l.",
+        "address": "Avda. Alcalde Barnils, 64 - Barcelona",
+        "objectives": [],
+        "picture": ""
+    },
+    {
+        "index": 401,
+        "id": 42,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Cortefiel, S.A.",
+        "address": "Avda. Llano Castellano, s/n - 28034 Madrid",
+        "web": "https://cortefiel.com/es/es",
+        "objectives": [
+            "Investigación y búsqueda de colecciones de referencia para la marca",
+            "Investigación de fuentes de inspiraciones y blogs de moda",
+            "Ver muestrarios de tejidos",
+            "Ver muestrarios de prendas y fornituras de proveedores",
+            "Asistir a los fitting de prototipos"
+        ],
+        "picture": "/data/clean/pictures/140.jpeg"
+    },
+    {
+        "index": 406,
+        "id": 39,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Sara World, S.L.",
+        "address": "C/Villanueva, 19 1ºDCH - 28001 Madrid",
+        "web": "https://www.saraworld.com/",
+        "objectives": [
+            "Investigación e interpretación de una marca",
+            "Análisis de tendencias, target y colección",
+            "Estudio del mercado y la competencia",
+            "Participación en el diseño de complementos (zapatos, bolsos, sombreros, marroquinería), bocetos a colección",
+            "Realización de fichas técnicas de productos y realización de dibujos en planos vectorizados",
+            "Participación en diversas tareas del departamento de marketing y ventas"
+        ],
+        "picture": "/data/clean/pictures/131.png"
+    },
+    {
+        "index": 412,
+        "id": 33,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "AT LEAST, S:A:",
+        "address": "C/ Pantoja, 14 - 28002 Madrid",
+        "objectives": [],
+        "picture": ""
+    },
+    {
+        "index": 414,
+        "id": 31,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Emy Confección",
+        "address": "Ronda de Segovia, 39 - 28005 Madrid",
+        "objectives": [
+            "Utilizan máquina plana industrial y remalladora industrial en distintas operaciones",
+            "Utilización de plancha en la preparación de prendas",
+            "Realización del remate final de la prenda a mano",
+            "Corte de prendas para su posterior confección",
+            "Preparación de patrones definitivos y de prendas",
+            "Prueba de modelos"
+        ],
+        "picture": ""
+    },
+    {
+        "index": 441,
+        "id": 6,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Ojo de Aguja, S.l.",
+        "address": " - ",
+        "objectives": [],
+        "picture": ""
+    },
+    {
+        "index": 444,
+        "id": 3,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "Producciones Ana Sandra S:L.                        ",
+        "address": "C/ José Ortega y Gasset 5, 4º Izda. - 28006 Madrid",
+        "web": "https://www.agatharuizdelaprada.com/",
+        "objectives": [
+            "Desfile (fittin, vestir, coordinar)",
+            "Coser",
+            "Cortar",
+            "Diseñar",
+            "Shopping",
+            "Patronaje"
+        ],
+        "picture": "/data/clean/pictures/155.jpg"
+    },
+    {
+        "index": 446,
+        "id": 2,
+        "especialidad": [
+            "moda"
+        ],
+        "name": "In Fashion D'Real, S.L.",
+        "address": "c/ Montalbán, 5 - bajo izq - 28014 Madrid",
+        "web": "http://infashion.biz/",
+        "objectives": [
+            "Sin Proyecto Formativo"
+        ],
+        "picture": "/data/clean/pictures/99.jpg"
+    }
+]

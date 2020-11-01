@@ -34,12 +34,8 @@ const extractAndSavePictures = async () => {
             pBuffer.buffer
         );
     });
-
-    fs.writeFile(
-        path.resolve(__dirname, "../") + "/data/clean/" + "pictures.json", 
-        JSON.stringify(pictures, null, 4),
-        () => { }
-    );
+    
+    return pictures;
 };
 
 module.exports = {

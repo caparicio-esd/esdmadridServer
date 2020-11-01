@@ -1,0 +1,288 @@
+[
+    {
+        "index": 22,
+        "id": 410,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "ILMIODESIGN DISEÑO A MEDIDA, S.L.",
+        "address": "c/ Ruiz de Alarcón, 14 - 1º dcha - 28014 Madrid",
+        "web": "https://www.ilmio.design/",
+        "objectives": [
+            "Apoyo a la realización de Proyectos Ejecutivos de Interiorismo.",
+            "Apoyo al departamento de Producción de la empresa, contacto con proveedores, selección de mobiliario y materiales.",
+            "Participar en el proceso creativo y conceptual de un proyecto de Interiorismo.",
+            "Uso de los siguientes programas: Autocad, Photoshop, Indesign."
+        ],
+        "picture": "/data/clean/pictures/104.png"
+    },
+    {
+        "index": 25,
+        "id": 407,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "VBO SPAGNA, S.L.",
+        "address": "c/ Villanueva, 13 - bajo dcha - 28001 Madrid",
+        "web": "http://vbospagna.net/",
+        "objectives": [
+            "Soporte en el desarrollo de proyectos de iluminación: elaboración de propuestas y planos, familiarización con nuestras luminarias y sistemas de iluminación integrados en la arquitectura.",
+            "Aprendizaje de los conceptos básicos para afrontar un proyecto de iluminación",
+            "Aprendizaje de las características básicas para la elección de luminarias",
+            "Elaboración de propuestas de escaparatismo para un periodo concreto, utilizando el material de iluminación que interese promocionar."
+        ],
+        "picture": "/data/clean/pictures/128.jpg"
+    },
+    {
+        "index": 26,
+        "id": 406,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "ENORME STUDIO, S.L.P.",
+        "address": "Gta. Bilbao, 1 - 4º izq - 28004 Madrid",
+        "web": "https://enormestudio.es/",
+        "objectives": [
+            "Proyecto de rehabilitación de los espacios exteriores del Liceo Francés de Madrid.",
+            "Desarrollo propuestas y de talleres con estudiantes de la Escuela Superior de Artes Escénicas de Madrid. para el co-diseño de mobiliario para los espacios comunes del centro.",
+            "En cuanto a las habilidades y técnicas que se entrenarán son:",
+            "Habilidades de dibujo para la elaboración de proyectos constructivos.",
+            "Gestión de proyectos de urbanismo informal.",
+            "Metodologías y capacidades de trabajo en equipo.",
+            "Experiencia pedagógica en la gestión de talleres en contextos universitarios."
+        ],
+        "picture": "/data/clean/pictures/129.png"
+    },
+    {
+        "index": 27,
+        "id": 405,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "DIMAD (Fundación Diseño Madrid)",
+        "address": "Pº de la Chopera, 14 - 28045 Madrid",
+        "web": "https://dimad.org/",
+        "objectives": [
+            "Estudios de Mercado ",
+            "Auditoría de Diseño",
+            "Redacción de brief de cliente y brief de Diseño",
+            "Labores de gestión y coordinación de diseño expositivo",
+            "Diseño de stands, escaparatismo",
+            "Diseño de experiencias"
+        ],
+        "picture": "/data/clean/pictures/161.png"
+    },
+    {
+        "index": 31,
+        "id": 403,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "FRANCESC RIFÉ, S.L.U.",
+        "address": "Carrer Escoles Pies, 23-25 - 08017 Barcelona",
+        "web": "http://www.rife-design.com/",
+        "objectives": [
+            "Desarrollo de proyectos completos de interiorismo y/o arquitectura: concepto y creatividad, proyecto básico, proyecto ejecutivo.",
+            "Experiencia en visitas de obra y resolución de problemas técnicos.",
+            "Mejoras de los conocimientos de materialidad y técnicas de construcción."
+        ],
+        "picture": "/data/clean/pictures/159.png"
+    },
+    {
+        "index": 32,
+        "id": 402,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "MONKEY FOREST, S.L.",
+        "address": "c/ Antonio Celedonio Lorente, 42 - 28600 Navalcarnero (Madrid)",
+        "web": "https://mercadodediseno.es/",
+        "objectives": [
+            "Apoyo en diseño y producción de espacios efímeros y decorativos en feria de diseño",
+            "Desarrollo en procesos de producción y desarrollo de feria de diseño, contratación y selección de personal, escaleta producción, distribución de horarios, apoyo a patrocinadores, curación de stands",
+            "Producción de espacios decorativos"
+        ],
+        "picture": "/data/clean/pictures/158.png"
+    },
+    {
+        "index": 33,
+        "id": 401,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "ROMINA BARBIERI",
+        "address": "c/ Conde de Peñalver, 37 - 1º dcha - 28030 Madrid",
+        "web": "http://rominabarbieri.com/",
+        "objectives": [
+            "Colaboración con el equipo interdisciplinar en el desarrollo completo de los proyectos de clínicas dentales que se llevan a cabo en el estudio, desde los primeros esquemas y concepción de marca hasta el desarrollo técnico de los proyectos, su decoración interior, desarrollos de rotulación, legalización de las instalaciones en el Ayuntamiento y la Consejería de Sanidad, coordinación de equipos técnicos, etc. En concreto, el alumno desarrollaría las siguientes actividades:",
+            "1.- Trabajo diario de la mano del departamento de arquitectura y obras.",
+            "2.- Realización de nuevas propuestas de imagen utilizando programas gráficos de diversa índole: Indesign, photoshop, sketchup, cad, 3d max, etc",
+            "3.- Levantamiento de planos de estado actual de locales",
+            "4.- Colaboración con el equipo en la realización del diseño de los locales en nuevas aperturas ",
+            "5.- Desarrollar material gráfico utilizando programas de 2D y 3D.",
+            "6.- Montar presentaciones para los clientes y participar en las presentaciones a éstos.",
+            "7.- Búsqueda de materiales, referencias, últimas tendencias…",
+            "8.- Generación de todos los planos de un proyecto de ejecución",
+            "9.- Lectura e interpretación de legislación aplicable a este tipo de proyectos",
+            "10.- Visita con el equipo de las obras que haya en marcha "
+        ],
+        "picture": "/data/clean/pictures/157.png"
+    },
+    {
+        "index": 67,
+        "id": 369,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "TALLER DE ARQUITECTURA 10SLP",
+        "address": "[object Object] - 28005 Madrid",
+        "web": "http://arquitectura10.com/",
+        "objectives": [
+            "Participación en los antecedentes de un proyecto y el desarrollo del Brief. ",
+            "Participación el desarrollo del proyecto",
+            "Participación proceso constructivo del proyecto",
+            "Aprendizaje en técnicas de comunicación con las personas involucradas (equipo/cliente) del proyecto",
+            "Participación en la fase de control y seguimiento del proyecto",
+            "Dibujo y representación de diseños de interior, stand y prototipos"
+        ],
+        "picture": "/data/clean/pictures/258.jpg"
+    },
+    {
+        "index": 69,
+        "id": 367,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "ESTUDIO DE ARQUITECTURA PICADO DE BLAS S.L.P.",
+        "address": "c/ González Amigo 23, - 28033 Madrid",
+        "web": "http://www.picadodeblas.com/",
+        "objectives": [
+            "Participación en los antecedentes de un proyecto y el desarrollo del Brief. ",
+            "Participación el desarrollo del proyecto",
+            "Participación proceso constructivo del proyecto",
+            "Aprendizaje en técnicas de comunicación con las personas involucradas (equipo/cliente) del proyecto",
+            "Participación en la fase de control y seguimiento del proyecto",
+            "Dibujo y representación de diseños de interior, stand y prototipos"
+        ],
+        "picture": "/data/clean/pictures/260.jpg"
+    },
+    {
+        "index": 76,
+        "id": 360,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "DÉCIMAS (SPORT STREET, S.L.)",
+        "address": "Carretera de Fuencarral nº 44, Edificio 9, L18 - 28108 Alcobendas (Madrid)",
+        "web": "https://www.doubledot.es/",
+        "objectives": [
+            "Trabajo diario de la mano del departamento de arquitectura y obras.",
+            "Realización de nuevas propuestas de imagen.",
+            "Revisión del diseño en nuevas reformas.",
+            "Realización del diseño de los locales en nuevas aperturas / aperturas de centros comerciales.",
+            "Modelar en 2D y 3D los cambios de imagen de las marcas.",
+            "Búsqueda de materiales, referencias, últimas tendencias."
+        ],
+        "picture": "/data/clean/pictures/243.jpeg"
+    },
+    {
+        "index": 84,
+        "id": 352,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "TALENTIAM, S.L.",
+        "address": "c/ General Castaños, 9 -  28004 Madrid ",
+        "web": "http://talentiam-seleccion.com/",
+        "objectives": [
+            "Cómo definir el proyecto. ",
+            "Cómo diseñar proceso de desarrollo del proyecto en base a los recursos disponibles",
+            "Cómo definir una metodología de implantación del proyecto",
+            "Cómo comunicar a las personas involucradas (equipo/cliente) el proyecto",
+            "Cómo realizar la implantación del proyecto",
+            "Cómo realizar el seguimiento del proyecto"
+        ],
+        "picture": "/data/clean/pictures/251.png"
+    },
+    {
+        "index": 90,
+        "id": 346,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "EMPTY SL",
+        "address": "c/ García de Paredes, 78 - 28010 Madrid",
+        "web": "http://www.empty.es/",
+        "objectives": [
+            "• Participación en los antecedentes de un proyecto y el desarrollo del Brief. ",
+            "• Participación el desarrollo del proyecto",
+            "• Participación proceso constructivo del proyecto",
+            "• Aprendizaje en técnicas de comunicación con las personas involucradas (equipo/cliente) del proyecto",
+            "• Participación en la fase de control y seguimiento del proyecto"
+        ],
+        "picture": "/data/clean/pictures/190.png"
+    },
+    {
+        "index": 101,
+        "id": 335,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "VITRA HISPANIA, S.A",
+        "address": "c/ Padilla, 21  - 28006 Madrid",
+        "web": "https://www.vitra.com/es-es/home",
+        "objectives": [
+            "Planificación de proyectos, apoyo decoración en el showroom, desarrollo de soluciones técnicas, respuestas estándar vs respuestas bespoke. Trabajo en equipo. ",
+            "Integración de sistemas electrificados, visión de multicanal, multidisiplinar, trabajo en equipo, búsqueda de clientes potenciales y propuestas proactivas de respuesta a través del diseño. Creatividad y comunicación .",
+            " Conocimiento del producto, sus usos y posibilidades. Búsqueda de alternativas de diferentes  sistemas para dar respuesta a necesidades de exposición. Producto estándar. Desarrollo de productos."
+        ],
+        "picture": "/data/clean/pictures/178.png"
+    },
+    {
+        "index": 103,
+        "id": 333,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "JDDESIGN RETAIL PROJECTS, S.L.",
+        "address": "c/ Vargas, 7 - local 10 - 28003 Madrid",
+        "web": "http://jddesign.es/",
+        "objectives": [
+            "Se trabajará sobre dos formatos distintos, uno siendo un proyecto de realización de coworking de 400 m2, el segundo de un espacio tipo shop in shop para implantación en El Corte Inglés de un concepto de Sushi.",
+            "También se podría trabajar sobre un proyecto de nueva imagen para una marca de moda retail.",
+            "Se realizarán estos proyectos desde el desarrollo del concepto inicial hasta la confección de los planos constructivos de todos los elementos decorativos que lo componen."
+        ],
+        "picture": "/data/clean/pictures/180.png"
+    },
+    {
+        "index": 124,
+        "id": 312,
+        "especialidad": [
+            "mec"
+        ],
+        "name": "ROCKWELL GROUP EUROPE, S.L.",
+        "address": "c/ Alcalá, 21 - 28014 Madrid",
+        "web": "https://www.rockwellgroup.com/",
+        "objectives": [
+            "Entendimiento y aplicación de los estándares, procedimientos y protocolos diarios ya establecidos del estudio para el desarrollo de proyectos de diseño de interiores en todo su proceso.",
+            "Asistencia en cualquiera de los proyectos en curso y a todos los trabajadores del estudio, desempeñando trabajos de apoyo en el desarrollo de la documentación y entregas en cada fase de proyecto.",
+            "Asistencia en la investigación de materiales y sistemas. ",
+            "Solicitud de información a proveedores y muestras. ",
+            "Mantenimiento de biblioteca de materiales, catálogos, detalles  arquitectónicos y de mobiliario."
+        ],
+        "picture": "/data/clean/pictures/200.jpeg"
+    },
+    {
+        "index": 442,
+        "id": 5,
+        "especialidad": [
+            "grafico",
+            "mec",
+            "producto"
+        ],
+        "name": "Dimad (Fundación Diseño Madrid)",
+        "address": " - ",
+        "objectives": [],
+        "picture": ""
+    }
+]
