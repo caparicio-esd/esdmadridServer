@@ -49,7 +49,7 @@ abstract class esd_BE_Entity
         $this->content_text = $this->utils_normalize_content(
             $this->utils_clean_content($post->post_content)
         );
-        $this->summary = $post->post_excerpt;        
+        $this->summary = $post->post_excerpt != '' ? $post->post_excerpt : $this->get_summary();
 
         $this->template = $this->get_post_template_field_by_id($post->ID)->template;
         $this->thumbnail = $this->get_post_thumbnails();
@@ -90,6 +90,26 @@ abstract class esd_BE_Entity
             $thumbnails[$size] = $gtp;
         }
         return $thumbnails;
+    }
+
+    
+    /**
+     * 
+     */
+    public function get_summary($length = 30)
+    {
+        $summary = $this->extract_summary($this->content_raw);
+        
+        if ($summary != "") {
+            $summary_array = explode(' ', $summary);
+            if (sizeof($summary_array) > $length) {
+                return implode(' ', array_slice($summary_array, 0, $length)) . '...'; 
+            } else {
+                return $summary;
+            }
+        } else {
+            return null;
+        }
     }
 
 

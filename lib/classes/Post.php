@@ -19,6 +19,7 @@ class esd_BE_Post extends esd_BE_Entity
         $this->categories = $this->get_categories();
         $this->prev_post = get_previous_post($this->ID);
         $this->next_post = get_next_post($this->ID);
+        $this->summary = $this->get_summary();
     }
 
     /**
@@ -50,7 +51,8 @@ class esd_BE_Post_Home_ListItem extends esd_BE_Post
         'title', 'content_text',
         'thumbnail',
         'template',
-        'categories'
+        'categories', 
+        'summary'
     ];
 
     function __construct($post)
@@ -106,6 +108,7 @@ class esd_BE_Post_SuperSimplified extends esd_BE_Post
         'ID', 'slug', 'url',
         'title',
         'template',
+        'summary'
     ];
 
     function __construct($post)
@@ -128,7 +131,8 @@ class esd_BE_Post_Search extends esd_BE_Post
         'title', 'content_text',
         'template',
         'thumbnail',
-        'categories'
+        'categories',
+        'summary'
     ];
 
     function __construct($post)

@@ -247,4 +247,49 @@ trait Dom_Extractor
 
         return $accordion_sections;
     }
+
+
+    /**
+     * @function extract_accordion
+     * 
+     * @param {dom} $dom -> DOM
+     * 
+     * Extract links from text
+     */
+    public function extract_summary($content) 
+    {
+        $domDocument = new DOMDocument();
+        @$domDocument->loadHTML(
+            mb_convert_encoding($content, 'HTML-ENTITIES'),
+            LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
+        );
+
+        $paragraph_section = null;
+        $paragraph_sections = [];
+        $paragraph_texts = [];
+        $tags = $domDocument->childNodes[0]->childNodes;
+
+        foreach ($tags as $tag) {
+            if ($tag->nodeName == 'p') {
+                $paragraph_content = new DOMDocument();
+                $paragraph_section = new stdClass();
+                $paragraph_content->loadHTML(mb_convert_encoding("<div class=\"summary\"></div>", 'HTML-ENTITIES'), LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
+                
+                $node = $paragraph_content->importNode($tag, true);
+                $paragraph_content->documentElement->appendChild($node);
+                
+                $paragraph_section->content = html_entity_decode($paragraph_content->saveHTML());
+                $paragraph_section->content = $this->utils_replace_strange_strings($paragraph_section->content);
+                $paragraph_section->content = $this->utils_static_assets_url($paragraph_section->content);
+                array_push($paragraph_sections, $paragraph_section);
+                array_push($paragraph_texts, $paragraph_content->textContent);
+            }
+        }
+
+        if (sizeof($paragraph_texts) > 0) {
+            return $paragraph_texts[0];
+        } else {
+            return "";
+        }
+    }
 }
