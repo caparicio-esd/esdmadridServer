@@ -43,3 +43,10 @@ require dirname(__FILE__) . '/api/Companies/Company_List.php';
 
 require dirname(__FILE__) . '/api/Search/Search.php';
 require dirname(__FILE__) . '/api/Menu/Menu.php';
+
+
+/**
+ * REUSABLE BLOCKS
+ */
+require dirname(__FILE__) . '/admin/custom_gutenberg.php';
+require dirname(__FILE__) . '/admin/reusable_blocks/src/single_link/single_link.php';

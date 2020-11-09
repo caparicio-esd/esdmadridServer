@@ -20,3 +20,6 @@ yarn-error.log*
 # vscode launch
 /.vscode
 **/.vscode
+
+# react gutenberg
+**/dist/
