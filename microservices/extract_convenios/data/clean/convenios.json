@@ -1,0 +1,674 @@
+[
+    {
+        "id": 0,
+        "country": {
+            "esp": "alemania",
+            "int": "germany"
+        },
+        "city": {
+            "esp": "berlín",
+            "int": "berlin"
+        },
+        "university": "Berlin Weissensee School of Art",
+        "link": "https://www.kh-berlin.de/en.html",
+        "stipendium": "true"
+    },
+    {
+        "id": 1,
+        "country": {
+            "esp": "alemania",
+            "int": "germany"
+        },
+        "city": {
+            "esp": "pforzheim",
+            "int": "pforzheim"
+        },
+        "university": "Pforzheim University School of Design",
+        "link": "https://designpf.hs-pforzheim.de/en/",
+        "stipendium": "true"
+    },
+    {
+        "id": 2,
+        "country": {
+            "esp": "bélgica",
+            "int": "belgium"
+        },
+        "city": {
+            "esp": "bruselas",
+            "int": "brussels"
+        },
+        "university": "Luca School of Arts",
+        "link": "https://www.luca-arts.be/nl",
+        "stipendium": "true"
+    },
+    {
+        "id": 3,
+        "country": {
+            "esp": "bélgica",
+            "int": "belgium"
+        },
+        "city": {
+            "esp": "gante",
+            "int": "ghent"
+        },
+        "university": "Luca School of Arts",
+        "link": "https://www.luca-arts.be/nl",
+        "stipendium": "true"
+    },
+    {
+        "id": 4,
+        "country": {
+            "esp": "bélgica",
+            "int": "belgium"
+        },
+        "city": {
+            "esp": "leuven",
+            "int": "leuven"
+        },
+        "university": "Luca School of Arts",
+        "link": "https://www.luca-arts.be/nl",
+        "stipendium": "true"
+    },
+    {
+        "id": 5,
+        "country": {
+            "esp": "croacia",
+            "int": "croatia"
+        },
+        "city": {
+            "esp": "zagreb",
+            "int": "zagreb"
+        },
+        "university": "University of Zagreb Faculty of Fine Arts",
+        "link": "https://www.alu.unizg.hr/alu/cms/front_content.php?idcat=369&changelang=3&lang=3",
+        "stipendium": "true"
+    },
+    {
+        "id": 6,
+        "country": {
+            "esp": "finlandia",
+            "int": "finland"
+        },
+        "city": {
+            "esp": "helsinki",
+            "int": "helsinki"
+        },
+        "university": "Aalto University School of Arts and Design",
+        "link": "https://www.aalto.fi/en/school-of-arts-design-and-architecture",
+        "stipendium": "true"
+    },
+    {
+        "id": 7,
+        "country": {
+            "esp": "francia",
+            "int": "france"
+        },
+        "city": {
+            "esp": "aix-en-provence",
+            "int": "aix-en-provence"
+        },
+        "university": "École de Communication Visuelle (ECV)",
+        "link": "https://www.ecv.fr/campus/aix-en-provence",
+        "stipendium": "true"
+    },
+    {
+        "id": 8,
+        "country": {
+            "esp": "francia",
+            "int": "france"
+        },
+        "city": {
+            "esp": "burdeos",
+            "int": "bordeaux"
+        },
+        "university": "École de Communication Visuelle (ECV)",
+        "link": "https://www.ecv.fr/campus/bordeaux",
+        "stipendium": "true"
+    },
+    {
+        "id": 9,
+        "country": {
+            "esp": "francia",
+            "int": "france"
+        },
+        "city": {
+            "esp": "brest",
+            "int": "brest"
+        },
+        "university": "École Europeenne Superieure d´Art",
+        "link": "https://www.eesab.fr/",
+        "stipendium": "true"
+    },
+    {
+        "id": 10,
+        "country": {
+            "esp": "francia",
+            "int": "france"
+        },
+        "city": {
+            "esp": "nantes",
+            "int": "nantes"
+        },
+        "university": "École de Communication Visuelle (ECV)",
+        "link": "https://www.ecv.fr/campus/nantes",
+        "stipendium": "true"
+    },
+    {
+        "id": 11,
+        "country": {
+            "esp": "francia",
+            "int": "france"
+        },
+        "city": {
+            "esp": "parís",
+            "int": "paris"
+        },
+        "university": "École Supérieure des Arts Modernes",
+        "link": "https://www.esamdesign.com/?lang=fr",
+        "stipendium": "true"
+    },
+    {
+        "id": 12,
+        "country": {
+            "esp": "francia",
+            "int": "france"
+        },
+        "city": {
+            "esp": "parís",
+            "int": "paris"
+        },
+        "university": "École de Communication Visuelle (ECV)",
+        "link": "https://www.ecv.fr/campus/paris",
+        "stipendium": "true"
+    },
+    {
+        "id": 13,
+        "country": {
+            "esp": "grecia",
+            "int": "greece"
+        },
+        "city": {
+            "esp": "atenas",
+            "int": "athens"
+        },
+        "university": "Faculty of Applied Arts and Design Tei of Athens",
+        "link": "https://www.teiath.gr/sgtks/grafics/",
+        "stipendium": "true"
+    },
+    {
+        "id": 14,
+        "country": {
+            "esp": "hungría",
+            "int": "hungary"
+        },
+        "city": {
+            "esp": "budapest",
+            "int": "budapest"
+        },
+        "university": "Hungarian University of Fine Arts",
+        "link": "https://www.mke.hu/en",
+        "stipendium": "true"
+    },
+    {
+        "id": 15,
+        "country": {
+            "esp": "irlanda",
+            "int": "ireland"
+        },
+        "city": {
+            "esp": "dublín",
+            "int": "dublin"
+        },
+        "university": "National College of Art and Design",
+        "link": "https://www.ncad.ie/",
+        "stipendium": "true"
+    },
+    {
+        "id": 16,
+        "country": {
+            "esp": "islandia",
+            "int": "iceland"
+        },
+        "city": {
+            "esp": "reikiavik",
+            "int": "reykjavík"
+        },
+        "university": "Iceland Academy of the Arts Reikiavík",
+        "link": "https://www.lhi.is/en",
+        "stipendium": "true"
+    },
+    {
+        "id": 17,
+        "country": {
+            "esp": "italia",
+            "int": "italy"
+        },
+        "city": {
+            "esp": "bolonia",
+            "int": "bologna"
+        },
+        "university": "Accademia di Belle Arti di Bologna",
+        "link": "https://www.ababo.it/ABA/",
+        "stipendium": "true"
+    },
+    {
+        "id": 18,
+        "country": {
+            "esp": "italia",
+            "int": "italy"
+        },
+        "city": {
+            "esp": "milán",
+            "int": "milano"
+        },
+        "university": "Accademia di Belle Arti di Brera",
+        "link": "https://www.accademiadibrera.milano.it/",
+        "stipendium": "true"
+    },
+    {
+        "id": 19,
+        "country": {
+            "esp": "italia",
+            "int": "italy"
+        },
+        "city": {
+            "esp": "palermo",
+            "int": "palermo"
+        },
+        "university": "Accademia di Belle Arti di Palermo",
+        "link": "https://www.accademiadipalermo.it/",
+        "stipendium": "true"
+    },
+    {
+        "id": 20,
+        "country": {
+            "esp": "italia",
+            "int": "italy"
+        },
+        "city": {
+            "esp": "roma",
+            "int": "rome"
+        },
+        "university": "Sapienza – Università di Roma. Department of Planning, Design, Technology",
+        "link": "https://www.uniroma1.it/it/pagina-strutturale/home",
+        "stipendium": "true"
+    },
+    {
+        "id": 21,
+        "country": {
+            "esp": "italia",
+            "int": "italy"
+        },
+        "city": {
+            "esp": "génova",
+            "int": "genoa"
+        },
+        "university": "Universita delli Studi di Genova – Facolta di Architectura",
+        "link": "https://architettura.unige.it/did/l1/disegnoind/lauw1.htm",
+        "stipendium": "true"
+    },
+    {
+        "id": 22,
+        "country": {
+            "esp": "italia",
+            "int": "italy"
+        },
+        "city": {
+            "esp": "urbino",
+            "int": "urbino"
+        },
+        "university": "Isia Urbino",
+        "link": "https://www.isiaurbino.net/home/",
+        "stipendium": "true"
+    },
+    {
+        "id": 23,
+        "country": {
+            "esp": "lituania",
+            "int": "lithuania"
+        },
+        "city": {
+            "esp": "vilna",
+            "int": "vilnius"
+        },
+        "university": "Vilnius College of Design (VCD)",
+        "link": "https://www.dizainokolegija.lt/en/",
+        "stipendium": "true"
+    },
+    {
+        "id": 24,
+        "country": {
+            "esp": "lituania",
+            "int": "lithuania"
+        },
+        "city": {
+            "esp": "vilna",
+            "int": "vilnius"
+        },
+        "university": "European Humanities University",
+        "link": "https://www.ehu.lt/en/",
+        "stipendium": "true"
+    },
+    {
+        "id": 25,
+        "country": {
+            "esp": "países bajos",
+            "int": "netherlands"
+        },
+        "city": {
+            "esp": "la haya",
+            "int": "the hague"
+        },
+        "university": "Royal Academy of Art, The Hague",
+        "link": "https://www.kabk.nl/",
+        "stipendium": "true"
+    },
+    {
+        "id": 26,
+        "country": {
+            "esp": "polonia",
+            "int": "poland"
+        },
+        "city": {
+            "esp": "cracovia",
+            "int": "cracow"
+        },
+        "university": "Akademia Sztuk Pięknych w Krakowie",
+        "link": "https://www.asp.krakow.pl/",
+        "stipendium": "true"
+    },
+    {
+        "id": 27,
+        "country": {
+            "esp": "polonia",
+            "int": "poland"
+        },
+        "city": {
+            "esp": "gdansk",
+            "int": "gdansk"
+        },
+        "university": "Academy of Fine Arts in Gdansk",
+        "link": "https://en.asp.gda.pl/",
+        "stipendium": "true"
+    },
+    {
+        "id": 28,
+        "country": {
+            "esp": "polonia",
+            "int": "poland"
+        },
+        "city": {
+            "esp": "lodz",
+            "int": "lodz"
+        },
+        "university": "Strzemiński Academy of Art Łódź (ASP Łódź)",
+        "link": "https://int.asp.lodz.pl/academy",
+        "stipendium": "true"
+    },
+    {
+        "id": 29,
+        "country": {
+            "esp": "polonia",
+            "int": "poland"
+        },
+        "city": {
+            "esp": "varsovia",
+            "int": "warsaw"
+        },
+        "university": "Akademia Sztuk Pięknych w Warszawie",
+        "link": "https://www.asp.waw.pl/",
+        "stipendium": "true"
+    },
+    {
+        "id": 30,
+        "country": {
+            "esp": "polonia",
+            "int": "poland"
+        },
+        "city": {
+            "esp": "wroclaw",
+            "int": "wroclaw"
+        },
+        "university": "Akademia Sztuk Pięknych E. Gepperta w Wroclaw",
+        "link": "https://www.asp.wroc.pl/",
+        "stipendium": "true"
+    },
+    {
+        "id": 31,
+        "country": {
+            "esp": "portugal",
+            "int": "portugal"
+        },
+        "city": {
+            "esp": "beja",
+            "int": "beja"
+        },
+        "university": "Istituto Politecnico de Beja",
+        "link": "https://www.ipbeja.pt/Paginas/default.aspx",
+        "stipendium": "true"
+    },
+    {
+        "id": 32,
+        "country": {
+            "esp": "portugal",
+            "int": "portugal"
+        },
+        "city": {
+            "esp": "oporto",
+            "int": "porto"
+        },
+        "university": "ESAD Escola Superior de Artes e Design, Oporto",
+        "link": "https://www.esad.pt/",
+        "stipendium": "true"
+    },
+    {
+        "id": 33,
+        "country": {
+            "esp": "portugal",
+            "int": "portugal"
+        },
+        "city": {
+            "esp": "oporto",
+            "int": "porto"
+        },
+        "university": "Faculdade de Belas Artes da Universidade do Porto (FBAUP)",
+        "link": "https://sigarra.up.pt/up/pt/web_page.inicial",
+        "stipendium": "true"
+    },
+    {
+        "id": 34,
+        "country": {
+            "esp": "portugal",
+            "int": "portugal"
+        },
+        "city": {
+            "esp": "lisboa",
+            "int": "lisbon"
+        },
+        "university": "Iade Creative University, Lisboa",
+        "link": "https://www.iade.europeia.pt/",
+        "stipendium": "true"
+    },
+    {
+        "id": 35,
+        "country": {
+            "esp": "reino unido",
+            "int": "united kingdom"
+        },
+        "city": {
+            "esp": "bath",
+            "int": "bath"
+        },
+        "university": "Bath Spa University, Bath",
+        "link": "https://www.bathspa.ac.uk/",
+        "stipendium": "true"
+    },
+    {
+        "id": 36,
+        "country": {
+            "esp": "reino unido",
+            "int": "united kingdom"
+        },
+        "city": {
+            "esp": "glasgow",
+            "int": "glasgow"
+        },
+        "university": "Glasgow School of Art",
+        "link": "https://www.gsa.ac.uk/",
+        "stipendium": "true"
+    },
+    {
+        "id": 37,
+        "country": {
+            "esp": "reino unido",
+            "int": "united kingdom"
+        },
+        "city": {
+            "esp": "plymouth",
+            "int": "plymouth"
+        },
+        "university": "Plymouth College of Art",
+        "link": "https://www.plymouthart.ac.uk/",
+        "stipendium": "true"
+    },
+    {
+        "id": 38,
+        "country": {
+            "esp": "república checa",
+            "int": "czech republic"
+        },
+        "city": {
+            "esp": "praga",
+            "int": "prague"
+        },
+        "university": "Art & Design Institut",
+        "link": "https://www.adi.cz/",
+        "stipendium": "true"
+    },
+    {
+        "id": 39,
+        "country": {
+            "esp": "turquía",
+            "int": "turkey"
+        },
+        "city": {
+            "esp": "estambul",
+            "int": "istambul"
+        },
+        "university": "Marmara University, Faculty of Fine Arts",
+        "link": "https://www.marmara.edu.tr/en",
+        "stipendium": "true"
+    },
+    {
+        "id": 40,
+        "country": {
+            "esp": "alemania",
+            "int": "germany"
+        },
+        "city": {
+            "esp": "frankfurt",
+            "int": "frankfurt"
+        },
+        "university": "Frankfurter Akademie für Kommunikation und Design (Academy of Visual Arts, Frankfurt)",
+        "link": "https://www.frankfurt.de/sixcms/detail.php?id=stadtfrankfurt_eval01.c.317693.en&template=hp_flash",
+        "stipendium": "false"
+    },
+    {
+        "id": 41,
+        "country": {
+            "esp": "china",
+            "int": "china"
+        },
+        "city": {
+            "esp": "pekín",
+            "int": "beijing"
+        },
+        "university": "Central Academy of Fine Arts CAFA",
+        "link": "https://www.cafa.edu.cn/en/",
+        "stipendium": "false"
+    },
+    {
+        "id": 42,
+        "country": {
+            "esp": "china",
+            "int": "china"
+        },
+        "city": {
+            "esp": "pekín",
+            "int": "beijing"
+        },
+        "university": "Institute of Beijing University of Technology",
+        "link": "https://www.gengdan.cn/en/",
+        "stipendium": "false"
+    },
+    {
+        "id": 43,
+        "country": {
+            "esp": "eeuu",
+            "int": "usa"
+        },
+        "city": {
+            "esp": "providence",
+            "int": "providence"
+        },
+        "university": "Rhode Island School of Design | RISD",
+        "link": "https://www.risd.edu/",
+        "stipendium": "false"
+    },
+    {
+        "id": 44,
+        "country": {
+            "esp": "india",
+            "int": "india"
+        },
+        "city": {
+            "esp": "bangalore",
+            "int": "bangalore"
+        },
+        "university": "Srishti Institute of Art, Design & Technology",
+        "link": "https://www.srishti.ac.in/",
+        "stipendium": "false"
+    },
+    {
+        "id": 45,
+        "country": {
+            "esp": "nueva zelanda",
+            "int": "new zeland"
+        },
+        "city": {
+            "esp": "auckland",
+            "int": "auckland"
+        },
+        "university": "School of Art & Design. Auckland University of Technology",
+        "link": "https://www.aut.ac.nz/study-at-aut/study-areas/art-and-design-at-aut-university-auckland",
+        "stipendium": "false"
+    },
+    {
+        "id": 46,
+        "country": {
+            "esp": "pakistán",
+            "int": "pakistan"
+        },
+        "city": {
+            "esp": "lahore",
+            "int": "lahore"
+        },
+        "university": "Pakistan Institute of Fashion and Design",
+        "link": "https://www.pifd.edu.pk/",
+        "stipendium": "false"
+    },
+    {
+        "id": 47,
+        "country": {
+            "esp": "reino unido",
+            "int": "united kingdom"
+        },
+        "city": {
+            "esp": "londres",
+            "int": "london"
+        },
+        "university": "Ravensbourne",
+        "link": "https://www.ravensbourne.ac.uk/",
+        "stipendium": "false"
+    }
+]
