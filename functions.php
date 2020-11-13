@@ -40,6 +40,7 @@ require dirname(__FILE__) . '/api/Portfolio/Portfolio_List.php';
 require dirname(__FILE__) . '/api/Portfolio/Portfolio_Single.php';
 
 require dirname(__FILE__) . '/api/Companies/Company_List.php';
+require dirname(__FILE__) . '/api/Convenios/Convenios_List.php';
 
 require dirname(__FILE__) . '/api/Search/Search.php';
 require dirname(__FILE__) . '/api/Menu/Menu.php';
