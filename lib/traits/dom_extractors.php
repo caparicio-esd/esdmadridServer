@@ -270,7 +270,7 @@ trait Dom_Extractor
         $tags = $domDocument->childNodes[0]->childNodes;
 
         foreach ($tags as $tag) {
-            if ($tag->nodeName == 'p') {
+            if ($tag->nodeName == 'p' || $tag->nodeName == 'div') {
                 $paragraph_content = new DOMDocument();
                 $paragraph_section = new stdClass();
                 $paragraph_content->loadHTML(mb_convert_encoding("<div class=\"summary\"></div>", 'HTML-ENTITIES'), LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
