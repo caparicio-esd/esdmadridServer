@@ -11,7 +11,11 @@
         },
         "university": "Berlin Weissensee School of Art",
         "link": "https://www.kh-berlin.de/en.html",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 1,
@@ -25,7 +29,11 @@
         },
         "university": "Pforzheim University School of Design",
         "link": "https://designpf.hs-pforzheim.de/en/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 2,
@@ -39,7 +47,11 @@
         },
         "university": "Luca School of Arts",
         "link": "https://www.luca-arts.be/nl",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 3,
@@ -53,7 +65,11 @@
         },
         "university": "Luca School of Arts",
         "link": "https://www.luca-arts.be/nl",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 4,
@@ -67,7 +83,11 @@
         },
         "university": "Luca School of Arts",
         "link": "https://www.luca-arts.be/nl",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 5,
@@ -81,7 +101,11 @@
         },
         "university": "University of Zagreb Faculty of Fine Arts",
         "link": "https://www.alu.unizg.hr/alu/cms/front_content.php?idcat=369&changelang=3&lang=3",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 6,
@@ -95,7 +119,11 @@
         },
         "university": "Aalto University School of Arts and Design",
         "link": "https://www.aalto.fi/en/school-of-arts-design-and-architecture",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 7,
@@ -109,7 +137,11 @@
         },
         "university": "École de Communication Visuelle (ECV)",
         "link": "https://www.ecv.fr/campus/aix-en-provence",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 8,
@@ -123,7 +155,11 @@
         },
         "university": "École de Communication Visuelle (ECV)",
         "link": "https://www.ecv.fr/campus/bordeaux",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 9,
@@ -137,7 +173,11 @@
         },
         "university": "École Europeenne Superieure d´Art",
         "link": "https://www.eesab.fr/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 10,
@@ -151,7 +191,11 @@
         },
         "university": "École de Communication Visuelle (ECV)",
         "link": "https://www.ecv.fr/campus/nantes",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 11,
@@ -165,7 +209,11 @@
         },
         "university": "École Supérieure des Arts Modernes",
         "link": "https://www.esamdesign.com/?lang=fr",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 12,
@@ -179,7 +227,11 @@
         },
         "university": "École de Communication Visuelle (ECV)",
         "link": "https://www.ecv.fr/campus/paris",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 13,
@@ -193,7 +245,11 @@
         },
         "university": "Faculty of Applied Arts and Design Tei of Athens",
         "link": "https://www.teiath.gr/sgtks/grafics/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 14,
@@ -207,7 +263,11 @@
         },
         "university": "Hungarian University of Fine Arts",
         "link": "https://www.mke.hu/en",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 15,
@@ -221,7 +281,11 @@
         },
         "university": "National College of Art and Design",
         "link": "https://www.ncad.ie/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 16,
@@ -235,7 +299,11 @@
         },
         "university": "Iceland Academy of the Arts Reikiavík",
         "link": "https://www.lhi.is/en",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 17,
@@ -249,7 +317,11 @@
         },
         "university": "Accademia di Belle Arti di Bologna",
         "link": "https://www.ababo.it/ABA/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 18,
@@ -263,7 +335,11 @@
         },
         "university": "Accademia di Belle Arti di Brera",
         "link": "https://www.accademiadibrera.milano.it/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 19,
@@ -277,7 +353,11 @@
         },
         "university": "Accademia di Belle Arti di Palermo",
         "link": "https://www.accademiadipalermo.it/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 20,
@@ -291,7 +371,11 @@
         },
         "university": "Sapienza – Università di Roma. Department of Planning, Design, Technology",
         "link": "https://www.uniroma1.it/it/pagina-strutturale/home",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 21,
@@ -305,7 +389,11 @@
         },
         "university": "Universita delli Studi di Genova – Facolta di Architectura",
         "link": "https://architettura.unige.it/did/l1/disegnoind/lauw1.htm",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 22,
@@ -319,7 +407,11 @@
         },
         "university": "Isia Urbino",
         "link": "https://www.isiaurbino.net/home/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 23,
@@ -333,7 +425,11 @@
         },
         "university": "Vilnius College of Design (VCD)",
         "link": "https://www.dizainokolegija.lt/en/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 24,
@@ -347,7 +443,11 @@
         },
         "university": "European Humanities University",
         "link": "https://www.ehu.lt/en/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 25,
@@ -361,7 +461,11 @@
         },
         "university": "Royal Academy of Art, The Hague",
         "link": "https://www.kabk.nl/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 26,
@@ -375,7 +479,11 @@
         },
         "university": "Akademia Sztuk Pięknych w Krakowie",
         "link": "https://www.asp.krakow.pl/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 27,
@@ -389,7 +497,11 @@
         },
         "university": "Academy of Fine Arts in Gdansk",
         "link": "https://en.asp.gda.pl/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 28,
@@ -403,7 +515,11 @@
         },
         "university": "Strzemiński Academy of Art Łódź (ASP Łódź)",
         "link": "https://int.asp.lodz.pl/academy",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 29,
@@ -417,7 +533,11 @@
         },
         "university": "Akademia Sztuk Pięknych w Warszawie",
         "link": "https://www.asp.waw.pl/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 30,
@@ -431,7 +551,11 @@
         },
         "university": "Akademia Sztuk Pięknych E. Gepperta w Wroclaw",
         "link": "https://www.asp.wroc.pl/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 31,
@@ -445,7 +569,11 @@
         },
         "university": "Istituto Politecnico de Beja",
         "link": "https://www.ipbeja.pt/Paginas/default.aspx",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 32,
@@ -459,7 +587,11 @@
         },
         "university": "ESAD Escola Superior de Artes e Design, Oporto",
         "link": "https://www.esad.pt/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 33,
@@ -473,7 +605,11 @@
         },
         "university": "Faculdade de Belas Artes da Universidade do Porto (FBAUP)",
         "link": "https://sigarra.up.pt/up/pt/web_page.inicial",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 34,
@@ -487,7 +623,11 @@
         },
         "university": "Iade Creative University, Lisboa",
         "link": "https://www.iade.europeia.pt/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 35,
@@ -501,7 +641,11 @@
         },
         "university": "Bath Spa University, Bath",
         "link": "https://www.bathspa.ac.uk/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 36,
@@ -515,7 +659,11 @@
         },
         "university": "Glasgow School of Art",
         "link": "https://www.gsa.ac.uk/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 37,
@@ -529,7 +677,11 @@
         },
         "university": "Plymouth College of Art",
         "link": "https://www.plymouthart.ac.uk/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 38,
@@ -543,7 +695,11 @@
         },
         "university": "Art & Design Institut",
         "link": "https://www.adi.cz/",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 39,
@@ -557,7 +713,11 @@
         },
         "university": "Marmara University, Faculty of Fine Arts",
         "link": "https://www.marmara.edu.tr/en",
-        "stipendium": "true"
+        "agreementType": {
+            "erasmus": "true",
+            "others": "false",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 40,
@@ -571,7 +731,11 @@
         },
         "university": "Frankfurter Akademie für Kommunikation und Design (Academy of Visual Arts, Frankfurt)",
         "link": "https://www.frankfurt.de/sixcms/detail.php?id=stadtfrankfurt_eval01.c.317693.en&template=hp_flash",
-        "stipendium": "false"
+        "agreementType": {
+            "erasmus": "false",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 41,
@@ -585,7 +749,11 @@
         },
         "university": "Central Academy of Fine Arts CAFA",
         "link": "https://www.cafa.edu.cn/en/",
-        "stipendium": "false"
+        "agreementType": {
+            "erasmus": "false",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 42,
@@ -599,7 +767,11 @@
         },
         "university": "Institute of Beijing University of Technology",
         "link": "https://www.gengdan.cn/en/",
-        "stipendium": "false"
+        "agreementType": {
+            "erasmus": "false",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 43,
@@ -613,7 +785,11 @@
         },
         "university": "Rhode Island School of Design | RISD",
         "link": "https://www.risd.edu/",
-        "stipendium": "false"
+        "agreementType": {
+            "erasmus": "false",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 44,
@@ -627,7 +803,11 @@
         },
         "university": "Srishti Institute of Art, Design & Technology",
         "link": "https://www.srishti.ac.in/",
-        "stipendium": "false"
+        "agreementType": {
+            "erasmus": "false",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 45,
@@ -641,7 +821,11 @@
         },
         "university": "School of Art & Design. Auckland University of Technology",
         "link": "https://www.aut.ac.nz/study-at-aut/study-areas/art-and-design-at-aut-university-auckland",
-        "stipendium": "false"
+        "agreementType": {
+            "erasmus": "false",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 46,
@@ -655,7 +839,11 @@
         },
         "university": "Pakistan Institute of Fashion and Design",
         "link": "https://www.pifd.edu.pk/",
-        "stipendium": "false"
+        "agreementType": {
+            "erasmus": "false",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
     },
     {
         "id": 47,
@@ -669,6 +857,118 @@
         },
         "university": "Ravensbourne",
         "link": "https://www.ravensbourne.ac.uk/",
-        "stipendium": "false"
+        "agreementType": {
+            "erasmus": "false",
+            "others": "true",
+            "ethnoTourism": "false"
+        }
+    },
+    {
+        "id": 48,
+        "country": {
+            "esp": "bélgica",
+            "int": "belgium"
+        },
+        "city": {
+            "esp": "bruselas",
+            "int": "brussels"
+        },
+        "university": "Sint-Lukas Hogeschool Voor Wetenschap & Kunst",
+        "link": "https://www.sintlucas.wenk.be/",
+        "agreementType": {
+            "erasmus": "false",
+            "others": "false",
+            "ethnoTourism": "true"
+        }
+    },
+    {
+        "id": 49,
+        "country": {
+            "esp": "españa",
+            "int": "spain"
+        },
+        "city": {
+            "esp": "madrid",
+            "int": "madrid"
+        },
+        "university": "Escuela Superior de Diseño de Madrid ",
+        "link": "https://esdmadrid.es/",
+        "agreementType": {
+            "erasmus": "false",
+            "others": "false",
+            "ethnoTourism": "true"
+        }
+    },
+    {
+        "id": 50,
+        "country": {
+            "esp": "españa",
+            "int": "spain"
+        },
+        "city": {
+            "esp": "madrid",
+            "int": "madrid"
+        },
+        "university": "Universidad Complutense de Madrid - Facultad de Bellas Artes",
+        "link": "https://www.bellasartes.ucm.es/",
+        "agreementType": {
+            "erasmus": "false",
+            "others": "false",
+            "ethnoTourism": "true"
+        }
+    },
+    {
+        "id": 51,
+        "country": {
+            "esp": "grecia",
+            "int": "greece"
+        },
+        "city": {
+            "esp": "creta",
+            "int": "crete"
+        },
+        "university": "Technical University of Crete",
+        "link": "https://en.tuc.gr/offline-en.html",
+        "agreementType": {
+            "erasmus": "false",
+            "others": "false",
+            "ethnoTourism": "true"
+        }
+    },
+    {
+        "id": 52,
+        "country": {
+            "esp": "portugal",
+            "int": "portugal"
+        },
+        "city": {
+            "esp": "oporto",
+            "int": "porto"
+        },
+        "university": "Universidade do Porto - Faculdade de Belas Artes",
+        "link": "https://sigarra.up.pt/fbaup/pt/web_page.inicial",
+        "agreementType": {
+            "erasmus": "false",
+            "others": "false",
+            "ethnoTourism": "true"
+        }
+    },
+    {
+        "id": 53,
+        "country": {
+            "esp": "reino unido",
+            "int": "united kingdom"
+        },
+        "city": {
+            "esp": "londres",
+            "int": "london"
+        },
+        "university": "University of the Arts London - Chelsea College of Art and Design",
+        "link": "https://www.chelsea.arts.ac.uk/",
+        "agreementType": {
+            "erasmus": "false",
+            "others": "false",
+            "ethnoTourism": "true"
+        }
     }
 ]

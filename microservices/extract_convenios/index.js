@@ -26,8 +26,6 @@ const extractAndSaveData = async () => {
         convenios.push(convenio);
     });
 
-    console.log(convenios);
-
 
     if (writeData) {
         fs.writeFileSync(

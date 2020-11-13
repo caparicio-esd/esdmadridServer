@@ -15,7 +15,11 @@ class Convenio {
         };
         this.university = rawConvenio[5].value;
         this.link = rawConvenio[6].value.hyperlink;
-        this.stipendium = rawConvenio[7].value;
+        this.agreementType = {
+            erasmus: rawConvenio[7].value, 
+            others: rawConvenio[8].value, 
+            ethnoTourism: rawConvenio[9].value, 
+        }
     }
 }
 
