@@ -39,6 +39,7 @@ require dirname(__FILE__) . '/api/Pages/La_Escuela_Crece.php';
 require dirname(__FILE__) . '/api/Portfolio/Portfolio_List.php';
 require dirname(__FILE__) . '/api/Portfolio/Portfolio_Single.php';
 
+require dirname(__FILE__) . '/api/Profesores/Profesores.php';
 require dirname(__FILE__) . '/api/Companies/Company_List.php';
 require dirname(__FILE__) . '/api/Convenios/Convenios_List.php';
 
