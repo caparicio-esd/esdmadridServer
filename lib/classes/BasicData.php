@@ -28,7 +28,9 @@ class esd_BE__BasicData
         "porfolio_single",
         "home",
         "template_escuela_crece",
-        "template_contacto"
+        "template_contacto",
+        "template_empresas",
+        "template_convenio"
     ];
     public static $template_collection;
 

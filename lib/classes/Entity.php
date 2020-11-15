@@ -45,7 +45,9 @@ abstract class esd_BE_Entity
         $this->author_picture = $this->get_author_picture($post->post_author);
 
         $this->title = $post->post_title;
-        $this->content_raw = $this->utils_normalize_content($post->post_content);
+        $this->content_raw = $this->utils_normalize_content(
+            $post->post_content
+        );
         $this->content_text = $this->utils_normalize_content(
             $this->utils_clean_content($post->post_content)
         );
@@ -92,23 +94,23 @@ abstract class esd_BE_Entity
         return $thumbnails;
     }
 
-    
+
     /**
      * 
      */
     public function get_summary($length = 30)
     {
         $summary = $this->extract_summary($this->content_raw);
-        
+
         if ($summary != "") {
             $summary_array = explode(' ', $summary);
             if (sizeof($summary_array) > $length) {
-                return implode(' ', array_slice($summary_array, 0, $length)) . '...'; 
+                return implode(' ', array_slice($summary_array, 0, $length)) . '...';
             } else {
                 return $summary;
             }
         } else {
-            return null;
+            return "";
         }
     }
 
