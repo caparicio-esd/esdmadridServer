@@ -125,8 +125,8 @@ trait Utils
      * 
      * Returns the post_type from a postID
      */
-    public function utils_inner_anchors($url)
+    public function utils_inner_anchors($content)
     {
-
+        return str_replace(esd_BE__BasicData::$root, '', $content);
     }
 }

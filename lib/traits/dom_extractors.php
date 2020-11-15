@@ -28,6 +28,8 @@ trait Dom_Extractor
         $domDocument = $this->normalize_media($domDocument);
 
         $domOut = $domDocument->saveHTML();
+
+        $domOut = $this->utils_inner_anchors($domOut);
         $domOut = html_entity_decode($domOut);
 
         return $domOut;
@@ -222,9 +224,7 @@ trait Dom_Extractor
 
         foreach ($tags as $tag) {
             if ($tag->nodeName == 'h2') {
-                if ($accordion_section != null && $accordion_content != null) {
-                    
-                    $accordion_section->title = $tag->nodeValue; 
+                if ($accordion_section != null && $accordion_content != null) {    
                     $accordion_section->content = html_entity_decode($accordion_content->saveHTML());
                     $accordion_section->content = $this->utils_replace_strange_strings($accordion_section->content);
                     $accordion_section->content = $this->utils_static_assets_url($accordion_section->content);
@@ -232,6 +232,7 @@ trait Dom_Extractor
                     array_push($accordion_sections, $accordion_section);
                 }
                 $accordion_section = new stdClass();
+                $accordion_section->title = $tag->nodeValue; 
                 $accordion_content = new DOMDocument();
                 $accordion_content->loadHTML(mb_convert_encoding("<div class=\"accordion_content\"></div>", 'HTML-ENTITIES'), LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
             
