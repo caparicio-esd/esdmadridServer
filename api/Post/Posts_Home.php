@@ -17,12 +17,27 @@ function get_rest_posts_home()
     // fetch params
     $page         = isset($_GET['page']) ? $_GET['page'] : 1;
     $post_per_age = isset($_GET['posts_per_page']) ? $_GET['posts_per_page'] : 10;
+    $category = isset($_GET['category']) ? $_GET['category'] : '';
+
 
     // fetch db
     $results = get_posts(array(
         'post_type' => 'post',
         'posts_per_page' => $post_per_age,
-        'paged' => $page
+        'paged' => $page, 
+        'tax_query' => array(
+            'relation' => 'OR',
+            array(
+                'taxonomy' => 'category',
+                'field'    => 'slug',
+                'terms'    => array( $category ),
+            ),
+            array(
+                'taxonomy' => 'post_tag',
+                'field'    => 'slug',
+                'terms'    => array( $category ),
+            ),
+        ),
     ));
 
     // construct response
