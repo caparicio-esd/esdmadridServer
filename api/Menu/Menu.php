@@ -120,9 +120,27 @@ function just_needed_stuff_menu($menu_item)
     $menu->menu_id = $menu_item->ID;
     $menu->menu_title = $menu_item->title;
     $menu->menu_url = str_replace(esd_BE__BasicData::$root, "", $menu_url);
-    $menu->menu_slug = str_replace('/', '', $menu->menu_url);
+    $menu->external = is_menu_external($menu->menu_url);
+    $menu->menu_slug = set_url_based_on_protocol($menu->menu_url, $menu->external);
     $menu->menu_template = $template;
     $menu->children = [];
 
     return $menu;
+}
+
+
+function is_menu_external($menu_url)
+{
+    return (strpos($menu_url, 'http') !== false);
+}
+
+function set_url_based_on_protocol($menu_url, $external)
+{
+    $url_out = '';
+    if (!$external) {
+        $url_out = str_replace('/', '', $menu_url);
+    } else {
+        $url_out = $menu_url;
+    }
+    return $url_out;
 }
