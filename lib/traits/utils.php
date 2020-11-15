@@ -115,4 +115,18 @@ trait Utils
 
         return $url_out;
     }
+
+
+    /**
+     * @function utils_get_post_type
+     * 
+     * @param {Number} $pId -> Post ID Number
+     * @return {String} $post_type
+     * 
+     * Returns the post_type from a postID
+     */
+    public function utils_inner_anchors($url)
+    {
+
+    }
 }

@@ -1,8 +1,10 @@
 const { registerBlockType } = wp.blocks;
-const { RichText, InspectorControls } = wp.blockEditor;
+const { RichText, InspectorControls, InnerBlocks } = wp.blockEditor;
 const { PanelBody, SelectControl } = wp.components;
 import { useState, useEffect } from 'react';
 import './notifications.scss';
+
+const ALLOWED_BLOCKS = ['core/heading', 'core/paragraph'];
 
 /**
  *
@@ -56,7 +58,8 @@ const NotificationEditor = ({ attributes, setAttributes }) => {
 
         <div className={['notification', notificationType].join(' ')} key="edition">
             <h5>Notificación nivel {formattedType}</h5>
-            <RichText key="editable" value={attributes.content} onChange={contentChangeHandler} />
+            {/* <RichText key="editable" value={attributes.content} onChange={contentChangeHandler} /> */}
+            <InnerBlocks allowedBlocks={ALLOWED_BLOCKS} />
         </div>,
     ];
 };
@@ -67,11 +70,9 @@ const NotificationEditor = ({ attributes, setAttributes }) => {
  */
 const NotificationSave = ({ attributes }) => {
     return (
-        <RichText.Content
-            tagName="div"
-            className={['notification', `notification_${attributes.type}`].join(' ')}
-            value={attributes.content}
-        />
+        <div className={['notification', `notification_${attributes.type}`].join(' ')}>
+            <InnerBlocks.Content />
+        </div>
     );
 };
 
