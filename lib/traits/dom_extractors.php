@@ -219,7 +219,7 @@ trait Dom_Extractor
         );
 
         $tagsToRemove = array();
-        $tagNames = array('div', 'p');
+        $tagNames = array('div', 'p', 'a');
 
         foreach ($tagNames as $tagName) {
             $tags = $domDocument->getElementsByTagName($tagName);
@@ -230,7 +230,8 @@ trait Dom_Extractor
                     (
                         $tag->childNodes->length == 1 &&
                         $tag->childNodes[0]->tagName == 'a'
-                    )  
+                    ) ||
+                    strpos($tag->getAttribute('href'), '.pdf') !== false
                 ) {
                     array_push($tagsToRemove, $tag);
                 }
@@ -246,6 +247,14 @@ trait Dom_Extractor
         return $domDocument->saveHTML();
     }
 
+
+    /**
+     * @function extract_single_links
+     * 
+     * @param {dom} $dom -> DOM
+     * 
+     * Extract single_link elements from text
+     */
     function extract_single_links($content)
     {
         $domDocument = new DOMDocument();
@@ -254,7 +263,7 @@ trait Dom_Extractor
             LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
         );
 
-        $tagNames = array('div');
+        $tagNames = array('div', 'p');
         $linkTypes = array('pdf', 'doc', 'docx');
         $linksTag = [];
         $links = [];
@@ -331,9 +340,12 @@ trait Dom_Extractor
                     $accordion_section->content = html_entity_decode($accordion_content->saveHTML());
                     $accordion_section->content = $this->utils_replace_strange_strings($accordion_section->content);
                     $accordion_section->content = $this->utils_static_assets_url($accordion_section->content);
-                    $accordion_section->links = $this->extract_links($accordion_section->content);
-                    $accordion_section->links = $this->extract_single_links($accordion_section->content);
 
+                    $links_a = $this->extract_links($accordion_section->content);
+                    $links_b = $this->extract_links($accordion_section->content);
+
+                    $accordion_section->links = array_merge($links_a, $links_b);
+                    $accordion_section->content = $this->kill_single_links($accordion_section->content);
                     array_push($accordion_sections, $accordion_section);
                 }
                 $accordion_section = new stdClass();
