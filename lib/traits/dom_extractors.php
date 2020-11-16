@@ -199,8 +199,111 @@ trait Dom_Extractor
             }
         }
 
-        return sizeof($links) > 0 ? $links : null;
+        return sizeof($links) > 0 ? $links : [];
     }
+
+
+    /**
+     * @function extract_single_links
+     * 
+     * @param {dom} $dom -> DOM
+     * 
+     * Extract single_link elements from text
+     */
+    function kill_single_links($content)
+    {
+        $domDocument = new DOMDocument();
+        @$domDocument->loadHTML(
+            mb_convert_encoding($content, 'HTML-ENTITIES'),
+            LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
+        );
+
+        $tagsToRemove = array();
+        $tagNames = array('div', 'p');
+
+        foreach ($tagNames as $tagName) {
+            $tags = $domDocument->getElementsByTagName($tagName);
+            foreach ($tags as $tag) {
+
+                if (
+                    $tag->getAttribute('class') == 'single_link' ||
+                    (
+                        $tag->childNodes->length == 1 &&
+                        $tag->childNodes[0]->tagName == 'a'
+                    )  
+                ) {
+                    array_push($tagsToRemove, $tag);
+                }
+            }
+        }
+
+        foreach ($tagsToRemove as $tag) {
+            if ($tag->parentNode) {
+                $tag->parentNode->removeChild($tag);
+            }
+        }
+
+        return $domDocument->saveHTML();
+    }
+
+    function extract_single_links($content)
+    {
+        $domDocument = new DOMDocument();
+        @$domDocument->loadHTML(
+            mb_convert_encoding($content, 'HTML-ENTITIES'),
+            LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
+        );
+
+        $tagNames = array('div');
+        $linkTypes = array('pdf', 'doc', 'docx');
+        $linksTag = [];
+        $links = [];
+
+        // extract
+        foreach ($tagNames as $tagName) {
+            $tags = $domDocument->getElementsByTagName($tagName);
+
+            foreach ($tags as $tag) {
+                $linkTag = new stdClass();
+                $attrs = $tag->attributes;
+
+                foreach ($attrs as $attr) {
+                    if (
+                        $attr->name == 'class' && 
+                        $attr->value == 'single_link'
+                    ) {
+
+                        $link_container = $tag;
+                        $link_items = $link_container->getElementsByTagName('a');
+                        
+
+                        foreach ($link_items as $link_item) {
+                            $linkTag->url = htmlentities($link_item->getAttribute('href'));
+                            $linkTag->url = $this->utils_replace_strange_strings($linkTag->url);
+                            $linkTag->url = $this->utils_static_assets_url($linkTag->url);
+                            $linkTag->title = htmlentities($link_item->nodeValue);
+                            array_push($linksTag, $linkTag);
+                        }
+                    }
+                }
+            }
+        }
+
+        //filter
+        foreach ($linksTag as $linkTag) {
+            $link = new stdClass();
+            $link->title = trim($linkTag->title);
+            $link->url = $linkTag->url;
+            
+            foreach ($linkTypes as $linkType) {
+                $link->type = preg_match('/(.*?)\.(' . $linkType .  ')$/', $linkTag->url) ? $linkType : '';
+            }
+            array_push($links, $link);
+        }
+
+        return sizeof($links) > 0 ? $links : [];
+    }
+
 
     /**
      * @function extract_accordion
@@ -224,24 +327,25 @@ trait Dom_Extractor
 
         foreach ($tags as $tag) {
             if ($tag->nodeName == 'h2') {
-                if ($accordion_section != null && $accordion_content != null) {    
+                if ($accordion_section != null && $accordion_content != null) {
                     $accordion_section->content = html_entity_decode($accordion_content->saveHTML());
                     $accordion_section->content = $this->utils_replace_strange_strings($accordion_section->content);
                     $accordion_section->content = $this->utils_static_assets_url($accordion_section->content);
                     $accordion_section->links = $this->extract_links($accordion_section->content);
+                    $accordion_section->links = $this->extract_single_links($accordion_section->content);
+
                     array_push($accordion_sections, $accordion_section);
                 }
                 $accordion_section = new stdClass();
-                $accordion_section->title = $tag->nodeValue; 
+                $accordion_section->title = $tag->nodeValue;
                 $accordion_content = new DOMDocument();
                 $accordion_content->loadHTML(mb_convert_encoding("<div class=\"accordion_content\"></div>", 'HTML-ENTITIES'), LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
-            
             } else {
                 if ($accordion_content) {
                     if ($tag instanceof DOMElement) {
                         $node = $accordion_content->importNode($tag, true);
                         $accordion_content->documentElement->appendChild($node);
-                    }                    
+                    }
                 }
             }
         }
@@ -257,7 +361,7 @@ trait Dom_Extractor
      * 
      * Extract links from text
      */
-    public function extract_summary($content) 
+    public function extract_summary($content)
     {
         $domDocument = new DOMDocument();
         @$domDocument->loadHTML(
@@ -275,10 +379,10 @@ trait Dom_Extractor
                 $paragraph_content = new DOMDocument();
                 $paragraph_section = new stdClass();
                 $paragraph_content->loadHTML(mb_convert_encoding("<div class=\"summary\"></div>", 'HTML-ENTITIES'), LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
-                
+
                 $node = $paragraph_content->importNode($tag, true);
                 $paragraph_content->documentElement->appendChild($node);
-                
+
                 $paragraph_section->content = html_entity_decode($paragraph_content->saveHTML());
                 $paragraph_section->content = $this->utils_replace_strange_strings($paragraph_section->content);
                 $paragraph_section->content = $this->utils_static_assets_url($paragraph_section->content);

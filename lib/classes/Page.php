@@ -23,17 +23,27 @@ class esd_BE_Page extends esd_BE_Entity
     /**
      * 
      */
-    function get_links() 
+    function get_links()
     {
+        $links_merged = [];
         $links = $this->extract_links($this->content_raw);
+        $links_single = $this->extract_single_links($this->content_raw);
+
+        //
+        array_merge($links, $links_single);
+
+        // // 
+        $this->content_raw = $this->kill_single_links($this->content_raw);
+
+
         return $links;
     }
 
     /**
      * 
      */
-    public function get_accordion() 
-    {        
+    public function get_accordion()
+    {
         $links = $this->extract_accordion($this->content_raw);
         return $links;
     }
@@ -79,9 +89,9 @@ class esd_BE_PlanEstudios extends esd_BE_EscuelaCrece
         'next_post',
         'categories',
         'accordion',
-        'links', 
-        'content_raw', 
-        'summary', 
+        'links',
+        'content_raw',
+        'summary',
     ];
 
     public function __construct($post)
@@ -91,4 +101,3 @@ class esd_BE_PlanEstudios extends esd_BE_EscuelaCrece
         $this->template = 'single_plan_estudios';
     }
 }
-
