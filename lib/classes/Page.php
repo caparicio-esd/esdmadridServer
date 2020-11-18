@@ -17,7 +17,6 @@ class esd_BE_Page extends esd_BE_Entity
         $this->accordion = $this->get_accordion($post);
         $this->links = $this->get_links();
         $this->unset_props();
-        $this->template = sizeof($this->accordion) !== 0 && $this->template == 'single_no_sidebar'  ? 'single_accordion' : $this->template;
     }
 
     /**
