@@ -290,7 +290,8 @@ trait Dom_Extractor
                             $linkTag->url = htmlentities($link_item->getAttribute('href'));
                             $linkTag->url = $this->utils_replace_strange_strings($linkTag->url);
                             $linkTag->url = $this->utils_static_assets_url($linkTag->url);
-                            $linkTag->title = htmlentities($link_item->nodeValue);
+                            //$linkTag->title = htmlentities($link_item->nodeValue);
+                            $linkTag->title = $link_item->nodeValue;
                             array_push($linksTag, $linkTag);
                         }
                     }
