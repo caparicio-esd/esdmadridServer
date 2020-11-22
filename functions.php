@@ -53,3 +53,4 @@ require dirname(__FILE__) . '/api/Menu/Menu.php';
 require dirname(__FILE__) . '/admin/custom_gutenberg.php';
 require dirname(__FILE__) . '/admin/reusable_blocks/src/single_link/single_link.php';
 require dirname(__FILE__) . '/admin/reusable_blocks/src/notifications/notifications.php';
+require dirname(__FILE__) . '/admin/reusable_blocks/src/translations/translations.php';

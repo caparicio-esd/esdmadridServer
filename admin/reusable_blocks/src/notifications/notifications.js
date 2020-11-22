@@ -58,7 +58,6 @@ const NotificationEditor = ({ attributes, setAttributes }) => {
 
         <div className={['notification', notificationType].join(' ')} key="edition">
             <h5>Notificación nivel {formattedType}</h5>
-            {/* <RichText key="editable" value={attributes.content} onChange={contentChangeHandler} /> */}
             <InnerBlocks allowedBlocks={ALLOWED_BLOCKS} />
         </div>,
     ];
