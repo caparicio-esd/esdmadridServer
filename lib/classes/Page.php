@@ -24,13 +24,9 @@ class esd_BE_Page extends esd_BE_Entity
      */
     function get_links()
     {
-        $links = $this->extract_links($this->content_raw);
         $links_single = $this->extract_single_links($this->content_raw);
-
-        array_merge($links, $links_single);
         $this->content_raw = $this->kill_single_links($this->content_raw);
-        
-        return $links;
+        return $links_single;
     }
 
     /**
