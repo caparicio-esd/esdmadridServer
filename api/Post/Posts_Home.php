@@ -25,7 +25,7 @@ function get_rest_posts_home()
         'post_type' => 'post',
         'posts_per_page' => $post_per_age,
         'paged' => $page, 
-        'tax_query' => array(
+        'tax_query' => $category === '' ? '' : array(
             'relation' => 'OR',
             array(
                 'taxonomy' => 'category',
