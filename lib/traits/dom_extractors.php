@@ -226,12 +226,13 @@ trait Dom_Extractor
             foreach ($tags as $tag) {
 
                 if (
-                    $tag->getAttribute('class') == 'single_link' ||
-                    (
-                        $tag->childNodes->length == 1 &&
-                        $tag->childNodes[0]->tagName == 'a'
-                    ) ||
-                    strpos($tag->getAttribute('href'), '.pdf') !== false
+                    $tag->getAttribute('class') == 'single_link' 
+                    //|| 
+                    //(
+                        //$tag->childNodes->length == 1 &&
+                        //$tag->childNodes[0]->tagName == 'a'
+                    //) ||
+                    //strpos($tag->getAttribute('href'), '.pdf') !== false
                 ) {
                     array_push($tagsToRemove, $tag);
                 }
