@@ -341,10 +341,12 @@ trait Dom_Extractor
                     $accordion_section->content = $this->utils_replace_strange_strings($accordion_section->content);
                     $accordion_section->content = $this->utils_static_assets_url($accordion_section->content);
 
-                    $links_a = $this->extract_links($accordion_section->content);
-                    $links_b = $this->extract_links($accordion_section->content);
+                    $links_a = $this-> extract_single_links($accordion_section->content);
+                    //$links_b = $this->extract_links($accordion_section->content);
 
-                    $accordion_section->links = array_merge($links_a, $links_b);
+                    //$accordion_section->links = array_merge($links_a, $links_b);
+                    $accordion_section->links = $links_a;
+
                     $accordion_section->content = $this->kill_single_links($accordion_section->content);
                     array_push($accordion_sections, $accordion_section);
                 }
