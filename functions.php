@@ -46,6 +46,8 @@ require dirname(__FILE__) . '/api/Convenios/Convenios_List.php';
 require dirname(__FILE__) . '/api/Search/Search.php';
 require dirname(__FILE__) . '/api/Menu/Menu.php';
 
+require dirname(__FILE__) . '/api/Blog/Blog.php';
+
 
 /**
  * REUSABLE BLOCKS
