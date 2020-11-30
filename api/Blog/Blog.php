@@ -59,7 +59,7 @@ function get_blog_posts()
         'paged' => $page,
         'year' => $year,
         'month' => $month,
-        'tax_query' => [
+        'tax_query' => sizeof($categories) > 0 ? [
             'relation' => 'OR',
             [
                 'taxonomy' => 'category',
@@ -71,7 +71,7 @@ function get_blog_posts()
                 'field' => 'slug',
                 'terms' => $categories,
             ],
-        ],
+        ] : '',
     ]);
 
     $blog_info = [
