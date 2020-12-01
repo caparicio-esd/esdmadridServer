@@ -13,23 +13,20 @@
 
 function get_blog()
 {
-
-
-    $posts = array();
-    foreach (get_blog_posts()['results'] as $post) {
+    $results = get_blog_posts();
+    $posts = [];
+    foreach ($results['results']['posts'] as $post) {
         array_push($posts, new esd_BE_Post_Home_ListItem($post));
     }
 
     $response = [
-        'search_info' => get_blog_posts()['searchInfo'],
+        'search_info' => $results['searchInfo'],
         'posts' => $posts,
         'blog_dates' => get_blog_dates(
-            get_blog_posts()['searchInfo']['year'], 
-            get_blog_posts()['searchInfo']['month']
-        ), 
-        'blog_categories' => get_blog_categories(
-            get_blog_posts()['searchInfo']['categories']
-        )
+            $results['searchInfo']['year'],
+            $results['searchInfo']['month']
+        ),
+        'blog_categories' => get_blog_categories($results['searchInfo']['categories']),
     ];
 
     return $response;
@@ -59,19 +56,22 @@ function get_blog_posts()
         'paged' => $page,
         'year' => $year,
         'month' => $month,
-        'tax_query' => sizeof($categories) > 0 ? [
-            'relation' => 'OR',
-            [
-                'taxonomy' => 'category',
-                'field' => 'slug',
-                'terms' => $categories,
-            ],
-            [
-                'taxonomy' => 'post_tag',
-                'field' => 'slug',
-                'terms' => $categories,
-            ],
-        ] : '',
+        'tax_query' =>
+            sizeof($categories) > 0
+                ? [
+                    'relation' => 'OR',
+                    [
+                        'taxonomy' => 'category',
+                        'field' => 'slug',
+                        'terms' => $categories,
+                    ],
+                    [
+                        'taxonomy' => 'post_tag',
+                        'field' => 'slug',
+                        'terms' => $categories,
+                    ],
+                ]
+                : '',
     ]);
 
     $blog_info = [
@@ -80,13 +80,18 @@ function get_blog_posts()
         'month' => $month,
         'page' => $page,
         'postsPerPage' => $postsPerPage,
+        'totalPages' => $query->max_num_pages,
+        'totalPosts' => $query->found_posts
     ];
-    $posts = $query->posts;
-    $post_count = $query->post_count;
+    $blog_results = [
+        'posts' => $query->posts,
+        'count' => $query->found_posts,
+        'totalPages' => $query->max_num_pages,
+    ];
 
     return [
         'searchInfo' => $blog_info,
-        'results' => $posts,
+        'results' => $blog_results,
     ];
 }
 
@@ -96,8 +101,8 @@ function get_blog_posts()
 function get_blog_categories($selectedCategories)
 {
     global $wpdb;
-    
-    $inStatement = "'" . join("','",$selectedCategories) . "'";
+
+    $inStatement = "'" . join("','", $selectedCategories) . "'";
 
     $results = $wpdb->get_results(
         "
@@ -120,7 +125,7 @@ function get_blog_categories($selectedCategories)
 }
 
 /**
- * 
+ *
  */
 function get_blog_dates($year, $month)
 {
