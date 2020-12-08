@@ -140,7 +140,8 @@ function get_blog_dates($year, $month)
             FROM (
                 SELECT YEAR(post_date) AS year, MONTH(post_date) AS month, COUNT(*) AS amount
                 FROM {$wpdb->prefix}posts
-                WHERE post_type IN('post')
+                WHERE post_type IN ('post')
+                AND post_statys IN ('published')
                 GROUP BY YEAR(post_date), MONTH(post_date)
                 ORDER BY YEAR(post_date) DESC, MONTH(post_date) DESC
             ) AS q
