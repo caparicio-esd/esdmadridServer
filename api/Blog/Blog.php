@@ -50,12 +50,14 @@ function get_blog_posts()
     $page = isset($_GET['page']) ? $_GET['page'] : 1;
     $postsPerPage = isset($_GET['posts_per_page']) ? $_GET['posts_per_page'] : 10;
 
+
+
     $query = new WP_Query([
         'post_type' => 'post',
         'posts_per_page' => $postsPerPage,
         'paged' => $page,
         'year' => $year,
-        'month' => $month,
+        'monthnum' => $month,
         'tax_query' =>
             sizeof($categories) > 0
                 ? [
@@ -117,8 +119,7 @@ function get_blog_categories($selectedCategories)
                 ORDER BY amount DESC) AS q
             WHERE category_slug NOT IN('sin-categoria', 'm2sonido', 'sliderhall', 'sliderhome')
             ORDER BY selected DESC
-        ",
-        OBJECT
+        "
     );
 
     return $results;
@@ -144,8 +145,7 @@ function get_blog_dates($year, $month)
                 ORDER BY YEAR(post_date) DESC, MONTH(post_date) DESC
             ) AS q
             ORDER BY selected_year DESC, selected_month DESC
-        ",
-        OBJECT
+        "
     );
 
     return $results;
