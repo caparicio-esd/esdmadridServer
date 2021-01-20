@@ -57,3 +57,12 @@ require dirname(__FILE__) . '/admin/custom_gutenberg.php';
 require dirname(__FILE__) . '/admin/reusable_blocks/src/single_link/single_link.php';
 require dirname(__FILE__) . '/admin/reusable_blocks/src/notifications/notifications.php';
 require dirname(__FILE__) . '/admin/reusable_blocks/src/translations/translations.php';
+
+
+
+function console_log($data)
+{
+    echo '<script>';
+    echo 'console.log(' . json_encode($data) . ')';
+    echo '</script>';
+}
