@@ -22,6 +22,7 @@ require dirname(__FILE__) . '/admin/taxonomy_portfolio.php';
  * 
  * Classes
  */
+require dirname(__FILE__) . '/lib/ftp_uploader.php';
 require dirname(__FILE__) . '/lib/root.php';
 
 
