@@ -28,6 +28,7 @@ abstract class esd_BE_Entity
 
     public $template;
     public $thumbnail;
+    public $cover;
 
 
 
@@ -55,6 +56,7 @@ abstract class esd_BE_Entity
 
         $this->template = $this->get_post_template_field_by_id($post->ID)->template;
         $this->thumbnail = $this->get_post_thumbnails();
+        $this->cover = $this->get_post_cover();
     }
 
 
@@ -92,6 +94,24 @@ abstract class esd_BE_Entity
             $thumbnails[$size] = $gtp;
         }
         return $thumbnails;
+    }
+
+
+    /**
+     * get cover 
+     */
+    public function get_post_cover()
+    {
+        $sizes = get_intermediate_image_sizes();
+
+        foreach ($sizes as $size) {
+            if($size === 'large') {
+                $gtp = get_the_post_thumbnail_url($this->ID, $size);
+                $gtp = $this->utils_static_assets_url($gtp);
+                $cover = $gtp;
+            } 
+        }
+        return $cover;
     }
 
 

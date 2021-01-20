@@ -52,7 +52,8 @@ class esd_BE_Post_Home_ListItem extends esd_BE_Post
         'thumbnail',
         'template',
         'categories', 
-        'summary'
+        'summary',
+        'cover'
     ];
 
     function __construct($post)
