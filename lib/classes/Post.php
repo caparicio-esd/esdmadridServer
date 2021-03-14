@@ -51,8 +51,8 @@ class esd_BE_Post_Home_ListItem extends esd_BE_Post
         'title', 'content_text',
         'thumbnail',
         'template',
-        'categories', 
-        'summary',
+        'categories',
+        'summary', 
         'cover'
     ];
 

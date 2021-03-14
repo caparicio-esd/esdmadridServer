@@ -134,6 +134,23 @@ abstract class esd_BE_Entity
         }
     }
 
+    /**
+     * get cover 
+     */
+    public function get_post_cover()
+    {
+        $sizes = get_intermediate_image_sizes();
+
+        foreach ($sizes as $size) {
+            if ($size === 'large') {
+                $gtp = get_the_post_thumbnail_url($this->ID, $size);
+                $gtp = $this->utils_static_assets_url($gtp);
+                $cover = $gtp;
+            }
+        }
+        return $cover;
+    }
+
 
     /**
      * unset props from $this->to_unset_props array

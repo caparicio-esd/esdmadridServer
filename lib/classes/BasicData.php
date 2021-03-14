@@ -38,8 +38,8 @@ class esd_BE__BasicData
     {
         self::$root = site_url();
         self::$api_root = self::$root . '/wp-json/esd/v1/';
-        self::$is_production = false;
-        self::$is_migrated = false;
+        self::$is_production = true;
+        self::$is_migrated = true;
 
         self::$api_static_assets = self::$root . '/wp-content/uploads/';;
         self::$origin_statics_there = 'https://esdmadrid.es/esdmadrid_2.0/wp-content/uploads/';
