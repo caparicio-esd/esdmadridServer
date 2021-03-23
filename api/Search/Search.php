@@ -30,7 +30,8 @@ function get_rest_search($request)
         $posts = new WP_Query(array(
             's' => $s,
             'paged' => $page,
-            'posts_per_page' => $posts_per_page
+            'posts_per_page' => $posts_per_page, 
+            'post_type' => 'post'
         ));
 
 
@@ -67,7 +68,8 @@ function get_rest_search($request)
                 ),
             ),
             'paged' => $page,
-            'posts_per_page' => $posts_per_page
+            'posts_per_page' => $posts_per_page,
+            'post_type' => 'post'
         ));
 
         // construct response
