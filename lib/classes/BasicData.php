@@ -13,12 +13,11 @@ class esd_BE__BasicData
 
     public static $root;
     public static $api_root;
-    public static $is_production;
-    public static $is_migrated;
+    public static $is_local;
 
     public static $api_static_assets;
-    public static $origin_statics_there;
-    public static $static_assets;
+    public static $production_statics;
+    public static $final_static_assets;
 
     public static $flag_name = 'ui-flag';
     public static $flag_options = [
@@ -38,12 +37,11 @@ class esd_BE__BasicData
     {
         self::$root = site_url();
         self::$api_root = self::$root . '/wp-json/esd/v1/';
-        self::$is_production = true;
-        self::$is_migrated = true;
+        self::$is_local = true;
 
-        self::$api_static_assets = self::$root . '/wp-content/uploads/';;
-        self::$origin_statics_there = 'https://esdmadrid.es/esdmadrid_2.0/wp-content/uploads/';
-        self::$static_assets = self::$is_migrated ? self::$api_static_assets : self::$origin_statics_there;
+        self::$api_static_assets = self::$root . '/wp-content/uploads/';
+        self::$production_statics = 'https://admin-dev.esdmadrid.es' . '/wp-content/uploads/';
+        self::$final_static_assets = self::$is_local ? self::$production_statics : self::$api_static_assets;
 
         self::$template_collection = $this->get_post_template_field(null, self::$flag_name);
     }

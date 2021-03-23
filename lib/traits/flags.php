@@ -42,6 +42,7 @@ trait Flags {
     public function get_post_template_field_by_id($pid) 
     {
         $result_out = new stdClass();
+        $post_type = get_post_type($pid);
         
         foreach (esd_BE__BasicData::$template_collection as $result) {
             if ($result->id == $pid) {
@@ -49,9 +50,9 @@ trait Flags {
             break;
             } else {
                 $template = '';
-                if ($this->utils_get_post_type($pid) == 'post') {
+                if ($post_type == 'post') {
                     $template = esd_BE__BasicData::$flag_options[1];
-                } else if ($this->utils_get_post_type($pid) == 'page') {
+                } else if ($post_type == 'page') {
                     $template = esd_BE__BasicData::$flag_options[0];
                 } else {
                     $template = esd_BE__BasicData::$flag_options[1];

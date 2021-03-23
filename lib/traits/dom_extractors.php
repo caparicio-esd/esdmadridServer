@@ -23,10 +23,9 @@ trait Dom_Extractor
         $domDocument = $this->kill_void_tags($domDocument);
         $domDocument = $this->normalize_urls($domDocument);
         $domDocument = $this->normalize_media($domDocument);
+        // $this->normalize_inner_anchors($domDocument);
 
         $domOut = $domDocument->saveHTML();
-
-        $domOut = $this->utils_inner_anchors($domOut);
         $domOut = html_entity_decode($domOut);
 
         return $domOut;
@@ -85,9 +84,6 @@ trait Dom_Extractor
 
                 foreach ($attrs as $attr) {
                     if ($attr->name == 'src' || $attr->name == 'srcset' || $attr->name == 'href') {
-                        $attr->value = htmlentities($attr->value);
-                        $attr->value = $this->utils_replace_strange_strings($attr->value);
-                        $attr->value = $this->utils_change_url_protocol($attr->value);
                         $attr->value = $this->utils_static_assets_url($attr->value);
                     }
                 }
@@ -119,10 +115,11 @@ trait Dom_Extractor
                         ($attr->name == 'href' && !strpos($attr->value, 'uploads')) ||
                         ($attr->name == 'data-saferedirecturl' && !strpos($attr->value, 'uploads'))
                     ) {
-                        if (strpos($attr->value, esd_BE__BasicData::$api_root) > -1) {
-                            $attr->value = htmlentities(
-                                str_replace(esd_BE__BasicData::$api_root, '', $attr->value)
-                            );
+                        $pageType = get_page_by_path(str_replace(esd_BE__BasicData::$root, '', $attr->value));
+                        $pageRoute = $pageType == "post" ? "post" : "";
+                        
+                        if (strpos($attr->value, esd_BE__BasicData::$root) > -1) {
+                            $attr->value = $pageRoute . str_replace(esd_BE__BasicData::$root, '', $attr->value);
                         }
                     }
                 }
@@ -130,6 +127,14 @@ trait Dom_Extractor
         }
         return $dom;
     }
+
+
+    public function normalize_inner_anchors($dom)
+    {
+        var_dump($dom);
+        return $dom;
+    }
+
 
     /**
      * @function extract_single_links
@@ -202,9 +207,7 @@ trait Dom_Extractor
 
                         foreach ($link_items as $link_item) {
                             $linkTag->url = htmlentities($link_item->getAttribute('href'));
-                            $linkTag->url = $this->utils_replace_strange_strings($linkTag->url);
                             $linkTag->url = $this->utils_static_assets_url($linkTag->url);
-                            //$linkTag->title = htmlentities($link_item->nodeValue);
                             $linkTag->title = $link_item->nodeValue;
                             array_push($linksTag, $linkTag);
                         }
@@ -261,9 +264,6 @@ trait Dom_Extractor
                 if ($accordion_section != null && $accordion_content != null) {
                     $accordion_section->content = html_entity_decode(
                         $accordion_content->saveHTML()
-                    );
-                    $accordion_section->content = $this->utils_replace_strange_strings(
-                        $accordion_section->content
                     );
                     $accordion_section->content = $this->utils_static_assets_url(
                         $accordion_section->content
@@ -330,9 +330,6 @@ trait Dom_Extractor
                 $paragraph_content->documentElement->appendChild($node);
 
                 $paragraph_section->content = html_entity_decode($paragraph_content->saveHTML());
-                $paragraph_section->content = $this->utils_replace_strange_strings(
-                    $paragraph_section->content
-                );
                 $paragraph_section->content = $this->utils_static_assets_url(
                     $paragraph_section->content
                 );

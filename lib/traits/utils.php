@@ -10,6 +10,8 @@ trait Utils
      * @return {text} $clean_content
      * 
      * Attempts to clean content, stripping out HTML tags and \n and &nsbp
+     * Done to normalize old esd posts based on using html rendering plugins.
+     * With new posts, won't affect anything....
      */
     public function utils_clean_content($content)
     {
@@ -21,7 +23,6 @@ trait Utils
         $clean_content = str_replace("\r\n", "", $clean_content);
         $clean_content = str_replace("<br /><br />", "<br />", $clean_content);
         $clean_content = str_replace("<br /> <br />", "<br />", $clean_content);
-
         return $clean_content;
     }
 
@@ -34,6 +35,7 @@ trait Utils
      * @return {String} $strOut -> String without accents and lowercased
      * 
      * Returns String without accents and lowercased
+     * Done to create slugs from normal texts
      */
     public function utils_slugify($strIn)
     {
@@ -47,78 +49,32 @@ trait Utils
 
 
     /**
-     * @function utils_replace_strange_strings
+     * @function utils_static_assets_url
      * 
-     * @param {String} $strIn -> String in
-     * @return {String} $strOut -> String out
+     * @param {String} $url_in
+     * @return {String} $url_out
      * 
-     * Replace errored strings due to external URL strings
+     * Replace url from there to here 
      */
-    public function utils_replace_strange_strings($strIn)
+    public function utils_static_assets_url($url_in)
     {
-        $arr_replace = array('&__tn__=-R');
-        $strOut = str_replace($arr_replace, '', $strIn);
-
-        return $strOut;
-    }
-
-
-    /**
-     * @function utils_change_url_protocol
-     * 
-     * @param {String} $strIn -> URL string in to be corrected
-     * @return {String} $strOut -> URL string already corrected
-     * 
-     * Returns the post_type from a postID
-     */
-    public function utils_change_url_protocol($strIn)
-    {
-        if (strrpos($strIn, '/wp-content/uploads/') !== false) {
-            $strIn = str_replace('http://', 'https://', $strIn);
-            // $strOut = esd_BE__BasicData::$static_assets;
-            return $strIn;
+        if (esd_BE__BasicData::$is_local) {
+            $url_out = str_replace(
+                esd_BE__BasicData::$api_static_assets,
+                esd_BE__BasicData::$final_static_assets,
+                $url_in
+            );
         } else {
-            return $strIn;
+            $url_out = $url_in;
         }
-    }
-
-    /**
-     * @function utils_get_post_type
-     * 
-     * @param {Number} $pId -> Post ID Number
-     * @return {String} $post_type
-     * 
-     * Returns the post_type from a postID
-     */
-    public function utils_get_post_type($pId)
-    {
-        $post_type = get_post_type($pId);
-        return $post_type;
-    }
-
-
-    /**
-     * @function utils_get_post_type
-     * 
-     * @param {Number} $pId -> Post ID Number
-     * @return {String} $post_type
-     * 
-     * Returns the post_type from a postID
-     */
-    public function utils_static_assets_url($url)
-    {
-        $url_out = str_replace(
-            esd_BE__BasicData::$api_static_assets, 
-            esd_BE__BasicData::$origin_statics_there, 
-            $url
-        );
 
         return $url_out;
     }
 
 
     /**
-     * @function utils_get_post_type
+     * @deprecated 
+     * @function utils_inner_anchors
      * 
      * @param {Number} $pId -> Post ID Number
      * @return {String} $post_type
@@ -128,5 +84,42 @@ trait Utils
     public function utils_inner_anchors($content)
     {
         return str_replace(esd_BE__BasicData::$root, '', $content);
+    }
+
+
+    /**
+     * @deprecated 
+     * @function utils_replace_strange_strings
+     * 
+     * @param {String} $strIn -> String in
+     * @return {String} $strOut -> String out
+     * 
+     * Replace errored strings due to external URL strings
+     * In some cases, we noticed that certain posts were broken because this url
+     */
+    public function utils_replace_strange_strings($strIn)
+    {
+        $arr_replace = array('&__tn__=-R');
+        $strOut = str_replace($arr_replace, '', $strIn);
+        return htmlspecialchars($strOut);
+    }
+
+
+    /**
+     * @deprecated
+     * @function utils_change_url_protocol
+     * 
+     * @param {String} $strIn -> URL string in to be corrected
+     * 
+     * Normalizes url protocol to ssl
+     */
+    public function utils_change_url_protocol($strIn)
+    {
+        if (strrpos($strIn, '/wp-content/uploads/') !== false) {
+            $strIn = str_replace('http://', 'https://', $strIn);
+            return $strIn;
+        } else {
+            return $strIn;
+        }
     }
 }
