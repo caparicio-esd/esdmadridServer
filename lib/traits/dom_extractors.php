@@ -84,7 +84,7 @@ trait Dom_Extractor
 
                 foreach ($attrs as $attr) {
                     if ($attr->name == 'src' || $attr->name == 'srcset' || $attr->name == 'href') {
-                        $attr->value = $this->utils_static_assets_url($attr->value);
+                        $attr->value = $this->utils_static_assets_url(htmlspecialchars($attr->value));
                     }
                 }
             }
