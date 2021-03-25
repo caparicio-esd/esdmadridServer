@@ -53,7 +53,8 @@ class esd_BE_Post_Home_ListItem extends esd_BE_Post
         'template',
         'categories',
         'summary', 
-        'cover'
+        'cover', 
+        'event'
     ];
 
     function __construct($post)

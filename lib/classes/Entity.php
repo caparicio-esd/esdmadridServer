@@ -29,6 +29,7 @@ abstract class esd_BE_Entity
     public $template;
     public $thumbnail;
     public $cover;
+    public $event;
 
 
 
@@ -57,6 +58,7 @@ abstract class esd_BE_Entity
         $this->template = $this->get_post_template_field_by_id($post->ID)->template;
         $this->thumbnail = $this->get_post_thumbnails();
         $this->cover = $this->thumbnail["large"];
+        $this->event = $this->get_event();
     }
 
 
@@ -116,6 +118,18 @@ abstract class esd_BE_Entity
         }
     }
 
+    /**
+     * 
+     */
+    public function get_event()
+    {
+        $event = new stdClass();
+        $event->place = get_post_meta($this->ID, "lugar_evento", true);
+        $event->date = get_post_meta($this->ID, "fecha_evento", true);
+        $event->dateEnd = get_post_meta($this->ID, "fecha_evento_end", true);
+
+        return $event;
+    }
 
 
     /**
