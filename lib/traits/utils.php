@@ -73,6 +73,33 @@ trait Utils
 
 
     /**
+     * @function sanitize_meta_fields
+     * 
+     * @param {Object} $field_object
+     * @return {Object} $field_object_out
+     * 
+     * Sanitize meta fields based on FE demands 
+     */
+    public function sanitize_meta_fields($field_object)
+    {
+        switch ($field_object->field_type) {
+            case 'link':
+                $field_object->field_value['url'] = str_replace(esd_BE__BasicData::$root, '', $field_object->field_value['url']);
+                break;
+            case 'date_picker': 
+                $d = DateTime::createFromFormat('d/m/Y', $field_object->field_value);
+                $field_object->field_value = $d->format('c');
+                break;
+            case 'number': 
+                $field_object->field_value = intval($field_object->field_value);
+                break;
+        }
+
+        return $field_object;
+    }
+
+
+    /**
      * @deprecated 
      * @function utils_inner_anchors
      * 

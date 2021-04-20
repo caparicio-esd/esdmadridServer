@@ -82,11 +82,32 @@ class esd_BE_PlanEstudios extends esd_BE_EscuelaCrece
         'links',
         'content_raw',
         'summary',
+        'meta_fields'
+    ];
+
+    public $meta_fields = [
+        "landing_fecha_de_inicio_de_la_titulacion",
+        "landing_plazas_disponibles_por_curso",
+        "landing_creditos_de_la_titulacion_completa",
+        "landing_requisitos_de_admision_en_la_titulacion",
+        "landing_plazo_de_inscripcion_para_el_proximo_curso_inicio",
+        "landing_plazo_de_inscripcion_para_el_proximo_curso_final",
+        "landing_metodologia_de_la_titulacion",
+        "landing_duracion_de_la_titulacion",
+        "landing_denominacion_de_la_titulacion",
+        "landing_presentacion_de_la_titulacion",
+        "landing_video_de_la_titulacion",
+        "landing_a_quien_va_dirigido",
+        "landing_tabla_de_precios"
     ];
 
     public function __construct($post)
     {
-        parent::__construct($post);
+        $p = get_parent_class(get_class());
+        $gp = get_parent_class($p);
+        $gp::__construct($post);
+
+        $this->get_meta();
         $this->unset_props();
         $this->template = 'single_plan_estudios';
     }

@@ -8,7 +8,7 @@
 
 abstract class esd_BE_Entity
 {
-    use Flags, Dom_Extractor;
+    use Flags, Dom_Extractor, Utils;
 
     public $ID;
     public $slug;
@@ -175,5 +175,29 @@ abstract class esd_BE_Entity
             'thumbnail', 'categories', 'recent_posts',
             'accordion', 'links'
         ];
+    }
+
+    public function get_meta()
+    {
+        $meta = array();
+        if (isset($this->meta_fields)) {
+            foreach ($this->meta_fields as $meta_field) {
+
+                if (function_exists("get_field_object")) {
+                    $meta_field_raw = get_field_object($meta_field, $this->ID);
+                    $meta_field_out = new stdClass();
+                    $meta_field_out->field_label = $meta_field_raw['label'];
+                    $meta_field_out->field_name = $meta_field_raw['name'];
+                    $meta_field_out->field_type = $meta_field_raw['type'];
+                    $meta_field_out->field_value = $meta_field_raw['value'];
+
+                    $meta_field_out = $this->sanitize_meta_fields($meta_field_out);
+                    array_push($meta, $meta_field_out);
+                } else {
+                    $meta = "No se encuentra función. Hay que instalar ACF Plugin.";
+                }
+            }
+        }
+        $this->meta = $meta;
     }
 }
