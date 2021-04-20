@@ -8,7 +8,15 @@
 
 abstract class esd_BE_Entity
 {
-    use Flags, Dom_Extractor, Utils;
+    use Flags, Dom_Extractor, Utils {
+        Dom_Extractor::utils_clean_content insteadof Utils;
+        Dom_Extractor::utils_slugify insteadof Utils;
+        Dom_Extractor::utils_static_assets_url insteadof Utils;
+        Dom_Extractor::sanitize_meta_fields insteadof Utils;
+        Dom_Extractor::utils_inner_anchors insteadof Utils;
+        Dom_Extractor::utils_replace_strange_strings insteadof Utils;
+        Dom_Extractor::utils_change_url_protocol insteadof Utils;
+    }
 
     public $ID;
     public $slug;
