@@ -19,7 +19,9 @@ function get_rest_plan_estudios()
         'grafico' => 'plan-de-estudios-diseno-grafico',
         'producto' => 'plan-de-estudios-diseno-de-producto',
         'interiores' => 'plan-de-estudios-diseno-de-interiores',
-        'moda' => 'plan-de-estudios-diseno-de-moda'
+        'moda' => 'plan-de-estudios-diseno-de-moda', 
+        'mdi' => 'plan-de-estudios-del-master-de-diseno-interactivo',
+        'mec' => 'plan-de-estudios-master-de-espacios-comerciales'
     );
 
     // fetch param
