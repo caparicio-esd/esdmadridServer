@@ -34,8 +34,12 @@ function get_rest_plan_estudios()
 
     // fetch file
     $uri = get_template_directory() . '/microservices/asignaturas_scraper/data/clean/' . $especialidad . '.json';
-    $json = file_get_contents($uri);
-    $data = json_decode($json, TRUE);
+    if (!$json = @file_get_contents($uri)) {
+        $data = null;
+    } else {
+        $json = file_get_contents($uri);
+        $data = json_decode($json, TRUE);
+    }
 
     // construct response
     $response = new esd_BE_PlanEstudios($results->posts[0]);
