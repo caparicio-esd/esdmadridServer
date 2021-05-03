@@ -67,13 +67,13 @@
 				<h4>
 					<a href="#" id="logo-esd-foot">
 						<img alt="Escuela Superior de Diseño de Madrid"
-							src="https://esdmadrid.es/esdmadrid_2.0/wp-content/uploads/2015/05/esd_logo_Big_White.png">
+							src="https://admin-dev.esdmadrid.es/wp-content/uploads/2015/05/esd_logo_Big_White.png">
 					</a>
 				</h4>
 				<h4>
 					<a href="#" id="logo-cam-foot">
 						<img alt="Comunidad de Madrid"
-							src="https://esdmadrid.es/esdmadrid_2.0/wp-content/uploads/2019/02/logo-cam_full_White-3.png">
+							src="https://admin-dev.esdmadrid.es/wp-content/uploads/2019/02/logo-cam_full_White-3.png">
 					</a>
 				</h4>
 			</div>

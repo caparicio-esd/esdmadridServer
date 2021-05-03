@@ -13,11 +13,17 @@
 </div>
 <div class="content">
     <div class="content_holder">
-        <p>Esta página se encuentra en mantenimiento. Disculpen las molestias.</p>
-        <p>Para información actualizada de la Escuela Superior de Diseño sobre actividades y novedades, sigan nuestro
-            Facebook e Instagram.</p>
-        <p>Para más información, pueden contactar con secretaría.
-            Teléfono: +34 91 439 00</p>
+        <p>
+            Si estás en esta página es por que quieres entrar en el entorno de administración de ESDMadrid o en la web de ESDMadrid
+        </p>
+        <div class="links">
+            <div class="link">
+                <a href="/wp-admin">Ir al admin</a>
+            </div>
+            <div class="link">
+                <a href="https://esdmadrid.es">Ir a la web</a>
+            </div>
+        </div>
     </div>
 </div>
 

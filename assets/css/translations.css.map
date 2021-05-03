@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,YADQ;AAAZ,YAAY,CAER,CAAC,CAAC;EACE,MAAM,EAAE,cAAc;CACzB",
+    "sources": [
+        "../../admin/reusable_blocks/src/translations/translations.scss"
+    ],
+    "names": [],
+    "file": "translations.css"
+}
