@@ -90,6 +90,7 @@ class esd_BE_PlanEstudios extends esd_BE_EscuelaCrece
         "landing_plazas_disponibles_por_curso",
         "landing_creditos_de_la_titulacion_completa",
         "landing_requisitos_de_admision_en_la_titulacion",
+        "landing_requisitos_de_admision_en_la_titulacion-alt",
         "landing_plazo_de_inscripcion_para_el_proximo_curso_inicio",
         "landing_plazo_de_inscripcion_para_el_proximo_curso_final",
         "landing_metodologia_de_la_titulacion",
