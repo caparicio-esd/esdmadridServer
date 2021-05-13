@@ -193,14 +193,16 @@ abstract class esd_BE_Entity
 
                 if (function_exists("get_field_object")) {
                     $meta_field_raw = get_field_object($meta_field, $this->ID);
-                    $meta_field_out = new stdClass();
-                    $meta_field_out->field_label = $meta_field_raw['label'];
-                    $meta_field_out->field_name = $meta_field_raw['name'];
-                    $meta_field_out->field_type = $meta_field_raw['type'];
-                    $meta_field_out->field_value = $meta_field_raw['value'];
+                    if ($meta_field_raw['label'] != null) {
+                        $meta_field_out = new stdClass();
+                        $meta_field_out->field_label = $meta_field_raw['label'];
+                        $meta_field_out->field_name = $meta_field_raw['name'];
+                        $meta_field_out->field_type = $meta_field_raw['type'];
+                        $meta_field_out->field_value = $meta_field_raw['value'];
 
-                    $meta_field_out = $this->sanitize_meta_fields($meta_field_out);
-                    array_push($meta, $meta_field_out);
+                        $meta_field_out = $this->sanitize_meta_fields($meta_field_out);
+                        array_push($meta, $meta_field_out);
+                    }
                 } else {
                     $meta = "No se encuentra función. Hay que instalar ACF Plugin.";
                 }
