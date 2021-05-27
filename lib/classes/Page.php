@@ -99,7 +99,13 @@ class esd_BE_PlanEstudios extends esd_BE_EscuelaCrece
         "landing_presentacion_de_la_titulacion",
         "landing_video_de_la_titulacion",
         "landing_a_quien_va_dirigido",
-        "landing_tabla_de_precios"
+        "landing_tabla_de_precios",
+
+        "notification-title", 
+        "notification-body", 
+        "notification-button-text", 
+        "notification-button-url",
+        "notificacion-active"
     ];
 
     public function __construct($post)
