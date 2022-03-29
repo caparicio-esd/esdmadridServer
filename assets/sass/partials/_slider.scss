@@ -1,0 +1,10 @@
+.slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: $spacer * 9 0;
+
+  @include media(map-get($bp, "mobile_l")) {
+    padding: $spacer * 5 0;
+  }
+}

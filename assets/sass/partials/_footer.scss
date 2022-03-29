@@ -1,0 +1,116 @@
+footer {
+  background-color: $ui_black_02;
+  color: $ui_black_06;
+  padding: $spacer * 4 0;
+  font-size: 14px;
+
+  .footer-sidebar {
+    @extend .grid;
+
+    @include media(map-get($bp, "tablet")) {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    @include media(map-get($bp, "mobile_l")) {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    aside {
+      grid-column-end: span 2;
+
+      @include media(map-get($bp, "laptop")) {
+        grid-column-end: span 3;
+
+        &:nth-child(3) {
+          display: none;
+        }
+      }
+
+      @include media(map-get($bp, "tablet")) {
+        &:nth-child(2),
+        &:nth-child(3) {
+          display: none;
+        }
+      }
+
+      @include media(map-get($bp, "mobile_l")) {
+        &:nth-child(1),
+        &:nth-child(4) {
+          width: 90%;
+        }
+      }
+
+      &:last-child {
+        grid-column-start: 2 * 3 + 1;
+        grid-column-end: -1;
+        text-align: right;
+        align-self: end;
+
+        @include media(map-get($bp, "laptop")) {
+          grid-column-start: initial;
+          grid-column-end: span 4;
+        }
+
+        @include media(map-get($bp, "tablet")) {
+          width: 200px;
+        }
+
+        @include media(map-get($bp, "mobile_l")) {
+          align-self: initial;
+          text-align: left;
+          margin-top: $spacer * 2;
+          width: 90%;
+        }
+
+        h4:nth-of-type(1) img {
+          width: 333px;
+
+          @include media(map-get($bp, "laptop")) {
+            width: 100%;
+          }
+
+          @include media(map-get($bp, "mobile_l")) {
+            width: 80%;
+          }
+        }
+
+        h4:nth-of-type(2) img {
+          @include media(map-get($bp, "laptop")) {
+            width: 85%;
+          }
+
+          @include media(map-get($bp, "mobile_l")) {
+            width: 60%;
+          }
+        }
+      }
+
+      h3 {
+        max-width: 20ch;
+        text-transform: uppercase;
+        font-size: 16.3px;
+        min-height: $spacer * 4;
+      }
+
+      ul,
+      .textwidget {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        li {
+          a {
+            color: inherit;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+
+    .site-info {
+      display: none;
+    }
+  }
+}

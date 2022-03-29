@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,iBAAiB;EACzB,WAAW,EAAE,iBAAiB;CASjC;;AAZD,AAKI,YALQ,CAKR,KAAK,CAAC;EACF,WAAW,EAAE,IAAI;CACpB;;AAPL,AAQI,YARQ,CAQR,UAAU,CAAC;EACP,OAAO,EAAE,OAAO;EAChB,aAAa,EAAE,cAAc;CAChC",
+    "sources": [
+        "../../admin/reusable_blocks/src/single_link/single_link.scss"
+    ],
+    "names": [],
+    "file": "single_link.css"
+}

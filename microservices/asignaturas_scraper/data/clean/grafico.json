@@ -1,0 +1,348 @@
+{
+  "type": "grafico",
+  "name": "Diseño Gráfico",
+  "courses": 4,
+  "ectsByCourse": 60,
+  "ectsTotal": 240,
+  "ectsDistribution": {
+    "FB": 72,
+    "OE": 120,
+    "OPT": 24,
+    "Prácticas externas": 12,
+    "Trabajo Fin de grado": 12,
+    "Trabajo Fin de master": 0,
+    "Libre Configuración": 0
+  },
+  "asignaturas": [
+    {
+      "course": 1,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Color",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Fundamentos del diseño. Análisis",
+          "ects": 6,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Dibujo. Representación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Dibujo. Comunicación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Volumen",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Sistemas de representación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Tecnología Digital",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Fundamentos del diseño. Ideación",
+          "ects": 6,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Fund. científicos para el diseño",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Ecodiseño",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Teoría e Historia del Arte",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Tipografía",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Tecnología digital gráfica",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Tª de la imagen y de la comunicación",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 1,
+          "ects": 0
+        }
+      ]
+    },
+    {
+      "course": 2,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Fotografía y audiovisuales",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Teoría e Historia del diseño",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Técs. de expresión y comunicación",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Tipografía impresa",
+          "ects": 2,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Tipografía digital",
+          "ects": 2,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Fund. de estampación e impresión",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Técnicas de expresión gráfica",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Gráfica interactiva.Edicion",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Gráfica interactiva. Usabilidad",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Iniciación al diseño audiovisual",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Proyectos de diseño gráfico",
+          "ects": 8,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Proy. de diseño gráfico. Desarrollos",
+          "ects": 8,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Smas. de reproducción e impresión",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 2,
+          "ects": 4
+        }
+      ]
+    },
+    {
+      "course": 3,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Organización empresarial",
+          "ects": 4,
+          "course": 3,
+          "type": "FB"
+        },
+        {
+          "title": "Ilustración. Lenguajes y procesos",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Expresión fotográfica",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Gráfica multimedia. Producción",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Gráfica multimedia. Programación",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Diseño audiovisual. Posproducción",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Técnica fotográfica",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Historia del diseño gráfico",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Proy. diseño gráfico. Implementación",
+          "ects": 6,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Proy. interdisciplinares diseño gráfico",
+          "ects": 6,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Diseño editorial",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Ilustración y comunicación visual",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Diseño audiovisual. Proyectos",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 3,
+          "ects": 4
+        }
+      ]
+    },
+    {
+      "course": 4,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Teoría y cultura del diseño",
+          "ects": 4,
+          "course": 4,
+          "type": "FB"
+        },
+        {
+          "title": "Estética",
+          "ects": 4,
+          "course": 4,
+          "type": "FB"
+        },
+        {
+          "title": "Producción para artes gráficas",
+          "ects": 4,
+          "course": 4,
+          "type": "OE"
+        },
+        {
+          "title": "Proy. experimentales diseño gráfico",
+          "ects": 4,
+          "course": 4,
+          "type": "OE"
+        },
+        {
+          "title": "Protección del diseño",
+          "ects": 4,
+          "course": 4,
+          "type": "OE"
+        },
+        {
+          "title": "Prácticas externas",
+          "ects": 12,
+          "course": 4,
+          "type": "Prácticas externas"
+        },
+        {
+          "title": "Trabajo Fin de grado",
+          "ects": 12,
+          "course": 4,
+          "type": "Trabajo Fin de grado"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 4,
+          "ects": 16
+        }
+      ]
+    }
+  ]
+}
