@@ -1,10 +1,10 @@
 const { registerBlockType } = wp.blocks;
 const { RichText, InspectorControls, InnerBlocks } = wp.blockEditor;
 const { PanelBody, SelectControl } = wp.components;
-import { useState, useEffect } from "react";
-import "./notifications.scss";
+import { useState, useEffect } from 'react';
+import './notifications.scss';
 
-const ALLOWED_BLOCKS = ["core/heading", "core/paragraph"];
+const ALLOWED_BLOCKS = ['core/heading', 'core/paragraph'];
 
 /**
  *
