@@ -1,2517 +1,2151 @@
 [
-    {
-        "index": 7,
-        "id": 426,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "EDICIONES CONDÉ NAST, S.A.",
-        "address": "Paseo de la Castellana, 9-11 - 2º - 28046 Madrid",
-        "objectives": [
-            "Creación de maquetas",
-            "Conceptualización de fotos",
-            "Integrarse en la estructura de la redacción en función del proyecto, con los diferentes equipos",
-            "Participación activa en todas las fases en los proyectos en curso en el estudio.",
-            "Conociendo e identificando las fases y requerimientos sistemáticos del proceso de trabajo.",
-            "Utilizando una metodología y sistema de organización común a todos los proyectos y los mecanismos de control de un proyecto.",
-            "Tomando parte activa como soporte en los proyectos de comunicación corporativa, identidad visual, ilustración y web en función de su disponibilidad en la revista.",
-            "Formar parte de las sesiones críticas de análisis dentro de la dinámica propia de los proyectos, las propuestas y soluciones aportadas en cada caso",
-            "Desarrollando una actividad práctica de las herramientas y recibiendo indicaciones para la optimización de las herramientas y la mejora de su productividad."
-        ],
-        "picture": "/data/clean/pictures/94.jpeg"
-    },
-    {
-        "index": 16,
-        "id": 415,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SPAIN MEDIA CONSULTING, S.L.",
-        "address": "c/ Doctor Fourquet, 3, local 3 - 28012 Madrid",
-        "web": "https://spainmedia.es/",
-        "objectives": [
-            "Apoyar, desarrollar y materializar ideas en el departamento de arte.",
-            "Búsqueda de información previa a proyectos",
-            "Retoque y optimización de imágenes digitales",
-            "Búsqueda y tratamiento de imágenes",
-            "Diseño y realización de peizas gráficas",
-            "Maquetación",
-            "Apoyo a diseño de piezas creativas.",
-            "Maquetación de textos",
-            "Artes finales",
-            "Edición de fotos",
-            "Edición de vídeos",
-            "Mantenimiento de páginas web",
-            "Edición fotográfica. Tratamiento y enfoque fotográfico",
-            "Diseño de publicaciones. Diseño y producción web",
-            "Diseño de creatividades. Diseño de pequeñas piezas publicitarias"
-        ],
-        "picture": "/data/clean/pictures/109.jpeg"
-    },
-    {
-        "index": 19,
-        "id": 412,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "ILUNION HOTELS, S.A.",
-        "address": "c/ Albacete, 3 - 9º (Edificio Torre Ilunion) - 28027 Madrid",
-        "web": "https://www.ilunionhotels.com/",
-        "objectives": [
-            "Apoyo a diseño de piezas creativas.",
-            "Maquetación de textos",
-            "Artes finales",
-            "Edición de fotos",
-            "Edición de vídeos",
-            "Mantenimiento de páginas web"
-        ],
-        "picture": "/data/clean/pictures/106.jpeg"
-    },
-    {
-        "index": 20,
-        "id": 411,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "MATCH BALL MARKETING, S.L.",
-        "address": "c/ Santa Teresa de Jesús, 5 - 45600 Talavera de la Reina (Toledo)",
-        "web": "http://www.matchballmarketing.com/",
-        "objectives": [
-            "Diseño y creación de creatividades para nuestros clientes (futbolistas profesionales o marcas deportivas.",
-            "Diseño de cabeceras, acciones especiales, infografías, etc.",
-            "Ilustración digital.",
-            "Maquetación.",
-            "Edición de video. Opcional.",
-            "Motion Graphics. Opcional.",
-            "Otros:",
-            "• Autonomía y proactividad.",
-            "• Conocimiento de las singularidades Social Media.",
-            "• Se valora el interés y conocimiento del sector deportivo."
-        ],
-        "picture": "/data/clean/pictures/105.jpg"
-    },
-    {
-        "index": 28,
-        "id": 405,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Fundación Diseño Madrid",
-        "address": "Diego de León, 51 - 3º dcha - 28006 Madrid",
-        "web": "https://dimad.org/",
-        "objectives": [
-            "Se le encargarán tareas que se pueden hacer utilizando diferentes herramientas. Se le orientará sobre el camino más eficaz o se le corregirá si ha elegido otra opción",
-            "Reuniones de equipo para revisar tareas",
-            "Los equipos de trabajo son multidisciplinares y en muchas ocasiones tienen que abordar tareas comunes o de carácter diferente a su formación curricular, lo que supone un reto profesional",
-            "Reuniones de equipo para revisar tareas",
-            "Los escasos recursos tecnológicos con que se cuenta incentiva la versatilidad y la capacidad para encontrar soluciones",
-            "La propia dinámica del trabajo en la Central de Diseño fuerza esa capacidad de integración"
-        ],
-        "picture": "/data/clean/pictures/153.png"
-    },
-    {
-        "index": 38,
-        "id": 397,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "EL VIVERO (LEANDRO LATTES RECCHINI)",
-        "address": "C/ Marqués de Santa Ana, 18 - esc. 1, 2ª planta - 28004 Madrid",
-        "web": "http://elvivero.es/",
-        "objectives": [
-            "Colaboración  en varios proyectos para clientes del área de la cultura.",
-            "Desarrollo de la identidad visual para un festival de Cine. Se incluyen diversas aplicaciones como cartel, folleto, página web, banners, vídeos, etc.",
-            "Desarrollo de una exposición para un museo de arte contemporáneo. Se incluyen tareas como el diseño gráfico de la exposición, artes finales, etc.",
-            "Tareas internas del estudio como la actualización de nuestra página web."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 39,
-        "id": 396,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "BLUECELL COMUNICACIÓN, S.L.",
-        "address": "Paseo de la Castellana, 213 - bajo A - 28046 Madrid",
-        "web": "http://www.bluecell.es/",
-        "objectives": [
-            "Elaboración de mensajes visuales para diversos soportes y objetivos. Comunicación comercial y promocional, social e indtitucional, audiovisual, identitaria e institucional.",
-            "Ejecución de tareas en el desarrollo de procesos y proyectos de identidad. Elaboración de diferentes productos para redes sociales.",
-            "Manejo de herramientas digitales aplicadas a la comunicación visual y creacióni de soluciones gráficas interactivas, edición de video y tareas generales de productos audiovisuales.",
-            "Tareas de investigación y conceptualización."
-        ],
-        "picture": "/data/clean/pictures/230.png"
-    },
-    {
-        "index": 46,
-        "id": 390,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "GRÁFICA FUTURA DISEÑO EDITORIAL, S.L.",
-        "address": "c/ Mantuano, 32, local B - 28002 Madrid",
-        "web": "http://www.graficafutura.es/",
-        "objectives": [
-            "Funciones de asistente de diseño, maquetación y preparación de artes finales en proyectos de diseño gráfico en general y editorial en particular, dentro del horario acordado",
-            "Establecer relaciones y contactos tanto dentro del equipo de diseño de la empresa como con los interlocutores externos en los trabajos que desarrolle durante el periodo de prácticas"
-        ],
-        "picture": "/data/clean/pictures/234.emf"
-    },
-    {
-        "index": 49,
-        "id": 387,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "LÁMPARAS SCHULLER, S.A.",
-        "address": "c/ Verano, 51 - 28850 Torrejón de Ardoz (Madrid)",
-        "web": "https://sulion.es/es/",
-        "objectives": [
-            "Desarrollo de catálogos para sector de iluminación y ventilación",
-            "Desarrollo gráfico de packaging y plv",
-            "Realización de fichas técnicas y comerciales de productos",
-            "Gestión de pedidos con proveedores nacionales e internacionales",
-            "Realización y edición de fotografía y video de producto",
-            "Desarrollo de productos e imágenes 3d"
-        ],
-        "picture": "/data/clean/pictures/239.jpeg"
-    },
-    {
-        "index": 50,
-        "id": 386,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "BEST RELATIONS, S.L.",
-        "address": "c/ Gran Vía, 57 - 2º B - 28013 Madrid",
-        "web": "https://agencia.best/",
-        "objectives": [
-            "Diseño de portadas, presentaciones y tratamientos de imagen",
-            "Colaboración en trabajos con el Departamento de Publicidad y con el de Audiovisuales",
-            "Propuesta de ideas y participación en reuniones de contenidos"
-        ],
-        "picture": "/data/clean/pictures/96.jpg"
-    },
-    {
-        "index": 51,
-        "id": 385,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "WONDER FICCIÓN, S.L.",
-        "address": "c/ Manuel Silvela, 7 - Bajo dcha - 28010 Madrid",
-        "web": "https://www.dearwonder.com/",
-        "objectives": [
-            "Diseño de portadas, presentaciones y tratamientos de imagen.",
-            "Montajes de minivídeos al corte y musicalizarlos.",
-            "Búsqueda de referencias visuales y de personajes televisivos.",
-            "Coordinarse con equipos para presentaciones a clientes y desarrollar dosieres.",
-            "Diseño de pequeñas cabeceras para pilotos televisivos.",
-            "Actualización contenido de canales propios de la empresa (vimeo, servidor, rrss)",
-            "Diseño y maquetación de PPM, localizaciones, tratamientos…",
-            "Auxiliar de producción en rodajes",
-            "Editor de montajes, maquetas y makings of",
-            "Ayudar en las labores diarias de la oficina a los diferentes departamentos de Publicidad y Ficción",
-            "Asistente en los procesos de pre-producción, producción y postproducción de las diferentes piezas audiovisuales, series, programas o publis"
-        ],
-        "picture": "/data/clean/pictures/233.png"
-    },
-    {
-        "index": 53,
-        "id": 383,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "LABORATORIOS DELAPIEL, S.L.",
-        "address": "c/ Solaire, 2 (dirección fiscal)\nPza. Doctor Laguna, 9, oficina 4 (dirección prácticas) - 28224 (Pozuelo de Alarcón, Madrid)\nMadrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 54,
-        "id": 382,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "LA SOMBRA PRODUCCIONES, S.L.",
-        "address": "c/ Marqués de Monteagudo, 18 - 2º dcha - 28028 Madrid",
-        "web": "https://www.lasombraproducciones.com/",
-        "objectives": [
-            "Diseño gráfico: cartelería, maquetación de publicidad, diseño corporativo y papelería, ilustración. ",
-            "Diseño audiovisual: Cabeceras, rótulos, grafismos corporativos según manual de estilo, motion graphics y animación."
-        ],
-        "picture": "/data/clean/pictures/231.jpeg"
-    },
-    {
-        "index": 55,
-        "id": 381,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "RELAJA EL COCO, S.L.",
-        "address": "Pza. de los Montenses,7 - 6º B ext - 28015 Madrid",
-        "web": "http://www.relajaelcoco.com/",
-        "objectives": [
-            "Diseño y maquetación de publicaciones periódicas como Jot Down Magazine o Mine Magazine. ",
-            "Diseño y maquetación de publicaciones puntuales. Libros para editoriales, etc. ",
-            "Creación de set de iconos para proyectos de branding para empresas privadas o entidades públicas. ",
-            "Realización de ilustraciones o de conjunto de ilustraciones para proyectos de branding o de diseño editorial. ",
-            "Maquetación de elementos para el diseño gráfico de un pabellón de un museo en Oriente Medio. ",
-            "Todas las actividades tendrán la función de formar al alumno con principios de diseños prácticos y concretos que le permitirán tener una visión de cómo se trabaja el diseño en equipo y en relación con el cliente tratando los procesos creativos como herramienta funcional para problem solving de proyectos específicos. "
-        ],
-        "picture": "/data/clean/pictures/222.jpeg"
-    },
-    {
-        "index": 59,
-        "id": 377,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "FREEDA MEDIA, S.L.",
-        "address": "c/ Don Pedro , 5 - 28005 Madrid",
-        "web": "http://www.freedamedia.com/",
-        "objectives": [
-            "Apoyo en la ideación y redacción de nuevos formatos para Freeda Media",
-            "Participar junto con el equipo de autores y guionistas en la redacción de preguntas y artículos para entrevistas y “video edited”",
-            "Participar en la creación y subida de contenidos a las redes sociales, desde la búsqueda de imágenes hasta la creación de “stories”",
-            "Proponer ideas y participar en las reuniones semanales de control de contenido",
-            "Ayudar y colaborar con el equipo creativo en cualquier necesidad que surja en el desarrollo de los contenidos o los procesos que intervienen en él."
-        ],
-        "picture": "/data/clean/pictures/226.png"
-    },
-    {
-        "index": 61,
-        "id": 375,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "THE APARTMENT STRATEGICS COMMUNICATION, S.L.",
-        "address": "c/ Génova, 4 - 3º ext dcha - 28001 Madrid",
-        "objectives": [
-            "El alumno se integrará en el departamento de creatividad y branding de la agencia para su participación activa en los proyectos y acciones que durante sus prácticas se estén realizando en la agencia:",
-            "• Diseño offline: materiales de marketing, maquetación de notas de prensa, diseño de invitaciones, dosieres, etc…",
-            "• Diseño digital: redes sociales, notas de prensa, diseño web, newsletters, etc…",
-            "• Participación en proyectos de branding",
-            "• Participación en proyectos de definición de marca",
-            "• Reuniones con clientes "
-        ],
-        "picture": "/data/clean/pictures/97.jpeg"
-    },
-    {
-        "index": 70,
-        "id": 366,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "EDITORIAL PÁGINAS DE ESPUMA S.L.",
-        "address": "C/ Madera 3, 1º izq - 28004 Madrid",
-        "web": "http://paginasdeespuma.com/",
-        "objectives": [
-            "La alumna participará en todas las fases de la producción editorial, lo que le permitirá familiarizarse con  metodologías relacionadas con el diseño y la producción editorial en sus distintas etapas y facetas (3CT).",
-            "La alumna participará en las distintas reuniones de comunicación y coordinación con los clientes y el equipo de la editorial, promoviendo que aprenda a comunicar ideas, a argumentar, dialogar y evaluar propuestas a través de presentaciones y conversaciones (11CG), pero también a organizar y coordinar actividades, dentro de sus posibilidades y nivel de aprendizaje, a realizar presupuestos, planificar recursos y costes de producción (7CG, 18CG).",
-            "Participará en reuniones periódicas conjuntas donde se hará una valoración del trabajo y se propondrán modificaciones del mismo. En ellas, se verá tanto el trabajo realizado por la alumna como por otros miembros del equipo, y ella será parte activa de este proceso crítico (3CT, 7CT y 9CT).",
-            "La estudiante trabajará en un equipo multidisciplinar formado por un lector, un editor, un corrector, un diseñador gráfico, un encargado de comunicación en redes sociales y distintos escritores; un equipo que se relaciona a su vez con distintos ámbitos de la cultura (escritores, filólogos, lectores, correctores, diseñadores y prensa) (9CT) (7CG).",
-            "Se hará parte a la alumna de la metodología de trabajo de la editorial (CE1, CE3). Participará en el diseño y maquetación de manuscritos, folletos y distintas piezas editoriales, así como en la preparación de artes finales para imprenta (3CT, CE1, CE2, CE3). Hará visitas periódicas a imprenta donde la alumna seleccionará distintos tipos de papeles y evaluará sus propios diseños ya impresos, pudiendo así realizar cambios para su correcta fase de producción (CE1, 18CG). La alumna ayudará en las campañas de promoción aportando ideas tanto en su fase de diseño como de realización (11CG, 18CG)."
-        ],
-        "picture": "/data/clean/pictures/261.png"
-    },
-    {
-        "index": 80,
-        "id": 356,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "IPSUM PLANET, S.L.",
-        "address": "c/ Ronda de Toledo, 16 - local 11 - 28005 Madrid",
-        "web": "http://www.ipsumplanet.com/",
-        "objectives": [
-            "Tareas relacionadas con la comunicación visual. Tocaremos trabajos relacionados con el diseño editorial, desde maquetar páginas de Neo2 hasta crear un nuevo diseño para algunas secciones. Trabajará también en el diseño de una página web desde cero para un estudio de diseño gráfico: IPSUM. Tendrá que aplicar conocimientos de dirección de arte tanto en piezas publicitarias como en trabajos editoriales así como en producciones fotográficas.",
-            "Nos ayudará en la creación de piezas de comunicación de la revista, ya sean banners, gifs animados o páginas de publicidad. Tendrá que trabajar tanto la parte de las ideas como de la realización de las mismas. Todas sus tareas tendrán un briefing de trabajo y se le dará un tiempo concreto para realizarlas. Compartiremos conocimientos por ambas partes: procesos, software, formas de trabajo, fuentes de inspiración, Combinaremos trabajos más técnicos con trabajos más creativos para que su experiencia sea lo mas completa en el día a día dentro de un departamento de comunicación de un estudio o del departamento creativo de una editorial de una revista."
-        ],
-        "picture": "/data/clean/pictures/247.gif"
-    },
-    {
-        "index": 87,
-        "id": 349,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "LOW COST PRINTING, S.L ",
-        "address": "C/ Rey Pastor 48, nave 6 (Pol. Ind. Ntra. Sra. de Butarque) - 28914 Leganés (Madrid)",
-        "web": "https://vysual.es/",
-        "objectives": [
-            "Diseño y maquetación de flyers, tarjetas, revistas, dípticos, trípticos...",
-            "Cartelería gran formato, lonas, pvc, dibond...",
-            "Fotomontajes de vehículos, fachadas...",
-            "Merchandising, bolígafos, camisetas...",
-            "Creación de imagen corporativa, logos...",
-            "Los programas utilizados son Illustrator, Indesign y Photoshop"
-        ],
-        "picture": "/data/clean/pictures/219.png"
-    },
-    {
-        "index": 95,
-        "id": 341,
-        "especialidad": [
-            "grafico",
-            "mdi"
-        ],
-        "name": "BINALOGUE S.L.",
-        "address": "c/ Génova, 11 - 3º D - 28004 Madrid",
-        "objectives": [
-            "Trabajar bajo supervisión y dirección en un entorno profesional desempeñando las siguientes labores, cuyo objeto es contribuir al equipo de Binalogue S.L. en la creación de proyectos para la industria de la publicidad, la comunicación y el entretenimiento:",
-            "• Asistencia en la creación de wireframes, y búsqueda de referencias de usabilidad.",
-            "• Asistencia en labores de testing.",
-            "• Asistencia en la búsqueda de referencias para la elaboración de propuestas.",
-            "• Asistencia en tareas de diseño, maquetación y animación.",
-            "• Asistencia en tareas de diseño, maquetación y animación para proyectos de clientes pertenecientes a diferentes sectores."
-        ],
-        "picture": "/data/clean/pictures/195.png"
-    },
-    {
-        "index": 96,
-        "id": 340,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "NOHO COMUNICACIÓN S.L.",
-        "address": "c/ Javier Ferrero, 9 - 28002 Madrid",
-        "web": "https://noho.es/",
-        "objectives": [
-            "Reuniones de estatus semanales, reuniones de brief, desarrollar ideas y diseños en colaboración con el resto del equipo",
-            "Colaboración y coordinación con distintos departamentos: digital, comunicación, prensa, producción, dirección creativa.",
-            "Ejecución de piezas publicitarias y de comunicación como: carteles, invitaciones, campañas gráficas, decoración y branding. ",
-            "Cumplimiento de plazos en revisiones periódicas y fechas de entrega finales.",
-            "Se integrará en el día a día del funcionamiento de la agencia como un trabajador más. Participando en proyectos reales y de relevancia para Noho.",
-            "Si realiza su trabajo con normalidad y demuestra ganas por aprender y aportar, dentro de lo posible."
-        ],
-        "picture": "/data/clean/pictures/187.jpg"
-    },
-    {
-        "index": 99,
-        "id": 337,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SMARTNET, S.L.",
-        "address": "c/ Fortuny, 51 locales 8 y 9 - 28010 Madrid",
-        "web": "http://www.grupo-smart.com/",
-        "objectives": [
-            "ON LINE: Desarrollo de piezas de comunicación y publicitarias de comercios online: Banners , Newsletter,…",
-            "ON LINE: Trabajos de fotografía de producto y retoque para el mantenimiento de comercios online",
-            "OFF LINE: Diseño de gráficos para merchandising de ámbito deportivo ",
-            "OFF LINE: Desarrollo de diseño y artefinalización de PLV para campañas promocionales",
-            "OFF LINE: diseño y artefinalización de campañas publicitarias en prensa",
-            "Manejo de las siguientes aplicaciones: Adobe Photoshop, Adobe Illustrator. Adobe In Design , Subline, Adobe Camera Raw y Microsoft Office…"
-        ],
-        "picture": "/data/clean/pictures/176.png"
-    },
-    {
-        "index": 105,
-        "id": 331,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": {
-            "richText": [
-                {
-                    "text": "ELYTT ENERGY, S.L"
-                },
-                {
-                    "font": {
-                        "bold": true,
-                        "size": 8,
-                        "color": {
-                            "argb": "FFC00000"
-                        },
-                        "name": "Arial",
-                        "family": 2
-                    },
-                    "text": "."
-                },
-                {
-                    "font": {
-                        "bold": true,
-                        "size": 8,
-                        "color": {
-                            "argb": "FF000000"
-                        },
-                        "name": "Arial",
-                        "family": 2
-                    },
-                    "text": " "
-                }
-            ]
+  {
+    "index": 7,
+    "id": 426,
+    "especialidad": ["grafico"],
+    "name": "EDICIONES CONDÉ NAST, S.A.",
+    "address": "Paseo de la Castellana, 9-11 - 2º - 28046 Madrid",
+    "objectives": [
+      "Creación de maquetas",
+      "Conceptualización de fotos",
+      "Integrarse en la estructura de la redacción en función del proyecto, con los diferentes equipos",
+      "Participación activa en todas las fases en los proyectos en curso en el estudio.",
+      "Conociendo e identificando las fases y requerimientos sistemáticos del proceso de trabajo.",
+      "Utilizando una metodología y sistema de organización común a todos los proyectos y los mecanismos de control de un proyecto.",
+      "Tomando parte activa como soporte en los proyectos de comunicación corporativa, identidad visual, ilustración y web en función de su disponibilidad en la revista.",
+      "Formar parte de las sesiones críticas de análisis dentro de la dinámica propia de los proyectos, las propuestas y soluciones aportadas en cada caso",
+      "Desarrollando una actividad práctica de las herramientas y recibiendo indicaciones para la optimización de las herramientas y la mejora de su productividad."
+    ],
+    "picture": "/data/clean/pictures/94.jpeg"
+  },
+  {
+    "index": 16,
+    "id": 415,
+    "especialidad": ["grafico"],
+    "name": "SPAIN MEDIA CONSULTING, S.L.",
+    "address": "c/ Doctor Fourquet, 3, local 3 - 28012 Madrid",
+    "web": "https://spainmedia.es/",
+    "objectives": [
+      "Apoyar, desarrollar y materializar ideas en el departamento de arte.",
+      "Búsqueda de información previa a proyectos",
+      "Retoque y optimización de imágenes digitales",
+      "Búsqueda y tratamiento de imágenes",
+      "Diseño y realización de peizas gráficas",
+      "Maquetación",
+      "Apoyo a diseño de piezas creativas.",
+      "Maquetación de textos",
+      "Artes finales",
+      "Edición de fotos",
+      "Edición de vídeos",
+      "Mantenimiento de páginas web",
+      "Edición fotográfica. Tratamiento y enfoque fotográfico",
+      "Diseño de publicaciones. Diseño y producción web",
+      "Diseño de creatividades. Diseño de pequeñas piezas publicitarias"
+    ],
+    "picture": "/data/clean/pictures/109.jpeg"
+  },
+  {
+    "index": 19,
+    "id": 412,
+    "especialidad": ["grafico"],
+    "name": "ILUNION HOTELS, S.A.",
+    "address": "c/ Albacete, 3 - 9º (Edificio Torre Ilunion) - 28027 Madrid",
+    "web": "https://www.ilunionhotels.com/",
+    "objectives": [
+      "Apoyo a diseño de piezas creativas.",
+      "Maquetación de textos",
+      "Artes finales",
+      "Edición de fotos",
+      "Edición de vídeos",
+      "Mantenimiento de páginas web"
+    ],
+    "picture": "/data/clean/pictures/106.jpeg"
+  },
+  {
+    "index": 20,
+    "id": 411,
+    "especialidad": ["grafico"],
+    "name": "MATCH BALL MARKETING, S.L.",
+    "address": "c/ Santa Teresa de Jesús, 5 - 45600 Talavera de la Reina (Toledo)",
+    "web": "http://www.matchballmarketing.com/",
+    "objectives": [
+      "Diseño y creación de creatividades para nuestros clientes (futbolistas profesionales o marcas deportivas.",
+      "Diseño de cabeceras, acciones especiales, infografías, etc.",
+      "Ilustración digital.",
+      "Maquetación.",
+      "Edición de video. Opcional.",
+      "Motion Graphics. Opcional.",
+      "Otros:",
+      "• Autonomía y proactividad.",
+      "• Conocimiento de las singularidades Social Media.",
+      "• Se valora el interés y conocimiento del sector deportivo."
+    ],
+    "picture": "/data/clean/pictures/105.jpg"
+  },
+  {
+    "index": 28,
+    "id": 405,
+    "especialidad": ["grafico"],
+    "name": "Fundación Diseño Madrid",
+    "address": "Diego de León, 51 - 3º dcha - 28006 Madrid",
+    "web": "https://dimad.org/",
+    "objectives": [
+      "Se le encargarán tareas que se pueden hacer utilizando diferentes herramientas. Se le orientará sobre el camino más eficaz o se le corregirá si ha elegido otra opción",
+      "Reuniones de equipo para revisar tareas",
+      "Los equipos de trabajo son multidisciplinares y en muchas ocasiones tienen que abordar tareas comunes o de carácter diferente a su formación curricular, lo que supone un reto profesional",
+      "Reuniones de equipo para revisar tareas",
+      "Los escasos recursos tecnológicos con que se cuenta incentiva la versatilidad y la capacidad para encontrar soluciones",
+      "La propia dinámica del trabajo en la Central de Diseño fuerza esa capacidad de integración"
+    ],
+    "picture": "/data/clean/pictures/153.png"
+  },
+  {
+    "index": 38,
+    "id": 397,
+    "especialidad": ["grafico"],
+    "name": "EL VIVERO (LEANDRO LATTES RECCHINI)",
+    "address": "C/ Marqués de Santa Ana, 18 - esc. 1, 2ª planta - 28004 Madrid",
+    "web": "http://elvivero.es/",
+    "objectives": [
+      "Colaboración  en varios proyectos para clientes del área de la cultura.",
+      "Desarrollo de la identidad visual para un festival de Cine. Se incluyen diversas aplicaciones como cartel, folleto, página web, banners, vídeos, etc.",
+      "Desarrollo de una exposición para un museo de arte contemporáneo. Se incluyen tareas como el diseño gráfico de la exposición, artes finales, etc.",
+      "Tareas internas del estudio como la actualización de nuestra página web."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 39,
+    "id": 396,
+    "especialidad": ["grafico"],
+    "name": "BLUECELL COMUNICACIÓN, S.L.",
+    "address": "Paseo de la Castellana, 213 - bajo A - 28046 Madrid",
+    "web": "http://www.bluecell.es/",
+    "objectives": [
+      "Elaboración de mensajes visuales para diversos soportes y objetivos. Comunicación comercial y promocional, social e indtitucional, audiovisual, identitaria e institucional.",
+      "Ejecución de tareas en el desarrollo de procesos y proyectos de identidad. Elaboración de diferentes productos para redes sociales.",
+      "Manejo de herramientas digitales aplicadas a la comunicación visual y creacióni de soluciones gráficas interactivas, edición de video y tareas generales de productos audiovisuales.",
+      "Tareas de investigación y conceptualización."
+    ],
+    "picture": "/data/clean/pictures/230.png"
+  },
+  {
+    "index": 46,
+    "id": 390,
+    "especialidad": ["grafico"],
+    "name": "GRÁFICA FUTURA DISEÑO EDITORIAL, S.L.",
+    "address": "c/ Mantuano, 32, local B - 28002 Madrid",
+    "web": "http://www.graficafutura.es/",
+    "objectives": [
+      "Funciones de asistente de diseño, maquetación y preparación de artes finales en proyectos de diseño gráfico en general y editorial en particular, dentro del horario acordado",
+      "Establecer relaciones y contactos tanto dentro del equipo de diseño de la empresa como con los interlocutores externos en los trabajos que desarrolle durante el periodo de prácticas"
+    ],
+    "picture": "/data/clean/pictures/234.emf"
+  },
+  {
+    "index": 49,
+    "id": 387,
+    "especialidad": ["grafico"],
+    "name": "LÁMPARAS SCHULLER, S.A.",
+    "address": "c/ Verano, 51 - 28850 Torrejón de Ardoz (Madrid)",
+    "web": "https://sulion.es/es/",
+    "objectives": [
+      "Desarrollo de catálogos para sector de iluminación y ventilación",
+      "Desarrollo gráfico de packaging y plv",
+      "Realización de fichas técnicas y comerciales de productos",
+      "Gestión de pedidos con proveedores nacionales e internacionales",
+      "Realización y edición de fotografía y video de producto",
+      "Desarrollo de productos e imágenes 3d"
+    ],
+    "picture": "/data/clean/pictures/239.jpeg"
+  },
+  {
+    "index": 50,
+    "id": 386,
+    "especialidad": ["grafico"],
+    "name": "BEST RELATIONS, S.L.",
+    "address": "c/ Gran Vía, 57 - 2º B - 28013 Madrid",
+    "web": "https://agencia.best/",
+    "objectives": [
+      "Diseño de portadas, presentaciones y tratamientos de imagen",
+      "Colaboración en trabajos con el Departamento de Publicidad y con el de Audiovisuales",
+      "Propuesta de ideas y participación en reuniones de contenidos"
+    ],
+    "picture": "/data/clean/pictures/96.jpg"
+  },
+  {
+    "index": 51,
+    "id": 385,
+    "especialidad": ["grafico"],
+    "name": "WONDER FICCIÓN, S.L.",
+    "address": "c/ Manuel Silvela, 7 - Bajo dcha - 28010 Madrid",
+    "web": "https://www.dearwonder.com/",
+    "objectives": [
+      "Diseño de portadas, presentaciones y tratamientos de imagen.",
+      "Montajes de minivídeos al corte y musicalizarlos.",
+      "Búsqueda de referencias visuales y de personajes televisivos.",
+      "Coordinarse con equipos para presentaciones a clientes y desarrollar dosieres.",
+      "Diseño de pequeñas cabeceras para pilotos televisivos.",
+      "Actualización contenido de canales propios de la empresa (vimeo, servidor, rrss)",
+      "Diseño y maquetación de PPM, localizaciones, tratamientos…",
+      "Auxiliar de producción en rodajes",
+      "Editor de montajes, maquetas y makings of",
+      "Ayudar en las labores diarias de la oficina a los diferentes departamentos de Publicidad y Ficción",
+      "Asistente en los procesos de pre-producción, producción y postproducción de las diferentes piezas audiovisuales, series, programas o publis"
+    ],
+    "picture": "/data/clean/pictures/233.png"
+  },
+  {
+    "index": 53,
+    "id": 383,
+    "especialidad": ["grafico"],
+    "name": "LABORATORIOS DELAPIEL, S.L.",
+    "address": "c/ Solaire, 2 (dirección fiscal)\nPza. Doctor Laguna, 9, oficina 4 (dirección prácticas) - 28224 (Pozuelo de Alarcón, Madrid)\nMadrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 54,
+    "id": 382,
+    "especialidad": ["grafico"],
+    "name": "LA SOMBRA PRODUCCIONES, S.L.",
+    "address": "c/ Marqués de Monteagudo, 18 - 2º dcha - 28028 Madrid",
+    "web": "https://www.lasombraproducciones.com/",
+    "objectives": [
+      "Diseño gráfico: cartelería, maquetación de publicidad, diseño corporativo y papelería, ilustración. ",
+      "Diseño audiovisual: Cabeceras, rótulos, grafismos corporativos según manual de estilo, motion graphics y animación."
+    ],
+    "picture": "/data/clean/pictures/231.jpeg"
+  },
+  {
+    "index": 55,
+    "id": 381,
+    "especialidad": ["grafico"],
+    "name": "RELAJA EL COCO, S.L.",
+    "address": "Pza. de los Montenses,7 - 6º B ext - 28015 Madrid",
+    "web": "http://www.relajaelcoco.com/",
+    "objectives": [
+      "Diseño y maquetación de publicaciones periódicas como Jot Down Magazine o Mine Magazine. ",
+      "Diseño y maquetación de publicaciones puntuales. Libros para editoriales, etc. ",
+      "Creación de set de iconos para proyectos de branding para empresas privadas o entidades públicas. ",
+      "Realización de ilustraciones o de conjunto de ilustraciones para proyectos de branding o de diseño editorial. ",
+      "Maquetación de elementos para el diseño gráfico de un pabellón de un museo en Oriente Medio. ",
+      "Todas las actividades tendrán la función de formar al alumno con principios de diseños prácticos y concretos que le permitirán tener una visión de cómo se trabaja el diseño en equipo y en relación con el cliente tratando los procesos creativos como herramienta funcional para problem solving de proyectos específicos. "
+    ],
+    "picture": "/data/clean/pictures/222.jpeg"
+  },
+  {
+    "index": 59,
+    "id": 377,
+    "especialidad": ["grafico"],
+    "name": "FREEDA MEDIA, S.L.",
+    "address": "c/ Don Pedro , 5 - 28005 Madrid",
+    "web": "http://www.freedamedia.com/",
+    "objectives": [
+      "Apoyo en la ideación y redacción de nuevos formatos para Freeda Media",
+      "Participar junto con el equipo de autores y guionistas en la redacción de preguntas y artículos para entrevistas y “video edited”",
+      "Participar en la creación y subida de contenidos a las redes sociales, desde la búsqueda de imágenes hasta la creación de “stories”",
+      "Proponer ideas y participar en las reuniones semanales de control de contenido",
+      "Ayudar y colaborar con el equipo creativo en cualquier necesidad que surja en el desarrollo de los contenidos o los procesos que intervienen en él."
+    ],
+    "picture": "/data/clean/pictures/226.png"
+  },
+  {
+    "index": 61,
+    "id": 375,
+    "especialidad": ["grafico"],
+    "name": "THE APARTMENT STRATEGICS COMMUNICATION, S.L.",
+    "address": "c/ Génova, 4 - 3º ext dcha - 28001 Madrid",
+    "objectives": [
+      "El alumno se integrará en el departamento de creatividad y branding de la agencia para su participación activa en los proyectos y acciones que durante sus prácticas se estén realizando en la agencia:",
+      "• Diseño offline: materiales de marketing, maquetación de notas de prensa, diseño de invitaciones, dosieres, etc…",
+      "• Diseño digital: redes sociales, notas de prensa, diseño web, newsletters, etc…",
+      "• Participación en proyectos de branding",
+      "• Participación en proyectos de definición de marca",
+      "• Reuniones con clientes "
+    ],
+    "picture": "/data/clean/pictures/97.jpeg"
+  },
+  {
+    "index": 70,
+    "id": 366,
+    "especialidad": ["grafico"],
+    "name": "EDITORIAL PÁGINAS DE ESPUMA S.L.",
+    "address": "C/ Madera 3, 1º izq - 28004 Madrid",
+    "web": "http://paginasdeespuma.com/",
+    "objectives": [
+      "La alumna participará en todas las fases de la producción editorial, lo que le permitirá familiarizarse con  metodologías relacionadas con el diseño y la producción editorial en sus distintas etapas y facetas (3CT).",
+      "La alumna participará en las distintas reuniones de comunicación y coordinación con los clientes y el equipo de la editorial, promoviendo que aprenda a comunicar ideas, a argumentar, dialogar y evaluar propuestas a través de presentaciones y conversaciones (11CG), pero también a organizar y coordinar actividades, dentro de sus posibilidades y nivel de aprendizaje, a realizar presupuestos, planificar recursos y costes de producción (7CG, 18CG).",
+      "Participará en reuniones periódicas conjuntas donde se hará una valoración del trabajo y se propondrán modificaciones del mismo. En ellas, se verá tanto el trabajo realizado por la alumna como por otros miembros del equipo, y ella será parte activa de este proceso crítico (3CT, 7CT y 9CT).",
+      "La estudiante trabajará en un equipo multidisciplinar formado por un lector, un editor, un corrector, un diseñador gráfico, un encargado de comunicación en redes sociales y distintos escritores; un equipo que se relaciona a su vez con distintos ámbitos de la cultura (escritores, filólogos, lectores, correctores, diseñadores y prensa) (9CT) (7CG).",
+      "Se hará parte a la alumna de la metodología de trabajo de la editorial (CE1, CE3). Participará en el diseño y maquetación de manuscritos, folletos y distintas piezas editoriales, así como en la preparación de artes finales para imprenta (3CT, CE1, CE2, CE3). Hará visitas periódicas a imprenta donde la alumna seleccionará distintos tipos de papeles y evaluará sus propios diseños ya impresos, pudiendo así realizar cambios para su correcta fase de producción (CE1, 18CG). La alumna ayudará en las campañas de promoción aportando ideas tanto en su fase de diseño como de realización (11CG, 18CG)."
+    ],
+    "picture": "/data/clean/pictures/261.png"
+  },
+  {
+    "index": 80,
+    "id": 356,
+    "especialidad": ["grafico"],
+    "name": "IPSUM PLANET, S.L.",
+    "address": "c/ Ronda de Toledo, 16 - local 11 - 28005 Madrid",
+    "web": "http://www.ipsumplanet.com/",
+    "objectives": [
+      "Tareas relacionadas con la comunicación visual. Tocaremos trabajos relacionados con el diseño editorial, desde maquetar páginas de Neo2 hasta crear un nuevo diseño para algunas secciones. Trabajará también en el diseño de una página web desde cero para un estudio de diseño gráfico: IPSUM. Tendrá que aplicar conocimientos de dirección de arte tanto en piezas publicitarias como en trabajos editoriales así como en producciones fotográficas.",
+      "Nos ayudará en la creación de piezas de comunicación de la revista, ya sean banners, gifs animados o páginas de publicidad. Tendrá que trabajar tanto la parte de las ideas como de la realización de las mismas. Todas sus tareas tendrán un briefing de trabajo y se le dará un tiempo concreto para realizarlas. Compartiremos conocimientos por ambas partes: procesos, software, formas de trabajo, fuentes de inspiración, Combinaremos trabajos más técnicos con trabajos más creativos para que su experiencia sea lo mas completa en el día a día dentro de un departamento de comunicación de un estudio o del departamento creativo de una editorial de una revista."
+    ],
+    "picture": "/data/clean/pictures/247.gif"
+  },
+  {
+    "index": 87,
+    "id": 349,
+    "especialidad": ["grafico"],
+    "name": "LOW COST PRINTING, S.L ",
+    "address": "C/ Rey Pastor 48, nave 6 (Pol. Ind. Ntra. Sra. de Butarque) - 28914 Leganés (Madrid)",
+    "web": "https://vysual.es/",
+    "objectives": [
+      "Diseño y maquetación de flyers, tarjetas, revistas, dípticos, trípticos...",
+      "Cartelería gran formato, lonas, pvc, dibond...",
+      "Fotomontajes de vehículos, fachadas...",
+      "Merchandising, bolígafos, camisetas...",
+      "Creación de imagen corporativa, logos...",
+      "Los programas utilizados son Illustrator, Indesign y Photoshop"
+    ],
+    "picture": "/data/clean/pictures/219.png"
+  },
+  {
+    "index": 95,
+    "id": 341,
+    "especialidad": ["grafico", "mdi"],
+    "name": "BINALOGUE S.L.",
+    "address": "c/ Génova, 11 - 3º D - 28004 Madrid",
+    "objectives": [
+      "Trabajar bajo supervisión y dirección en un entorno profesional desempeñando las siguientes labores, cuyo objeto es contribuir al equipo de Binalogue S.L. en la creación de proyectos para la industria de la publicidad, la comunicación y el entretenimiento:",
+      "• Asistencia en la creación de wireframes, y búsqueda de referencias de usabilidad.",
+      "• Asistencia en labores de testing.",
+      "• Asistencia en la búsqueda de referencias para la elaboración de propuestas.",
+      "• Asistencia en tareas de diseño, maquetación y animación.",
+      "• Asistencia en tareas de diseño, maquetación y animación para proyectos de clientes pertenecientes a diferentes sectores."
+    ],
+    "picture": "/data/clean/pictures/195.png"
+  },
+  {
+    "index": 96,
+    "id": 340,
+    "especialidad": ["grafico"],
+    "name": "NOHO COMUNICACIÓN S.L.",
+    "address": "c/ Javier Ferrero, 9 - 28002 Madrid",
+    "web": "https://noho.es/",
+    "objectives": [
+      "Reuniones de estatus semanales, reuniones de brief, desarrollar ideas y diseños en colaboración con el resto del equipo",
+      "Colaboración y coordinación con distintos departamentos: digital, comunicación, prensa, producción, dirección creativa.",
+      "Ejecución de piezas publicitarias y de comunicación como: carteles, invitaciones, campañas gráficas, decoración y branding. ",
+      "Cumplimiento de plazos en revisiones periódicas y fechas de entrega finales.",
+      "Se integrará en el día a día del funcionamiento de la agencia como un trabajador más. Participando en proyectos reales y de relevancia para Noho.",
+      "Si realiza su trabajo con normalidad y demuestra ganas por aprender y aportar, dentro de lo posible."
+    ],
+    "picture": "/data/clean/pictures/187.jpg"
+  },
+  {
+    "index": 99,
+    "id": 337,
+    "especialidad": ["grafico"],
+    "name": "SMARTNET, S.L.",
+    "address": "c/ Fortuny, 51 locales 8 y 9 - 28010 Madrid",
+    "web": "http://www.grupo-smart.com/",
+    "objectives": [
+      "ON LINE: Desarrollo de piezas de comunicación y publicitarias de comercios online: Banners , Newsletter,…",
+      "ON LINE: Trabajos de fotografía de producto y retoque para el mantenimiento de comercios online",
+      "OFF LINE: Diseño de gráficos para merchandising de ámbito deportivo ",
+      "OFF LINE: Desarrollo de diseño y artefinalización de PLV para campañas promocionales",
+      "OFF LINE: diseño y artefinalización de campañas publicitarias en prensa",
+      "Manejo de las siguientes aplicaciones: Adobe Photoshop, Adobe Illustrator. Adobe In Design , Subline, Adobe Camera Raw y Microsoft Office…"
+    ],
+    "picture": "/data/clean/pictures/176.png"
+  },
+  {
+    "index": 105,
+    "id": 331,
+    "especialidad": ["grafico"],
+    "name": {
+      "richText": [
+        {
+          "text": "ELYTT ENERGY, S.L"
         },
-        "address": "c/ Orense, 11 - 2º B  - 28020 Madrid",
-        "web": "http://www.elytt.com/",
-        "objectives": [
-            "Habilidad para crear y desarrollar una comunicación gráfica de la empresa.",
-            "Conocimiento de herramientas necesarias para poder llevar a cabo el desarrollo de una imagen corporativa.",
-            "Capacidad de aprendizaje.",
-            "Flexibilidad y dinamismo."
-        ],
-        "picture": "/data/clean/pictures/182.png"
-    },
-    {
-        "index": 115,
-        "id": 321,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "THE WOORK COMPANY, S.C.",
-        "address": "c/ Cruz Verde, 20 B  - 28350 Cienpozuelos (Madrid)",
-        "web": "http://www.thewoork.co/",
-        "objectives": [
-            "Estudio e interpretación de un Briefing, Creación de Moodboards, etc.",
-            "Ayuda con la preparación de presentaciones y asistencia a presentaciones de marca con clientes.",
-            "Diseño de diferentes piezas corporativas digitales y editoriales para marcas existentes.",
-            "Trabajo personal para mejora del portfolio del alumno. (Si las 360 horas de duración lo permiten)",
-            "Revisión y mejora del portfolio personal del Alumno. (este trabajo se realizará de manera externa a la jornada de prácticas, pero si se tutelará con la formación correspondiente en jornada “lectiva/Laboral”.",
-            "Creación de una marca y presentación. (Si las 360 horas de duración lo permiten)"
-        ],
-        "picture": "/data/clean/pictures/214.png"
-    },
-    {
-        "index": 117,
-        "id": 319,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "NÚCLEO EMPRESARIAL 2001, S.L.  ",
-        "address": "c/ Las Águlas, 16; Edificio Las Aves, oficina 109; Pol. Ind. La Estación - 28320 Pinto (Madrid)",
-        "web": "http://www.nucleoempresarial.net/",
-        "objectives": [
-            "Apoyo al equipo gráfico.",
-            "Desarrollo de materiales gráficos corporativos desde la búsqueda de conceptos hasta la ejecución final del trabajo, tanto online como online.",
-            "Relación de artes finales para imprenta.",
-            "Maquetación de revistas, catálogos y otros soportes, diseño páginas web.",
-            "Manejo de programas: In Desing, Photoshop, Ilustrator."
-        ],
-        "picture": "/data/clean/pictures/216.png"
-    },
-    {
-        "index": 125,
-        "id": 311,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "JON ALEXANDER DE LA FUENTE CANTALAPIEDRA (FETEN ESTUDIO)",
-        "address": "c/ Cardenal Silicio, 17 - Entreplanta D - 28002 Madrid",
-        "web": "https://www.fetenstudio.com/",
-        "objectives": [
-            "Maquetación y diseño en entorno web Wordpress.",
-            "Maquetación y diseño editorial para revista Canvas.",
-            "Desarrollo de proyectos de branding desde la implementación.",
-            "Desarrollo de manuales de identidad corporativa.",
-            "Realizar presentaciones de proyectos.",
-            "Desarrollar material gráfico y gestionar redes sociales del estudio."
-        ],
-        "picture": "/data/clean/pictures/201.png"
-    },
-    {
-        "index": 126,
-        "id": 310,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SILVIA PONCE DÍAZ-REIXA (ESPÍRITU GRÁFICO)",
-        "address": "c/ Espíritu Santo, 37 - Bajo - 35001 Las Palmas de Gran Canaria",
-        "web": "http://espiritugrafico.com/",
-        "objectives": [
-            " Proyecto de Comunicación para LaMetroGuagua (Guaguas Municipales), que se desarrollará durante todo 2017, y en la cual llevamos trabajando desde Septiembre, para que en Marzo ya pueda ser visible.",
-            "Maquetación del Libro de una Artista.",
-            "Rediseño/Actualización de la Identidad del Restaurante deliciosamarta, que en unos meses volverá abrir sus puertas.",
-            "Memoria Anual Casa África 2016.",
-            "Posible rediseño de la identidad de un Museo (aun estamos en trámites presupuestarios)",
-            "Posible maquetación de un catálogo de exposición del CAAM.",
-            "Web (Diseño y programación externa en colaboración) de un Restaurante (El Cortijo de San Ignacio).",
-            "Programas: Indesign, Ilustrator y photoshop."
-        ],
-        "picture": "/data/clean/pictures/202.png"
-    },
-    {
-        "index": 128,
-        "id": 309,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "CITRUS TEXTILE S.L. (TUGERS)",
-        "address": "c/ Tubo, 6 - 28223 Pozuelo de Alarcón (Madrid)",
-        "web": "https://tugers.com/es/",
-        "objectives": [
-            "Branding. Modificación de imagen corporativa.",
-            "Diseño publicitario.",
-            "Diseño de packaging.",
-            "Diseño de piezas publicitarias para nuestras campañas de marca tanto online como offline.",
-            "Mensajes y elementos gráficos."
-        ],
-        "picture": "/data/clean/pictures/203.png"
-    },
-    {
-        "index": 129,
-        "id": 308,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "BARFUTURA",
-        "address": "c/ de Oriente, 3 - 28005 Madrid",
-        "web": "https://www.barfutura.com/",
-        "objectives": [
-            "Reuniones creativas.",
-            "Trabajo en equipo.",
-            "Asumir responsabilidades.",
-            "Desarrollo de proyectos reales de principio a fin.",
-            "Cartelería, editorial, web, interactivo…"
-        ],
-        "picture": "/data/clean/pictures/204.png"
-    },
-    {
-        "index": 131,
-        "id": 306,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "EL TALLER DE GRÁFICA Y COMUNICACIÓN, S.L.",
-        "address": "c/ Arquitectura, 17 - Bajo izq. - 28005 Madrid",
-        "web": "http://eltaller.com/",
-        "objectives": [
-            "Con la ayuda y supervisión de un tutor, se procederá a tareas de diseño y maquetación.",
-            "Realización de artes finales en tareas de diseño gráfico y/o editorial.",
-            "Principalmente se utilizará InDesign y Photoshop como apoyo.",
-            "Se valorará el uso de Illustrator y Corel Draw."
-        ],
-        "picture": "/data/clean/pictures/264.png"
-    },
-    {
-        "index": 132,
-        "id": 305,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "BRANDBURY DESIGN, S.L.",
-        "address": "c/ Cidro, 3 - Oficina 216 - 28044 Madrid",
-        "web": "http://www.brandbury.es/",
-        "objectives": [
-            "Participación en las diferentes actividades planteadas o desarrollos propuestos dentro del equipo.",
-            "Diseño de diferentes elementos de diseño tanto offline como online: cartelería, folletos, banners, elementos de packaging, etc.",
-            "Participación y desarrollo de proyectos partiendo de líneas gráficas ya definidas.",
-            "Gestión de contenidos en sites web ya existentes, así como aporte de ideas para sites web de nueva creación.",
-            "Participación en las presentaciones de proyectos a clientes.",
-            "Preparación de artes finales."
-        ],
-        "picture": "/data/clean/pictures/207.jpg"
-    },
-    {
-        "index": 139,
-        "id": 298,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "WEDGE GLOBAL, S.L., ",
-        "address": "c/ Isabel Torres, 11 (Modulo 11) - 39011 Santander (Cantabria)",
-        "web": "https://www.wedgeglobal.com/",
-        "objectives": [
-            "Diseño grafico",
-            "Imagen corporativa, incluyendo actualización de logo e incluso nombre compañía. ",
-            "Programación páginas web",
-            "Actualización de la web en contenido y formato, accesible desde dispositivos portátiles.",
-            "Comunicación y marca",
-            "Comunicación corporativa.",
-            "Desarrollo de material gráfico para presentaciones,  conferencias, ferias, etc.",
-            "Audivisual, Videos tipo video scribing o similar."
-        ],
-        "picture": "/data/clean/pictures/327.jpg"
-    },
-    {
-        "index": 142,
-        "id": 295,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "TELEFÓNICA AUDIOVISUAL DIGITAL, SLU ",
-        "address": "Avda. de los Artesanos, 6 - 28760 Tres Cantos (Madrid)",
-        "web": "https://www.movistar.es/",
-        "objectives": [
-            "Adaptaciones de gráficas.",
-            "Mantenimiento de piezas animadas ya diseñadas.",
-            "Apoyo a peticiones de grafismo.",
-            "Aprenderá Vizrt.",
-            "Adaptación de la misma a On Air, On Line e impreso.",
-            "Creación Identidad gráfica para un producto o comunicación."
-        ],
-        "picture": "/data/clean/pictures/330.png"
-    },
-    {
-        "index": 143,
-        "id": 294,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "WOZ’ERE IMAGEN Y COMUNICACIÓN, S.L. ",
-        "address": "c/ Nicasio Gallego, 15  - 28010 Madrid",
-        "web": "https://www.wozere.com/",
-        "objectives": [
-            "Colaboración con apoyo y seguimiento en proyectos integrales guiado por su Tutor.",
-            "Colaboración con apoyo y seguimiento en preparación de materiales finales guiado por su Tutor.",
-            "Explicaciones y apoyo por su tutor y otros miembros del equipo a través del día a día de la empresa.",
-            "Capacidad de desarrollar proyectos de diseño integrales desde la conceptualización inicial a la entrega final.",
-            "Capacidad para preparar los materiales finales para entrega a producción final, de imprenta o desarrollo digital.",
-            "Capacidad para entender el proceso de diseño dentro de un equipo integrado."
-        ],
-        "picture": "/data/clean/pictures/331.jpeg"
-    },
-    {
-        "index": 152,
-        "id": 285,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "FUNDACIÓN SÍNDROME DE DOWN MADRID",
-        "address": "c/ Caídos de la División Azul, 15 - 28016 Madrid",
-        "web": "http://www.downmadrid.org/",
-        "objectives": [
-            "Dar apoyo en los diferentes soportes digitales y de comunicación de Down Madrid.",
-            "Web de Down Madrid.",
-            "Boletines digitales de la Entidad."
-        ],
-        "picture": "/data/clean/pictures/316.png"
-    },
-    {
-        "index": 156,
-        "id": 284,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "AMB PIENSA, S.L.",
-        "address": "c/ Almería, 64 - 1ºD - 28939 Arroyomolinos (Madrid)",
-        "web": "http://www.ambpiensa.com/",
-        "objectives": [
-            "Diseño gráfico soporte papel.",
-            "Diseño Gráfico de interface de usuario.",
-            "Modelado 3d.",
-            "Edición de video digital.",
-            "Programación en Unity 3d.",
-            "Ilustración vectorial digital."
-        ],
-        "picture": "/data/clean/pictures/318.jpeg"
-    },
-    {
-        "index": 158,
-        "id": 282,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "HEARTS ESPAÑA S.L.",
-        "address": "EL EXPEDIENTE NO SE ENVÍA A LA EMPRESA POR FALTA DE AUTORIZACIÓN DE LA DIRECTORA - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 163,
-        "id": 277,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "ISLA AUDIOVISUAL, S.L.",
-        "address": "Paseo Pintor Rosales, 36 - 28008 Madrid",
-        "web": "http://www.islaaudiovisual.es/",
-        "objectives": [
-            "Dpto de diseño gráfico. Perfil offline con conocimientos de edición de video y nociones de maquetación web.",
-            "Dominio de photoshop.",
-            "Illustrator e indesign.",
-            " Creatividad y capacidad de conceptualización."
-        ],
-        "picture": "/data/clean/pictures/350.png"
-    },
-    {
-        "index": 164,
-        "id": 276,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "ATRACCIÓN WEB (ALONSO MANUEL SERRANO PÉREZ)",
-        "address": "c/ Juan Antonio García González, 1 - 19180 Marchamalo (Guadalajara)",
-        "web": "https://www.atraccionweb.com/?idioma=es",
-        "objectives": [
-            "Comprensión y análisis de las necesidades de los clientes, mediante entrevistas profesionales y contacto directo con ellos",
-            "Diseño de usuabilidad",
-            "Diseño responsive de sitios web",
-            "Maquetación de sitios web según el diseño creado",
-            "Optimización del sitio para su posicionamiento natural",
-            "Diseño de los elementos gráficos a incorporar en las webs,  retoque y optimización de las  imágenes que incorpore, así como su previa selección o realización",
-            "Optimización de las páginas web para compartirlas en las redes sociales",
-            "Renovación de la imagen actual de Atracción Web y todas sus vertientes, así como su sitio web",
-            "Diseño de elementos gráficos y retoque fotográfico",
-            "Diseño de páginas web",
-            "Branding"
-        ],
-        "picture": "/data/clean/pictures/349.png"
-    },
-    {
-        "index": 165,
-        "id": 275,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SISTEMAS ADMINISTRATIVOS, S.A.",
-        "address": "Glorieta de Rubén Darío, 4 - 28010 Madrid",
-        "objectives": [
-            "Ofrecer soluciones de diseño en áreas como web, cartelería, redes sociales,etc, en base a las necesidades de la Fundación.",
-            "Crear piezas publicitarias y de difusión de los eventos y proyectos a realizar en las líneas de trabajo de la fundación.",
-            "Manejo de herramientas de diseño gráfico y web.",
-            "Diseño y elaboracion de distintas unidades publicitarias y elaboracion de folletos.",
-            "Diseño de marca, diseño de presentaciones.",
-            "Diseño de banner en web.",
-            "Creación banners, actualización material gráfico para web, planificación  creativa de  nuevas páginas webs.",
-            "Edición dossieres corporativos, brochures, folletos publicitarios, invitaciones, plantillas powerpoint, etc.",
-            "Conceptualización  creatividades para publicidad, creación identidad corporativa, acciones de rebranding.",
-            "Capacidad de trabajo en equipo, proactividad, espíritu de superación.",
-            "Manejo programas diseño gráfico: photoshop, illustrator, quarkxpress.",
-            "Conocimiento herramientas diseño para web."
-        ],
-        "picture": "/data/clean/pictures/345.jpg"
-    },
-    {
-        "index": 166,
-        "id": 274,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "ESTUDIO KEN, S.L.",
-        "address": "c/ Nueva,8 - Oficina 4 - 31192 Mutilva Alta (Navarra)",
-        "web": "https://www.ken.es/",
-        "objectives": [
-            "Desarrollo de un programa de identidad visual corporativa.",
-            "Maquetación de revista cultural.",
-            "Implantación de imagen institucional en stands.",
-            "Diseño de flyers y folletos."
-        ],
-        "picture": "/data/clean/pictures/346.png"
-    },
-    {
-        "index": 168,
-        "id": 272,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "CREPES AND TEXAS",
-        "address": "c/ López de Hoyos, 135 - 3º D - 28002  Madrid",
-        "web": "https://www.crepesandtexas.com/",
-        "objectives": [
-            "Diseño gráfico.",
-            "Fotografía.",
-            "Creatividad."
-        ],
-        "picture": "/data/clean/pictures/352.png"
-    },
-    {
-        "index": 172,
-        "id": 268,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "TAU DISEÑO, S.A. (TAUDESIGN)",
-        "address": "c/ Marqués de Valdeiglesias, 5 - 28004 Madrid",
-        "web": "https://taudesign.com/",
-        "objectives": [
-            "Diseño editorial.",
-            "Imagen corporativa.",
-            "Espacios efímeros, exposiciones…",
-            "Diseño web."
-        ],
-        "picture": "/data/clean/pictures/348.png"
-    },
-    {
-        "index": 173,
-        "id": 267,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "EDITORIAL HISPALIBROS S.L.",
-        "address": "c/ Ventura Rodríguez, 22 - 28008 Madrid",
-        "objectives": [
-            "Diseño de banners para promoción online.",
-            "Diseño de cartelería offline.",
-            "Con los elementos de la marca ya creados, elaborar un manual de identidad corporativa.",
-            "Grabación y edición de vídeos para promoción de campañas.",
-            "Diseño de portadas de libros."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 174,
-        "id": 266,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "AMANTE BOUTIQUE CREATIVA, S.L. ",
-        "address": "Paseo Imperial, 9 - Bajos - 28005 Madrid",
-        "web": "https://www.amantecollection.com/",
-        "objectives": [
-            "Diseño gráfico.",
-            "Diseño web.",
-            "Diseño editorial.",
-            "Retoque fotográfico."
-        ],
-        "picture": "/data/clean/pictures/344.png"
-    },
-    {
-        "index": 182,
-        "id": 258,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "IMPRENTA ROSA, S.L.",
-        "address": "P.I. Carracafría, parc. 10 - 40270 Carbonero el Mayor (Segovia)",
-        "web": "http://imprentarosa.com/es/",
-        "objectives": [
-            "Diseño editorial,  (revistas, folletos, etc)",
-            "Packying.",
-            "Carteleria."
-        ],
-        "picture": "/data/clean/pictures/342.jpg"
-    },
-    {
-        "index": 183,
-        "id": 257,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "IMPERFECT FUTURES, S.L.",
-        "address": "c/ Sant Gervasi de Cassoles, 37 - 6-3 - 08022 Barcelona",
-        "objectives": [
-            "Conceptualización y diseño gráfico de identidad visual para un evento internacional.",
-            "Producción de artes finales para piezas gráficas como postales, carteles, pegatinas, etc.",
-            "Gestión de un proyecto de comunicación visual para un contexto internacional.",
-            "Desarrollo de habilidades para exponer y presentar, tanto oralmente como por escrito propuestas personales de diseño, en lengua nativa y en inglés.",
-            "Documentación e investigación de campo relacionada con el diseño.",
-            "Adquirir habilidades para desarrollar proyectos de diseño en equipo y en estructuras de colaboración."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 185,
-        "id": 255,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "KYRE SOLUTIONS, S.L.",
-        "address": "c/ Navarra, 24 bis - 1º C - 28039 Madrid",
-        "web": "https://www.krsolutions.com/",
-        "objectives": [
-            "Material comercial",
-            "- Creación de documentos comerciales",
-            "- Creación y revisión de textos ",
-            "- Creación de creatividades, fotografías, vídeos y montajes",
-            "Acciones de marketing",
-            "- Creación de creatividades para cada tipo de medio",
-            "Ferias y congresos",
-            "- Preparación de creatividades y materiales",
-            "- Atención al cliente y fotografías durante la feria",
-            "Redes sociales",
-            "- Publicaciones (redacción de textos y creación imágenes)",
-            "- Revisión de estadísticas y posibles mejoras",
-            "- Gestión y creación de acciones de marketing  (concursos, promociones…)",
-            "Blogs",
-            "- Diseño y cambios CSS sobre plantillas Wordpress",
-            "- Gestión de plugins y widgets",
-            "- Creación de entradas, etiquetas y categorías",
-            "- Creación y gestión de la zona privad",
-            "Web",
-            "- Publicación de noticias"
-        ],
-        "picture": "/data/clean/pictures/319.png"
-    },
-    {
-        "index": 186,
-        "id": 254,
-        "especialidad": [
-            "grafico",
-            "moda",
-            "producto"
-        ],
-        "name": "MARCALIS",
-        "address": "c/ Caleruega, 51 - 2º C - 28033 Madrid",
-        "web": "http://marcalis.com/",
-        "objectives": [
-            "Con sede en Madrid, será el apoyo de nuestro equipo de diseño y presentación de productos.",
-            "Como parte de su trabajo, se espera que pueda llevar a cabo una investigación y un análisis en profundidad de la imagen y marca de nuestros clientes, realizar propuestas de diseños en base a sus necesidades y participar en la preparación de la documentación para las presentaciones.",
-            "Imprescindible nivel alto PHOTOSHOP."
-        ],
-        "picture": "/data/clean/pictures/309.png"
-    },
-    {
-        "index": 187,
-        "id": 253,
-        "especialidad": [
-            "grafico",
-            "moda"
-        ],
-        "name": "A.M. FASHION & ACCESSPROES",
-        "address": "c/ Puerto de Somosierra, 35 - Nave 25 - 28935 Móstoles (Madrid)",
-        "web": "https://twitter.com/comunicationexp",
-        "objectives": [
-            "Diseño y desarrollo de artes finales, creatividad para produo de moda.",
-            "Realización de presentación y propuestas, ayuda en las campañas.",
-            "Diseño grafico y dibujo para producto de moda.",
-            "Office y email."
-        ],
-        "picture": "/data/clean/pictures/278.jpg"
-    },
-    {
-        "index": 188,
-        "id": 252,
-        "especialidad": [
-            "grafico",
-            "moda",
-            "producto"
-        ],
-        "name": "MEOLLO GLOBAL LOCAL",
-        "address": "Avda. Concha Espina, 7 - 1º izda. - 28016 Madrid",
-        "web": "https://meollo.net/",
-        "objectives": [
-            "Comunicación entre alumno ,compañeros y tutor para el desarrollo de catálogos y estampaciones textiles acorde a la imagen del proyecto, desde un boceto, montaje o render, hasta el resultado final. Asimilar los consejos y correcciones del tutor para la mejora de dichos trabajos en la medida de lo posible.",
-            "Trabajo en equipo junto a sus compañeros de la empresa desde su propio sector de diseñador gráfico, a diseñador industrial , responsable de finanzas o de ventas,etc  en multitud de contextos para lograr  un fin común.",
-            "Aprendizaje y mejora de sus capacidades con programas de diseño gráfico y diseño por ordenador. Adaptación a las nuevas tecnologías de diseño gráfico textil.",
-            "Aprendizaje y adaptación al contexto actual de trabajo en el campo de Diseño Grafico. Aprendizaje del sector desde sus inicios hasta la actualidad ,para su comprensión y utilización de los conocimientos adquiridos en el desarrollo de sus tareas en la empresa.",
-            "Desarrollar una actividad concreta que pueda ser integrada en la totalidad del proyecto y posteriormente poder aplicarla en cualquier ámbito en su correspondiente puesto de trabajo de Diseñador grafico.",
-            "Aprendizaje de la metodología de trabajo de nuestra empresa para crear una pauta repetitiva  que siempre pueda guiarle para acometer las tareas de su puesto de trabajo tanto en esta empresa como en cualquier otra."
-        ],
-        "picture": "/data/clean/pictures/310.jpeg"
-    },
-    {
-        "index": 191,
-        "id": 249,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "ABEDUL ART MANUALIDADES, SL",
-        "address": "c/ Sierra vieja, 81 - 28031 Madrid",
-        "web": "https://www.abedulart.com/",
-        "objectives": [
-            "Diseño de banner para home de web dedicada al comercio eletrónico.",
-            "Diseño de banner para news letter de comercio eletrónico.",
-            "Diseño de banner para las redes sociales de la web.",
-            "Fotografia de productos y tratamiento de imágenes para la web, news letter y redes sociales.",
-            "Gestión de las redes sociales y blog de  la web."
-        ],
-        "picture": "/data/clean/pictures/280.jpg"
-    },
-    {
-        "index": 193,
-        "id": 247,
-        "especialidad": [
-            "grafico",
-            "moda"
-        ],
-        "name": "CLOSKET WORLD",
-        "address": "c/ Claudio Coello, 18 - 3º - 28001 Madrid",
-        "objectives": [
-            "Desarrollo del léxico fashionista y aplicación de las tendencias de moda para descripción de las características de cada prenda.",
-            "Retoque y silueteado de imágenes a través de herramienta photoshop.",
-            "Análisis de las prendas, calidad, estado, composición…",
-            "Referenciación de producto en el backoffice de la aplicación.",
-            "Preparación de fotos para catálogo.",
-            "Selección de prendas aptas para catálogo."
-        ],
-        "picture": "/data/clean/pictures/282.jpeg"
-    },
-    {
-        "index": 199,
-        "id": 241,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SUMMA COMUNICACIÓ, S.A.",
-        "address": "c/ Roger de Llúria, 124 - 08037 Barcelona",
-        "web": "https://summa.es/",
-        "objectives": [
-            "Trabajos relativos a la Identidad Corporativa.",
-            "Conceptualización de ideas.",
-            "Branding y Packaging para marcas de prestigio.",
-            "Diseño online.",
-            "Entorno de trabajo creativo y profesional."
-        ],
-        "picture": "/data/clean/pictures/276.jpeg"
-    },
-    {
-        "index": 201,
-        "id": 239,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "PRODIGIOSO VOLCAN, S.L.",
-        "address": "Jesús del Valle, 28 - Bajo Local - 28004 Madrid",
-        "web": "https://www.prodigiosovolcan.com/",
-        "objectives": [
-            "Edición fotográfica . Tratamiento y enfoque fotográfico.",
-            "Diseño de publicaciones. Diseño y producción web.",
-            "Producción y diseño responsive. Producción y edición de PPTs.",
-            "Conceptualización visual. Conceptualización creativa.",
-            "Diseño de creatividades. Diseño de pequeñas piezas publicitarias."
-        ],
-        "picture": "/data/clean/pictures/266.png"
-    },
-    {
-        "index": 203,
-        "id": 237,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "NARANJO ETXEBERRÍA, C.B.",
-        "address": "c/ Hortaleza, 20 - 2º izq. - 28004 Madrid",
-        "web": "https://naranjoetxeberria.com/",
-        "objectives": [
-            "Conceptualización y desarrollo de un proyecto gráfico al completo.",
-            "Presentación y exposición de un proyecto a un cliente.",
-            "Aprender a hacer artes finales.",
-            "Branding.",
-            "Diseño editorial.",
-            "Diseño web."
-        ],
-        "picture": "/data/clean/pictures/267.jpeg"
-    },
-    {
-        "index": 204,
-        "id": 236,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "CASER SEGUROS, COMPAÑÍA DE SEGUROS Y REASEGUROS",
-        "address": "Avda. de Burgos, 109 - 28050 Madrid",
-        "web": "https://www.caser.es/",
-        "objectives": [
-            "Apoyo en el diseño de elementos gráficos de soporte web",
-            "Desarrollo y seguimiento de briefing a agencia para la realización de piezas gráficas, folletos y carteles.",
-            "Diseño de presentaciones."
-        ],
-        "picture": "/data/clean/pictures/268.png"
-    },
-    {
-        "index": 205,
-        "id": 235,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "DUPLEX ELEVACIÓN, S.L.U.",
-        "address": "c/ Brescia, 19 - 28028 Madrid",
-        "web": "http://www.duplexascensores.com/",
-        "objectives": [
-            "Diseño grafico (logo, marca, publicidad)",
-            "Diseño web (pagina web, marketing)",
-            "Diseño app (rediseño app corporativa)"
-        ],
-        "picture": "/data/clean/pictures/269.png"
-    },
-    {
-        "index": 206,
-        "id": 234,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "CULJANTERS, S.L.",
-        "address": "c/ Belén, 3 - 2º dcha. - 28004 Madrid",
-        "web": "http://www.deartee.com/",
-        "objectives": [
-            "Conocimientos de photoshop.",
-            "Illustrator.",
-            "Corel-draw.",
-            "Diseño gráfico."
-        ],
-        "picture": "/data/clean/pictures/270.png"
-    },
-    {
-        "index": 224,
-        "id": 216,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "ANTENAS LASSER, S.L.",
-        "address": "c/ Miguel Fleta, 9 - 28037 Madrid",
-        "web": "https://grupolasser.com/",
-        "objectives": [
-            "Ilustración y comunicación visual.",
-            "Gráfica interactiva: Edición, Usabilidad. Gráfica multimedia: Producción, Programación.",
-            "Proyectos de diseño gráfico: Desarrollos, Implementación.",
-            "Fotografías y Audiovisuales. Expresión fotográfica. Creación y tratamiento de fotografía y audiovisuales.",
-            "Sistemas de reproducción e impresión, producción para artes gráficas."
-        ],
-        "picture": "/data/clean/pictures/308.png"
-    },
-    {
-        "index": 226,
-        "id": 214,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "TRC GLOBAL MEDIA SERVICES, S.L.",
-        "address": "c/ Cervantes, 34 - Bajo ext drcha. - 28014 Madrid",
-        "objectives": [
-            "Diseño y maquetación de reportajes editoriales, periódicos y publicaciones periódicas.",
-            "Diseño y creación de artes finales y anuncios publicitarios para imprenta.",
-            "Diseño y creación de banners y elementos publicitarios para la web.",
-            "Creación de artes finales para imprenta.",
-            "Ilustraciones editoriales y retoque fotográfico."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 228,
-        "id": 212,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "CIFE SPAIN BUSINESS, S.L.",
-        "address": "c/ Caleruega, 79 - 4º B - 28033 Madrid",
-        "web": "https://www.cifegroup.com/",
-        "objectives": [
-            "Marketing: diseño catálogos y publicidades (fotografía y retoque)",
-            "Diseño: aplicación de guías de estilo a diferentes productos.",
-            "Control producto: revisión de artes finales.",
-            "Desarrollo producto: creación de idea/ estructura de producto."
-        ],
-        "picture": "/data/clean/pictures/298.jpg"
-    },
-    {
-        "index": 229,
-        "id": 211,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "CRISTINA CARRASCAL STUDIO SLU",
-        "address": "Plaza de Lavapiés, 4  5ºB - 28012 Madrid",
-        "objectives": [
-            "Análisis de los requerimientos del proyecto. Diseño de proyecto.",
-            "Conceptualización de diseños. Diseño gráfico y web.",
-            "Creación de diseños finales ajustados a un deathline y presupuesto.",
-            "Preparación de artes finales. Diseño gráfico.",
-            "Adaptación de diseños acorde a los requerimientos del cliente. Diseño gráfico",
-            "Maquetación  y retoque fotográfico. Diseño gráfico.",
-            "Preparación de websites en wireframe con descripción de funcionalidades para que puedan ser entendidos por desarrolladores. Diseño web."
-        ],
-        "picture": "/data/clean/pictures/289.png"
-    },
-    {
-        "index": 241,
-        "id": 199,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "ADRENALINE STUDIO, S.L.",
-        "address": "Pza. Puerta de Mártires, 1 - 28801 Alcalá de Henares (Madrid)",
-        "web": "https://byadrenaline.com/",
-        "objectives": [
-            "Diseño gráfico.",
-            "Diseño gráfico y de producto.",
-            "Diseño gráfico y maquetación web.",
-            "Diseño gráfico y maquetación."
-        ],
-        "picture": "/data/clean/pictures/173.png"
-    },
-    {
-        "index": 243,
-        "id": 197,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Fundación Hazloposible",
-        "address": "Pº Castellana, 197 - 2º D - 28046 Madrid",
-        "web": "https://www.hazloposible.org/",
-        "objectives": [
-            "Conceptualización y desarrollo gráfico de materiales gráficos y piezas audiovisuales relacionadas con los proyectos de la fundación.",
-            "Participación en la gestión de proyectos."
-        ],
-        "picture": "/data/clean/pictures/58.jpg"
-    },
-    {
-        "index": 246,
-        "id": 194,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "FLETCHER, ESTRATEGIAS CREATIVAS S.L.",
-        "address": "C/. Gutenberg, 10 - 28906 Getafe (Madrid)",
-        "web": "http://www.fletcheragency.es/somos-fletcher",
-        "objectives": [
-            "Apoyo en procesos creativos y generación de ideas.",
-            "Documentación: búsqueda de información para proyectos. Clientes, productos, competencia, campañas…",
-            "Apoyo al equipo de diseño, preparación de documentos y presentaciones, diseño de ficticios, propuestas visuales.",
-            "Soporte técnico de edición de video y fotografía para el desarrollo de bocetos y propuestas creativas."
-        ],
-        "picture": "/data/clean/pictures/111.jpeg"
-    },
-    {
-        "index": 248,
-        "id": 192,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "VITRAL GROUP 1994 S.L.",
-        "address": "C/. Medea, 4 - 3º C - 28037 Madrid",
-        "web": "http://www.mageritjoyas.com/",
-        "objectives": [
-            "Desarrollo de imágenes para campañas publicitarias en prensa.",
-            "Tratamiento y maquetación de imágenes para catálogos y folletos.",
-            "Adaptación de imágenes para publicidad en el punto de venta, Diseño material P.L.V.",
-            "Espíritu creativo.",
-            "Diseño Web.",
-            "Manejo de Photoshop, Adobe Illustrator, Paquete Office  (Word, Power point, Excel)"
-        ],
-        "picture": "/data/clean/pictures/60.png"
-    },
-    {
-        "index": 249,
-        "id": 191,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "EDITORIAL AGRÍCOLA ESPAÑOLA S.A.",
-        "address": "C/. Caballero de Gracia, 24 -3º Izqda. - 28013 Madrid",
-        "web": "http://www.editorialagricola.com/",
-        "objectives": [
-            "Argumentación, documentación, maquetación, diseño.",
-            "Uso de programas de edición, maquetación, retoque fotográfico, uso de tipografía, elaboración de tablas, edición, preimpresión, artes finales.",
-            "Elaboración de propuestas de proyectos para diferentes clientes.",
-            "Diseño editorial: edición magazines, libros, guías.",
-            "Campañas publicitarias.",
-            "Carteleria y señalética.",
-            "Diseño corporativo."
-        ],
-        "picture": "/data/clean/pictures/63.png"
-    },
-    {
-        "index": 250,
-        "id": 190,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "KNOM DESIGN S.L.",
-        "address": "c/ Infantas, 40 - 28004 Madrid",
-        "web": "http://knom.es/",
-        "objectives": [
-            "Adaptación de campañas a diferentes formatos.",
-            "Creación de identidad corporativa.",
-            "Gestión de materiales corporativos.",
-            "Diseño de presentaciones.",
-            "Diseño editorial."
-        ],
-        "picture": "/data/clean/pictures/64.png"
-    },
-    {
-        "index": 252,
-        "id": 188,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "BAUD BRANDING S.L.",
-        "address": "Calle de la Nao, 4 - 2ª planta - 28004 Madrid",
-        "web": "https://www.baud.es/",
-        "objectives": [
-            "Diseño gráfico.",
-            "Diseño web.",
-            "Diseño de packaging.",
-            "Maquetación.",
-            "Fotografía y retoque fotográfico."
-        ],
-        "picture": "/data/clean/pictures/56.png"
-    },
-    {
-        "index": 255,
-        "id": 185,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "EASYFRANCH, S.L.",
-        "address": "Marcelo Usera, 101 - 4º - 3 - 28026 Madrid",
-        "web": "http://www.easyfranch.com/",
-        "objectives": [
-            "Diseño imagen corporativa completa para distintas empresas y franquicias.",
-            "Nombres comerciales, logos, papelería, packaging, publicidad, etc.",
-            "Generar manuales de imagen.",
-            "Apoyo en diseño web."
-        ],
-        "picture": "/data/clean/pictures/112.png"
-    },
-    {
-        "index": 256,
-        "id": 184,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SIKA, S.A.U.",
-        "address": "Ctra. Fuencarral, 72 - 28108 Alcobendas (Madrid)",
-        "web": "https://esp.sika.com/",
-        "objectives": [
-            "Realización de diseños y mensajes relacionados con una nueva imagen corporativa.",
-            "Encargarse del proyecto de façading e implantaciones  ya en marcha, realizando diseños ficticios  y seguimiento con los comerciales  de su consecución.",
-            "Soporte a otras actividades de marketing."
-        ],
-        "picture": "/data/clean/pictures/46.png"
-    },
-    {
-        "index": 257,
-        "id": 183,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "HOLA POR QUÉ S. COOP. MAD.",
-        "address": "Nicolás Morales, 38 - 3ª planta - Nave 8 - 28019 Madrid",
-        "web": "http://www.holaporque.com/",
-        "objectives": [
-            "Bocetado, mapas mentales.",
-            "Maquetación.",
-            "Fotografía de producto y escena.",
-            "Uso de programas de retoque.",
-            "Programas de retoque de imagen y vectores."
-        ],
-        "picture": "/data/clean/pictures/47.png"
-    },
-    {
-        "index": 262,
-        "id": 178,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "PKMN ARCHITECTURES\nSe transforma en:\n1) ENORME ESTUDIO Y\n2) EEESTUDIO",
-        "address": " - ",
-        "objectives": [
-            "Exploración en torno a tecnología-tipología-construcción en  entornos urbanos     consolidados, conectando memoria local y culturas contemporáneas.",
-            "Desarrollo de iniciativas que vinculen ciudadanía, identidad, pedagogía,  comunicación, juego, acción y ciudad.",
-            "Prácticas de participación, enrolamiento, mediación e innovación social.",
-            "Procesos experimentales de aprendizaje activo."
-        ],
-        "picture": "/data/clean/pictures/50.png"
-    },
-    {
-        "index": 263,
-        "id": 177,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "JULIO SIÑERIZ GIL - KREATIVEWORK ",
-        "address": "C/. Preciados , 11 - 3º A - 28013 Madrid",
-        "web": "https://www.kreativework.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/52.jpg"
-    },
-    {
-        "index": 268,
-        "id": 172,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "IMAGIC VISION, S.L.",
-        "address": "C/. Tomás Redondo, 3 - Pl. 4 - A-B - 28033 Madrid",
-        "web": "https://www.imagicvision.com/?lang=es",
-        "objectives": [
-            "Al alumno en prácticas se le enseñará a trabajar en un grupo de trabajo diinámico, con buen ambiente, sus actividades también dependerá del fujo y tipo de proyectos dl que se disponga.",
-            "Colaborará activamente en el departamento crativo de video y de disño 3D aportando ideas y ayudando en todas las partes gráficas y necesidades.",
-            "Destacando tareas de diseño gráfico para desempeñar: composición de imágenes, retoque fotográfico, elaboración de catálogos y dossier. Maquetación de documentos. Creatividade gráficas."
-        ],
-        "picture": "/data/clean/pictures/65.jpg"
-    },
-    {
-        "index": 270,
-        "id": 170,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "ALCANDORA PUBLICIDAD, S.L.",
-        "address": "Camino de las Ceudas, 2 bis - 28232 Las Rozas (Madrid)",
-        "web": "https://www.alcandora.com/",
-        "objectives": [
-            "Participación en equipo de trabajo en el estudio creativo desarrollando campañas y trabajos relaes desde su concepción hasta su ejecución y cierre.",
-            "Diseño de maateriales varios (logotipos, folletos, memorias, soportes e exterior, web, banners, newsletters, RRSS, etc.)",
-            "Maquetación y Artes finales de las piezas."
-        ],
-        "picture": "/data/clean/pictures/66.gif"
-    },
-    {
-        "index": 271,
-        "id": 169,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "DADA COMPANY EDUTAINMENT S.L.",
-        "address": "C/ San Vicente, 8  6º dept. 6 - 48001 Bilbao",
-        "objectives": [
-            "Desarrollo de apps infantiles y aprendizaje del manejo del programa con el que se crean las apps. Apoyo al equipo creativo y de producción.",
-            "Creación de material audiovisual (vídeos, audios, etc.) necesario para la promoción de las pps en las diferentes stores.",
-            "Diseño y creación de banners, screenshots, iconos, portadas y demás material ncesario para la promoción y venta de las apps.",
-            "Desarrollo de propuestas para clientes.",
-            "Colaboración en todas las fases del proceso de elaboración de un proyecto, desde las primeras ideas hasta el lanzamiento de las pps.",
-            "Trabajo y colaboración continua con el equipo creativo y también con el resto de departamentos."
-        ],
-        "picture": "/data/clean/pictures/67.jpeg"
-    },
-    {
-        "index": 272,
-        "id": 168,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "TECNOLOGIA DEL LIBRO S.L.",
-        "address": "C/. Ríos Rosas 44A  3º - 28003 Madrid",
-        "objectives": [
-            "Diseño de interfaces de usuario para aplicaciones web y aplicaciones móviles con HTML5 y CSS3.",
-            "Diseño de logotipos e imagen de marca para las diferentes líneas de negocio de la compañía, así como colaboración para la elaboración de manual de estilo.",
-            "Diseño de soluciones web con criterios de accesibilidad y usabilidad.",
-            "Adaptación del diseño de las aplicaciones de la empresa a los manuales de identidad corporativa de los clientes."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 273,
-        "id": 167,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SMART OF SELLING FACTORY, S.L. (ESPARTAPP)",
-        "address": "Pza. Ciudad de Salta, 4 - 28043 Madrid",
-        "web": "https://espartapp.com/",
-        "objectives": [
-            "Siseños reponsive para páginas web, tablets y móviles.",
-            "Maquetación de diseños para desarrollos de App.",
-            "Diseño para acciones \"on line\" de promociones con registro."
-        ],
-        "picture": "/data/clean/pictures/119.jpeg"
-    },
-    {
-        "index": 275,
-        "id": 165,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "BINALOGUE S.L.",
-        "address": "c/ Génova, 11 - 3º D - 28004 Madrid",
-        "web": "https://binalogue.com/",
-        "objectives": [
-            "Diseño gráfico.",
-            "Ilustración.",
-            "Animación."
-        ],
-        "picture": "/data/clean/pictures/81.png"
-    },
-    {
-        "index": 276,
-        "id": 164,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SOMOSBOLD, S.L.",
-        "address": "C/. Albasanz, 72 loft 206 - 28037 Madrid",
-        "objectives": [
-            "Desarrollar propuestas ráfcias para las actividades de la empresa.",
-            "Contribuir al trabajo creativos de nuevos proyectos en todas sus faes (brainstorming, realización y ejecución)"
-        ],
-        "picture": ""
-    },
-    {
-        "index": 277,
-        "id": 163,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "DIBBUKS",
-        "address": "C/. Quintana, 17  2º A - 28008 Madrid",
-        "web": "https://www.dibbuks.es/es",
-        "objectives": [
-            "Comunicación Editorial (prensa, medios, agentes)",
-            "Elaboración de Actividades de marketing editorial.",
-            "Confección de flyers, documentos, etc. de mrk.",
-            "Ayuda en la producción editorial."
-        ],
-        "picture": "/data/clean/pictures/82.jpeg"
-    },
-    {
-        "index": 279,
-        "id": 161,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Multiplatform Content, SL",
-        "address": "C/. Apolonio Morales, 6 - 28036 Madrid",
-        "web": "https://www.mpc.one/",
-        "objectives": [
-            "Participación en los procesos creativos de la compañía: reniones de briefing, internas, brainstorming.",
-            "Soporte y ayuda en las labores de copy, guionización de proyectos audiovisuales, mecánicas de participación de promociones en RRSS.",
-            "Participación en labores de gestión propias del departamento: calendarización de entregas, gestión de materiales, interlocución con el resto de departamentos de la compañía, colaboración en la documentación de los trabajos a presentar, presentaciones de propuestas, etc.",
-            "Soporte  en los procesos creativos y de diseño de piezas de los diferentes proyectos de la compañía: display, gráficas, creatividades de RRSS, diseño, web, etc."
-        ],
-        "picture": "/data/clean/pictures/121.png"
-    },
-    {
-        "index": 280,
-        "id": 160,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Argonauta Diseño",
-        "address": "C/. Nogal, 1 - 28250 Torrelodones (Madrid)",
-        "web": "http://www.argonauta.info/",
-        "objectives": [
-            "Diseño web.",
-            "Diseño identidad y editorial.",
-            "Estudio especializado en teatros, auditorios, festivales e instituciones culturales de Madrid."
-        ],
-        "picture": "/data/clean/pictures/122.png"
-    },
-    {
-        "index": 285,
-        "id": 155,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "El Quicio del Alfeizar, proyectos y producciones, SL",
-        "address": "C/ Serrano Anguita, nº 7 - 28004 Madrid",
-        "web": "http://www.adambresnick.com/AdBresNW/",
-        "objectives": [
-            "Recibir información del conjunto en el despacho, trabajar en equpo multidisciplinar.",
-            "Entender, analizar y proponer soluciones coherentes con el proyecto arquitectónico y diseño interior.",
-            "Presentación de ideas y concptos para resolver el diseño de la señaléctica.",
-            "Entender planos y espacios para el diseño de la señaléctica específica a su ubicación.",
-            "Tratar no solo con el estudio de diseño de interiores y arquitectura, pero tratar con la propiedad y la constructora.",
-            "Incorporarse en el trabajo del equpo para resolver el proyecto en su conjunto."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 287,
-        "id": 154,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Mary Kay Cosmetics España, S.A.",
-        "address": "Mahonia, 2 plt 3ª - 28043 Madrid",
-        "web": "https://www.marykay.es/es-es/",
-        "objectives": [
-            "Dar soporte en la realización del material de comunicación interna (newletter online, invitaciones, emails, folletos, …)",
-            "Apoyo a sección de Redes Sociales con la creación y adaptación de iimágenes.",
-            "Contribuir al trabajo creativo de nuevos proyectos en todo sus fases (grainstorming, realizacion y ejecución).",
-            "Apoyo en el material corporativo (merchandising, folletos, presentaciones, eventos, ...)"
-        ],
-        "picture": "/data/clean/pictures/86.jpg"
-    },
-    {
-        "index": 289,
-        "id": 152,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Fundación Colección ABC",
-        "address": "c/ Juan Ignacio Luca de Tena, 7 - 28025 Madrid",
-        "web": "https://museo.abc.es/mecenazgos",
-        "objectives": [
-            "Desarrollar propuestas gráfcias para las actividades del museo.",
-            "Trabajar en el diseño y la producción de exposiciones.",
-            "Trabajar en proyectos de diseño de publicaciones del museo."
-        ],
-        "picture": "/data/clean/pictures/79.jpeg"
-    },
-    {
-        "index": 290,
-        "id": 151,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Promociones y Novedades, S.L. (Ediciones la Librería)",
-        "address": "C/. Mayor, 80 - 28013 Madrid",
-        "web": "https://www.edicioneslalibreria.es/",
-        "objectives": [
-            "Búsqueda de documentación gráfica.",
-            "Retoque y edición de imágenes.",
-            "Realización de propuestas de diseño y maquetación editorial."
-        ],
-        "picture": "/data/clean/pictures/78.jpeg"
-    },
-    {
-        "index": 294,
-        "id": 147,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Merchanfactory, S.L.",
-        "address": "C/ Resina nº 35 Nave 8 - 28021 Madrid",
-        "web": "https://merchanfactory.com/",
-        "objectives": [
-            "Diseño y realización de presentaciones para empresa dedicada al regalo.",
-            "Creación y maquetación de trabajos de diseño gráfico.",
-            "Aplicación de programas ADOBE (Illustrator, Photosphop, Indesign, …)"
-        ],
-        "picture": "/data/clean/pictures/69.png"
-    },
-    {
-        "index": 297,
-        "id": 144,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "TAPTAP NETWORKS",
-        "address": "Paseo de la Castellana, 111, 1º - 28046 Madrid",
-        "web": "https://www.taptapnetworks.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/72.png"
-    },
-    {
-        "index": 300,
-        "id": 141,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Innovati Servicios Tecnológicos, S.L.",
-        "address": "c/ Isla de Alborán, 9 - 28223 Pozuelo de Alarcón (Madrid)",
-        "web": "http://www.grupoinnovati.com/sp_html_site/",
-        "objectives": [
-            "Análisis funcional y usabilidad en aplicaciones y servicios telemáticos (páginas web, aplicaciones de escritorio o aplicaciones móviles).",
-            "Línea gráfica y diseño de acuerdo a las ideas a transmitir por la marca y la aplicación.",
-            "Arquitectura de información wireframe y prototipado.",
-            "Creación de elementos técnicos (trabajo en equipo con programadores para la maquetación, creación CSS, etc.)"
-        ],
-        "picture": "/data/clean/pictures/75.png"
-    },
-    {
-        "index": 304,
-        "id": 137,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Dolche & Lecro, S.L.",
-        "address": "c/ Virgen de Lourdes, 6, local 4 - 28027 Madrid",
-        "objectives": [
-            "Asistencia para la realización de textos y documentos para clientes y redacción de notas de prensa, artículos.",
-            "Tareas de diseño gráfico: maquetación y producción de artes finales.",
-            "Seguimiento de campañas de marketing online.",
-            "Trato con el cliente.",
-            "Retoque fotográfico profesional y utilización de equipos fotográficos profesionales.",
-            "Empleo de software específico de edición: maquetación y artes finales, tanto online como offline.",
-            "Aplicación de herramientas para el desarrollo de labores de community manager: Tweetdeck, Facebook y otras plataformas."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 306,
-        "id": 135,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Támpata Software, S.L.",
-        "address": "c/ Menorca, 16, of. 2 - 28009 Madrid",
-        "web": "http://tampata.com/",
-        "objectives": [
-            "NO HAY PROYECTO FORMATIVO"
-        ],
-        "picture": "/data/clean/pictures/76.jpg"
-    },
-    {
-        "index": 307,
-        "id": 134,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "SMARTNET, S.L. (SUSTITUÍDO POR EL Nº 337)",
-        "address": " - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 309,
-        "id": 132,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Pelonio Comunicación, S.L.",
-        "address": "c/ Lope de Vega, 47, bajo dcha - 28014 Madrid",
-        "web": "http://www.pelonio.com/",
-        "objectives": [
-            "Manejo de paquete Adobe (InDesign, Illustrator, Photoshop)"
-        ],
-        "picture": "/data/clean/pictures/45.png"
-    },
-    {
-        "index": 311,
-        "id": 131,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Zeppeling Televisión",
-        "address": " - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 312,
-        "id": 130,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "UPM (Universidad Politécnica de Madrid) - ETSI Comunicación",
-        "address": "Avda. Complutense, 30 - 28040 Madrid",
-        "web": "https://www.etsit.upm.es/",
-        "objectives": [
-            "Trabajo multidisciplinar con técnicos en proyectos europeos en los que participa la Cátedra.",
-            "Motion designer, cabeceras para cursos MOOC de la Cátedra.",
-            "Usabilidad y Experiencia de usuario en aplicaciones Web y Apps.",
-            "Programación y diseño de interfaz gráfico Front-end.",
-            "Programación de Realidad Aumentada.",
-            "Lenguajes de marcado y programación HTML5, CSS3, JavaScript."
-        ],
-        "picture": "/data/clean/pictures/125.png"
-    },
-    {
-        "index": 313,
-        "id": 129,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "BRB Internacional, S.A.",
-        "address": "Ctra. Fuencarral-Alcobendas (m-603), km. 12,220 (Edificio Auge I, 4ª planta) - 28049 Madrid",
-        "web": "https://brb.es/",
-        "objectives": [
-            "Aplicación de la Suite de Adobe",
-            "Diseño gráfico de material promocional para series y compañías del sector",
-            "Diseño Web",
-            "Realización del Diseño grçafico y/o maquetación para prensa",
-            "Asistencia en el desarrollo gráfico de identidades corporativas para proyectos de animación",
-            "Desarrollo de materiales gráficos para aplicaciones",
-            "Desarrollo de materiales gráficos de apoyo comercial"
-        ],
-        "picture": "/data/clean/pictures/44.jpg"
-    },
-    {
-        "index": 314,
-        "id": 128,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "RADIO SURES",
-        "address": "C/Travesía de la Encomienda, 3 - ",
-        "objectives": [
-            "Trabajo en equipo con profesionales de otras disciplinas (preiodistas, gestores culturales, cineastas, documentalistas, escritores,..). Intercam bio continuo de ideas y conocimientos.",
-            "Revisión de la línea gráfica de Radio Sures",
-            "Diseño de página web. Programación CSS/HTML",
-            "Realización del Diseño gráfico de material para difusión de actividades (banners, postales, carteles...)"
-        ],
-        "picture": "/data/clean/pictures/126.png"
-    },
-    {
-        "index": 319,
-        "id": 123,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Summa Insurance Brokerage",
-        "address": "Paseo de la castellana, 143 - 28046 Madrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 322,
-        "id": 120,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Unidad Editorial",
-        "address": "Avda. San Luis, 25 - 28033 Madrid",
-        "web": "http://www.unidadeditorial.es/home.aspx",
-        "objectives": [],
-        "picture": "/data/clean/pictures/15.jpeg"
-    },
-    {
-        "index": 323,
-        "id": 119,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "DTS Distribuidora de Televisión Digital, S.A.",
-        "address": "Avda. de los Artesanos, 6 - 28760 Tres Cantos (Madrid)",
-        "web": "http://www.movistar.es/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/16.jpeg"
-    },
-    {
-        "index": 326,
-        "id": 116,
-        "especialidad": [
-            "grafico",
-            "producto"
-        ],
-        "name": "CEMUSA-Corporación Europea de Mobiliario Urbano",
-        "address": "C/ Francisco Sancha, 24 - 28034 Madrid",
-        "web": "https://www.jcdecaux.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/18.jpeg"
-    },
-    {
-        "index": 328,
-        "id": 114,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "DDZ",
-        "address": "C/ Madera, 31 - 28004 Madrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 329,
-        "id": 113,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Fundación para la proección Internacional de las  Universidades Españolas-universidad.es",
-        "address": "C/ Torrelaguna, 58 - 4º planta - 28027 Madrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 330,
-        "id": 112,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Querida Valentina Ecommerce, S.L.",
-        "address": "C/ Castelló, 57 - 28001 Madrid",
-        "web": "http://www.queridavalentina.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/19.png"
-    },
-    {
-        "index": 332,
-        "id": 110,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "VZZ Comunicación Visual, S.L.",
-        "address": "Rotonda de Pitágoras, 1 - Nave 303 - 28806 Alcalá de Henares (Madrid)",
-        "web": "https://www.vzzcv.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/11.png"
-    },
-    {
-        "index": 335,
-        "id": 107,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Circodelia Producciones, S.L.",
-        "address": "C/ Barrilleros, 1 - 28700 San Sebastian de los Reyes",
-        "web": "https://www.circodeliaproducciones.com/",
-        "objectives": [
-            "Creatividad para piezas on-line (banners, actualizaciones en piezas web)",
-            "Creatividad y diseño de piezas off-line",
-            "Soporte a maquetación HTML 5 y CS3",
-            "Diseño y creación de piezas de e-mail marketing"
-        ],
-        "picture": "/data/clean/pictures/0.jpg"
-    },
-    {
-        "index": 336,
-        "id": 106,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Aznar Ramos Web (Trivium Sport)",
-        "address": "Avda. Ordoño II, 28, 6º dcha - 24001 León",
-        "objectives": [
-            "Adobe Muse",
-            "Tablet Plante. Aplicación para la integración de nuestra publicación en el entorno de las tablets"
-        ],
-        "picture": ""
-    },
-    {
-        "index": 339,
-        "id": 104,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Basurama",
-        "address": "Avda. Daroca, 49 - 28017 Madrid",
-        "web": "https://basurama.org/",
-        "objectives": [
-            "Elaboración de mensajes visuales para diversos soportes y objetivos.",
-            "Comunicación comercial y promocional, social e institucional, audiovisual, identitaria e institucional.",
-            "Ejecución de tareas en el planteamiento y desarrollo de proyectos",
-            "Manejo de herramientas digitales aplicadas a la comunicación visual y creación de soluciones gráficas digitales.",
-            "Creación de gráfica editorial en diversos soportes y formatos, en publicaciones impresas y digitales, anuarios, paneles, dossiers, portfolios, etc.",
-            "Trabajo en equipo en los distintos proyectos del estudio, más allá de los encargados propiamente a ellos "
-        ],
-        "picture": "/data/clean/pictures/2.jpg"
-    },
-    {
-        "index": 341,
-        "id": 102,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Grupo San José",
-        "address": "Ronda de Poniente, 11 - 28760 Tres Cantos Madrid",
-        "web": "https://www.grupo-sanjose.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/4.gif"
-    },
-    {
-        "index": 342,
-        "id": 101,
-        "especialidad": [
-            "grafico",
-            "moda"
-        ],
-        "name": "Adolfo Domínguez, S.A.",
-        "address": "P.I. San Ciprian de Viñas c4 p8 - 32901 S. Ciprian Viñas Ourense",
-        "web": "https://www.adolfodominguez.com/es/",
-        "objectives": [
-            "Realización de tareas en un entorno de trabajo web y comercio electrónico",
-            "Adaptación de comunicaciones a campañas, a través de mail y banners",
-            "Tratamiento de imágenes para web y dispositivos móviles",
-            "Colaboración en nuevo proyecto: investigación, conceptualización y realización de productos multimedia, digitales (landing page, banner, mailing) y físicos gráficos por medio de packaging, etiquetado y folleto informativo"
-        ],
-        "picture": "/data/clean/pictures/5.png"
-    },
-    {
-        "index": 343,
-        "id": 100,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Biblioteca Nacional de España (BNE)",
-        "address": "Paseo de Recoletos, 20 - 28071 Madrid",
-        "web": "http://www.bne.es/es/Inicio/",
-        "objectives": [
-            "Integración en el equipo de la Intranet Corporativa de la BNE.",
-            "Conocimiento d elas tareas que realiza cada perfil del equipo e integración en la estructura de trabajo: analistas funcionales - diseñador gráfico - desarrolladores.",
-            "Elaboración de una guía de estilo gráfico del portal Intranet",
-            "Propuesta de diseño gráfico para mejorar la Intranet de la BNE: cambios en tipografía, iconos, menús de navegación, cabecera logo, páginas de contenido, home.",
-            "Hojas de estilo (CSS), depurador web de Mozilla (firebug), maquetación de páginas web y otras cuestiones de diseño web"
-        ],
-        "picture": "/data/clean/pictures/6.png"
-    },
-    {
-        "index": 345,
-        "id": 98,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Eureda Textil, S.L.",
-        "address": "C/ Industrias, 11 - 28850 Torrejón de Ardoz",
-        "web": "https://euredatextil.com/",
-        "objectives": [
-            "Realización de presentaciones audiovisuales de empresa",
-            "Realización de presentaciones audiovisuales para clientes",
-            "Manejo de Illustrator para la realización de las presentaciones de las colecciones a los clientes",
-            "Realización de fichas de producción",
-            "Participación en modificaciones en la web de la empresa"
-        ],
-        "picture": "/data/clean/pictures/7.png"
-    },
-    {
-        "index": 354,
-        "id": 89,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Central de Compras Opticas, S.L. (CECOP)",
-        "address": "Avda de la Industria, 53 - 1º - 28108 Alcobendas",
-        "web": "https://www.cecop.es/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/39.gif"
-    },
-    {
-        "index": 357,
-        "id": 86,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Estinar Arte Estiarte S.A. (Galería Pilar Serra)",
-        "address": "C/ Santa Engracia, 6 - bajo centro - 28010 Madrid",
-        "web": "http://pilarserra.com/es/",
-        "objectives": [
-            "Participación montaje y gestión de obras en ARCO 2014",
-            "Maquetación y diseño de comunicación de la galería",
-            "Inventariado fotográfico de las obras de arte del fondo de la galería",
-            "Catalogación y realización de fichas técnicas de obras de arte",
-            "Participación montaje y gestión de obras en diversas exposiciones en la galería",
-            "Realización de empaquetado y embalaje de obras de arte para envíos"
-        ],
-        "picture": "/data/clean/pictures/40.jpg"
-    },
-    {
-        "index": 358,
-        "id": 85,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Instituto Superior de Protocolo y Eventos (ISPE)",
-        "address": "C( Quintana, 21 - 28008 Madrd",
-        "web": "http://ispe.edu.es/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/41.png"
-    },
-    {
-        "index": 362,
-        "id": 81,
-        "especialidad": [
-            "grafico",
-            "moda"
-        ],
-        "name": "Roman y Asociados, S:A:",
-        "address": "C/ Velazquez, 46 - 28001 Madrid",
-        "web": "https://romanrm.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/34.jpeg"
-    },
-    {
-        "index": 364,
-        "id": 79,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Naturaleader Import Export, S.L.",
-        "address": "C/ Peñuelas, 18 - 28005 Madrid",
-        "web": "https://www.naturlider.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/32.jpeg"
-    },
-    {
-        "index": 371,
-        "id": 72,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Carmen Ruiz",
-        "address": "C/ Serrano, 219 - 28016 Madrid",
-        "web": "https://www.carmenruizinteriores.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/23.jpeg"
-    },
-    {
-        "index": 373,
-        "id": 70,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Grandes Almacenes FNAC España, S.A.",
-        "address": "Paseo de la Finca, 1 - 28115 Pozuelo Alarcón",
-        "web": "https://www.fnac.es/",
-        "objectives": [
-            "Elaboración de Newsletters, microsites integrados en el site fnac.es, mantenimiento gráfico y funcional de la website, desarrollo de acciones tanto online como ofline, participación en la creación y desarrollo de campañas, acciones comerciales y proyectos de fidelización"
-        ],
-        "picture": "/data/clean/pictures/25.jpeg"
-    },
-    {
-        "index": 374,
-        "id": 69,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "CCXX1/Grupo Duende",
-        "address": "C/ de la Flora, 2 - 28013 Madrid",
-        "web": "http://www.duendemad.com/",
-        "objectives": [
-            "Realización de propuestas de diseño a nivel de maquetación; tanto de la misma revista como de otros productos editoriales y publicitarios relacionados con la misma: invitaciones para eventos, memorias, libros, productos a regalar con la revista.",
-            "Aprendizaje de todo el proceso gráfico, desde la idea del producto editorial hasta la creación del arte final, pasando por la supervisión de ferros y todo lo que conlleva.",
-            "Actualización y subida de nuevas entradas a la página web de la revista, utilizando para ello un panel de control y gestión de la página web."
-        ],
-        "picture": "/data/clean/pictures/26.jpeg"
-    },
-    {
-        "index": 375,
-        "id": 68,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Momentum Madrid S:A:",
-        "address": "Paseo Castellana, 165 - 28046 Madrid",
-        "web": "https://www.momentumww.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/27.jpg"
-    },
-    {
-        "index": 376,
-        "id": 67,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Grupo Globomedia SAU",
-        "address": "Ctra. Fuencarral-Alcobendas, 24 - 28409 Madrid",
-        "web": "https://globomedia.es/es/index",
-        "objectives": [
-            "Búsqueda de documentación gráfica",
-            "Realización de propuestas y diseño de logotipos, carteles, backgrounds, etc",
-            "Realización de animaciones en After Effects",
-            "Diseño y creación de piezas de e-mail marketing",
-            "Diseño y animación de logotipos y otros",
-            "Maquetación para presentaciones y folletos",
-            "Retoque y edición de imágenes"
-        ],
-        "picture": "/data/clean/pictures/28.png"
-    },
-    {
-        "index": 377,
-        "id": 66,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Vector SF",
-        "address": "Camino Cerro de los Gamos, 1 - 28224 Pozuelo Alarcón",
-        "web": "https://www.vectoritcgroup.com/",
-        "objectives": [
-            "Búsqueda de material gráfico (fotos, ilustraciones) en catálogos online, para su uso en piezas visuales de distinta índole",
-            "Edición y retoque fotográfico de imágenes",
-            "Montajes y edición gráfica de material para presentaciones corporativas",
-            "Creación de ilustraciones y gráficos para infografías corporativas",
-            "Creación de piezas gráficas para newsletter corporativas"
-        ],
-        "picture": "/data/clean/pictures/29.png"
-    },
-    {
-        "index": 378,
-        "id": 65,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Babait Technology, S.L.",
-        "address": "C/ Génova, 7 - 28004 Madrid",
-        "objectives": [
-            "Realización de propuestas de diseño de páginas web.",
-            "Diseño y creación de newsletters corporativas",
-            "Diseño y creación de imágenes corporativas para redes sociales",
-            "Actualización de conocimientos en HTML5, para poder realizar los trabajos encargados",
-            "Diseño y creación de ficticios para web",
-            "Pensamiento transversal entre el diseño web, la funcionalidad y las necesidades del cliente"
-        ],
-        "picture": "/data/clean/pictures/117.png"
-    },
-    {
-        "index": 379,
-        "id": 64,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Estudio Herrera. J.C.Herrera Martúnez-Arquitecto",
-        "address": "Plaza del Valle de la Jarosa, 102 - 28035 Madrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 381,
-        "id": 62,
-        "especialidad": [
-            "grafico",
-            "moda"
-        ],
-        "name": "García Distribuciones, C.B.",
-        "address": "Corredera Baja de San Pablo, 26 - 28004 Madrid",
-        "web": "https://www.garciamadrid.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/31.png"
-    },
-    {
-        "index": 383,
-        "id": 60,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Abraham Aoun Martín",
-        "address": "C/ La Cruz, 7 - 28300 Aranjuez",
-        "objectives": [
-            "Diseño y realización de vídeo corporativo",
-            "Diseño página web",
-            "Imagen gráfica de empresa: aplicaciones",
-            "Realización de tarjetas promocionales",
-            "Desarrollo de diseño web para aplicación en móviles",
-            "Programación CSS"
-        ],
-        "picture": ""
-    },
-    {
-        "index": 384,
-        "id": 59,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Summa Comunicació",
-        "address": "C/ Roger de Luria, 124 - 08037 Barcelona",
-        "web": "https://summa.es/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/88.jpeg"
-    },
-    {
-        "index": 386,
-        "id": 57,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Ona Investigación, S.L.",
-        "address": "C/ Sierra de la Sagra, 15 - 28018 Madrid",
-        "objectives": [
-            "Diseño y realización de vídeo corporativo",
-            "Diseño página web",
-            "Imagen gráfica de empresa: aplicaciones",
-            "Realización de tarjetas promocionales",
-            "Desarrollo de diseño web para aplicación en móviles",
-            "Programación CSS",
-            "Diseño de etiquetas y pakaging",
-            "Diseño de cartelería"
-        ],
-        "picture": "/data/clean/pictures/90.jpg"
-    },
-    {
-        "index": 388,
-        "id": 55,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Grupo Wizyu, S.L.",
-        "address": "C/ Miguel Fleta, 6 - 28037 Madrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 404,
-        "id": 39,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Sara World, S.L.",
-        "address": "C/Villanueva, 19 1ºDCH - 28001 Madrid",
-        "web": "https://www.saraworld.com/",
-        "objectives": [
-            "Rediseño d ela imagen gráfica corporativa de la empresa",
-            "Manual de identidad d ela empresa",
-            "Colaboración en realización de vídeos y fotografías",
-            "Participación en la realización de análisis de tendencias",
-            "Planteamiento y desarrollo con el resto del equipo, de una colección de marroquinería"
-        ],
-        "picture": "/data/clean/pictures/131.png"
-    },
-    {
-        "index": 410,
-        "id": 35,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Structura Gráfica, S.L.",
-        "address": "Pl/ Luca de Tena, 9 - 28045 Madrid",
-        "web": "https://www.structuragrafica.es/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/135.png"
-    },
-    {
-        "index": 411,
-        "id": 34,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Ipsum Planet, S.L.",
-        "address": "C/ San Bernardo, 63 - 28015 Madrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 413,
-        "id": 32,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Estudio Pérez Medina",
-        "address": "C/ Aracataca, 14 - 28033 Madrid",
-        "web": "https://perezmedina.com/",
-        "objectives": [
-            "Retoques y preparación de artes finales",
-            "Realización de fotografías, retoques y montaje",
-            "Boceto y creación de ilustraciones",
-            "Diseño de packaging",
-            "Diseño y realización de piezas gráficas"
-        ],
-        "picture": "/data/clean/pictures/136.jpg"
-    },
-    {
-        "index": 416,
-        "id": 29,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "EMACS, S.L.",
-        "address": "C/ Santa Leonor, 63 - 4º, Nave I - 28037 Madrid",
-        "web": "https://store.emacs.es/",
-        "objectives": [
-            "Elaboración de mensajes visuales para diversos soportes y objetivos",
-            "Intervención y ejecución de tareas en el desarrollo de procesos y proyectos de identidad, Elaboración de Manual de normas, aplicaciones e implementación",
-            "Manejo de herramientas digitales aplicadas a la comunicación visual, preparación de artes finales para producción, maquetación, y creación de soluciones gráficas",
-            "Tareas de investigación y conceptualización"
-        ],
-        "picture": "/data/clean/pictures/137.png"
-    },
-    {
-        "index": 420,
-        "id": 25,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "NCA y Asociados S.A.",
-        "address": "C/ serrano, 63 - 28006 Madrid",
-        "web": "https://ncayasociados.com/",
-        "objectives": [
-            "Elaboración de mensajes visuales para diversos soportes y objetivos",
-            "Intervención y ejecución de tareas en el desarrollo de procesos y proyectos de identidad y audiovisual",
-            "Manejo de herramientas digitales aplicadas a la comunicación visual, preparación de artes finales para producción, maquetación, y creación de soluciones gráficas",
-            "Tareas de investigación y conceptualización"
-        ],
-        "picture": "/data/clean/pictures/151.png"
-    },
-    {
-        "index": 422,
-        "id": 24,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Professional Design, S.L.",
-        "address": "C/ Manuel Cortina, 11 - 28010 Madrid",
-        "web": "https://professional-design.com/",
-        "objectives": [
-            "Adaptación de elementos de comunicación gráfica a entornos expositivos, comerciales, etc.",
-            "Elaboración de material gráfico para entornos digitales (web)"
-        ],
-        "picture": "/data/clean/pictures/152.png"
-    },
-    {
-        "index": 423,
-        "id": 23,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Sánchez/Lacasta, S.l.",
-        "address": " - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 426,
-        "id": 20,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Experimenta, S.L.",
-        "address": "c/ Antonio Toledano, 36 - 28028 Madrid",
-        "web": "https://www.experimenta.es/",
-        "objectives": [
-            "Realización de banners",
-            "Actualización de web",
-            "Retoque y optimización de imágenes digitales",
-            "Rediseño de web"
-        ],
-        "picture": "/data/clean/pictures/167.png"
-    },
-    {
-        "index": 428,
-        "id": 18,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Altura X Estudio, s.l.",
-        "address": "C/ Primavera 8 - Bajo dcha - 28012 Madrid",
-        "objectives": [
-            "Diseño y realización de video corporativo",
-            "Diseño página web",
-            "Imagen gráfica de empresa: aplicaciones",
-            "Realiación de tarjetas promocionales",
-            "Desarrollo de diseño web para plicación en móviles",
-            "Programación CSS",
-            "Diseño de etiquetas y packaging",
-            "Diseño de cartelería"
-        ],
-        "picture": ""
-    },
-    {
-        "index": 430,
-        "id": 16,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Erretres Diseño y Comunicación 2003, S.L.",
-        "address": "Pza. España, 11 - 1º izq - 28008 Madrid",
-        "web": "https://www.erretres.com/",
-        "objectives": [
-            "Sin Proyecto Formativo"
-        ],
-        "picture": "/data/clean/pictures/170.jpeg"
-    },
-    {
-        "index": 431,
-        "id": 15,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Susaeta Ediciones, S.A.",
-        "address": "C/ Campezo 13, P.Ind. Las Mercedes - 28022 Madrid",
-        "web": "https://www.editorialsusaeta.com/es/",
-        "objectives": [
-            "Sin Proyecto Formativo"
-        ],
-        "picture": "/data/clean/pictures/171.png"
-    },
-    {
-        "index": 432,
-        "id": 14,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Estrada Design, S.l.",
-        "address": " - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 435,
-        "id": 11,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Pep Carrió Diseño y Comunicación, S.L.",
-        "address": "c/ Génova, 11 - 7º dcha - 28004 Madrid",
-        "web": "https://www.pepcarrio.com/",
-        "objectives": [
-            "Sin Proyecto Formativo"
-        ],
-        "picture": "/data/clean/pictures/164.jpg"
-    },
-    {
-        "index": 437,
-        "id": 9,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "Blue Cell Comunicación, S.L.",
-        "address": " - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 442,
-        "id": 5,
-        "especialidad": [
-            "grafico",
-            "mec",
-            "producto"
-        ],
-        "name": "Dimad (Fundación Diseño Madrid)",
-        "address": " - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 447,
-        "id": 1,
-        "especialidad": [
-            "grafico"
-        ],
-        "name": "G y J Publicaciones Internacionales, S.L.",
-        "address": "c/ Albasanz, 15 - 38037 Madrid",
-        "objectives": [
-            "Sin Proyecto Formativo"
-        ],
-        "picture": ""
-    }
+        {
+          "font": {
+            "bold": true,
+            "size": 8,
+            "color": {
+              "argb": "FFC00000"
+            },
+            "name": "Arial",
+            "family": 2
+          },
+          "text": "."
+        },
+        {
+          "font": {
+            "bold": true,
+            "size": 8,
+            "color": {
+              "argb": "FF000000"
+            },
+            "name": "Arial",
+            "family": 2
+          },
+          "text": " "
+        }
+      ]
+    },
+    "address": "c/ Orense, 11 - 2º B  - 28020 Madrid",
+    "web": "http://www.elytt.com/",
+    "objectives": [
+      "Habilidad para crear y desarrollar una comunicación gráfica de la empresa.",
+      "Conocimiento de herramientas necesarias para poder llevar a cabo el desarrollo de una imagen corporativa.",
+      "Capacidad de aprendizaje.",
+      "Flexibilidad y dinamismo."
+    ],
+    "picture": "/data/clean/pictures/182.png"
+  },
+  {
+    "index": 115,
+    "id": 321,
+    "especialidad": ["grafico"],
+    "name": "THE WOORK COMPANY, S.C.",
+    "address": "c/ Cruz Verde, 20 B  - 28350 Cienpozuelos (Madrid)",
+    "web": "http://www.thewoork.co/",
+    "objectives": [
+      "Estudio e interpretación de un Briefing, Creación de Moodboards, etc.",
+      "Ayuda con la preparación de presentaciones y asistencia a presentaciones de marca con clientes.",
+      "Diseño de diferentes piezas corporativas digitales y editoriales para marcas existentes.",
+      "Trabajo personal para mejora del portfolio del alumno. (Si las 360 horas de duración lo permiten)",
+      "Revisión y mejora del portfolio personal del Alumno. (este trabajo se realizará de manera externa a la jornada de prácticas, pero si se tutelará con la formación correspondiente en jornada “lectiva/Laboral”.",
+      "Creación de una marca y presentación. (Si las 360 horas de duración lo permiten)"
+    ],
+    "picture": "/data/clean/pictures/214.png"
+  },
+  {
+    "index": 117,
+    "id": 319,
+    "especialidad": ["grafico"],
+    "name": "NÚCLEO EMPRESARIAL 2001, S.L.  ",
+    "address": "c/ Las Águlas, 16; Edificio Las Aves, oficina 109; Pol. Ind. La Estación - 28320 Pinto (Madrid)",
+    "web": "http://www.nucleoempresarial.net/",
+    "objectives": [
+      "Apoyo al equipo gráfico.",
+      "Desarrollo de materiales gráficos corporativos desde la búsqueda de conceptos hasta la ejecución final del trabajo, tanto online como online.",
+      "Relación de artes finales para imprenta.",
+      "Maquetación de revistas, catálogos y otros soportes, diseño páginas web.",
+      "Manejo de programas: In Desing, Photoshop, Ilustrator."
+    ],
+    "picture": "/data/clean/pictures/216.png"
+  },
+  {
+    "index": 125,
+    "id": 311,
+    "especialidad": ["grafico"],
+    "name": "JON ALEXANDER DE LA FUENTE CANTALAPIEDRA (FETEN ESTUDIO)",
+    "address": "c/ Cardenal Silicio, 17 - Entreplanta D - 28002 Madrid",
+    "web": "https://www.fetenstudio.com/",
+    "objectives": [
+      "Maquetación y diseño en entorno web Wordpress.",
+      "Maquetación y diseño editorial para revista Canvas.",
+      "Desarrollo de proyectos de branding desde la implementación.",
+      "Desarrollo de manuales de identidad corporativa.",
+      "Realizar presentaciones de proyectos.",
+      "Desarrollar material gráfico y gestionar redes sociales del estudio."
+    ],
+    "picture": "/data/clean/pictures/201.png"
+  },
+  {
+    "index": 126,
+    "id": 310,
+    "especialidad": ["grafico"],
+    "name": "SILVIA PONCE DÍAZ-REIXA (ESPÍRITU GRÁFICO)",
+    "address": "c/ Espíritu Santo, 37 - Bajo - 35001 Las Palmas de Gran Canaria",
+    "web": "http://espiritugrafico.com/",
+    "objectives": [
+      " Proyecto de Comunicación para LaMetroGuagua (Guaguas Municipales), que se desarrollará durante todo 2017, y en la cual llevamos trabajando desde Septiembre, para que en Marzo ya pueda ser visible.",
+      "Maquetación del Libro de una Artista.",
+      "Rediseño/Actualización de la Identidad del Restaurante deliciosamarta, que en unos meses volverá abrir sus puertas.",
+      "Memoria Anual Casa África 2016.",
+      "Posible rediseño de la identidad de un Museo (aun estamos en trámites presupuestarios)",
+      "Posible maquetación de un catálogo de exposición del CAAM.",
+      "Web (Diseño y programación externa en colaboración) de un Restaurante (El Cortijo de San Ignacio).",
+      "Programas: Indesign, Ilustrator y photoshop."
+    ],
+    "picture": "/data/clean/pictures/202.png"
+  },
+  {
+    "index": 128,
+    "id": 309,
+    "especialidad": ["grafico"],
+    "name": "CITRUS TEXTILE S.L. (TUGERS)",
+    "address": "c/ Tubo, 6 - 28223 Pozuelo de Alarcón (Madrid)",
+    "web": "https://tugers.com/es/",
+    "objectives": [
+      "Branding. Modificación de imagen corporativa.",
+      "Diseño publicitario.",
+      "Diseño de packaging.",
+      "Diseño de piezas publicitarias para nuestras campañas de marca tanto online como offline.",
+      "Mensajes y elementos gráficos."
+    ],
+    "picture": "/data/clean/pictures/203.png"
+  },
+  {
+    "index": 129,
+    "id": 308,
+    "especialidad": ["grafico"],
+    "name": "BARFUTURA",
+    "address": "c/ de Oriente, 3 - 28005 Madrid",
+    "web": "https://www.barfutura.com/",
+    "objectives": [
+      "Reuniones creativas.",
+      "Trabajo en equipo.",
+      "Asumir responsabilidades.",
+      "Desarrollo de proyectos reales de principio a fin.",
+      "Cartelería, editorial, web, interactivo…"
+    ],
+    "picture": "/data/clean/pictures/204.png"
+  },
+  {
+    "index": 131,
+    "id": 306,
+    "especialidad": ["grafico"],
+    "name": "EL TALLER DE GRÁFICA Y COMUNICACIÓN, S.L.",
+    "address": "c/ Arquitectura, 17 - Bajo izq. - 28005 Madrid",
+    "web": "http://eltaller.com/",
+    "objectives": [
+      "Con la ayuda y supervisión de un tutor, se procederá a tareas de diseño y maquetación.",
+      "Realización de artes finales en tareas de diseño gráfico y/o editorial.",
+      "Principalmente se utilizará InDesign y Photoshop como apoyo.",
+      "Se valorará el uso de Illustrator y Corel Draw."
+    ],
+    "picture": "/data/clean/pictures/264.png"
+  },
+  {
+    "index": 132,
+    "id": 305,
+    "especialidad": ["grafico"],
+    "name": "BRANDBURY DESIGN, S.L.",
+    "address": "c/ Cidro, 3 - Oficina 216 - 28044 Madrid",
+    "web": "http://www.brandbury.es/",
+    "objectives": [
+      "Participación en las diferentes actividades planteadas o desarrollos propuestos dentro del equipo.",
+      "Diseño de diferentes elementos de diseño tanto offline como online: cartelería, folletos, banners, elementos de packaging, etc.",
+      "Participación y desarrollo de proyectos partiendo de líneas gráficas ya definidas.",
+      "Gestión de contenidos en sites web ya existentes, así como aporte de ideas para sites web de nueva creación.",
+      "Participación en las presentaciones de proyectos a clientes.",
+      "Preparación de artes finales."
+    ],
+    "picture": "/data/clean/pictures/207.jpg"
+  },
+  {
+    "index": 139,
+    "id": 298,
+    "especialidad": ["grafico"],
+    "name": "WEDGE GLOBAL, S.L., ",
+    "address": "c/ Isabel Torres, 11 (Modulo 11) - 39011 Santander (Cantabria)",
+    "web": "https://www.wedgeglobal.com/",
+    "objectives": [
+      "Diseño grafico",
+      "Imagen corporativa, incluyendo actualización de logo e incluso nombre compañía. ",
+      "Programación páginas web",
+      "Actualización de la web en contenido y formato, accesible desde dispositivos portátiles.",
+      "Comunicación y marca",
+      "Comunicación corporativa.",
+      "Desarrollo de material gráfico para presentaciones,  conferencias, ferias, etc.",
+      "Audivisual, Videos tipo video scribing o similar."
+    ],
+    "picture": "/data/clean/pictures/327.jpg"
+  },
+  {
+    "index": 142,
+    "id": 295,
+    "especialidad": ["grafico"],
+    "name": "TELEFÓNICA AUDIOVISUAL DIGITAL, SLU ",
+    "address": "Avda. de los Artesanos, 6 - 28760 Tres Cantos (Madrid)",
+    "web": "https://www.movistar.es/",
+    "objectives": [
+      "Adaptaciones de gráficas.",
+      "Mantenimiento de piezas animadas ya diseñadas.",
+      "Apoyo a peticiones de grafismo.",
+      "Aprenderá Vizrt.",
+      "Adaptación de la misma a On Air, On Line e impreso.",
+      "Creación Identidad gráfica para un producto o comunicación."
+    ],
+    "picture": "/data/clean/pictures/330.png"
+  },
+  {
+    "index": 143,
+    "id": 294,
+    "especialidad": ["grafico"],
+    "name": "WOZ’ERE IMAGEN Y COMUNICACIÓN, S.L. ",
+    "address": "c/ Nicasio Gallego, 15  - 28010 Madrid",
+    "web": "https://www.wozere.com/",
+    "objectives": [
+      "Colaboración con apoyo y seguimiento en proyectos integrales guiado por su Tutor.",
+      "Colaboración con apoyo y seguimiento en preparación de materiales finales guiado por su Tutor.",
+      "Explicaciones y apoyo por su tutor y otros miembros del equipo a través del día a día de la empresa.",
+      "Capacidad de desarrollar proyectos de diseño integrales desde la conceptualización inicial a la entrega final.",
+      "Capacidad para preparar los materiales finales para entrega a producción final, de imprenta o desarrollo digital.",
+      "Capacidad para entender el proceso de diseño dentro de un equipo integrado."
+    ],
+    "picture": "/data/clean/pictures/331.jpeg"
+  },
+  {
+    "index": 152,
+    "id": 285,
+    "especialidad": ["grafico"],
+    "name": "FUNDACIÓN SÍNDROME DE DOWN MADRID",
+    "address": "c/ Caídos de la División Azul, 15 - 28016 Madrid",
+    "web": "http://www.downmadrid.org/",
+    "objectives": [
+      "Dar apoyo en los diferentes soportes digitales y de comunicación de Down Madrid.",
+      "Web de Down Madrid.",
+      "Boletines digitales de la Entidad."
+    ],
+    "picture": "/data/clean/pictures/316.png"
+  },
+  {
+    "index": 156,
+    "id": 284,
+    "especialidad": ["grafico"],
+    "name": "AMB PIENSA, S.L.",
+    "address": "c/ Almería, 64 - 1ºD - 28939 Arroyomolinos (Madrid)",
+    "web": "http://www.ambpiensa.com/",
+    "objectives": [
+      "Diseño gráfico soporte papel.",
+      "Diseño Gráfico de interface de usuario.",
+      "Modelado 3d.",
+      "Edición de video digital.",
+      "Programación en Unity 3d.",
+      "Ilustración vectorial digital."
+    ],
+    "picture": "/data/clean/pictures/318.jpeg"
+  },
+  {
+    "index": 158,
+    "id": 282,
+    "especialidad": ["grafico"],
+    "name": "HEARTS ESPAÑA S.L.",
+    "address": "EL EXPEDIENTE NO SE ENVÍA A LA EMPRESA POR FALTA DE AUTORIZACIÓN DE LA DIRECTORA - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 163,
+    "id": 277,
+    "especialidad": ["grafico"],
+    "name": "ISLA AUDIOVISUAL, S.L.",
+    "address": "Paseo Pintor Rosales, 36 - 28008 Madrid",
+    "web": "http://www.islaaudiovisual.es/",
+    "objectives": [
+      "Dpto de diseño gráfico. Perfil offline con conocimientos de edición de video y nociones de maquetación web.",
+      "Dominio de photoshop.",
+      "Illustrator e indesign.",
+      " Creatividad y capacidad de conceptualización."
+    ],
+    "picture": "/data/clean/pictures/350.png"
+  },
+  {
+    "index": 164,
+    "id": 276,
+    "especialidad": ["grafico"],
+    "name": "ATRACCIÓN WEB (ALONSO MANUEL SERRANO PÉREZ)",
+    "address": "c/ Juan Antonio García González, 1 - 19180 Marchamalo (Guadalajara)",
+    "web": "https://www.atraccionweb.com/?idioma=es",
+    "objectives": [
+      "Comprensión y análisis de las necesidades de los clientes, mediante entrevistas profesionales y contacto directo con ellos",
+      "Diseño de usuabilidad",
+      "Diseño responsive de sitios web",
+      "Maquetación de sitios web según el diseño creado",
+      "Optimización del sitio para su posicionamiento natural",
+      "Diseño de los elementos gráficos a incorporar en las webs,  retoque y optimización de las  imágenes que incorpore, así como su previa selección o realización",
+      "Optimización de las páginas web para compartirlas en las redes sociales",
+      "Renovación de la imagen actual de Atracción Web y todas sus vertientes, así como su sitio web",
+      "Diseño de elementos gráficos y retoque fotográfico",
+      "Diseño de páginas web",
+      "Branding"
+    ],
+    "picture": "/data/clean/pictures/349.png"
+  },
+  {
+    "index": 165,
+    "id": 275,
+    "especialidad": ["grafico"],
+    "name": "SISTEMAS ADMINISTRATIVOS, S.A.",
+    "address": "Glorieta de Rubén Darío, 4 - 28010 Madrid",
+    "objectives": [
+      "Ofrecer soluciones de diseño en áreas como web, cartelería, redes sociales,etc, en base a las necesidades de la Fundación.",
+      "Crear piezas publicitarias y de difusión de los eventos y proyectos a realizar en las líneas de trabajo de la fundación.",
+      "Manejo de herramientas de diseño gráfico y web.",
+      "Diseño y elaboracion de distintas unidades publicitarias y elaboracion de folletos.",
+      "Diseño de marca, diseño de presentaciones.",
+      "Diseño de banner en web.",
+      "Creación banners, actualización material gráfico para web, planificación  creativa de  nuevas páginas webs.",
+      "Edición dossieres corporativos, brochures, folletos publicitarios, invitaciones, plantillas powerpoint, etc.",
+      "Conceptualización  creatividades para publicidad, creación identidad corporativa, acciones de rebranding.",
+      "Capacidad de trabajo en equipo, proactividad, espíritu de superación.",
+      "Manejo programas diseño gráfico: photoshop, illustrator, quarkxpress.",
+      "Conocimiento herramientas diseño para web."
+    ],
+    "picture": "/data/clean/pictures/345.jpg"
+  },
+  {
+    "index": 166,
+    "id": 274,
+    "especialidad": ["grafico"],
+    "name": "ESTUDIO KEN, S.L.",
+    "address": "c/ Nueva,8 - Oficina 4 - 31192 Mutilva Alta (Navarra)",
+    "web": "https://www.ken.es/",
+    "objectives": [
+      "Desarrollo de un programa de identidad visual corporativa.",
+      "Maquetación de revista cultural.",
+      "Implantación de imagen institucional en stands.",
+      "Diseño de flyers y folletos."
+    ],
+    "picture": "/data/clean/pictures/346.png"
+  },
+  {
+    "index": 168,
+    "id": 272,
+    "especialidad": ["grafico"],
+    "name": "CREPES AND TEXAS",
+    "address": "c/ López de Hoyos, 135 - 3º D - 28002  Madrid",
+    "web": "https://www.crepesandtexas.com/",
+    "objectives": ["Diseño gráfico.", "Fotografía.", "Creatividad."],
+    "picture": "/data/clean/pictures/352.png"
+  },
+  {
+    "index": 172,
+    "id": 268,
+    "especialidad": ["grafico"],
+    "name": "TAU DISEÑO, S.A. (TAUDESIGN)",
+    "address": "c/ Marqués de Valdeiglesias, 5 - 28004 Madrid",
+    "web": "https://taudesign.com/",
+    "objectives": ["Diseño editorial.", "Imagen corporativa.", "Espacios efímeros, exposiciones…", "Diseño web."],
+    "picture": "/data/clean/pictures/348.png"
+  },
+  {
+    "index": 173,
+    "id": 267,
+    "especialidad": ["grafico"],
+    "name": "EDITORIAL HISPALIBROS S.L.",
+    "address": "c/ Ventura Rodríguez, 22 - 28008 Madrid",
+    "objectives": [
+      "Diseño de banners para promoción online.",
+      "Diseño de cartelería offline.",
+      "Con los elementos de la marca ya creados, elaborar un manual de identidad corporativa.",
+      "Grabación y edición de vídeos para promoción de campañas.",
+      "Diseño de portadas de libros."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 174,
+    "id": 266,
+    "especialidad": ["grafico"],
+    "name": "AMANTE BOUTIQUE CREATIVA, S.L. ",
+    "address": "Paseo Imperial, 9 - Bajos - 28005 Madrid",
+    "web": "https://www.amantecollection.com/",
+    "objectives": ["Diseño gráfico.", "Diseño web.", "Diseño editorial.", "Retoque fotográfico."],
+    "picture": "/data/clean/pictures/344.png"
+  },
+  {
+    "index": 182,
+    "id": 258,
+    "especialidad": ["grafico"],
+    "name": "IMPRENTA ROSA, S.L.",
+    "address": "P.I. Carracafría, parc. 10 - 40270 Carbonero el Mayor (Segovia)",
+    "web": "http://imprentarosa.com/es/",
+    "objectives": ["Diseño editorial,  (revistas, folletos, etc)", "Packying.", "Carteleria."],
+    "picture": "/data/clean/pictures/342.jpg"
+  },
+  {
+    "index": 183,
+    "id": 257,
+    "especialidad": ["grafico"],
+    "name": "IMPERFECT FUTURES, S.L.",
+    "address": "c/ Sant Gervasi de Cassoles, 37 - 6-3 - 08022 Barcelona",
+    "objectives": [
+      "Conceptualización y diseño gráfico de identidad visual para un evento internacional.",
+      "Producción de artes finales para piezas gráficas como postales, carteles, pegatinas, etc.",
+      "Gestión de un proyecto de comunicación visual para un contexto internacional.",
+      "Desarrollo de habilidades para exponer y presentar, tanto oralmente como por escrito propuestas personales de diseño, en lengua nativa y en inglés.",
+      "Documentación e investigación de campo relacionada con el diseño.",
+      "Adquirir habilidades para desarrollar proyectos de diseño en equipo y en estructuras de colaboración."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 185,
+    "id": 255,
+    "especialidad": ["grafico"],
+    "name": "KYRE SOLUTIONS, S.L.",
+    "address": "c/ Navarra, 24 bis - 1º C - 28039 Madrid",
+    "web": "https://www.krsolutions.com/",
+    "objectives": [
+      "Material comercial",
+      "- Creación de documentos comerciales",
+      "- Creación y revisión de textos ",
+      "- Creación de creatividades, fotografías, vídeos y montajes",
+      "Acciones de marketing",
+      "- Creación de creatividades para cada tipo de medio",
+      "Ferias y congresos",
+      "- Preparación de creatividades y materiales",
+      "- Atención al cliente y fotografías durante la feria",
+      "Redes sociales",
+      "- Publicaciones (redacción de textos y creación imágenes)",
+      "- Revisión de estadísticas y posibles mejoras",
+      "- Gestión y creación de acciones de marketing  (concursos, promociones…)",
+      "Blogs",
+      "- Diseño y cambios CSS sobre plantillas Wordpress",
+      "- Gestión de plugins y widgets",
+      "- Creación de entradas, etiquetas y categorías",
+      "- Creación y gestión de la zona privad",
+      "Web",
+      "- Publicación de noticias"
+    ],
+    "picture": "/data/clean/pictures/319.png"
+  },
+  {
+    "index": 186,
+    "id": 254,
+    "especialidad": ["grafico", "moda", "producto"],
+    "name": "MARCALIS",
+    "address": "c/ Caleruega, 51 - 2º C - 28033 Madrid",
+    "web": "http://marcalis.com/",
+    "objectives": [
+      "Con sede en Madrid, será el apoyo de nuestro equipo de diseño y presentación de productos.",
+      "Como parte de su trabajo, se espera que pueda llevar a cabo una investigación y un análisis en profundidad de la imagen y marca de nuestros clientes, realizar propuestas de diseños en base a sus necesidades y participar en la preparación de la documentación para las presentaciones.",
+      "Imprescindible nivel alto PHOTOSHOP."
+    ],
+    "picture": "/data/clean/pictures/309.png"
+  },
+  {
+    "index": 187,
+    "id": 253,
+    "especialidad": ["grafico", "moda"],
+    "name": "A.M. FASHION & ACCESSPROES",
+    "address": "c/ Puerto de Somosierra, 35 - Nave 25 - 28935 Móstoles (Madrid)",
+    "web": "https://twitter.com/comunicationexp",
+    "objectives": [
+      "Diseño y desarrollo de artes finales, creatividad para produo de moda.",
+      "Realización de presentación y propuestas, ayuda en las campañas.",
+      "Diseño grafico y dibujo para producto de moda.",
+      "Office y email."
+    ],
+    "picture": "/data/clean/pictures/278.jpg"
+  },
+  {
+    "index": 188,
+    "id": 252,
+    "especialidad": ["grafico", "moda", "producto"],
+    "name": "MEOLLO GLOBAL LOCAL",
+    "address": "Avda. Concha Espina, 7 - 1º izda. - 28016 Madrid",
+    "web": "https://meollo.net/",
+    "objectives": [
+      "Comunicación entre alumno ,compañeros y tutor para el desarrollo de catálogos y estampaciones textiles acorde a la imagen del proyecto, desde un boceto, montaje o render, hasta el resultado final. Asimilar los consejos y correcciones del tutor para la mejora de dichos trabajos en la medida de lo posible.",
+      "Trabajo en equipo junto a sus compañeros de la empresa desde su propio sector de diseñador gráfico, a diseñador industrial , responsable de finanzas o de ventas,etc  en multitud de contextos para lograr  un fin común.",
+      "Aprendizaje y mejora de sus capacidades con programas de diseño gráfico y diseño por ordenador. Adaptación a las nuevas tecnologías de diseño gráfico textil.",
+      "Aprendizaje y adaptación al contexto actual de trabajo en el campo de Diseño Grafico. Aprendizaje del sector desde sus inicios hasta la actualidad ,para su comprensión y utilización de los conocimientos adquiridos en el desarrollo de sus tareas en la empresa.",
+      "Desarrollar una actividad concreta que pueda ser integrada en la totalidad del proyecto y posteriormente poder aplicarla en cualquier ámbito en su correspondiente puesto de trabajo de Diseñador grafico.",
+      "Aprendizaje de la metodología de trabajo de nuestra empresa para crear una pauta repetitiva  que siempre pueda guiarle para acometer las tareas de su puesto de trabajo tanto en esta empresa como en cualquier otra."
+    ],
+    "picture": "/data/clean/pictures/310.jpeg"
+  },
+  {
+    "index": 191,
+    "id": 249,
+    "especialidad": ["grafico"],
+    "name": "ABEDUL ART MANUALIDADES, SL",
+    "address": "c/ Sierra vieja, 81 - 28031 Madrid",
+    "web": "https://www.abedulart.com/",
+    "objectives": [
+      "Diseño de banner para home de web dedicada al comercio eletrónico.",
+      "Diseño de banner para news letter de comercio eletrónico.",
+      "Diseño de banner para las redes sociales de la web.",
+      "Fotografia de productos y tratamiento de imágenes para la web, news letter y redes sociales.",
+      "Gestión de las redes sociales y blog de  la web."
+    ],
+    "picture": "/data/clean/pictures/280.jpg"
+  },
+  {
+    "index": 193,
+    "id": 247,
+    "especialidad": ["grafico", "moda"],
+    "name": "CLOSKET WORLD",
+    "address": "c/ Claudio Coello, 18 - 3º - 28001 Madrid",
+    "objectives": [
+      "Desarrollo del léxico fashionista y aplicación de las tendencias de moda para descripción de las características de cada prenda.",
+      "Retoque y silueteado de imágenes a través de herramienta photoshop.",
+      "Análisis de las prendas, calidad, estado, composición…",
+      "Referenciación de producto en el backoffice de la aplicación.",
+      "Preparación de fotos para catálogo.",
+      "Selección de prendas aptas para catálogo."
+    ],
+    "picture": "/data/clean/pictures/282.jpeg"
+  },
+  {
+    "index": 199,
+    "id": 241,
+    "especialidad": ["grafico"],
+    "name": "SUMMA COMUNICACIÓ, S.A.",
+    "address": "c/ Roger de Llúria, 124 - 08037 Barcelona",
+    "web": "https://summa.es/",
+    "objectives": [
+      "Trabajos relativos a la Identidad Corporativa.",
+      "Conceptualización de ideas.",
+      "Branding y Packaging para marcas de prestigio.",
+      "Diseño online.",
+      "Entorno de trabajo creativo y profesional."
+    ],
+    "picture": "/data/clean/pictures/276.jpeg"
+  },
+  {
+    "index": 201,
+    "id": 239,
+    "especialidad": ["grafico"],
+    "name": "PRODIGIOSO VOLCAN, S.L.",
+    "address": "Jesús del Valle, 28 - Bajo Local - 28004 Madrid",
+    "web": "https://www.prodigiosovolcan.com/",
+    "objectives": [
+      "Edición fotográfica . Tratamiento y enfoque fotográfico.",
+      "Diseño de publicaciones. Diseño y producción web.",
+      "Producción y diseño responsive. Producción y edición de PPTs.",
+      "Conceptualización visual. Conceptualización creativa.",
+      "Diseño de creatividades. Diseño de pequeñas piezas publicitarias."
+    ],
+    "picture": "/data/clean/pictures/266.png"
+  },
+  {
+    "index": 203,
+    "id": 237,
+    "especialidad": ["grafico"],
+    "name": "NARANJO ETXEBERRÍA, C.B.",
+    "address": "c/ Hortaleza, 20 - 2º izq. - 28004 Madrid",
+    "web": "https://naranjoetxeberria.com/",
+    "objectives": [
+      "Conceptualización y desarrollo de un proyecto gráfico al completo.",
+      "Presentación y exposición de un proyecto a un cliente.",
+      "Aprender a hacer artes finales.",
+      "Branding.",
+      "Diseño editorial.",
+      "Diseño web."
+    ],
+    "picture": "/data/clean/pictures/267.jpeg"
+  },
+  {
+    "index": 204,
+    "id": 236,
+    "especialidad": ["grafico"],
+    "name": "CASER SEGUROS, COMPAÑÍA DE SEGUROS Y REASEGUROS",
+    "address": "Avda. de Burgos, 109 - 28050 Madrid",
+    "web": "https://www.caser.es/",
+    "objectives": [
+      "Apoyo en el diseño de elementos gráficos de soporte web",
+      "Desarrollo y seguimiento de briefing a agencia para la realización de piezas gráficas, folletos y carteles.",
+      "Diseño de presentaciones."
+    ],
+    "picture": "/data/clean/pictures/268.png"
+  },
+  {
+    "index": 205,
+    "id": 235,
+    "especialidad": ["grafico"],
+    "name": "DUPLEX ELEVACIÓN, S.L.U.",
+    "address": "c/ Brescia, 19 - 28028 Madrid",
+    "web": "http://www.duplexascensores.com/",
+    "objectives": [
+      "Diseño grafico (logo, marca, publicidad)",
+      "Diseño web (pagina web, marketing)",
+      "Diseño app (rediseño app corporativa)"
+    ],
+    "picture": "/data/clean/pictures/269.png"
+  },
+  {
+    "index": 206,
+    "id": 234,
+    "especialidad": ["grafico"],
+    "name": "CULJANTERS, S.L.",
+    "address": "c/ Belén, 3 - 2º dcha. - 28004 Madrid",
+    "web": "http://www.deartee.com/",
+    "objectives": ["Conocimientos de photoshop.", "Illustrator.", "Corel-draw.", "Diseño gráfico."],
+    "picture": "/data/clean/pictures/270.png"
+  },
+  {
+    "index": 224,
+    "id": 216,
+    "especialidad": ["grafico"],
+    "name": "ANTENAS LASSER, S.L.",
+    "address": "c/ Miguel Fleta, 9 - 28037 Madrid",
+    "web": "https://grupolasser.com/",
+    "objectives": [
+      "Ilustración y comunicación visual.",
+      "Gráfica interactiva: Edición, Usabilidad. Gráfica multimedia: Producción, Programación.",
+      "Proyectos de diseño gráfico: Desarrollos, Implementación.",
+      "Fotografías y Audiovisuales. Expresión fotográfica. Creación y tratamiento de fotografía y audiovisuales.",
+      "Sistemas de reproducción e impresión, producción para artes gráficas."
+    ],
+    "picture": "/data/clean/pictures/308.png"
+  },
+  {
+    "index": 226,
+    "id": 214,
+    "especialidad": ["grafico"],
+    "name": "TRC GLOBAL MEDIA SERVICES, S.L.",
+    "address": "c/ Cervantes, 34 - Bajo ext drcha. - 28014 Madrid",
+    "objectives": [
+      "Diseño y maquetación de reportajes editoriales, periódicos y publicaciones periódicas.",
+      "Diseño y creación de artes finales y anuncios publicitarios para imprenta.",
+      "Diseño y creación de banners y elementos publicitarios para la web.",
+      "Creación de artes finales para imprenta.",
+      "Ilustraciones editoriales y retoque fotográfico."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 228,
+    "id": 212,
+    "especialidad": ["grafico"],
+    "name": "CIFE SPAIN BUSINESS, S.L.",
+    "address": "c/ Caleruega, 79 - 4º B - 28033 Madrid",
+    "web": "https://www.cifegroup.com/",
+    "objectives": [
+      "Marketing: diseño catálogos y publicidades (fotografía y retoque)",
+      "Diseño: aplicación de guías de estilo a diferentes productos.",
+      "Control producto: revisión de artes finales.",
+      "Desarrollo producto: creación de idea/ estructura de producto."
+    ],
+    "picture": "/data/clean/pictures/298.jpg"
+  },
+  {
+    "index": 229,
+    "id": 211,
+    "especialidad": ["grafico"],
+    "name": "CRISTINA CARRASCAL STUDIO SLU",
+    "address": "Plaza de Lavapiés, 4  5ºB - 28012 Madrid",
+    "objectives": [
+      "Análisis de los requerimientos del proyecto. Diseño de proyecto.",
+      "Conceptualización de diseños. Diseño gráfico y web.",
+      "Creación de diseños finales ajustados a un deathline y presupuesto.",
+      "Preparación de artes finales. Diseño gráfico.",
+      "Adaptación de diseños acorde a los requerimientos del cliente. Diseño gráfico",
+      "Maquetación  y retoque fotográfico. Diseño gráfico.",
+      "Preparación de websites en wireframe con descripción de funcionalidades para que puedan ser entendidos por desarrolladores. Diseño web."
+    ],
+    "picture": "/data/clean/pictures/289.png"
+  },
+  {
+    "index": 241,
+    "id": 199,
+    "especialidad": ["grafico"],
+    "name": "ADRENALINE STUDIO, S.L.",
+    "address": "Pza. Puerta de Mártires, 1 - 28801 Alcalá de Henares (Madrid)",
+    "web": "https://byadrenaline.com/",
+    "objectives": [
+      "Diseño gráfico.",
+      "Diseño gráfico y de producto.",
+      "Diseño gráfico y maquetación web.",
+      "Diseño gráfico y maquetación."
+    ],
+    "picture": "/data/clean/pictures/173.png"
+  },
+  {
+    "index": 243,
+    "id": 197,
+    "especialidad": ["grafico"],
+    "name": "Fundación Hazloposible",
+    "address": "Pº Castellana, 197 - 2º D - 28046 Madrid",
+    "web": "https://www.hazloposible.org/",
+    "objectives": [
+      "Conceptualización y desarrollo gráfico de materiales gráficos y piezas audiovisuales relacionadas con los proyectos de la fundación.",
+      "Participación en la gestión de proyectos."
+    ],
+    "picture": "/data/clean/pictures/58.jpg"
+  },
+  {
+    "index": 246,
+    "id": 194,
+    "especialidad": ["grafico"],
+    "name": "FLETCHER, ESTRATEGIAS CREATIVAS S.L.",
+    "address": "C/. Gutenberg, 10 - 28906 Getafe (Madrid)",
+    "web": "http://www.fletcheragency.es/somos-fletcher",
+    "objectives": [
+      "Apoyo en procesos creativos y generación de ideas.",
+      "Documentación: búsqueda de información para proyectos. Clientes, productos, competencia, campañas…",
+      "Apoyo al equipo de diseño, preparación de documentos y presentaciones, diseño de ficticios, propuestas visuales.",
+      "Soporte técnico de edición de video y fotografía para el desarrollo de bocetos y propuestas creativas."
+    ],
+    "picture": "/data/clean/pictures/111.jpeg"
+  },
+  {
+    "index": 248,
+    "id": 192,
+    "especialidad": ["grafico"],
+    "name": "VITRAL GROUP 1994 S.L.",
+    "address": "C/. Medea, 4 - 3º C - 28037 Madrid",
+    "web": "http://www.mageritjoyas.com/",
+    "objectives": [
+      "Desarrollo de imágenes para campañas publicitarias en prensa.",
+      "Tratamiento y maquetación de imágenes para catálogos y folletos.",
+      "Adaptación de imágenes para publicidad en el punto de venta, Diseño material P.L.V.",
+      "Espíritu creativo.",
+      "Diseño Web.",
+      "Manejo de Photoshop, Adobe Illustrator, Paquete Office  (Word, Power point, Excel)"
+    ],
+    "picture": "/data/clean/pictures/60.png"
+  },
+  {
+    "index": 249,
+    "id": 191,
+    "especialidad": ["grafico"],
+    "name": "EDITORIAL AGRÍCOLA ESPAÑOLA S.A.",
+    "address": "C/. Caballero de Gracia, 24 -3º Izqda. - 28013 Madrid",
+    "web": "http://www.editorialagricola.com/",
+    "objectives": [
+      "Argumentación, documentación, maquetación, diseño.",
+      "Uso de programas de edición, maquetación, retoque fotográfico, uso de tipografía, elaboración de tablas, edición, preimpresión, artes finales.",
+      "Elaboración de propuestas de proyectos para diferentes clientes.",
+      "Diseño editorial: edición magazines, libros, guías.",
+      "Campañas publicitarias.",
+      "Carteleria y señalética.",
+      "Diseño corporativo."
+    ],
+    "picture": "/data/clean/pictures/63.png"
+  },
+  {
+    "index": 250,
+    "id": 190,
+    "especialidad": ["grafico"],
+    "name": "KNOM DESIGN S.L.",
+    "address": "c/ Infantas, 40 - 28004 Madrid",
+    "web": "http://knom.es/",
+    "objectives": [
+      "Adaptación de campañas a diferentes formatos.",
+      "Creación de identidad corporativa.",
+      "Gestión de materiales corporativos.",
+      "Diseño de presentaciones.",
+      "Diseño editorial."
+    ],
+    "picture": "/data/clean/pictures/64.png"
+  },
+  {
+    "index": 252,
+    "id": 188,
+    "especialidad": ["grafico"],
+    "name": "BAUD BRANDING S.L.",
+    "address": "Calle de la Nao, 4 - 2ª planta - 28004 Madrid",
+    "web": "https://www.baud.es/",
+    "objectives": ["Diseño gráfico.", "Diseño web.", "Diseño de packaging.", "Maquetación.", "Fotografía y retoque fotográfico."],
+    "picture": "/data/clean/pictures/56.png"
+  },
+  {
+    "index": 255,
+    "id": 185,
+    "especialidad": ["grafico"],
+    "name": "EASYFRANCH, S.L.",
+    "address": "Marcelo Usera, 101 - 4º - 3 - 28026 Madrid",
+    "web": "http://www.easyfranch.com/",
+    "objectives": [
+      "Diseño imagen corporativa completa para distintas empresas y franquicias.",
+      "Nombres comerciales, logos, papelería, packaging, publicidad, etc.",
+      "Generar manuales de imagen.",
+      "Apoyo en diseño web."
+    ],
+    "picture": "/data/clean/pictures/112.png"
+  },
+  {
+    "index": 256,
+    "id": 184,
+    "especialidad": ["grafico"],
+    "name": "SIKA, S.A.U.",
+    "address": "Ctra. Fuencarral, 72 - 28108 Alcobendas (Madrid)",
+    "web": "https://esp.sika.com/",
+    "objectives": [
+      "Realización de diseños y mensajes relacionados con una nueva imagen corporativa.",
+      "Encargarse del proyecto de façading e implantaciones  ya en marcha, realizando diseños ficticios  y seguimiento con los comerciales  de su consecución.",
+      "Soporte a otras actividades de marketing."
+    ],
+    "picture": "/data/clean/pictures/46.png"
+  },
+  {
+    "index": 257,
+    "id": 183,
+    "especialidad": ["grafico"],
+    "name": "HOLA POR QUÉ S. COOP. MAD.",
+    "address": "Nicolás Morales, 38 - 3ª planta - Nave 8 - 28019 Madrid",
+    "web": "http://www.holaporque.com/",
+    "objectives": [
+      "Bocetado, mapas mentales.",
+      "Maquetación.",
+      "Fotografía de producto y escena.",
+      "Uso de programas de retoque.",
+      "Programas de retoque de imagen y vectores."
+    ],
+    "picture": "/data/clean/pictures/47.png"
+  },
+  {
+    "index": 262,
+    "id": 178,
+    "especialidad": ["grafico"],
+    "name": "PKMN ARCHITECTURES\nSe transforma en:\n1) ENORME ESTUDIO Y\n2) EEESTUDIO",
+    "address": " - ",
+    "objectives": [
+      "Exploración en torno a tecnología-tipología-construcción en  entornos urbanos     consolidados, conectando memoria local y culturas contemporáneas.",
+      "Desarrollo de iniciativas que vinculen ciudadanía, identidad, pedagogía,  comunicación, juego, acción y ciudad.",
+      "Prácticas de participación, enrolamiento, mediación e innovación social.",
+      "Procesos experimentales de aprendizaje activo."
+    ],
+    "picture": "/data/clean/pictures/50.png"
+  },
+  {
+    "index": 263,
+    "id": 177,
+    "especialidad": ["grafico"],
+    "name": "JULIO SIÑERIZ GIL - KREATIVEWORK ",
+    "address": "C/. Preciados , 11 - 3º A - 28013 Madrid",
+    "web": "https://www.kreativework.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/52.jpg"
+  },
+  {
+    "index": 268,
+    "id": 172,
+    "especialidad": ["grafico"],
+    "name": "IMAGIC VISION, S.L.",
+    "address": "C/. Tomás Redondo, 3 - Pl. 4 - A-B - 28033 Madrid",
+    "web": "https://www.imagicvision.com/?lang=es",
+    "objectives": [
+      "Al alumno en prácticas se le enseñará a trabajar en un grupo de trabajo diinámico, con buen ambiente, sus actividades también dependerá del fujo y tipo de proyectos dl que se disponga.",
+      "Colaborará activamente en el departamento crativo de video y de disño 3D aportando ideas y ayudando en todas las partes gráficas y necesidades.",
+      "Destacando tareas de diseño gráfico para desempeñar: composición de imágenes, retoque fotográfico, elaboración de catálogos y dossier. Maquetación de documentos. Creatividade gráficas."
+    ],
+    "picture": "/data/clean/pictures/65.jpg"
+  },
+  {
+    "index": 270,
+    "id": 170,
+    "especialidad": ["grafico"],
+    "name": "ALCANDORA PUBLICIDAD, S.L.",
+    "address": "Camino de las Ceudas, 2 bis - 28232 Las Rozas (Madrid)",
+    "web": "https://www.alcandora.com/",
+    "objectives": [
+      "Participación en equipo de trabajo en el estudio creativo desarrollando campañas y trabajos relaes desde su concepción hasta su ejecución y cierre.",
+      "Diseño de maateriales varios (logotipos, folletos, memorias, soportes e exterior, web, banners, newsletters, RRSS, etc.)",
+      "Maquetación y Artes finales de las piezas."
+    ],
+    "picture": "/data/clean/pictures/66.gif"
+  },
+  {
+    "index": 271,
+    "id": 169,
+    "especialidad": ["grafico"],
+    "name": "DADA COMPANY EDUTAINMENT S.L.",
+    "address": "C/ San Vicente, 8  6º dept. 6 - 48001 Bilbao",
+    "objectives": [
+      "Desarrollo de apps infantiles y aprendizaje del manejo del programa con el que se crean las apps. Apoyo al equipo creativo y de producción.",
+      "Creación de material audiovisual (vídeos, audios, etc.) necesario para la promoción de las pps en las diferentes stores.",
+      "Diseño y creación de banners, screenshots, iconos, portadas y demás material ncesario para la promoción y venta de las apps.",
+      "Desarrollo de propuestas para clientes.",
+      "Colaboración en todas las fases del proceso de elaboración de un proyecto, desde las primeras ideas hasta el lanzamiento de las pps.",
+      "Trabajo y colaboración continua con el equipo creativo y también con el resto de departamentos."
+    ],
+    "picture": "/data/clean/pictures/67.jpeg"
+  },
+  {
+    "index": 272,
+    "id": 168,
+    "especialidad": ["grafico"],
+    "name": "TECNOLOGIA DEL LIBRO S.L.",
+    "address": "C/. Ríos Rosas 44A  3º - 28003 Madrid",
+    "objectives": [
+      "Diseño de interfaces de usuario para aplicaciones web y aplicaciones móviles con HTML5 y CSS3.",
+      "Diseño de logotipos e imagen de marca para las diferentes líneas de negocio de la compañía, así como colaboración para la elaboración de manual de estilo.",
+      "Diseño de soluciones web con criterios de accesibilidad y usabilidad.",
+      "Adaptación del diseño de las aplicaciones de la empresa a los manuales de identidad corporativa de los clientes."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 273,
+    "id": 167,
+    "especialidad": ["grafico"],
+    "name": "SMART OF SELLING FACTORY, S.L. (ESPARTAPP)",
+    "address": "Pza. Ciudad de Salta, 4 - 28043 Madrid",
+    "web": "https://espartapp.com/",
+    "objectives": [
+      "Siseños reponsive para páginas web, tablets y móviles.",
+      "Maquetación de diseños para desarrollos de App.",
+      "Diseño para acciones \"on line\" de promociones con registro."
+    ],
+    "picture": "/data/clean/pictures/119.jpeg"
+  },
+  {
+    "index": 275,
+    "id": 165,
+    "especialidad": ["grafico"],
+    "name": "BINALOGUE S.L.",
+    "address": "c/ Génova, 11 - 3º D - 28004 Madrid",
+    "web": "https://binalogue.com/",
+    "objectives": ["Diseño gráfico.", "Ilustración.", "Animación."],
+    "picture": "/data/clean/pictures/81.png"
+  },
+  {
+    "index": 276,
+    "id": 164,
+    "especialidad": ["grafico"],
+    "name": "SOMOSBOLD, S.L.",
+    "address": "C/. Albasanz, 72 loft 206 - 28037 Madrid",
+    "objectives": [
+      "Desarrollar propuestas ráfcias para las actividades de la empresa.",
+      "Contribuir al trabajo creativos de nuevos proyectos en todas sus faes (brainstorming, realización y ejecución)"
+    ],
+    "picture": ""
+  },
+  {
+    "index": 277,
+    "id": 163,
+    "especialidad": ["grafico"],
+    "name": "DIBBUKS",
+    "address": "C/. Quintana, 17  2º A - 28008 Madrid",
+    "web": "https://www.dibbuks.es/es",
+    "objectives": [
+      "Comunicación Editorial (prensa, medios, agentes)",
+      "Elaboración de Actividades de marketing editorial.",
+      "Confección de flyers, documentos, etc. de mrk.",
+      "Ayuda en la producción editorial."
+    ],
+    "picture": "/data/clean/pictures/82.jpeg"
+  },
+  {
+    "index": 279,
+    "id": 161,
+    "especialidad": ["grafico"],
+    "name": "Multiplatform Content, SL",
+    "address": "C/. Apolonio Morales, 6 - 28036 Madrid",
+    "web": "https://www.mpc.one/",
+    "objectives": [
+      "Participación en los procesos creativos de la compañía: reniones de briefing, internas, brainstorming.",
+      "Soporte y ayuda en las labores de copy, guionización de proyectos audiovisuales, mecánicas de participación de promociones en RRSS.",
+      "Participación en labores de gestión propias del departamento: calendarización de entregas, gestión de materiales, interlocución con el resto de departamentos de la compañía, colaboración en la documentación de los trabajos a presentar, presentaciones de propuestas, etc.",
+      "Soporte  en los procesos creativos y de diseño de piezas de los diferentes proyectos de la compañía: display, gráficas, creatividades de RRSS, diseño, web, etc."
+    ],
+    "picture": "/data/clean/pictures/121.png"
+  },
+  {
+    "index": 280,
+    "id": 160,
+    "especialidad": ["grafico"],
+    "name": "Argonauta Diseño",
+    "address": "C/. Nogal, 1 - 28250 Torrelodones (Madrid)",
+    "web": "http://www.argonauta.info/",
+    "objectives": [
+      "Diseño web.",
+      "Diseño identidad y editorial.",
+      "Estudio especializado en teatros, auditorios, festivales e instituciones culturales de Madrid."
+    ],
+    "picture": "/data/clean/pictures/122.png"
+  },
+  {
+    "index": 285,
+    "id": 155,
+    "especialidad": ["grafico"],
+    "name": "El Quicio del Alfeizar, proyectos y producciones, SL",
+    "address": "C/ Serrano Anguita, nº 7 - 28004 Madrid",
+    "web": "http://www.adambresnick.com/AdBresNW/",
+    "objectives": [
+      "Recibir información del conjunto en el despacho, trabajar en equpo multidisciplinar.",
+      "Entender, analizar y proponer soluciones coherentes con el proyecto arquitectónico y diseño interior.",
+      "Presentación de ideas y concptos para resolver el diseño de la señaléctica.",
+      "Entender planos y espacios para el diseño de la señaléctica específica a su ubicación.",
+      "Tratar no solo con el estudio de diseño de interiores y arquitectura, pero tratar con la propiedad y la constructora.",
+      "Incorporarse en el trabajo del equpo para resolver el proyecto en su conjunto."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 287,
+    "id": 154,
+    "especialidad": ["grafico"],
+    "name": "Mary Kay Cosmetics España, S.A.",
+    "address": "Mahonia, 2 plt 3ª - 28043 Madrid",
+    "web": "https://www.marykay.es/es-es/",
+    "objectives": [
+      "Dar soporte en la realización del material de comunicación interna (newletter online, invitaciones, emails, folletos, …)",
+      "Apoyo a sección de Redes Sociales con la creación y adaptación de iimágenes.",
+      "Contribuir al trabajo creativo de nuevos proyectos en todo sus fases (grainstorming, realizacion y ejecución).",
+      "Apoyo en el material corporativo (merchandising, folletos, presentaciones, eventos, ...)"
+    ],
+    "picture": "/data/clean/pictures/86.jpg"
+  },
+  {
+    "index": 289,
+    "id": 152,
+    "especialidad": ["grafico"],
+    "name": "Fundación Colección ABC",
+    "address": "c/ Juan Ignacio Luca de Tena, 7 - 28025 Madrid",
+    "web": "https://museo.abc.es/mecenazgos",
+    "objectives": [
+      "Desarrollar propuestas gráfcias para las actividades del museo.",
+      "Trabajar en el diseño y la producción de exposiciones.",
+      "Trabajar en proyectos de diseño de publicaciones del museo."
+    ],
+    "picture": "/data/clean/pictures/79.jpeg"
+  },
+  {
+    "index": 290,
+    "id": 151,
+    "especialidad": ["grafico"],
+    "name": "Promociones y Novedades, S.L. (Ediciones la Librería)",
+    "address": "C/. Mayor, 80 - 28013 Madrid",
+    "web": "https://www.edicioneslalibreria.es/",
+    "objectives": [
+      "Búsqueda de documentación gráfica.",
+      "Retoque y edición de imágenes.",
+      "Realización de propuestas de diseño y maquetación editorial."
+    ],
+    "picture": "/data/clean/pictures/78.jpeg"
+  },
+  {
+    "index": 294,
+    "id": 147,
+    "especialidad": ["grafico"],
+    "name": "Merchanfactory, S.L.",
+    "address": "C/ Resina nº 35 Nave 8 - 28021 Madrid",
+    "web": "https://merchanfactory.com/",
+    "objectives": [
+      "Diseño y realización de presentaciones para empresa dedicada al regalo.",
+      "Creación y maquetación de trabajos de diseño gráfico.",
+      "Aplicación de programas ADOBE (Illustrator, Photosphop, Indesign, …)"
+    ],
+    "picture": "/data/clean/pictures/69.png"
+  },
+  {
+    "index": 297,
+    "id": 144,
+    "especialidad": ["grafico"],
+    "name": "TAPTAP NETWORKS",
+    "address": "Paseo de la Castellana, 111, 1º - 28046 Madrid",
+    "web": "https://www.taptapnetworks.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/72.png"
+  },
+  {
+    "index": 300,
+    "id": 141,
+    "especialidad": ["grafico"],
+    "name": "Innovati Servicios Tecnológicos, S.L.",
+    "address": "c/ Isla de Alborán, 9 - 28223 Pozuelo de Alarcón (Madrid)",
+    "web": "http://www.grupoinnovati.com/sp_html_site/",
+    "objectives": [
+      "Análisis funcional y usabilidad en aplicaciones y servicios telemáticos (páginas web, aplicaciones de escritorio o aplicaciones móviles).",
+      "Línea gráfica y diseño de acuerdo a las ideas a transmitir por la marca y la aplicación.",
+      "Arquitectura de información wireframe y prototipado.",
+      "Creación de elementos técnicos (trabajo en equipo con programadores para la maquetación, creación CSS, etc.)"
+    ],
+    "picture": "/data/clean/pictures/75.png"
+  },
+  {
+    "index": 304,
+    "id": 137,
+    "especialidad": ["grafico"],
+    "name": "Dolche & Lecro, S.L.",
+    "address": "c/ Virgen de Lourdes, 6, local 4 - 28027 Madrid",
+    "objectives": [
+      "Asistencia para la realización de textos y documentos para clientes y redacción de notas de prensa, artículos.",
+      "Tareas de diseño gráfico: maquetación y producción de artes finales.",
+      "Seguimiento de campañas de marketing online.",
+      "Trato con el cliente.",
+      "Retoque fotográfico profesional y utilización de equipos fotográficos profesionales.",
+      "Empleo de software específico de edición: maquetación y artes finales, tanto online como offline.",
+      "Aplicación de herramientas para el desarrollo de labores de community manager: Tweetdeck, Facebook y otras plataformas."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 306,
+    "id": 135,
+    "especialidad": ["grafico"],
+    "name": "Támpata Software, S.L.",
+    "address": "c/ Menorca, 16, of. 2 - 28009 Madrid",
+    "web": "http://tampata.com/",
+    "objectives": ["NO HAY PROYECTO FORMATIVO"],
+    "picture": "/data/clean/pictures/76.jpg"
+  },
+  {
+    "index": 307,
+    "id": 134,
+    "especialidad": ["grafico"],
+    "name": "SMARTNET, S.L. (SUSTITUÍDO POR EL Nº 337)",
+    "address": " - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 309,
+    "id": 132,
+    "especialidad": ["grafico"],
+    "name": "Pelonio Comunicación, S.L.",
+    "address": "c/ Lope de Vega, 47, bajo dcha - 28014 Madrid",
+    "web": "http://www.pelonio.com/",
+    "objectives": ["Manejo de paquete Adobe (InDesign, Illustrator, Photoshop)"],
+    "picture": "/data/clean/pictures/45.png"
+  },
+  {
+    "index": 311,
+    "id": 131,
+    "especialidad": ["grafico"],
+    "name": "Zeppeling Televisión",
+    "address": " - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 312,
+    "id": 130,
+    "especialidad": ["grafico"],
+    "name": "UPM (Universidad Politécnica de Madrid) - ETSI Comunicación",
+    "address": "Avda. Complutense, 30 - 28040 Madrid",
+    "web": "https://www.etsit.upm.es/",
+    "objectives": [
+      "Trabajo multidisciplinar con técnicos en proyectos europeos en los que participa la Cátedra.",
+      "Motion designer, cabeceras para cursos MOOC de la Cátedra.",
+      "Usabilidad y Experiencia de usuario en aplicaciones Web y Apps.",
+      "Programación y diseño de interfaz gráfico Front-end.",
+      "Programación de Realidad Aumentada.",
+      "Lenguajes de marcado y programación HTML5, CSS3, JavaScript."
+    ],
+    "picture": "/data/clean/pictures/125.png"
+  },
+  {
+    "index": 313,
+    "id": 129,
+    "especialidad": ["grafico"],
+    "name": "BRB Internacional, S.A.",
+    "address": "Ctra. Fuencarral-Alcobendas (m-603), km. 12,220 (Edificio Auge I, 4ª planta) - 28049 Madrid",
+    "web": "https://brb.es/",
+    "objectives": [
+      "Aplicación de la Suite de Adobe",
+      "Diseño gráfico de material promocional para series y compañías del sector",
+      "Diseño Web",
+      "Realización del Diseño grçafico y/o maquetación para prensa",
+      "Asistencia en el desarrollo gráfico de identidades corporativas para proyectos de animación",
+      "Desarrollo de materiales gráficos para aplicaciones",
+      "Desarrollo de materiales gráficos de apoyo comercial"
+    ],
+    "picture": "/data/clean/pictures/44.jpg"
+  },
+  {
+    "index": 314,
+    "id": 128,
+    "especialidad": ["grafico"],
+    "name": "RADIO SURES",
+    "address": "C/Travesía de la Encomienda, 3 - ",
+    "objectives": [
+      "Trabajo en equipo con profesionales de otras disciplinas (preiodistas, gestores culturales, cineastas, documentalistas, escritores,..). Intercam bio continuo de ideas y conocimientos.",
+      "Revisión de la línea gráfica de Radio Sures",
+      "Diseño de página web. Programación CSS/HTML",
+      "Realización del Diseño gráfico de material para difusión de actividades (banners, postales, carteles...)"
+    ],
+    "picture": "/data/clean/pictures/126.png"
+  },
+  {
+    "index": 319,
+    "id": 123,
+    "especialidad": ["grafico"],
+    "name": "Summa Insurance Brokerage",
+    "address": "Paseo de la castellana, 143 - 28046 Madrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 322,
+    "id": 120,
+    "especialidad": ["grafico"],
+    "name": "Unidad Editorial",
+    "address": "Avda. San Luis, 25 - 28033 Madrid",
+    "web": "http://www.unidadeditorial.es/home.aspx",
+    "objectives": [],
+    "picture": "/data/clean/pictures/15.jpeg"
+  },
+  {
+    "index": 323,
+    "id": 119,
+    "especialidad": ["grafico"],
+    "name": "DTS Distribuidora de Televisión Digital, S.A.",
+    "address": "Avda. de los Artesanos, 6 - 28760 Tres Cantos (Madrid)",
+    "web": "http://www.movistar.es/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/16.jpeg"
+  },
+  {
+    "index": 326,
+    "id": 116,
+    "especialidad": ["grafico", "producto"],
+    "name": "CEMUSA-Corporación Europea de Mobiliario Urbano",
+    "address": "C/ Francisco Sancha, 24 - 28034 Madrid",
+    "web": "https://www.jcdecaux.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/18.jpeg"
+  },
+  {
+    "index": 328,
+    "id": 114,
+    "especialidad": ["grafico"],
+    "name": "DDZ",
+    "address": "C/ Madera, 31 - 28004 Madrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 329,
+    "id": 113,
+    "especialidad": ["grafico"],
+    "name": "Fundación para la proección Internacional de las  Universidades Españolas-universidad.es",
+    "address": "C/ Torrelaguna, 58 - 4º planta - 28027 Madrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 330,
+    "id": 112,
+    "especialidad": ["grafico"],
+    "name": "Querida Valentina Ecommerce, S.L.",
+    "address": "C/ Castelló, 57 - 28001 Madrid",
+    "web": "http://www.queridavalentina.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/19.png"
+  },
+  {
+    "index": 332,
+    "id": 110,
+    "especialidad": ["grafico"],
+    "name": "VZZ Comunicación Visual, S.L.",
+    "address": "Rotonda de Pitágoras, 1 - Nave 303 - 28806 Alcalá de Henares (Madrid)",
+    "web": "https://www.vzzcv.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/11.png"
+  },
+  {
+    "index": 335,
+    "id": 107,
+    "especialidad": ["grafico"],
+    "name": "Circodelia Producciones, S.L.",
+    "address": "C/ Barrilleros, 1 - 28700 San Sebastian de los Reyes",
+    "web": "https://www.circodeliaproducciones.com/",
+    "objectives": [
+      "Creatividad para piezas on-line (banners, actualizaciones en piezas web)",
+      "Creatividad y diseño de piezas off-line",
+      "Soporte a maquetación HTML 5 y CS3",
+      "Diseño y creación de piezas de e-mail marketing"
+    ],
+    "picture": "/data/clean/pictures/0.jpg"
+  },
+  {
+    "index": 336,
+    "id": 106,
+    "especialidad": ["grafico"],
+    "name": "Aznar Ramos Web (Trivium Sport)",
+    "address": "Avda. Ordoño II, 28, 6º dcha - 24001 León",
+    "objectives": ["Adobe Muse", "Tablet Plante. Aplicación para la integración de nuestra publicación en el entorno de las tablets"],
+    "picture": ""
+  },
+  {
+    "index": 339,
+    "id": 104,
+    "especialidad": ["grafico"],
+    "name": "Basurama",
+    "address": "Avda. Daroca, 49 - 28017 Madrid",
+    "web": "https://basurama.org/",
+    "objectives": [
+      "Elaboración de mensajes visuales para diversos soportes y objetivos.",
+      "Comunicación comercial y promocional, social e institucional, audiovisual, identitaria e institucional.",
+      "Ejecución de tareas en el planteamiento y desarrollo de proyectos",
+      "Manejo de herramientas digitales aplicadas a la comunicación visual y creación de soluciones gráficas digitales.",
+      "Creación de gráfica editorial en diversos soportes y formatos, en publicaciones impresas y digitales, anuarios, paneles, dossiers, portfolios, etc.",
+      "Trabajo en equipo en los distintos proyectos del estudio, más allá de los encargados propiamente a ellos "
+    ],
+    "picture": "/data/clean/pictures/2.jpg"
+  },
+  {
+    "index": 341,
+    "id": 102,
+    "especialidad": ["grafico"],
+    "name": "Grupo San José",
+    "address": "Ronda de Poniente, 11 - 28760 Tres Cantos Madrid",
+    "web": "https://www.grupo-sanjose.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/4.gif"
+  },
+  {
+    "index": 342,
+    "id": 101,
+    "especialidad": ["grafico", "moda"],
+    "name": "Adolfo Domínguez, S.A.",
+    "address": "P.I. San Ciprian de Viñas c4 p8 - 32901 S. Ciprian Viñas Ourense",
+    "web": "https://www.adolfodominguez.com/es/",
+    "objectives": [
+      "Realización de tareas en un entorno de trabajo web y comercio electrónico",
+      "Adaptación de comunicaciones a campañas, a través de mail y banners",
+      "Tratamiento de imágenes para web y dispositivos móviles",
+      "Colaboración en nuevo proyecto: investigación, conceptualización y realización de productos multimedia, digitales (landing page, banner, mailing) y físicos gráficos por medio de packaging, etiquetado y folleto informativo"
+    ],
+    "picture": "/data/clean/pictures/5.png"
+  },
+  {
+    "index": 343,
+    "id": 100,
+    "especialidad": ["grafico"],
+    "name": "Biblioteca Nacional de España (BNE)",
+    "address": "Paseo de Recoletos, 20 - 28071 Madrid",
+    "web": "http://www.bne.es/es/Inicio/",
+    "objectives": [
+      "Integración en el equipo de la Intranet Corporativa de la BNE.",
+      "Conocimiento d elas tareas que realiza cada perfil del equipo e integración en la estructura de trabajo: analistas funcionales - diseñador gráfico - desarrolladores.",
+      "Elaboración de una guía de estilo gráfico del portal Intranet",
+      "Propuesta de diseño gráfico para mejorar la Intranet de la BNE: cambios en tipografía, iconos, menús de navegación, cabecera logo, páginas de contenido, home.",
+      "Hojas de estilo (CSS), depurador web de Mozilla (firebug), maquetación de páginas web y otras cuestiones de diseño web"
+    ],
+    "picture": "/data/clean/pictures/6.png"
+  },
+  {
+    "index": 345,
+    "id": 98,
+    "especialidad": ["grafico"],
+    "name": "Eureda Textil, S.L.",
+    "address": "C/ Industrias, 11 - 28850 Torrejón de Ardoz",
+    "web": "https://euredatextil.com/",
+    "objectives": [
+      "Realización de presentaciones audiovisuales de empresa",
+      "Realización de presentaciones audiovisuales para clientes",
+      "Manejo de Illustrator para la realización de las presentaciones de las colecciones a los clientes",
+      "Realización de fichas de producción",
+      "Participación en modificaciones en la web de la empresa"
+    ],
+    "picture": "/data/clean/pictures/7.png"
+  },
+  {
+    "index": 354,
+    "id": 89,
+    "especialidad": ["grafico"],
+    "name": "Central de Compras Opticas, S.L. (CECOP)",
+    "address": "Avda de la Industria, 53 - 1º - 28108 Alcobendas",
+    "web": "https://www.cecop.es/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/39.gif"
+  },
+  {
+    "index": 357,
+    "id": 86,
+    "especialidad": ["grafico"],
+    "name": "Estinar Arte Estiarte S.A. (Galería Pilar Serra)",
+    "address": "C/ Santa Engracia, 6 - bajo centro - 28010 Madrid",
+    "web": "http://pilarserra.com/es/",
+    "objectives": [
+      "Participación montaje y gestión de obras en ARCO 2014",
+      "Maquetación y diseño de comunicación de la galería",
+      "Inventariado fotográfico de las obras de arte del fondo de la galería",
+      "Catalogación y realización de fichas técnicas de obras de arte",
+      "Participación montaje y gestión de obras en diversas exposiciones en la galería",
+      "Realización de empaquetado y embalaje de obras de arte para envíos"
+    ],
+    "picture": "/data/clean/pictures/40.jpg"
+  },
+  {
+    "index": 358,
+    "id": 85,
+    "especialidad": ["grafico"],
+    "name": "Instituto Superior de Protocolo y Eventos (ISPE)",
+    "address": "C( Quintana, 21 - 28008 Madrd",
+    "web": "http://ispe.edu.es/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/41.png"
+  },
+  {
+    "index": 362,
+    "id": 81,
+    "especialidad": ["grafico", "moda"],
+    "name": "Roman y Asociados, S:A:",
+    "address": "C/ Velazquez, 46 - 28001 Madrid",
+    "web": "https://romanrm.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/34.jpeg"
+  },
+  {
+    "index": 364,
+    "id": 79,
+    "especialidad": ["grafico"],
+    "name": "Naturaleader Import Export, S.L.",
+    "address": "C/ Peñuelas, 18 - 28005 Madrid",
+    "web": "https://www.naturlider.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/32.jpeg"
+  },
+  {
+    "index": 371,
+    "id": 72,
+    "especialidad": ["grafico"],
+    "name": "Carmen Ruiz",
+    "address": "C/ Serrano, 219 - 28016 Madrid",
+    "web": "https://www.carmenruizinteriores.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/23.jpeg"
+  },
+  {
+    "index": 373,
+    "id": 70,
+    "especialidad": ["grafico"],
+    "name": "Grandes Almacenes FNAC España, S.A.",
+    "address": "Paseo de la Finca, 1 - 28115 Pozuelo Alarcón",
+    "web": "https://www.fnac.es/",
+    "objectives": [
+      "Elaboración de Newsletters, microsites integrados en el site fnac.es, mantenimiento gráfico y funcional de la website, desarrollo de acciones tanto online como ofline, participación en la creación y desarrollo de campañas, acciones comerciales y proyectos de fidelización"
+    ],
+    "picture": "/data/clean/pictures/25.jpeg"
+  },
+  {
+    "index": 374,
+    "id": 69,
+    "especialidad": ["grafico"],
+    "name": "CCXX1/Grupo Duende",
+    "address": "C/ de la Flora, 2 - 28013 Madrid",
+    "web": "http://www.duendemad.com/",
+    "objectives": [
+      "Realización de propuestas de diseño a nivel de maquetación; tanto de la misma revista como de otros productos editoriales y publicitarios relacionados con la misma: invitaciones para eventos, memorias, libros, productos a regalar con la revista.",
+      "Aprendizaje de todo el proceso gráfico, desde la idea del producto editorial hasta la creación del arte final, pasando por la supervisión de ferros y todo lo que conlleva.",
+      "Actualización y subida de nuevas entradas a la página web de la revista, utilizando para ello un panel de control y gestión de la página web."
+    ],
+    "picture": "/data/clean/pictures/26.jpeg"
+  },
+  {
+    "index": 375,
+    "id": 68,
+    "especialidad": ["grafico"],
+    "name": "Momentum Madrid S:A:",
+    "address": "Paseo Castellana, 165 - 28046 Madrid",
+    "web": "https://www.momentumww.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/27.jpg"
+  },
+  {
+    "index": 376,
+    "id": 67,
+    "especialidad": ["grafico"],
+    "name": "Grupo Globomedia SAU",
+    "address": "Ctra. Fuencarral-Alcobendas, 24 - 28409 Madrid",
+    "web": "https://globomedia.es/es/index",
+    "objectives": [
+      "Búsqueda de documentación gráfica",
+      "Realización de propuestas y diseño de logotipos, carteles, backgrounds, etc",
+      "Realización de animaciones en After Effects",
+      "Diseño y creación de piezas de e-mail marketing",
+      "Diseño y animación de logotipos y otros",
+      "Maquetación para presentaciones y folletos",
+      "Retoque y edición de imágenes"
+    ],
+    "picture": "/data/clean/pictures/28.png"
+  },
+  {
+    "index": 377,
+    "id": 66,
+    "especialidad": ["grafico"],
+    "name": "Vector SF",
+    "address": "Camino Cerro de los Gamos, 1 - 28224 Pozuelo Alarcón",
+    "web": "https://www.vectoritcgroup.com/",
+    "objectives": [
+      "Búsqueda de material gráfico (fotos, ilustraciones) en catálogos online, para su uso en piezas visuales de distinta índole",
+      "Edición y retoque fotográfico de imágenes",
+      "Montajes y edición gráfica de material para presentaciones corporativas",
+      "Creación de ilustraciones y gráficos para infografías corporativas",
+      "Creación de piezas gráficas para newsletter corporativas"
+    ],
+    "picture": "/data/clean/pictures/29.png"
+  },
+  {
+    "index": 378,
+    "id": 65,
+    "especialidad": ["grafico"],
+    "name": "Babait Technology, S.L.",
+    "address": "C/ Génova, 7 - 28004 Madrid",
+    "objectives": [
+      "Realización de propuestas de diseño de páginas web.",
+      "Diseño y creación de newsletters corporativas",
+      "Diseño y creación de imágenes corporativas para redes sociales",
+      "Actualización de conocimientos en HTML5, para poder realizar los trabajos encargados",
+      "Diseño y creación de ficticios para web",
+      "Pensamiento transversal entre el diseño web, la funcionalidad y las necesidades del cliente"
+    ],
+    "picture": "/data/clean/pictures/117.png"
+  },
+  {
+    "index": 379,
+    "id": 64,
+    "especialidad": ["grafico"],
+    "name": "Estudio Herrera. J.C.Herrera Martúnez-Arquitecto",
+    "address": "Plaza del Valle de la Jarosa, 102 - 28035 Madrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 381,
+    "id": 62,
+    "especialidad": ["grafico", "moda"],
+    "name": "García Distribuciones, C.B.",
+    "address": "Corredera Baja de San Pablo, 26 - 28004 Madrid",
+    "web": "https://www.garciamadrid.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/31.png"
+  },
+  {
+    "index": 383,
+    "id": 60,
+    "especialidad": ["grafico"],
+    "name": "Abraham Aoun Martín",
+    "address": "C/ La Cruz, 7 - 28300 Aranjuez",
+    "objectives": [
+      "Diseño y realización de vídeo corporativo",
+      "Diseño página web",
+      "Imagen gráfica de empresa: aplicaciones",
+      "Realización de tarjetas promocionales",
+      "Desarrollo de diseño web para aplicación en móviles",
+      "Programación CSS"
+    ],
+    "picture": ""
+  },
+  {
+    "index": 384,
+    "id": 59,
+    "especialidad": ["grafico"],
+    "name": "Summa Comunicació",
+    "address": "C/ Roger de Luria, 124 - 08037 Barcelona",
+    "web": "https://summa.es/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/88.jpeg"
+  },
+  {
+    "index": 386,
+    "id": 57,
+    "especialidad": ["grafico"],
+    "name": "Ona Investigación, S.L.",
+    "address": "C/ Sierra de la Sagra, 15 - 28018 Madrid",
+    "objectives": [
+      "Diseño y realización de vídeo corporativo",
+      "Diseño página web",
+      "Imagen gráfica de empresa: aplicaciones",
+      "Realización de tarjetas promocionales",
+      "Desarrollo de diseño web para aplicación en móviles",
+      "Programación CSS",
+      "Diseño de etiquetas y pakaging",
+      "Diseño de cartelería"
+    ],
+    "picture": "/data/clean/pictures/90.jpg"
+  },
+  {
+    "index": 388,
+    "id": 55,
+    "especialidad": ["grafico"],
+    "name": "Grupo Wizyu, S.L.",
+    "address": "C/ Miguel Fleta, 6 - 28037 Madrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 404,
+    "id": 39,
+    "especialidad": ["grafico"],
+    "name": "Sara World, S.L.",
+    "address": "C/Villanueva, 19 1ºDCH - 28001 Madrid",
+    "web": "https://www.saraworld.com/",
+    "objectives": [
+      "Rediseño d ela imagen gráfica corporativa de la empresa",
+      "Manual de identidad d ela empresa",
+      "Colaboración en realización de vídeos y fotografías",
+      "Participación en la realización de análisis de tendencias",
+      "Planteamiento y desarrollo con el resto del equipo, de una colección de marroquinería"
+    ],
+    "picture": "/data/clean/pictures/131.png"
+  },
+  {
+    "index": 410,
+    "id": 35,
+    "especialidad": ["grafico"],
+    "name": "Structura Gráfica, S.L.",
+    "address": "Pl/ Luca de Tena, 9 - 28045 Madrid",
+    "web": "https://www.structuragrafica.es/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/135.png"
+  },
+  {
+    "index": 411,
+    "id": 34,
+    "especialidad": ["grafico"],
+    "name": "Ipsum Planet, S.L.",
+    "address": "C/ San Bernardo, 63 - 28015 Madrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 413,
+    "id": 32,
+    "especialidad": ["grafico"],
+    "name": "Estudio Pérez Medina",
+    "address": "C/ Aracataca, 14 - 28033 Madrid",
+    "web": "https://perezmedina.com/",
+    "objectives": [
+      "Retoques y preparación de artes finales",
+      "Realización de fotografías, retoques y montaje",
+      "Boceto y creación de ilustraciones",
+      "Diseño de packaging",
+      "Diseño y realización de piezas gráficas"
+    ],
+    "picture": "/data/clean/pictures/136.jpg"
+  },
+  {
+    "index": 416,
+    "id": 29,
+    "especialidad": ["grafico"],
+    "name": "EMACS, S.L.",
+    "address": "C/ Santa Leonor, 63 - 4º, Nave I - 28037 Madrid",
+    "web": "https://store.emacs.es/",
+    "objectives": [
+      "Elaboración de mensajes visuales para diversos soportes y objetivos",
+      "Intervención y ejecución de tareas en el desarrollo de procesos y proyectos de identidad, Elaboración de Manual de normas, aplicaciones e implementación",
+      "Manejo de herramientas digitales aplicadas a la comunicación visual, preparación de artes finales para producción, maquetación, y creación de soluciones gráficas",
+      "Tareas de investigación y conceptualización"
+    ],
+    "picture": "/data/clean/pictures/137.png"
+  },
+  {
+    "index": 420,
+    "id": 25,
+    "especialidad": ["grafico"],
+    "name": "NCA y Asociados S.A.",
+    "address": "C/ serrano, 63 - 28006 Madrid",
+    "web": "https://ncayasociados.com/",
+    "objectives": [
+      "Elaboración de mensajes visuales para diversos soportes y objetivos",
+      "Intervención y ejecución de tareas en el desarrollo de procesos y proyectos de identidad y audiovisual",
+      "Manejo de herramientas digitales aplicadas a la comunicación visual, preparación de artes finales para producción, maquetación, y creación de soluciones gráficas",
+      "Tareas de investigación y conceptualización"
+    ],
+    "picture": "/data/clean/pictures/151.png"
+  },
+  {
+    "index": 422,
+    "id": 24,
+    "especialidad": ["grafico"],
+    "name": "Professional Design, S.L.",
+    "address": "C/ Manuel Cortina, 11 - 28010 Madrid",
+    "web": "https://professional-design.com/",
+    "objectives": [
+      "Adaptación de elementos de comunicación gráfica a entornos expositivos, comerciales, etc.",
+      "Elaboración de material gráfico para entornos digitales (web)"
+    ],
+    "picture": "/data/clean/pictures/152.png"
+  },
+  {
+    "index": 423,
+    "id": 23,
+    "especialidad": ["grafico"],
+    "name": "Sánchez/Lacasta, S.l.",
+    "address": " - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 426,
+    "id": 20,
+    "especialidad": ["grafico"],
+    "name": "Experimenta, S.L.",
+    "address": "c/ Antonio Toledano, 36 - 28028 Madrid",
+    "web": "https://www.experimenta.es/",
+    "objectives": ["Realización de banners", "Actualización de web", "Retoque y optimización de imágenes digitales", "Rediseño de web"],
+    "picture": "/data/clean/pictures/167.png"
+  },
+  {
+    "index": 428,
+    "id": 18,
+    "especialidad": ["grafico"],
+    "name": "Altura X Estudio, s.l.",
+    "address": "C/ Primavera 8 - Bajo dcha - 28012 Madrid",
+    "objectives": [
+      "Diseño y realización de video corporativo",
+      "Diseño página web",
+      "Imagen gráfica de empresa: aplicaciones",
+      "Realiación de tarjetas promocionales",
+      "Desarrollo de diseño web para plicación en móviles",
+      "Programación CSS",
+      "Diseño de etiquetas y packaging",
+      "Diseño de cartelería"
+    ],
+    "picture": ""
+  },
+  {
+    "index": 430,
+    "id": 16,
+    "especialidad": ["grafico"],
+    "name": "Erretres Diseño y Comunicación 2003, S.L.",
+    "address": "Pza. España, 11 - 1º izq - 28008 Madrid",
+    "web": "https://www.erretres.com/",
+    "objectives": ["Sin Proyecto Formativo"],
+    "picture": "/data/clean/pictures/170.jpeg"
+  },
+  {
+    "index": 431,
+    "id": 15,
+    "especialidad": ["grafico"],
+    "name": "Susaeta Ediciones, S.A.",
+    "address": "C/ Campezo 13, P.Ind. Las Mercedes - 28022 Madrid",
+    "web": "https://www.editorialsusaeta.com/es/",
+    "objectives": ["Sin Proyecto Formativo"],
+    "picture": "/data/clean/pictures/171.png"
+  },
+  {
+    "index": 432,
+    "id": 14,
+    "especialidad": ["grafico"],
+    "name": "Estrada Design, S.l.",
+    "address": " - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 435,
+    "id": 11,
+    "especialidad": ["grafico"],
+    "name": "Pep Carrió Diseño y Comunicación, S.L.",
+    "address": "c/ Génova, 11 - 7º dcha - 28004 Madrid",
+    "web": "https://www.pepcarrio.com/",
+    "objectives": ["Sin Proyecto Formativo"],
+    "picture": "/data/clean/pictures/164.jpg"
+  },
+  {
+    "index": 437,
+    "id": 9,
+    "especialidad": ["grafico"],
+    "name": "Blue Cell Comunicación, S.L.",
+    "address": " - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 442,
+    "id": 5,
+    "especialidad": ["grafico", "mec", "producto"],
+    "name": "Dimad (Fundación Diseño Madrid)",
+    "address": " - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 447,
+    "id": 1,
+    "especialidad": ["grafico"],
+    "name": "G y J Publicaciones Internacionales, S.L.",
+    "address": "c/ Albasanz, 15 - 38037 Madrid",
+    "objectives": ["Sin Proyecto Formativo"],
+    "picture": ""
+  }
 ]

@@ -1,7 +1,13 @@
-.translation {
-    &,
-    * {
-        border: 1px solid pink;
-    }
+.single_link {
+  padding: 1rem;
+  border: 1px solid #ffc107;
+  border-left: 5px solid #ffc107;
 
+  label {
+    font-weight: bold;
+  }
+  .rich-text {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #aaa;
+  }
 }

@@ -1,477 +1,426 @@
 [
-    {
-        "index": 13,
-        "id": 418,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "OMNICOM PUBLIC RELATIONS GROUP, S.A.",
-        "address": "c/ Luchana, 23 - 4º - 28010 Madrid",
-        "web": "https://www.omnicomgroup.com/",
-        "objectives": [
-            "Colaboración con el departamento de Creatividad y Diseño de Omicom PR Group.",
-            "Interpretación de briefing de diseño de clientes y/o de otros departamentos de la agencia.",
-            "Diseño de banners y otros formatos digitales para su aplicación online donde fuese necesario.",
-            "Diseño de infografías.",
-            "Diseño de formatos para imprimir (anuncios, folletos, tarjetas, cartas…)",
-            "Colaboración en talleres creativos y brainstorming para definir conceptos creativos, estrategias creativas, namings, claims u otras necesidades del departamento."
-        ],
-        "picture": "/data/clean/pictures/101.png"
-    },
-    {
-        "index": 30,
-        "id": 404,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "ALEJANDRA CUBERO ECHEVERRÍA (GREET)",
-        "address": "c/ Plaza, 18 - 28043 Madrid",
-        "objectives": [
-            "• Participación en las fases de investigación y definición de la experiencia de usuario",
-            "Previo al inicio del desarrollo de proyectos, tenemos con clientes sesiones mano a mano en las que trabajamos con ellos diferentes elementos que nos aseguren un sistema de trabajo coherente y centrado en el usuario. Estas sesiones son fundamentales para construir después las siguientes fases y requieren de perfiles generalistas y específicos que a la hora de preparar los talleres y ejecutarlos puedan exprimir al cliente y obtener la información necesaria para desarrollar proyectos a medida. ",
-            "• Diseño web",
-            "En este momento nos encontramos en pleno proceso de creación de una página web para un cliente. No obstante, más allá de una página clásica, ésta se relaciona directamente con el usuario a través de su diseño. El usuario puede escribir, tachar, dibujar y hacer distintas acciones con la página web. En este proyecto existe tanto un rol de programación de back end como principalmente de front. Además, aunque se encuentra en fase avanzada, hay un componente importante de storytelling que se encuentra en constante evolución. ",
-            "• Desarrollo de una revista/boletín interactivo",
-            "Uno de los proyectos abiertos en este momento es el diseño de un boletín de noticias interno para uno de nuestros clientes con sus propios clientes. El proyecto consiste en el diseño de la revista desde cero: qué se quiere contar, de qué manera lo van a utilizar los clientes, cómo pueden interactuar con ella, etc. En este proyecto hay una parte importante de investigación de usuario, de narrativa y de diseño de producto. Todas ellas patas que se han cubierto en el máster."
-        ],
-        "picture": "/data/clean/pictures/160.jpeg"
-    },
-    {
-        "index": 34,
-        "id": 400,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "ASOCIACIÓN ESPACIO CARNICERÍA",
-        "address": "c/ Eduardo Morales, 23, puerta 2, 3 y 4 - 28025 Madrid",
-        "web": "http://www.carniceria.org/",
-        "objectives": [
-            "CB02",
-            "- Diseño y creación de HTML.",
-            "- Desempeñará labores de desarrollo en lenguaje Javascript y herramientas para creación de Web con gestor de contenido Wordpress o Contentful",
-            "- Diseño de material gráfico (poster, dossiers) / Diseño y creación de video",
-            "CB03",
-            "- Integración en equipos de trabajo transdisciplinares. Resolución y gestión de tareas en grupo",
-            "CB04",
-            "- Presentación y comunicación del proyecto",
-            "- Análisis y evaluación del proyecto, gestión de recursos, estrategia y difusión.",
-            "CE02",
-            "- Diseño y creación de HTML.",
-            "- Desempeñará labores de desarrollo en lenguaje JavaScript y herramientas para creación de Web con gestor de contenido Wordpress o Contenful",
-            "- Diseño y creación de video",
-            "CE05",
-            "- Investigar dispositivos interdisciplinares que prioricen la componente virtual.",
-            "- Desempeñará labores de desarrollo en lenguaje JavaScript, así como el uso de librerías tipo REACT.",
-            "CE07",
-            "- Comunicación del proyecto en reuniones de equipo.",
-            "- Mediación y negociación entre los diferentes agentes involucrados.",
-            "- Actitud analítica y propositiva del entorno virtual del proyecto."
-        ],
-        "picture": "/data/clean/pictures/156.jpeg"
-    },
-    {
-        "index": 35,
-        "id": 399,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "DIGITAL 55 (LEXTREND INFORMATION TECHNOLOGIES, S.L.)",
-        "address": "c/ Claudio Coello, 25 - 1º dcha - 28001 Madrid",
-        "web": "https://www.digital55.com/",
-        "objectives": [
-            "Apoyo al departamento de UX y Diseño.",
-            "Elaboración de wireframes.",
-            "Análisis UX.",
-            "Definición UI.",
-            "Diseño de interfaces con Sketch",
-            "Test de usabilidad.",
-            "Presentaciones a clientes.",
-            "Prototipado de proyectos digitales a través de Invision"
-        ],
-        "picture": "/data/clean/pictures/241.png"
-    },
-    {
-        "index": 40,
-        "id": 396,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "BLUECELL COMUNICACIÓN, S.L.",
-        "address": "Paseo de la Castellana, 213 - bajo A - 28046 Madrid",
-        "web": "http://www.bluecell.es/",
-        "objectives": [
-            "CB02 - Conceptualización y diseño de productos digitales desde su planificación inicial UX, diseño de interface, hasta su interacción con el usuario UI.",
-            "- Conceptualización y diseño de productos audiovisuales e interactivos.",
-            "CB03 - Conceptualización de soluciones interactivas y toma de decisiones en diferentes aspectos de los proyectos.",
-            "CB04 - Argumentación de las conclusiones y decisiones tomadas al equipo y al cliente.",
-            "- Elaboración de presentaciones o memorias para justificar las soluciones aplicadas.",
-            "CE02 - Diseño y planificación de proyectos digitales globales, páginas web, video e interacción adaptado a las necesidades específicas de cada proyecto.",
-            "CE05 - Desarrollo de habilidades creativas para los proyectos digitales y toma de decisiones en diferentes aspectos de los proyectos.",
-            "CE07 – Elaboración de análisis y diagnóstico de las necesidades específicas del proyecto para alcanzar una solución óptima."
-        ],
-        "picture": "/data/clean/pictures/230.png"
-    },
-    {
-        "index": 42,
-        "id": 394,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "DIOKOS INTERACTIVE, S.L.",
-        "address": "c/ Ulises, 91 - 2º, dpcho 4, oficina 6 - 28043 Madrid",
-        "web": "http://www.diokos.com/",
-        "objectives": [
-            "SpainAgain, que es una revista digital de Diokos, tiene una serie de artículos de viaje, cultura, comida etc… de España con los que vendemos nuestros servicios y productos a los coreanos que vengan a España o que estén en Corea.",
-            "Ella se encargará de mejorar el diseño de los artículos o contenidos estéticamente. ",
-            "Además de esto realizará la planificación e implantación de UX para los usuarios de SpainAgain, así mejorando el ratio de retención de los usuarios. ",
-            "Ya que tenemos varios productos y servicios con el objetivo de anunciarlos desempeñará labores de diseño de banner y vídeo para nuestros productos o servicios. ",
-            "De esta forma, también creará el landingpage de productos y servicios. ",
-            "Por otra parte, se encargaría de realizar trabajos de asistencia a los nuevos proyectos que vamos a tener en la parte del diseño. "
-        ],
-        "picture": "/data/clean/pictures/95.png"
-    },
-    {
-        "index": 43,
-        "id": 393,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "EL NINJA FLUORESCENTE, S.L.",
-        "address": "c/ Urano, 27 - 2º izq - 28936 Móstoles (Madrid)",
-        "web": "https://elninjafluorescente.es/",
-        "objectives": [
-            "Diseño y creación de HTML, CSS, JavaScript. -Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido Wordpress .-Diseño de material gráfico (Tarjetas, folletos, etc).",
-            "Integración en equipos de trabajo. Resolución y gestión de tareas en grupo.",
-            "Presentación y comunicación de proyectos, toma de requisitos en cliente."
-        ],
-        "picture": "/data/clean/pictures/235.jpg"
-    },
-    {
-        "index": 65,
-        "id": 371,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "THE SUMMER AGENCY (antigua INSPIRING MOVES S.L.)",
-        "address": "C/ Sánchez Pacheco, 82 - 28002 Madrid",
-        "objectives": [
-            "CB02/CE02/CE05/CE07 Creación de HTML y diseño de interacciones.",
-            "CB02/CE02/CE05/CE07 Creación de interfaces a partir del modelo MVC (model-view-controller) utilizando JavaScript.",
-            "CB02/CE02/CE05/CE07 Desarrollo de servicios en PHP para consumo y modificación de datos.",
-            "CB02/CE02/CE05/CE07 Desarrollo y mantenimiento de webs, utilizando PHP y wordpress como motor de desarrollo.",
-            "CB03/CB04/CE05/CE07 Diseño de soluciones de acuerdo a los requerimientos de cada proyecto, en el marco de un equipo interdisciplinar, además de la gestión de las tareas involucradas en la ejecución de dichos diseños."
-        ],
-        "picture": "/data/clean/pictures/256.jpeg"
-    },
-    {
-        "index": 66,
-        "id": 370,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "INTERACTIVE COMMUNICATION PROJECTS S.L. (3 WAYS)",
-        "address": "C/ Sánchez Díaz nº 15 - 28027 Madrid",
-        "web": "http://www.icomprojects.com/",
-        "objectives": [
-            "CB02/CB03/CE02/CE05 Diseño y programación de HTML, CSS y Javascript",
-            "CB02/CB03/CE02 Diseño interactivo con BBDD MySQL",
-            "CB04/CE07 Presentación y comunicación del proyecto",
-            "CB03/CB04/CE05/CE07 Trabajo en equipo. Resolución y gestión"
-        ],
-        "picture": "/data/clean/pictures/257.jpeg"
-    },
-    {
-        "index": 71,
-        "id": 365,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "THE COCKTAIL EXPERIENCE S.L.U.",
-        "address": "C/ Salamanca 17 - 28020 Madrid",
-        "web": "https://the-cocktail.com/",
-        "objectives": [
-            "Conceptualización de producto digital.",
-            "Wireframing low/medium/high Fidelity",
-            " Prototipado interactivo",
-            "Análisis heurísticos y benchmarks ",
-            "Presentación y defensa de soluciones en equipo interno."
-        ],
-        "picture": "/data/clean/pictures/98.png"
-    },
-    {
-        "index": 72,
-        "id": 364,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "ZANKYOU VENTURES, S.L.",
-        "address": "Calle Faraday, 7.  - 28049 Madrid",
-        "web": "https://www.zankyou.es/",
-        "objectives": [
-            "CB02/ CE02/CE05/CE07 Diseño y creación de HTML.",
-            "CB02/ CE02/CE05/CE07 Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido Drupal .",
-            "CB02/Diseño de material gráfico (poster, leaflets)",
-            "CB02/ CE02/CE05/CE07 Diseño y creación de video.",
-            "CB04/ CE07/Presentación y comunicación del proyecto.",
-            "CB03/CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo."
-        ],
-        "picture": "/data/clean/pictures/262.png"
-    },
-    {
-        "index": 73,
-        "id": 363,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "ZEEM (SMART DATA PERFORMANCE S.L.U.)",
-        "address": "C/ de Manzanares, 4 - 28005 Madrid",
-        "web": "https://zeem.pro/es/",
-        "objectives": [
-            "CB02/ CE02/CE05/CE07 Diseño y creación de HTML.",
-            "CB02/ CE02/CE05/CE07 Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido custom o Wordpress .",
-            "CB02/Diseño de material gráfico (Cartelería, banners, landing, logo, ilustración, …).",
-            "CB02/ CE02/CE05/CE07 Diseño y creación de video.",
-            "CB04/ CE07/Presentación y comunicación del proyecto. Gestión con el cliente y defensa de propuesta.",
-            "CB03/CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo. Autoorganización y trabajo en metodologías Agile y scrum.",
-            "CB02 – Realización de diseños pensado para distintos fines y centrados en la conversión. Auditoría CRO."
-        ],
-        "picture": "/data/clean/pictures/254.png"
-    },
-    {
-        "index": 75,
-        "id": 361,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "DOUBLE DOT (DOS PUNTOS AN INTERNET COMPANY, S.L.)",
-        "address": "C/ Aguacate nº 41, portal 4B, 2-6 - 28054 Madrid",
-        "web": "https://www.doubledot.es/",
-        "objectives": [
-            "Prototipado de proyectos web en colaboración con equipo de diseño. ",
-            "Adaptación de líneas gráficas a proyectos web en colaboración con equipo de diseño. ",
-            "Maquetación HTML5 CSS proyectos Web en colaboración con equipo de diseño y programación front. ",
-            "Animaciones Html5 en colaboración con equipo de programación front."
-        ],
-        "picture": "/data/clean/pictures/252.png"
-    },
-    {
-        "index": 77,
-        "id": 359,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "ENTREPRENEUR CAPITAL S.L. (OPINNO)",
-        "address": "C/ Sánchez Pacheco 101, 3ª Planta -  28002 Madrid",
-        "web": "https://opinno.com/",
-        "objectives": [
-            "Soporte al equipo de UX en la realización de propuestas",
-            "Soporte al equipo en el desarrollo de proyectos usando herramientas como Photoshop, Illustrator, InDesign.",
-            "Participación en la elaboración de los entregables de los distintos proyectos en los que estén involcurados."
-        ],
-        "picture": "/data/clean/pictures/244.png"
-    },
-    {
-        "index": 78,
-        "id": 358,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "CÁTEDRA TELEFÓNICA UPM",
-        "address": "Avda Complutense, 30 - 28040 Madrid",
-        "web": "http://internetng.dit.upm.es/",
-        "objectives": [
-            "Responsable del diseño de la experiencia de usuario (UX) y la usabilidad (UI) de plataformas de código libre, así como de otras herramientas de e-learning que están en este momento en desarrollo.",
-            "Desarrollo de productos que se adapten a las necesidades del cliente, conociendo la interacción entre ambos para conseguir la mejor usabilidad. Responsable de la interfaz y del diseño del producto, arquitectura de información, estrategia de contenidos…",
-            "Conceptualización y diseño de wireframes y prototipos de alta fidelidad. ",
-            "Diseño y maquetación Front-End para soluciones responsive interactivas (HTML5, CSS3, Wordpress, Bootstrap, etc.)",
-            "Desarrollo e implantación de marca para diferentes proyectos.",
-            "Creación y mantenimiento de identidades gráficas para los diferentes productos y servicios ofrecidos, incluyendo su aplicación en presentaciones impresas y digitales.",
-            "Diseño y maquetación de material gráfico para campañas de medios, web y redes sociales. Creación de contenidos gráficos para solucionar las necesidades gráficas de cada servicio ofrecido. ",
-            "Community manager, promoción en redes sociales y gestión de blogs y contenidos digitales."
-        ],
-        "picture": "/data/clean/pictures/245.png"
-    },
-    {
-        "index": 89,
-        "id": 347,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "DISTRIBUIDORA DE TELEVISIÓN DIGITAL S.A. (DTS) GesNext",
-        "address": "Avda. de los Artesanos, 6 - 28760 Tres Cantos (Madrid)",
-        "web": "https://www.movistar.es/",
-        "objectives": [
-            "CB02/ CE02/CE05/CE07 /Diseño de Interfaces de uso, web, dispositivos móviles, descodificadores, Smart tv, consolas, etc.",
-            "CB02/ CE02/CE05/CE07/CB03Análisis de flujos de navegación y experiencias de uso.",
-            "CB02/ CE02/CE05/CE07 Diseño para mantenimiento de entornos web y App.",
-            "CB02/ CE02/CE05/CE07 Desarrollo de servicios para apps y entornos Web.",
-            "CB04/ CE07/Presentación y comunicación del proyecto.",
-            "CB03/CB04/CE07/ Integración en equipos de trabajo. ",
-            "CB03/CB04/CE07/ Resolución y  gestión de tareas en grupo."
-        ],
-        "picture": "/data/clean/pictures/189.png"
-    },
-    {
-        "index": 91,
-        "id": 345,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "ERRETRES DISEÑO Y COMUNICACIÓN 2003, S.L.",
-        "address": "Cadarso 19 bis, loft 2, - 28008 Madrid",
-        "web": "https://www.erretres.com/es/inicio/",
-        "objectives": [
-            "CB02/ CE02/CE05/CE07 Diseño y creación de HTML.",
-            "CB02/ CE02/CE05/CE07 Desempeñará labores de desarrollo en lenguaje PHP y       herramientas para creación de Web con gestor de contenido Drupal .",
-            "CB02/Diseño de material gráfico (poster, leaflets)",
-            "CB02/ CE02/CE05/CE07 Diseño y creación de video.",
-            "CB04/ CE07/Presentación y comunicación del proyecto.",
-            "CB03/CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo."
-        ],
-        "picture": "/data/clean/pictures/191.png"
-    },
-    {
-        "index": 92,
-        "id": 344,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "D.O.5.HISPANOBODEGAS S.L., ",
-        "address": "c/ La Rábida, 27 - 28039 Madrid",
-        "web": "https://www.hispanobodegas.com/",
-        "objectives": [
-            "CB02/ CE02/ CE05/ CE07 Diseño y creación de HTML.",
-            "CB02/ CE02/ CE05/ CE07 Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido Drupal.",
-            "CB02/ Diseño de material gráfico (Catálogos, etiquetas y material promocional)",
-            "CB02/ CE02/ CE05/ CE07 Diseño y creación de video de catas de vinos y bodegas.",
-            "CB04/ CE07/ Presentación y Comunicación del proyecto.",
-            "CB03/ CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo."
-        ],
-        "picture": "/data/clean/pictures/192.jpeg"
-    },
-    {
-        "index": 93,
-        "id": 343,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "ATOS IT SOLUTIONS AND SERVICES IBERIA, S.L.",
-        "address": "c/ Albarracín, 25 - 28037 Madrid",
-        "web": "https://atos.net/es/spain",
-        "objectives": [
-            "CB02/ CE02/CE05/CE07 Diseño y creación de HTML.",
-            "CB02/ CE02/CE05/CE07 Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido Drupal .",
-            "CB02/Diseño de material gráfico (poster, leaflets)",
-            "CB02/ CE02/CE05/CE07 Diseño y creación de video.",
-            "CB04/ CE07/Presentación y comunicación del proyecto.",
-            "CB03/CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo."
-        ],
-        "picture": "/data/clean/pictures/193.png"
-    },
-    {
-        "index": 95,
-        "id": 341,
-        "especialidad": [
-            "grafico",
-            "mdi"
-        ],
-        "name": "BINALOGUE S.L.",
-        "address": "c/ Génova, 11 - 3º D - 28004 Madrid",
-        "objectives": [
-            "Trabajar bajo supervisión y dirección en un entorno profesional desempeñando las siguientes labores, cuyo objeto es contribuir al equipo de Binalogue S.L. en la creación de proyectos para la industria de la publicidad, la comunicación y el entretenimiento:",
-            "• Asistencia en la creación de wireframes, y búsqueda de referencias de usabilidad.",
-            "• Asistencia en labores de testing.",
-            "• Asistencia en la búsqueda de referencias para la elaboración de propuestas.",
-            "• Asistencia en tareas de diseño, maquetación y animación.",
-            "• Asistencia en tareas de diseño, maquetación y animación para proyectos de clientes pertenecientes a diferentes sectores."
-        ],
-        "picture": "/data/clean/pictures/195.png"
-    },
-    {
-        "index": 107,
-        "id": 329,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "AZUL COMUNICACIÓN S.L.",
-        "address": "Avda. Manoteras, 38 - C 010 - 28050 Madrid",
-        "web": "http://www.azulcomunicacion.es/",
-        "objectives": [
-            "Inmersión total y participación activa en los proyectos de la Agencia, trabajo en equipo.",
-            "Diseño de imagen corporativa y digital.",
-            "Conocimiento avanzado de programas de diseño (Photoshop, Illustrator, InDesign)",
-            "Conocimiento avanzado del Paquete Office.",
-            "Manejo de Wordpress.",
-            "Manejo de programas de edición de vídeo y montaje (After Effects, Premiere Pro, 3D Studio Max)"
-        ],
-        "picture": "/data/clean/pictures/184.png"
-    },
-    {
-        "index": 111,
-        "id": 325,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "APPFORBRANDS, S.L.  ",
-        "address": "c/ Fray Ceferino Gonzalez, 4  - local - 28005 Madrid",
-        "objectives": [
-            "Realización de prototipos, pruebas de concepto, propuestas de interacción, arquitectura y diseño visual.",
-            "Analizar las propuestas y buscar posibles mejoras.",
-            "Análisis de briefing, benchmark, análisis de datos y estadísticas.",
-            "Prototipado rápido, agile, design thinking. Axure, Sketch.",
-            "Asistir a reuniones, interactuar con clientes y compañeros de diseño y desarrollo, realizar propuestas."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 114,
-        "id": 322,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "LABARBER MULTIMEDIA, S.L.",
-        "address": "c/ Vinaroz 16 - local 6B -  28002 Madrid",
-        "web": "https://labarbermultimedia.wixsite.com/labarber",
-        "objectives": [
-            "Mejora de la experiencia de usuario en la app marca plus.",
-            "Investigación de nuevos pluggings y potenciales de la herramienta aquafadas."
-        ],
-        "picture": "/data/clean/pictures/213.png"
-    },
-    {
-        "index": 118,
-        "id": 318,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "MASHMEGROUP, S.L.",
-        "address": "c/ Cronos, 20 -  bloque 2, 1º4  - 28037 Madrid",
-        "web": "https://www.mashme.io/index.html",
-        "objectives": [
-            "Genera propuestas de mejora en el diseño, la usabilidad y la experiencia de usuario de un sitio web y de una plataforma de videoconferencia en las diversas vistas multidispositivo.",
-            "Genera un análisis exhaustivo en base a los datos generados tras los test de usabilidad y experiencia de usuario.",
-            "Investiga y plantea nuevas formas de evaluar la usabilidad y la experiencia de usuario de una plataforma virtual.",
-            "Documenta de forma eficaz el mapa de experiencia del cliente (User Journey) y participa en la elaboración y ejecución de diversos tipos de test de usabilidad del producto.",
-            "Genera mejoras demostrables en la usabilidad y la experiencia de usuario del producto."
-        ],
-        "picture": "/data/clean/pictures/217.png"
-    },
-    {
-        "index": 120,
-        "id": 316,
-        "especialidad": [
-            "mdi"
-        ],
-        "name": "EDT EVENTOS, S.A.",
-        "address": "c/ Santa Leonor, 53 - 28037 Madrid",
-        "web": "https://www.edt.es/",
-        "objectives": [
-            "Colabora en el desarrollo de un proyecto de diseño, usabilidad.",
-            "Trabaja en un grupo de trabajo cohesionado por el mismo proyecto donde cada persona realiza actividades complementarias.",
-            "Analizar el pedido para su adecuada implementación.",
-            "Amplía su conocimiento a la hora de aplicar las herramientas ya conocidas.",
-            "Aprender a gestionar el tiempo y la presión de un trabajo que ha de realizarse en un periodo limitado."
-        ],
-        "picture": "/data/clean/pictures/210.png"
-    }
+  {
+    "index": 13,
+    "id": 418,
+    "especialidad": ["mdi"],
+    "name": "OMNICOM PUBLIC RELATIONS GROUP, S.A.",
+    "address": "c/ Luchana, 23 - 4º - 28010 Madrid",
+    "web": "https://www.omnicomgroup.com/",
+    "objectives": [
+      "Colaboración con el departamento de Creatividad y Diseño de Omicom PR Group.",
+      "Interpretación de briefing de diseño de clientes y/o de otros departamentos de la agencia.",
+      "Diseño de banners y otros formatos digitales para su aplicación online donde fuese necesario.",
+      "Diseño de infografías.",
+      "Diseño de formatos para imprimir (anuncios, folletos, tarjetas, cartas…)",
+      "Colaboración en talleres creativos y brainstorming para definir conceptos creativos, estrategias creativas, namings, claims u otras necesidades del departamento."
+    ],
+    "picture": "/data/clean/pictures/101.png"
+  },
+  {
+    "index": 30,
+    "id": 404,
+    "especialidad": ["mdi"],
+    "name": "ALEJANDRA CUBERO ECHEVERRÍA (GREET)",
+    "address": "c/ Plaza, 18 - 28043 Madrid",
+    "objectives": [
+      "• Participación en las fases de investigación y definición de la experiencia de usuario",
+      "Previo al inicio del desarrollo de proyectos, tenemos con clientes sesiones mano a mano en las que trabajamos con ellos diferentes elementos que nos aseguren un sistema de trabajo coherente y centrado en el usuario. Estas sesiones son fundamentales para construir después las siguientes fases y requieren de perfiles generalistas y específicos que a la hora de preparar los talleres y ejecutarlos puedan exprimir al cliente y obtener la información necesaria para desarrollar proyectos a medida. ",
+      "• Diseño web",
+      "En este momento nos encontramos en pleno proceso de creación de una página web para un cliente. No obstante, más allá de una página clásica, ésta se relaciona directamente con el usuario a través de su diseño. El usuario puede escribir, tachar, dibujar y hacer distintas acciones con la página web. En este proyecto existe tanto un rol de programación de back end como principalmente de front. Además, aunque se encuentra en fase avanzada, hay un componente importante de storytelling que se encuentra en constante evolución. ",
+      "• Desarrollo de una revista/boletín interactivo",
+      "Uno de los proyectos abiertos en este momento es el diseño de un boletín de noticias interno para uno de nuestros clientes con sus propios clientes. El proyecto consiste en el diseño de la revista desde cero: qué se quiere contar, de qué manera lo van a utilizar los clientes, cómo pueden interactuar con ella, etc. En este proyecto hay una parte importante de investigación de usuario, de narrativa y de diseño de producto. Todas ellas patas que se han cubierto en el máster."
+    ],
+    "picture": "/data/clean/pictures/160.jpeg"
+  },
+  {
+    "index": 34,
+    "id": 400,
+    "especialidad": ["mdi"],
+    "name": "ASOCIACIÓN ESPACIO CARNICERÍA",
+    "address": "c/ Eduardo Morales, 23, puerta 2, 3 y 4 - 28025 Madrid",
+    "web": "http://www.carniceria.org/",
+    "objectives": [
+      "CB02",
+      "- Diseño y creación de HTML.",
+      "- Desempeñará labores de desarrollo en lenguaje Javascript y herramientas para creación de Web con gestor de contenido Wordpress o Contentful",
+      "- Diseño de material gráfico (poster, dossiers) / Diseño y creación de video",
+      "CB03",
+      "- Integración en equipos de trabajo transdisciplinares. Resolución y gestión de tareas en grupo",
+      "CB04",
+      "- Presentación y comunicación del proyecto",
+      "- Análisis y evaluación del proyecto, gestión de recursos, estrategia y difusión.",
+      "CE02",
+      "- Diseño y creación de HTML.",
+      "- Desempeñará labores de desarrollo en lenguaje JavaScript y herramientas para creación de Web con gestor de contenido Wordpress o Contenful",
+      "- Diseño y creación de video",
+      "CE05",
+      "- Investigar dispositivos interdisciplinares que prioricen la componente virtual.",
+      "- Desempeñará labores de desarrollo en lenguaje JavaScript, así como el uso de librerías tipo REACT.",
+      "CE07",
+      "- Comunicación del proyecto en reuniones de equipo.",
+      "- Mediación y negociación entre los diferentes agentes involucrados.",
+      "- Actitud analítica y propositiva del entorno virtual del proyecto."
+    ],
+    "picture": "/data/clean/pictures/156.jpeg"
+  },
+  {
+    "index": 35,
+    "id": 399,
+    "especialidad": ["mdi"],
+    "name": "DIGITAL 55 (LEXTREND INFORMATION TECHNOLOGIES, S.L.)",
+    "address": "c/ Claudio Coello, 25 - 1º dcha - 28001 Madrid",
+    "web": "https://www.digital55.com/",
+    "objectives": [
+      "Apoyo al departamento de UX y Diseño.",
+      "Elaboración de wireframes.",
+      "Análisis UX.",
+      "Definición UI.",
+      "Diseño de interfaces con Sketch",
+      "Test de usabilidad.",
+      "Presentaciones a clientes.",
+      "Prototipado de proyectos digitales a través de Invision"
+    ],
+    "picture": "/data/clean/pictures/241.png"
+  },
+  {
+    "index": 40,
+    "id": 396,
+    "especialidad": ["mdi"],
+    "name": "BLUECELL COMUNICACIÓN, S.L.",
+    "address": "Paseo de la Castellana, 213 - bajo A - 28046 Madrid",
+    "web": "http://www.bluecell.es/",
+    "objectives": [
+      "CB02 - Conceptualización y diseño de productos digitales desde su planificación inicial UX, diseño de interface, hasta su interacción con el usuario UI.",
+      "- Conceptualización y diseño de productos audiovisuales e interactivos.",
+      "CB03 - Conceptualización de soluciones interactivas y toma de decisiones en diferentes aspectos de los proyectos.",
+      "CB04 - Argumentación de las conclusiones y decisiones tomadas al equipo y al cliente.",
+      "- Elaboración de presentaciones o memorias para justificar las soluciones aplicadas.",
+      "CE02 - Diseño y planificación de proyectos digitales globales, páginas web, video e interacción adaptado a las necesidades específicas de cada proyecto.",
+      "CE05 - Desarrollo de habilidades creativas para los proyectos digitales y toma de decisiones en diferentes aspectos de los proyectos.",
+      "CE07 – Elaboración de análisis y diagnóstico de las necesidades específicas del proyecto para alcanzar una solución óptima."
+    ],
+    "picture": "/data/clean/pictures/230.png"
+  },
+  {
+    "index": 42,
+    "id": 394,
+    "especialidad": ["mdi"],
+    "name": "DIOKOS INTERACTIVE, S.L.",
+    "address": "c/ Ulises, 91 - 2º, dpcho 4, oficina 6 - 28043 Madrid",
+    "web": "http://www.diokos.com/",
+    "objectives": [
+      "SpainAgain, que es una revista digital de Diokos, tiene una serie de artículos de viaje, cultura, comida etc… de España con los que vendemos nuestros servicios y productos a los coreanos que vengan a España o que estén en Corea.",
+      "Ella se encargará de mejorar el diseño de los artículos o contenidos estéticamente. ",
+      "Además de esto realizará la planificación e implantación de UX para los usuarios de SpainAgain, así mejorando el ratio de retención de los usuarios. ",
+      "Ya que tenemos varios productos y servicios con el objetivo de anunciarlos desempeñará labores de diseño de banner y vídeo para nuestros productos o servicios. ",
+      "De esta forma, también creará el landingpage de productos y servicios. ",
+      "Por otra parte, se encargaría de realizar trabajos de asistencia a los nuevos proyectos que vamos a tener en la parte del diseño. "
+    ],
+    "picture": "/data/clean/pictures/95.png"
+  },
+  {
+    "index": 43,
+    "id": 393,
+    "especialidad": ["mdi"],
+    "name": "EL NINJA FLUORESCENTE, S.L.",
+    "address": "c/ Urano, 27 - 2º izq - 28936 Móstoles (Madrid)",
+    "web": "https://elninjafluorescente.es/",
+    "objectives": [
+      "Diseño y creación de HTML, CSS, JavaScript. -Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido Wordpress .-Diseño de material gráfico (Tarjetas, folletos, etc).",
+      "Integración en equipos de trabajo. Resolución y gestión de tareas en grupo.",
+      "Presentación y comunicación de proyectos, toma de requisitos en cliente."
+    ],
+    "picture": "/data/clean/pictures/235.jpg"
+  },
+  {
+    "index": 65,
+    "id": 371,
+    "especialidad": ["mdi"],
+    "name": "THE SUMMER AGENCY (antigua INSPIRING MOVES S.L.)",
+    "address": "C/ Sánchez Pacheco, 82 - 28002 Madrid",
+    "objectives": [
+      "CB02/CE02/CE05/CE07 Creación de HTML y diseño de interacciones.",
+      "CB02/CE02/CE05/CE07 Creación de interfaces a partir del modelo MVC (model-view-controller) utilizando JavaScript.",
+      "CB02/CE02/CE05/CE07 Desarrollo de servicios en PHP para consumo y modificación de datos.",
+      "CB02/CE02/CE05/CE07 Desarrollo y mantenimiento de webs, utilizando PHP y wordpress como motor de desarrollo.",
+      "CB03/CB04/CE05/CE07 Diseño de soluciones de acuerdo a los requerimientos de cada proyecto, en el marco de un equipo interdisciplinar, además de la gestión de las tareas involucradas en la ejecución de dichos diseños."
+    ],
+    "picture": "/data/clean/pictures/256.jpeg"
+  },
+  {
+    "index": 66,
+    "id": 370,
+    "especialidad": ["mdi"],
+    "name": "INTERACTIVE COMMUNICATION PROJECTS S.L. (3 WAYS)",
+    "address": "C/ Sánchez Díaz nº 15 - 28027 Madrid",
+    "web": "http://www.icomprojects.com/",
+    "objectives": [
+      "CB02/CB03/CE02/CE05 Diseño y programación de HTML, CSS y Javascript",
+      "CB02/CB03/CE02 Diseño interactivo con BBDD MySQL",
+      "CB04/CE07 Presentación y comunicación del proyecto",
+      "CB03/CB04/CE05/CE07 Trabajo en equipo. Resolución y gestión"
+    ],
+    "picture": "/data/clean/pictures/257.jpeg"
+  },
+  {
+    "index": 71,
+    "id": 365,
+    "especialidad": ["mdi"],
+    "name": "THE COCKTAIL EXPERIENCE S.L.U.",
+    "address": "C/ Salamanca 17 - 28020 Madrid",
+    "web": "https://the-cocktail.com/",
+    "objectives": [
+      "Conceptualización de producto digital.",
+      "Wireframing low/medium/high Fidelity",
+      " Prototipado interactivo",
+      "Análisis heurísticos y benchmarks ",
+      "Presentación y defensa de soluciones en equipo interno."
+    ],
+    "picture": "/data/clean/pictures/98.png"
+  },
+  {
+    "index": 72,
+    "id": 364,
+    "especialidad": ["mdi"],
+    "name": "ZANKYOU VENTURES, S.L.",
+    "address": "Calle Faraday, 7.  - 28049 Madrid",
+    "web": "https://www.zankyou.es/",
+    "objectives": [
+      "CB02/ CE02/CE05/CE07 Diseño y creación de HTML.",
+      "CB02/ CE02/CE05/CE07 Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido Drupal .",
+      "CB02/Diseño de material gráfico (poster, leaflets)",
+      "CB02/ CE02/CE05/CE07 Diseño y creación de video.",
+      "CB04/ CE07/Presentación y comunicación del proyecto.",
+      "CB03/CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo."
+    ],
+    "picture": "/data/clean/pictures/262.png"
+  },
+  {
+    "index": 73,
+    "id": 363,
+    "especialidad": ["mdi"],
+    "name": "ZEEM (SMART DATA PERFORMANCE S.L.U.)",
+    "address": "C/ de Manzanares, 4 - 28005 Madrid",
+    "web": "https://zeem.pro/es/",
+    "objectives": [
+      "CB02/ CE02/CE05/CE07 Diseño y creación de HTML.",
+      "CB02/ CE02/CE05/CE07 Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido custom o Wordpress .",
+      "CB02/Diseño de material gráfico (Cartelería, banners, landing, logo, ilustración, …).",
+      "CB02/ CE02/CE05/CE07 Diseño y creación de video.",
+      "CB04/ CE07/Presentación y comunicación del proyecto. Gestión con el cliente y defensa de propuesta.",
+      "CB03/CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo. Autoorganización y trabajo en metodologías Agile y scrum.",
+      "CB02 – Realización de diseños pensado para distintos fines y centrados en la conversión. Auditoría CRO."
+    ],
+    "picture": "/data/clean/pictures/254.png"
+  },
+  {
+    "index": 75,
+    "id": 361,
+    "especialidad": ["mdi"],
+    "name": "DOUBLE DOT (DOS PUNTOS AN INTERNET COMPANY, S.L.)",
+    "address": "C/ Aguacate nº 41, portal 4B, 2-6 - 28054 Madrid",
+    "web": "https://www.doubledot.es/",
+    "objectives": [
+      "Prototipado de proyectos web en colaboración con equipo de diseño. ",
+      "Adaptación de líneas gráficas a proyectos web en colaboración con equipo de diseño. ",
+      "Maquetación HTML5 CSS proyectos Web en colaboración con equipo de diseño y programación front. ",
+      "Animaciones Html5 en colaboración con equipo de programación front."
+    ],
+    "picture": "/data/clean/pictures/252.png"
+  },
+  {
+    "index": 77,
+    "id": 359,
+    "especialidad": ["mdi"],
+    "name": "ENTREPRENEUR CAPITAL S.L. (OPINNO)",
+    "address": "C/ Sánchez Pacheco 101, 3ª Planta -  28002 Madrid",
+    "web": "https://opinno.com/",
+    "objectives": [
+      "Soporte al equipo de UX en la realización de propuestas",
+      "Soporte al equipo en el desarrollo de proyectos usando herramientas como Photoshop, Illustrator, InDesign.",
+      "Participación en la elaboración de los entregables de los distintos proyectos en los que estén involcurados."
+    ],
+    "picture": "/data/clean/pictures/244.png"
+  },
+  {
+    "index": 78,
+    "id": 358,
+    "especialidad": ["mdi"],
+    "name": "CÁTEDRA TELEFÓNICA UPM",
+    "address": "Avda Complutense, 30 - 28040 Madrid",
+    "web": "http://internetng.dit.upm.es/",
+    "objectives": [
+      "Responsable del diseño de la experiencia de usuario (UX) y la usabilidad (UI) de plataformas de código libre, así como de otras herramientas de e-learning que están en este momento en desarrollo.",
+      "Desarrollo de productos que se adapten a las necesidades del cliente, conociendo la interacción entre ambos para conseguir la mejor usabilidad. Responsable de la interfaz y del diseño del producto, arquitectura de información, estrategia de contenidos…",
+      "Conceptualización y diseño de wireframes y prototipos de alta fidelidad. ",
+      "Diseño y maquetación Front-End para soluciones responsive interactivas (HTML5, CSS3, Wordpress, Bootstrap, etc.)",
+      "Desarrollo e implantación de marca para diferentes proyectos.",
+      "Creación y mantenimiento de identidades gráficas para los diferentes productos y servicios ofrecidos, incluyendo su aplicación en presentaciones impresas y digitales.",
+      "Diseño y maquetación de material gráfico para campañas de medios, web y redes sociales. Creación de contenidos gráficos para solucionar las necesidades gráficas de cada servicio ofrecido. ",
+      "Community manager, promoción en redes sociales y gestión de blogs y contenidos digitales."
+    ],
+    "picture": "/data/clean/pictures/245.png"
+  },
+  {
+    "index": 89,
+    "id": 347,
+    "especialidad": ["mdi"],
+    "name": "DISTRIBUIDORA DE TELEVISIÓN DIGITAL S.A. (DTS) GesNext",
+    "address": "Avda. de los Artesanos, 6 - 28760 Tres Cantos (Madrid)",
+    "web": "https://www.movistar.es/",
+    "objectives": [
+      "CB02/ CE02/CE05/CE07 /Diseño de Interfaces de uso, web, dispositivos móviles, descodificadores, Smart tv, consolas, etc.",
+      "CB02/ CE02/CE05/CE07/CB03Análisis de flujos de navegación y experiencias de uso.",
+      "CB02/ CE02/CE05/CE07 Diseño para mantenimiento de entornos web y App.",
+      "CB02/ CE02/CE05/CE07 Desarrollo de servicios para apps y entornos Web.",
+      "CB04/ CE07/Presentación y comunicación del proyecto.",
+      "CB03/CB04/CE07/ Integración en equipos de trabajo. ",
+      "CB03/CB04/CE07/ Resolución y  gestión de tareas en grupo."
+    ],
+    "picture": "/data/clean/pictures/189.png"
+  },
+  {
+    "index": 91,
+    "id": 345,
+    "especialidad": ["mdi"],
+    "name": "ERRETRES DISEÑO Y COMUNICACIÓN 2003, S.L.",
+    "address": "Cadarso 19 bis, loft 2, - 28008 Madrid",
+    "web": "https://www.erretres.com/es/inicio/",
+    "objectives": [
+      "CB02/ CE02/CE05/CE07 Diseño y creación de HTML.",
+      "CB02/ CE02/CE05/CE07 Desempeñará labores de desarrollo en lenguaje PHP y       herramientas para creación de Web con gestor de contenido Drupal .",
+      "CB02/Diseño de material gráfico (poster, leaflets)",
+      "CB02/ CE02/CE05/CE07 Diseño y creación de video.",
+      "CB04/ CE07/Presentación y comunicación del proyecto.",
+      "CB03/CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo."
+    ],
+    "picture": "/data/clean/pictures/191.png"
+  },
+  {
+    "index": 92,
+    "id": 344,
+    "especialidad": ["mdi"],
+    "name": "D.O.5.HISPANOBODEGAS S.L., ",
+    "address": "c/ La Rábida, 27 - 28039 Madrid",
+    "web": "https://www.hispanobodegas.com/",
+    "objectives": [
+      "CB02/ CE02/ CE05/ CE07 Diseño y creación de HTML.",
+      "CB02/ CE02/ CE05/ CE07 Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido Drupal.",
+      "CB02/ Diseño de material gráfico (Catálogos, etiquetas y material promocional)",
+      "CB02/ CE02/ CE05/ CE07 Diseño y creación de video de catas de vinos y bodegas.",
+      "CB04/ CE07/ Presentación y Comunicación del proyecto.",
+      "CB03/ CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo."
+    ],
+    "picture": "/data/clean/pictures/192.jpeg"
+  },
+  {
+    "index": 93,
+    "id": 343,
+    "especialidad": ["mdi"],
+    "name": "ATOS IT SOLUTIONS AND SERVICES IBERIA, S.L.",
+    "address": "c/ Albarracín, 25 - 28037 Madrid",
+    "web": "https://atos.net/es/spain",
+    "objectives": [
+      "CB02/ CE02/CE05/CE07 Diseño y creación de HTML.",
+      "CB02/ CE02/CE05/CE07 Desempeñará labores de desarrollo en lenguaje PHP y herramientas para creación de Web con gestor de contenido Drupal .",
+      "CB02/Diseño de material gráfico (poster, leaflets)",
+      "CB02/ CE02/CE05/CE07 Diseño y creación de video.",
+      "CB04/ CE07/Presentación y comunicación del proyecto.",
+      "CB03/CB04/CE07/ Integración en equipos de trabajo. Resolución y gestión de tareas en grupo."
+    ],
+    "picture": "/data/clean/pictures/193.png"
+  },
+  {
+    "index": 95,
+    "id": 341,
+    "especialidad": ["grafico", "mdi"],
+    "name": "BINALOGUE S.L.",
+    "address": "c/ Génova, 11 - 3º D - 28004 Madrid",
+    "objectives": [
+      "Trabajar bajo supervisión y dirección en un entorno profesional desempeñando las siguientes labores, cuyo objeto es contribuir al equipo de Binalogue S.L. en la creación de proyectos para la industria de la publicidad, la comunicación y el entretenimiento:",
+      "• Asistencia en la creación de wireframes, y búsqueda de referencias de usabilidad.",
+      "• Asistencia en labores de testing.",
+      "• Asistencia en la búsqueda de referencias para la elaboración de propuestas.",
+      "• Asistencia en tareas de diseño, maquetación y animación.",
+      "• Asistencia en tareas de diseño, maquetación y animación para proyectos de clientes pertenecientes a diferentes sectores."
+    ],
+    "picture": "/data/clean/pictures/195.png"
+  },
+  {
+    "index": 107,
+    "id": 329,
+    "especialidad": ["mdi"],
+    "name": "AZUL COMUNICACIÓN S.L.",
+    "address": "Avda. Manoteras, 38 - C 010 - 28050 Madrid",
+    "web": "http://www.azulcomunicacion.es/",
+    "objectives": [
+      "Inmersión total y participación activa en los proyectos de la Agencia, trabajo en equipo.",
+      "Diseño de imagen corporativa y digital.",
+      "Conocimiento avanzado de programas de diseño (Photoshop, Illustrator, InDesign)",
+      "Conocimiento avanzado del Paquete Office.",
+      "Manejo de Wordpress.",
+      "Manejo de programas de edición de vídeo y montaje (After Effects, Premiere Pro, 3D Studio Max)"
+    ],
+    "picture": "/data/clean/pictures/184.png"
+  },
+  {
+    "index": 111,
+    "id": 325,
+    "especialidad": ["mdi"],
+    "name": "APPFORBRANDS, S.L.  ",
+    "address": "c/ Fray Ceferino Gonzalez, 4  - local - 28005 Madrid",
+    "objectives": [
+      "Realización de prototipos, pruebas de concepto, propuestas de interacción, arquitectura y diseño visual.",
+      "Analizar las propuestas y buscar posibles mejoras.",
+      "Análisis de briefing, benchmark, análisis de datos y estadísticas.",
+      "Prototipado rápido, agile, design thinking. Axure, Sketch.",
+      "Asistir a reuniones, interactuar con clientes y compañeros de diseño y desarrollo, realizar propuestas."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 114,
+    "id": 322,
+    "especialidad": ["mdi"],
+    "name": "LABARBER MULTIMEDIA, S.L.",
+    "address": "c/ Vinaroz 16 - local 6B -  28002 Madrid",
+    "web": "https://labarbermultimedia.wixsite.com/labarber",
+    "objectives": [
+      "Mejora de la experiencia de usuario en la app marca plus.",
+      "Investigación de nuevos pluggings y potenciales de la herramienta aquafadas."
+    ],
+    "picture": "/data/clean/pictures/213.png"
+  },
+  {
+    "index": 118,
+    "id": 318,
+    "especialidad": ["mdi"],
+    "name": "MASHMEGROUP, S.L.",
+    "address": "c/ Cronos, 20 -  bloque 2, 1º4  - 28037 Madrid",
+    "web": "https://www.mashme.io/index.html",
+    "objectives": [
+      "Genera propuestas de mejora en el diseño, la usabilidad y la experiencia de usuario de un sitio web y de una plataforma de videoconferencia en las diversas vistas multidispositivo.",
+      "Genera un análisis exhaustivo en base a los datos generados tras los test de usabilidad y experiencia de usuario.",
+      "Investiga y plantea nuevas formas de evaluar la usabilidad y la experiencia de usuario de una plataforma virtual.",
+      "Documenta de forma eficaz el mapa de experiencia del cliente (User Journey) y participa en la elaboración y ejecución de diversos tipos de test de usabilidad del producto.",
+      "Genera mejoras demostrables en la usabilidad y la experiencia de usuario del producto."
+    ],
+    "picture": "/data/clean/pictures/217.png"
+  },
+  {
+    "index": 120,
+    "id": 316,
+    "especialidad": ["mdi"],
+    "name": "EDT EVENTOS, S.A.",
+    "address": "c/ Santa Leonor, 53 - 28037 Madrid",
+    "web": "https://www.edt.es/",
+    "objectives": [
+      "Colabora en el desarrollo de un proyecto de diseño, usabilidad.",
+      "Trabaja en un grupo de trabajo cohesionado por el mismo proyecto donde cada persona realiza actividades complementarias.",
+      "Analizar el pedido para su adecuada implementación.",
+      "Amplía su conocimiento a la hora de aplicar las herramientas ya conocidas.",
+      "Aprender a gestionar el tiempo y la presión de un trabajo que ha de realizarse en un periodo limitado."
+    ],
+    "picture": "/data/clean/pictures/210.png"
+  }
 ]

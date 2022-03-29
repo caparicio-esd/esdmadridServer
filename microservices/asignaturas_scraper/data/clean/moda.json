@@ -1,342 +1,342 @@
 {
-    "type": "moda",
-    "name": "Diseño de Moda",
-    "courses": 4,
-    "ectsByCourse": 60,
-    "ectsTotal": 240,
-    "ectsDistribution": {
-        "FB": 80,
-        "OE": 104,
-        "OPT": 32,
-        "Prácticas externas": 12,
-        "Trabajo Fin de grado": 12,
-        "Trabajo Fin de master": 0,
-        "Libre Configuración": 0
-    },
-    "asignaturas": [
+  "type": "moda",
+  "name": "Diseño de Moda",
+  "courses": 4,
+  "ectsByCourse": 60,
+  "ectsTotal": 240,
+  "ectsDistribution": {
+    "FB": 80,
+    "OE": 104,
+    "OPT": 32,
+    "Prácticas externas": 12,
+    "Trabajo Fin de grado": 12,
+    "Trabajo Fin de master": 0,
+    "Libre Configuración": 0
+  },
+  "asignaturas": [
+    {
+      "course": 1,
+      "ects": 60,
+      "content": [
         {
-            "course": 1,
-            "ects": 60,
-            "content": [
-                {
-                    "title": "Color",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Fundamentos del diseño. Análisis",
-                    "ects": 6,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Dibujo. Representación",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Dibujo. Comunicación",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Volumen",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Sistemas de representación",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Tecnología Digital",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Fundamentos del diseño. Ideación",
-                    "ects": 6,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Fund. científicos para el diseño",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Ecodiseño",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Teoría e Historia del Arte",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Patronaje",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "OE"
-                },
-                {
-                    "title": "Técnicas de confección",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "OE"
-                },
-                {
-                    "title": "Contextos histórico-artísticos del diseño de moda",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "OE"
-                },
-                {
-                    "title": "Optativas",
-                    "type": "OPT",
-                    "course": 1,
-                    "ects": 0
-                }
-            ]
+          "title": "Color",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
         },
         {
-            "course": 2,
-            "ects": 60,
-            "content": [
-                {
-                    "title": "Fotografía y audiovisuales",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Teoría e Historia del diseño",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Teoría y cultura del diseño",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Técs. de expresión y comunicación",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Tecnología textil. Materiales",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Tecnología textil. Medios",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Técnicas textiles. Procesos",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Objeto escultórico e indumentaria",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Técnicas de confección. Procesos",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Patronaje industrial",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Diseño de moda. Análisis e ideación",
-                    "ects": 6,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Diseño de moda. Comunicación",
-                    "ects": 6,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Dibujo de moda",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Smas.representación aplicados a la moda",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Optativas",
-                    "type": "OPT",
-                    "course": 2,
-                    "ects": 0
-                }
-            ]
+          "title": "Fundamentos del diseño. Análisis",
+          "ects": 6,
+          "course": 1,
+          "type": "FB"
         },
         {
-            "course": 3,
-            "ects": 60,
-            "content": [
-                {
-                    "title": "Organización empresarial",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "FB"
-                },
-                {
-                    "title": "Estética",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "FB"
-                },
-                {
-                    "title": "Técs textiles. Estampación y teñidos",
-                    "ects": 3,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Técs textiles. Bordados y encajes",
-                    "ects": 3,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Patronaje industrial. Escalado",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Patronaje industrial. Confección",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Historia de la indumentaria",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Imagen moda",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Proyectos de estilismo",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Fotografía de moda",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Estilismo de espectáculos y medios audiovisuales",
-                    "ects": 2,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Diseño de moda. Desarrollo",
-                    "ects": 6,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Diseño. Complementos de moda",
-                    "ects": 6,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Historia de la moda",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Optativas",
-                    "type": "OPT",
-                    "course": 3,
-                    "ects": 4
-                }
-            ]
+          "title": "Dibujo. Representación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
         },
         {
-            "course": 4,
-            "ects": 60,
-            "content": [
-                {
-                    "title": "Marketing de moda",
-                    "ects": 4,
-                    "course": 4,
-                    "type": "FB"
-                },
-                {
-                    "title": "Gestión de empresas de moda",
-                    "ects": 4,
-                    "course": 4,
-                    "type": "FB"
-                },
-                {
-                    "title": "Prácticas externas",
-                    "ects": 12,
-                    "course": 4,
-                    "type": "Prácticas externas"
-                },
-                {
-                    "title": "Trabajo Fin de grado",
-                    "ects": 12,
-                    "course": 4,
-                    "type": "Trabajo Fin de grado"
-                },
-                {
-                    "title": "Optativas",
-                    "type": "OPT",
-                    "course": 4,
-                    "ects": 28
-                }
-            ]
+          "title": "Dibujo. Comunicación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Volumen",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Sistemas de representación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Tecnología Digital",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Fundamentos del diseño. Ideación",
+          "ects": 6,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Fund. científicos para el diseño",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Ecodiseño",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Teoría e Historia del Arte",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Patronaje",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Técnicas de confección",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Contextos histórico-artísticos del diseño de moda",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 1,
+          "ects": 0
         }
-    ]
+      ]
+    },
+    {
+      "course": 2,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Fotografía y audiovisuales",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Teoría e Historia del diseño",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Teoría y cultura del diseño",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Técs. de expresión y comunicación",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Tecnología textil. Materiales",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Tecnología textil. Medios",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Técnicas textiles. Procesos",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Objeto escultórico e indumentaria",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Técnicas de confección. Procesos",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Patronaje industrial",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Diseño de moda. Análisis e ideación",
+          "ects": 6,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Diseño de moda. Comunicación",
+          "ects": 6,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Dibujo de moda",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Smas.representación aplicados a la moda",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 2,
+          "ects": 0
+        }
+      ]
+    },
+    {
+      "course": 3,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Organización empresarial",
+          "ects": 4,
+          "course": 3,
+          "type": "FB"
+        },
+        {
+          "title": "Estética",
+          "ects": 4,
+          "course": 3,
+          "type": "FB"
+        },
+        {
+          "title": "Técs textiles. Estampación y teñidos",
+          "ects": 3,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Técs textiles. Bordados y encajes",
+          "ects": 3,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Patronaje industrial. Escalado",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Patronaje industrial. Confección",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Historia de la indumentaria",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Imagen moda",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Proyectos de estilismo",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Fotografía de moda",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Estilismo de espectáculos y medios audiovisuales",
+          "ects": 2,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Diseño de moda. Desarrollo",
+          "ects": 6,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Diseño. Complementos de moda",
+          "ects": 6,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Historia de la moda",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 3,
+          "ects": 4
+        }
+      ]
+    },
+    {
+      "course": 4,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Marketing de moda",
+          "ects": 4,
+          "course": 4,
+          "type": "FB"
+        },
+        {
+          "title": "Gestión de empresas de moda",
+          "ects": 4,
+          "course": 4,
+          "type": "FB"
+        },
+        {
+          "title": "Prácticas externas",
+          "ects": 12,
+          "course": 4,
+          "type": "Prácticas externas"
+        },
+        {
+          "title": "Trabajo Fin de grado",
+          "ects": 12,
+          "course": 4,
+          "type": "Trabajo Fin de grado"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 4,
+          "ects": 28
+        }
+      ]
+    }
+  ]
 }

@@ -37,7 +37,7 @@ class esd_BE__BasicData
     {
         self::$root = site_url();
         self::$api_root = self::$root . '/wp-json/esd/v1/';
-        self::$is_local = false;
+        self::$is_local = true;
 
         self::$api_static_assets = self::$root . '/wp-content/uploads/';
         self::$production_statics = 'https://admin-dev.esdmadrid.es' . '/wp-content/uploads/';

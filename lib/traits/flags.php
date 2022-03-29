@@ -42,10 +42,12 @@ trait Flags {
     public function get_post_template_field_by_id($pid) 
     {
         $result_out = new stdClass();
-        $post_type = get_post_type($pid);
+        $parent_id = get_post_parent($pid);
+        $target_id = $parent_id != null ? $parent_id->ID : $pid;
+        $post_type = get_post_type($target_id);
         
         foreach (esd_BE__BasicData::$template_collection as $result) {
-            if ($result->id == $pid) {
+            if ($result->id == $target_id) {
                 $result_out = $result;
             break;
             } else {

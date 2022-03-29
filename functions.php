@@ -9,12 +9,18 @@ function register_hooks()
     add_theme_support('post-thumbnails');
     add_post_type_support('page', 'excerpt');
     add_post_type_support('post', 'excerpt');
+    add_post_type_support('page', 'custom-fields');
+    add_post_type_support('post', 'custom-fields');
 }
 add_action('init', 'register_hooks');
 
 
+
+
+
 // register taxonomy portfolio
 require dirname(__FILE__) . '/admin/taxonomy_portfolio.php';
+require dirname(__FILE__) . '/admin/preview_url/preview_url.php';
 
 
 
@@ -49,6 +55,7 @@ require dirname(__FILE__) . '/api/Search/Search.php';
 require dirname(__FILE__) . '/api/Menu/Menu.php';
 
 require dirname(__FILE__) . '/api/Blog/Blog.php';
+require dirname(__FILE__) . '/api/Preview/PreviewURL.php';
 
 
 /**

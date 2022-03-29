@@ -21,18 +21,31 @@ function redirect_rest_pages()
 
 function get_rest_pages($request)
 {
-    // fetch params
     $pslug = $request['slug'];
+    $isPreview = isset($_GET['isPreview']) && ($_GET['isPreview'] == "true");
+    $isNewPost = isset($_GET['newPost']) && ($_GET['newPost'] == "true");
+    $status =  array('publish', 'pending', 'draft', 'auto-draft', 'future', 'private', 'inherit', 'trash');
+    
+    // 
+    if ($isNewPost) {
+        $results = new WP_Query(array('p' => intval($pslug), 'post_type' => 'any', 'post_status' => $status));
+    } else {
+        $results = new WP_Query(array('pagename' => $pslug, 'post_type' => 'any', 'post_status' => $status));
+    }
 
-    // fetch db
-    $results = new WP_Query(array(
-        'pagename' => $pslug,
-    ));
-
-    // construct response
-    $response = new esd_BE_Page($results->posts[0]);
-
-    return $response;
+    if ($isPreview && !$isNewPost) {
+        $autosave = wp_get_post_autosave($results->posts[0]->ID);
+        if ($autosave) {
+            $response = new esd_BE_Page($autosave);
+            return $response;
+        } else {
+            $response = new esd_BE_Page($results->posts[0]);
+            return $response;
+        }
+    } else {
+        $response = new esd_BE_Page($results->posts[0]);
+        return $response;
+    }
 }
 
 
@@ -47,4 +60,3 @@ add_action('rest_api_init', function () {
         )
     );
 });
-

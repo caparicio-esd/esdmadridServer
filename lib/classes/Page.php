@@ -100,7 +100,6 @@ class esd_BE_PlanEstudios extends esd_BE_EscuelaCrece
         "landing_video_de_la_titulacion",
         "landing_a_quien_va_dirigido",
         "landing_tabla_de_precios",
-
         "notification-title", 
         "notification-body", 
         "notification-button-text", 

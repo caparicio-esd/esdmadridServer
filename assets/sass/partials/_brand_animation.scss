@@ -1,44 +1,44 @@
 svg.brand_home_an {
-    width: 200px;
-    vertical-align: middle;
+  width: 200px;
+  vertical-align: middle;
 
-    * {
-        transform-origin: center center;
+  * {
+    transform-origin: center center;
+  }
+
+  circle {
+    &.c_outline {
+      fill: none;
+      stroke: #e9c24f;
+      stroke-linecap: round;
+      stroke-width: 9px;
+      stroke-miterlimit: 10px;
     }
 
-    circle {
-        &.c_outline {
-            fill: none;
-            stroke: #e9c24f;
-            stroke-linecap: round;
-            stroke-width: 9px;
-            stroke-miterlimit: 10px;
-        }
+    &.c_no_outline {
+      fill: #e9c24f;
+    }
+  }
 
-        &.c_no_outline {
-            fill: #e9c24f;
-        }
+  g.brand {
+    path {
+      fill: #111;
+    }
+  }
+
+  &.init {
+    circle {
+      &.c_outline {
+        opacity: 0;
+      }
+
+      &.c_no_outline {
+        opacity: 0;
+      }
     }
 
     g.brand {
-        path {
-            fill: #111;
-        }
+      opacity: 0;
     }
-
-    &.init {
-        circle {
-            &.c_outline {
-                opacity: 0;
-            }
-
-            &.c_no_outline {
-                opacity: 0;
-            }
-        }
-
-        g.brand {
-            opacity: 0;
-        }
-    }
+  }
 }

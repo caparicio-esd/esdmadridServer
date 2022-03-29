@@ -90,7 +90,7 @@ trait Utils
                 break;
             case 'date_picker':
                 $d = DateTime::createFromFormat('d/m/Y', $field_object->field_value);
-                $field_object->field_value = $d->format('c');
+                $field_object->field_value = $d;
                 break;
             case 'number':
                 $field_object->field_value = intval($field_object->field_value);

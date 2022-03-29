@@ -50,8 +50,6 @@ function get_blog_posts()
     $page = isset($_GET['page']) ? $_GET['page'] : 1;
     $postsPerPage = isset($_GET['posts_per_page']) ? $_GET['posts_per_page'] : 10;
 
-
-
     $query = new WP_Query([
         'post_type' => 'post',
         'posts_per_page' => $postsPerPage,

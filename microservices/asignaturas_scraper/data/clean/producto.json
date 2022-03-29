@@ -1,312 +1,312 @@
 {
-    "type": "producto",
-    "name": "Diseño de Producto",
-    "courses": 4,
-    "ectsByCourse": 60,
-    "ectsTotal": 240,
-    "ectsDistribution": {
-        "FB": 86,
-        "OE": 98,
-        "OPT": 32,
-        "Prácticas externas": 12,
-        "Trabajo Fin de grado": 12,
-        "Trabajo Fin de master": 0,
-        "Libre Configuración": 0
-    },
-    "asignaturas": [
+  "type": "producto",
+  "name": "Diseño de Producto",
+  "courses": 4,
+  "ectsByCourse": 60,
+  "ectsTotal": 240,
+  "ectsDistribution": {
+    "FB": 86,
+    "OE": 98,
+    "OPT": 32,
+    "Prácticas externas": 12,
+    "Trabajo Fin de grado": 12,
+    "Trabajo Fin de master": 0,
+    "Libre Configuración": 0
+  },
+  "asignaturas": [
+    {
+      "course": 1,
+      "ects": 60,
+      "content": [
         {
-            "course": 1,
-            "ects": 60,
-            "content": [
-                {
-                    "title": "Color",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Fundamentos del diseño. Análisis",
-                    "ects": 6,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Dibujo. Representación",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Dibujo. Comunicación",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Volumen",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Sistemas de representación",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Tecnología Digital",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Fundamentos del diseño. Ideación",
-                    "ects": 6,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Fund. científicos para el diseño",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Ecodiseño",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Teoría e Historia del Arte",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "FB"
-                },
-                {
-                    "title": "Iniciación al diseño de producto",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "OE"
-                },
-                {
-                    "title": "Mod. y prototipos. Ideación y comunicación",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "OE"
-                },
-                {
-                    "title": "Biónica y proporción",
-                    "ects": 4,
-                    "course": 1,
-                    "type": "OE"
-                },
-                {
-                    "title": "Optativas",
-                    "type": "OPT",
-                    "course": 1,
-                    "ects": 0
-                }
-            ]
+          "title": "Color",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
         },
         {
-            "course": 2,
-            "ects": 60,
-            "content": [
-                {
-                    "title": "Fotografía y audiovisuales",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Teoría e Historia del diseño",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Teoría y cultura del diseño",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Estética",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Técs. de expresión y comunicación",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "FB"
-                },
-                {
-                    "title": "Materiales y tecnología. Conceptualización",
-                    "ects": 6,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Estructuras y sistemas",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Valoración del proceso del diseño",
-                    "ects": 2,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Documentación",
-                    "ects": 4,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Proyectos. Ideación",
-                    "ects": 8,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Modelos y prototipos. Procesos y desarrollos",
-                    "ects": 6,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Materiales y tecnología. Realización",
-                    "ects": 6,
-                    "course": 2,
-                    "type": "OE"
-                },
-                {
-                    "title": "Optativas",
-                    "type": "OPT",
-                    "course": 2,
-                    "ects": 4
-                }
-            ]
+          "title": "Fundamentos del diseño. Análisis",
+          "ects": 6,
+          "course": 1,
+          "type": "FB"
         },
         {
-            "course": 3,
-            "ects": 60,
-            "content": [
-                {
-                    "title": "Organización empresarial",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "FB"
-                },
-                {
-                    "title": "Tecnol. digital aplicada al diseño de producto",
-                    "ects": 8,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Historia del diseño de producto",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Proyecto de diseño de envases y embalajes",
-                    "ects": 6,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Proyectos. Comunicación y desarrollo",
-                    "ects": 10,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Proyectos. Desarrollo e interacción",
-                    "ects": 8,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Diseño gráfico y comunicación del proyecto",
-                    "ects": 8,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Arte, artesanía y diseño",
-                    "ects": 2,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Presupuesto y gestión de proyectos",
-                    "ects": 4,
-                    "course": 3,
-                    "type": "OE"
-                },
-                {
-                    "title": "Optativas",
-                    "type": "OPT",
-                    "course": 3,
-                    "ects": 6
-                }
-            ]
+          "title": "Dibujo. Representación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
         },
         {
-            "course": 4,
-            "ects": 60,
-            "content": [
-                {
-                    "title": "Diseñadores y tendencias",
-                    "ects": 2,
-                    "course": 4,
-                    "type": "FB"
-                },
-                {
-                    "title": "Gestión del diseño",
-                    "ects": 2,
-                    "course": 4,
-                    "type": "FB"
-                },
-                {
-                    "title": "Comunicaciones y recursos",
-                    "ects": 2,
-                    "course": 4,
-                    "type": "FB"
-                },
-                {
-                    "title": "Tecnología digital aplicada al proyecto",
-                    "ects": 8,
-                    "course": 4,
-                    "type": "FB"
-                },
-                {
-                    "title": "Prácticas externas",
-                    "ects": 12,
-                    "course": 4,
-                    "type": "Prácticas externas"
-                },
-                {
-                    "title": "Trabajo Fin de grado",
-                    "ects": 12,
-                    "course": 4,
-                    "type": "Trabajo Fin de grado"
-                },
-                {
-                    "title": "Optativas",
-                    "type": "OPT",
-                    "course": 4,
-                    "ects": 22
-                }
-            ]
+          "title": "Dibujo. Comunicación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Volumen",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Sistemas de representación",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Tecnología Digital",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Fundamentos del diseño. Ideación",
+          "ects": 6,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Fund. científicos para el diseño",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Ecodiseño",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Teoría e Historia del Arte",
+          "ects": 4,
+          "course": 1,
+          "type": "FB"
+        },
+        {
+          "title": "Iniciación al diseño de producto",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Mod. y prototipos. Ideación y comunicación",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Biónica y proporción",
+          "ects": 4,
+          "course": 1,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 1,
+          "ects": 0
         }
-    ]
+      ]
+    },
+    {
+      "course": 2,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Fotografía y audiovisuales",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Teoría e Historia del diseño",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Teoría y cultura del diseño",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Estética",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Técs. de expresión y comunicación",
+          "ects": 4,
+          "course": 2,
+          "type": "FB"
+        },
+        {
+          "title": "Materiales y tecnología. Conceptualización",
+          "ects": 6,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Estructuras y sistemas",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Valoración del proceso del diseño",
+          "ects": 2,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Documentación",
+          "ects": 4,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Proyectos. Ideación",
+          "ects": 8,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Modelos y prototipos. Procesos y desarrollos",
+          "ects": 6,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Materiales y tecnología. Realización",
+          "ects": 6,
+          "course": 2,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 2,
+          "ects": 4
+        }
+      ]
+    },
+    {
+      "course": 3,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Organización empresarial",
+          "ects": 4,
+          "course": 3,
+          "type": "FB"
+        },
+        {
+          "title": "Tecnol. digital aplicada al diseño de producto",
+          "ects": 8,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Historia del diseño de producto",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Proyecto de diseño de envases y embalajes",
+          "ects": 6,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Proyectos. Comunicación y desarrollo",
+          "ects": 10,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Proyectos. Desarrollo e interacción",
+          "ects": 8,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Diseño gráfico y comunicación del proyecto",
+          "ects": 8,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Arte, artesanía y diseño",
+          "ects": 2,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Presupuesto y gestión de proyectos",
+          "ects": 4,
+          "course": 3,
+          "type": "OE"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 3,
+          "ects": 6
+        }
+      ]
+    },
+    {
+      "course": 4,
+      "ects": 60,
+      "content": [
+        {
+          "title": "Diseñadores y tendencias",
+          "ects": 2,
+          "course": 4,
+          "type": "FB"
+        },
+        {
+          "title": "Gestión del diseño",
+          "ects": 2,
+          "course": 4,
+          "type": "FB"
+        },
+        {
+          "title": "Comunicaciones y recursos",
+          "ects": 2,
+          "course": 4,
+          "type": "FB"
+        },
+        {
+          "title": "Tecnología digital aplicada al proyecto",
+          "ects": 8,
+          "course": 4,
+          "type": "FB"
+        },
+        {
+          "title": "Prácticas externas",
+          "ects": 12,
+          "course": 4,
+          "type": "Prácticas externas"
+        },
+        {
+          "title": "Trabajo Fin de grado",
+          "ects": 12,
+          "course": 4,
+          "type": "Trabajo Fin de grado"
+        },
+        {
+          "title": "Optativas",
+          "type": "OPT",
+          "course": 4,
+          "ects": 22
+        }
+      ]
+    }
+  ]
 }

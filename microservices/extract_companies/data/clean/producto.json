@@ -1,1002 +1,871 @@
 [
-    {
-        "index": 17,
-        "id": 414,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "CNEX AIE, S.L.",
-        "address": "Cami de Ca la Madrona, 5-7, Pol. Ind. Mata-Rocafonda - 08304 Mataró (Barcelona)",
-        "web": "http://www.cnexaie.com/",
-        "objectives": [
-            "IDENTIDAD CORPORATIVA",
-            "   Creación de logotipos, folletos, dípticos, flyer, catálogos, banner web, etc.",
-            "DISEÑO DE MARCA",
-            "   Restyling marcas: My Pleasure y Alive (diseño de packaging).",
-            "DISEÑO DE PRODUCTO",
-            "   Creación de nuevos productos. ",
-            "FOTOGRAFIA",
-            "   Fotografía de productos, retoque e edición de imagen."
-        ],
-        "picture": "/data/clean/pictures/108.png"
-    },
-    {
-        "index": 18,
-        "id": 413,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "ESPADAYSANTACRUZ STUDIO, S.L.",
-        "address": "c/ Pedro Campos, 5, local - 28019 Madrid",
-        "web": "http://www.espadaysantacruz.com/",
-        "objectives": [
-            "Ideación y conceptualización:",
-            "- Desarrollar y proponer ideas en base a un briefing. ",
-            "- Participar en sesiones de Brainstorming. ",
-            "- Búsqueda de referencias. ",
-            "Diseño:",
-            "- Modelado de diseños en 3D.",
-            "- Renderizado.",
-            "Producción:",
-            "- Diseño técnico del objeto a producir (planos, despieces, etc ...).",
-            "- Búsqueda y contacto con proveedores. ",
-            "- Ensamblado de piezas. "
-        ],
-        "picture": "/data/clean/pictures/107.png"
-    },
-    {
-        "index": 29,
-        "id": 405,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Fundación Diseño Madrid",
-        "address": "Diego de León, 51 - 3º dcha - 28006 Madrid",
-        "web": "https://dimad.org/",
-        "objectives": [
-            "Reuniones del equipo organizador de la 4ºBienal Iberoamericana del Diseño",
-            "Tareas de contacto con los diseñadores para nimarles a inscribirse en la 4º Bienal",
-            "Trabajos d einvestigación en internet y redes sociales sobre proyectos de diseño de todas las disciplinas",
-            "El alumno se integrará plenamente en el equipo de trabajo de Fundación DIMAD",
-            "El alumno cumplirá con el plan de trabajo y horarios que se le asignen",
-            "Tendrá que ceñirse al método de trabajo del equipo organizador de los proyectos"
-        ],
-        "picture": "/data/clean/pictures/153.png"
-    },
-    {
-        "index": 62,
-        "id": 374,
-        "especialidad": [
-            "producto"
-        ],
-        "name": " RUTH VIEJO BENITO (ESTUDIO BÁLTICO)",
-        "address": "Costanilla de los Desamparados, 6, bajo dcha. - 28014 Madrid",
-        "web": "https://estudio-baltico.com/",
-        "objectives": [
-            "Participar en los antecedentes del proyecto y el desarrollo del briefing: 3CT, 7CT, 9CT, 10CG, 13CE, CE1, CE2, CE3.",
-            "Adecuar el espacio de trabajo a las necesidades técnicas del proyecto que vamos a desarrollar: 3CT, 7CG,18CG, CE1, CE2. CE3.",
-            "Colaboración en la elaboración de maquetas, diseño en 3d y la producción del producto diseñado: 3CT, 7CT, 10CG, 18CG, CE2, CE3.",
-            "Aprendizaje en la dirección de arte y creativa, presentación gráfica para nuestra nueva colección de mobiliario: 3CT, 6CT, 7CT, 7CG, 11CG, CE1. CE3. ",
-            "Participación en las sesiones de fotografía para la presentación de productos: 3CT, 7CT, 9CT, 11CG, CE1, CE2, CE3."
-        ],
-        "picture": "/data/clean/pictures/228.png"
-    },
-    {
-        "index": 64,
-        "id": 372,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "MASQUESPACIO S.L. ",
-        "address": "C/ Roger de Lauria 11, puerta 1 - 46002 Valencia",
-        "web": "https://masquespacio.com/en/",
-        "objectives": [
-            "Estudio de productos desarrollados para producción interna tanto para su comercialización como productos customizados para interiores",
-            "Desarrollo de planimetría de los productos diseñados",
-            "Presentación de los aspectos técnicos a proveedores",
-            "Búsqueda de materiales y proveedores necesarios para el desarrollo del producto",
-            "Seguimiento de la producción del producto",
-            "Preparación de presentaciones de los proyectos a proveedores",
-            "Ayuda en sesiones de fotos para la presentación de productos"
-        ],
-        "picture": "/data/clean/pictures/255.jpeg"
-    },
-    {
-        "index": 85,
-        "id": 351,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "NEOLASER, S.L.",
-        "address": "Camino Puente Viejo, 10   - 28500 Arganda del Rey (Madrid)",
-        "web": "http://neolaser.es/",
-        "objectives": [
-            "Diseño, renderizado y desarrollo de productos personalizados (mobiliario comercial, stands, rótulos, vinilos), incluyendo prototipos, planos, esquemas de montaje y otros  documentos para fabricación en talleres propios: 3CT, 6CT, 7CT, CE1, CE2, CE3, 7CG, 10CG, 18CG.",
-            "Estudio y diseño de acabados, materiales y colores: 3CT, 6CT, 7CT, CE1, CE2, CE3, 7CG, 10CG, 18CG",
-            "Resolver las cuestiones técnicas que puedan tener los clientes: 3CT, 7CT, 13CE,  CE3, 11CG, 18CG.",
-            "Manejo de programas informáticos para renderizado (AutoCAD, Solidworks, Adobe Illustrator…): 3CT, 6CT, 9CT, CE1, CE2, CE3, 10CG, 18CG. "
-        ],
-        "picture": "/data/clean/pictures/221.png"
-    },
-    {
-        "index": 86,
-        "id": 350,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "KIKEKELLER S.L.",
-        "address": "c/ Monte Urgell, 20 - 28210 Valdemorillo (Madrid)",
-        "web": "http://www.kikekeller.com/",
-        "objectives": [
-            "· Carpintería Metálica:",
-            "Manejo de herramientas y útiles de taller:  Zizalla de corte, Plegadora, Soldadura MIG, Sierra de cinta, Amoladora de mano, Taladro de mano y torre",
-            "· Participación en las diversas fases de realización de un proyecto",
-            "· Fabricación de prototipos"
-        ],
-        "picture": "/data/clean/pictures/220.png"
-    },
-    {
-        "index": 97,
-        "id": 339,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "TH3DOT S.L.",
-        "address": "c/ del Fénix, 19 (Aravaca) - 28023 Madrid",
-        "web": "https://th3dot.com/",
-        "objectives": [
-            "Asistir al equipo de diseño de producto en las necesidades que surjan en el desarrollo de los proyectos de TH3DOT",
-            "Acompañar al equipo de diseño de producto en las tareas de protipado y producción de productos",
-            "Colaborar con la empresa en diferentes proyectos y actividades que surgen en relación a la estrategia de venta de TH3DOT, y en los diferentes departamentos",
-            "Aprendizaje y uso de máquinas y herramientas básicas del diseño de producto (3D, CNC, máquina de corte láser, entre otras)",
-            "Mejorar y contribuir con ideas a los diferentes proyectos de TH3DOT, y en el departamento de diseño de producto."
-        ],
-        "picture": "/data/clean/pictures/186.png"
-    },
-    {
-        "index": 100,
-        "id": 336,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "SALINAS-PIDAL ARQUITECTOS S.L.",
-        "address": "c/ Florida, 5 - nave 6 - 28670 Villaviciosa de Odón (Madrid)",
-        "web": "http://exarchitects.com/",
-        "objectives": [
-            "Modelado y diseño de productos a petición del cliente",
-            "Fabricación de productos mediante herramientas de impresión 3D así como corte y grabado laser.",
-            "Acabado de piezas fabricadas: lijado, barnizado, etc.",
-            "Relación con clientes, realización de proyectos y presupuestos."
-        ],
-        "picture": "/data/clean/pictures/177.jpeg"
-    },
-    {
-        "index": 134,
-        "id": 303,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "ANA BARRIUSO ARRANZ (Amasarte cerámica artística) ",
-        "address": "c/ Minas, 6 - Bajo dcha. -  28004 Madrid ",
-        "web": "http://amasarte.es/",
-        "objectives": [
-            "Se realizarán proyectos a desarrollar en todo su proceso, comenzando por las entrevistas con el cliente, hasta el testeo con el usuario final.",
-            "Aprenderá a trabajar con diferentes profesionales del sector, según las características del producto (packaging,artesanos,arquitectos,etc…)",
-            "Conocerá diferentes métodos de trabajo, marketing y publicidad.",
-            "Aportaremos conocimientos sobre la actualidad económica basada en los requisitos de la sociedad actual.",
-            "El alumno participará en los diferentes ámbitos de la empresa, llegando a ser capaz de desarrollar cada uno de ellos de forma autónoma.",
-            "El alumno aprenderá a trabajar en diferentes aspectos de la empresa dedicada a el diseño de producto."
-        ],
-        "picture": "/data/clean/pictures/279.jpeg"
-    },
-    {
-        "index": 136,
-        "id": 301,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "JORGE PENADÉS SERRANO (OFICINA JORGE PENADÉS)",
-        "address": "Avda. del Manzanares 84 - Local 10 - 28019 Madrid",
-        "web": "https://oficinapenades.com/",
-        "objectives": [
-            "Brainstorming / análisis y evaluación de esas ideas / discusión y selección de la propuesta mas idónea.",
-            "Desarrollo de las actividades propias del estudio en colaboración con proveedores o fabricantes tanto nacionales como internacionales.",
-            "Visita a fábricas.",
-            "Desarrollo de propuestas / Elaboración de presupuestos / Entrar en contacto con posibles distribuidores.",
-            "Control de procesos de producción por parte de empresas externas.",
-            "Desarrollo de bocetos / Desarrollo de dibujos técnicos / Desarrollo de prototipos."
-        ],
-        "picture": "/data/clean/pictures/324.png"
-    },
-    {
-        "index": 137,
-        "id": 300,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "JOSÉ ANTONIO CAÑADAS PAREJO (NOPO CAMERAS)",
-        "address": "c/ O`donnell, 44 - Sotano B -  28009 Madrid",
-        "web": "https://nopocameras.com/",
-        "objectives": [
-            "Brainstorming / análisis y evaluación de esas ideas / discusión y selección de la propuesta mas idónea.",
-            "Desarrollo de las actividades propias del estudio en colaboración con proveedores o fabricantes tanto nacionales como internacionales.",
-            "Visita a fábricas.",
-            "Desarrollo de propuestas / Elaboración de presupuestos / Entrar en contacto con posibles distribuidores.",
-            "Control de procesos de producción por parte de empresas externas.",
-            "Desarrollo de bocetos / Desarrollo de dibujos técnicos / Desarrollo de prototipos."
-        ],
-        "picture": "/data/clean/pictures/325.png"
-    },
-    {
-        "index": 149,
-        "id": 288,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "FICHERA&QUICHE",
-        "address": "c/ Madera, 46 - 28004 Madrid",
-        "web": "http://fikeraandquiche.com/",
-        "objectives": [
-            "Diseño de mobiliario y de producto industrial.",
-            "Diseño gráfico aplicado al desarrollo de productos industriales.",
-            "Búsqueda y gestión de proveedores .",
-            "Participación en la creación de una red de distribución para la comercialización de los productos propios del estudio.",
-            "Participación y apoyo en la gestión de las estrategias de marketing finalizadas al posicionamiento del estudio.",
-            "Apoyo en la producción."
-        ],
-        "picture": "/data/clean/pictures/313.png"
-    },
-    {
-        "index": 151,
-        "id": 286,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "CAPTA DESARROLA FUTURO, S.L. (INCUT)",
-        "address": "Avda. de los Pirineos, 7 - Nave 13 B - 28703 San Sebastián de los Reyes (Madrid)",
-        "web": "https://www.incut.es/",
-        "objectives": [
-            "Colaboración en las labores de diseño, definición y producción de proyectos.",
-            "Colaboración en proyectos de diversa naturaleza, para dotar de una visión global de las posibilidades al alumno.",
-            "Aprendizaje y uso bajo supervisión de la maquinaria de taller para la producción.",
-            "Asistencia en reuniones de definición de proyectos con los clientes y proveedores.",
-            "Asistencia, aprendizaje y posterior realización supervisada de todos los procesos de proyecto, desde la realización, hasta la entrega.",
-            "Aprendizaje de las metodologías de trabajo y gestión de proyectos de INCUT."
-        ],
-        "picture": "/data/clean/pictures/315.png"
-    },
-    {
-        "index": 155,
-        "id": 285,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "FUNDACIÓN SÍNDROME DE DOWN MADRID",
-        "address": "c/ Caídos de la División Azul, 15 - 28016 Madrid",
-        "web": "http://www.downmadrid.org/",
-        "objectives": [
-            "Colaborar y participar en el diseño de nuevos productos que den valor al trabajo realizado por los participantes de Down Madrid.",
-            "Creación de nuevos productos artesanales aprovechando las competencias artísticas de los participantes de Down Madrid."
-        ],
-        "picture": "/data/clean/pictures/316.png"
-    },
-    {
-        "index": 157,
-        "id": 283,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "JOHN PEPE, S.C.",
-        "address": "c/ Abantos, 11 - 28002 Madrid",
-        "web": "http://johnpepe.es/",
-        "objectives": [
-            "Procesos creativos en grupo de planificación estratégica de marca y de diseño de productos específicos.",
-            "Trabajar en proyectos junto a diseñadores gráficos, diseñadores de interiores.y programadores.",
-            "Relación con proveedores tecnológicos y partners especializados en proyectos de interacción.",
-            "Trabajos de investigación y aplicación para proyectos de diseño.",
-            "Integración en la estructura de la empresa como un diseñador de la plantilla.",
-            "Trabajar en proyectos con una metodología definida de diseño. Desde la fase inicial de investigación hasta la final de testeo y comunicación."
-        ],
-        "picture": "/data/clean/pictures/333.jpg"
-    },
-    {
-        "index": 160,
-        "id": 280,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "TRAPIELLO MÁS O MENOS, S.L.",
-        "address": "c/ Conde de Xiquena, 7 - 4º - 28004 Madrid",
-        "web": "http://www.andrestrapiello.com/",
-        "objectives": [
-            "Sesiones críticas semanales, reuniones con el cliente, sesiones de afterwork con empresas colaboradoras como Alegría, Walk with me, Erretres…",
-            "Realización de concursos con empresas colaboradoras,  equipos flexibles, estructura horizontal de trabajo.",
-            "Diseño paramétrico. Producción con control numérico mezclado con técnicas  y procesos artesanales.",
-            "Se trabajará desde la autoproducción y bajo nuevos modelos de emprendimiento en todos los ámbitos del diseño.",
-            "El alumno colaborará en todos los procesos relativos al diseño de producto:",
-            "Investigación->Diseño->Producción->Comunicacióndel trabajo de distribución.",
-            "Se realizarán calendarios de producciódel trabajo de y esquemas de distribución del trabajo."
-        ],
-        "picture": "/data/clean/pictures/332.png"
-    },
-    {
-        "index": 161,
-        "id": 279,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "ÓSCAR ATASSI MORALES (ABPOAM ARQUITECTURA)",
-        "address": "c/ Concejal Benito Martín Lorenzo, 5 - 28005 Madrid",
-        "web": "http://www.abpoam.es/",
-        "objectives": [
-            "Se integrará como un componente más y se le revisará el trabajo que realice. Tendrá que exponerlo y se le corregirá.",
-            "Se le enseñará metodología de trabajo en equipo con otros profesionales del sector.",
-            "Manejará herramientas digitales: entorno cad, 3d, edición de foto, etc.",
-            "Trabajará sobre proyectos de diseño de arquitectura efímera y modelado 3d digital: Stands…",
-            "Se integrará en un estudio profesional de arquitectura.",
-            "Se le darán pautas ordenadas de cómo organizar y desarrollar el trabajo que se le encargue, con plazos y tiempos previstos de entrega."
-        ],
-        "picture": "/data/clean/pictures/343.png"
-    },
-    {
-        "index": 180,
-        "id": 260,
-        "especialidad": [
-            "interiores",
-            "producto"
-        ],
-        "name": "ESTUDIO ALVAREZ-SALA SLP",
-        "address": "c/ Lagasca, 21 - 1º Dcha - 28001 Madrid",
-        "web": "https://www.eas.es/",
-        "objectives": [
-            "Análisis de los diseños realizados, documentación y presentación de propuestas.",
-            "Realización de planos de distribución de los proyectos en fase de diseño.",
-            "Diseño de mobiliario integrado en oficinas.",
-            "Estudio ergonómico de los puestos de trabajo."
-        ],
-        "picture": "/data/clean/pictures/340.png"
-    },
-    {
-        "index": 186,
-        "id": 254,
-        "especialidad": [
-            "grafico",
-            "moda",
-            "producto"
-        ],
-        "name": "MARCALIS",
-        "address": "c/ Caleruega, 51 - 2º C - 28033 Madrid",
-        "web": "http://marcalis.com/",
-        "objectives": [
-            "Con sede en Madrid, será el apoyo de nuestro equipo de diseño y presentación de productos.",
-            "Como parte de su trabajo, se espera que pueda llevar a cabo una investigación y un análisis en profundidad de la imagen y marca de nuestros clientes, realizar propuestas de diseños en base a sus necesidades y participar en la preparación de la documentación para las presentaciones.",
-            "Imprescindible nivel alto PHOTOSHOP."
-        ],
-        "picture": "/data/clean/pictures/309.png"
-    },
-    {
-        "index": 188,
-        "id": 252,
-        "especialidad": [
-            "grafico",
-            "moda",
-            "producto"
-        ],
-        "name": "MEOLLO GLOBAL LOCAL",
-        "address": "Avda. Concha Espina, 7 - 1º izda. - 28016 Madrid",
-        "web": "https://meollo.net/",
-        "objectives": [
-            "Comunicación entre alumno ,compañeros y tutor para el desarrollo de catálogos y estampaciones textiles acorde a la imagen del proyecto, desde un boceto, montaje o render, hasta el resultado final. Asimilar los consejos y correcciones del tutor para la mejora de dichos trabajos en la medida de lo posible.",
-            "Trabajo en equipo junto a sus compañeros de la empresa desde su propio sector de diseñador gráfico, a diseñador industrial , responsable de finanzas o de ventas,etc  en multitud de contextos para lograr  un fin común.",
-            "Aprendizaje y mejora de sus capacidades con programas de diseño gráfico y diseño por ordenador. Adaptación a las nuevas tecnologías de diseño gráfico textil.",
-            "Aprendizaje y adaptación al contexto actual de trabajo en el campo de Diseño Grafico. Aprendizaje del sector desde sus inicios hasta la actualidad ,para su comprensión y utilización de los conocimientos adquiridos en el desarrollo de sus tareas en la empresa.",
-            "Desarrollar una actividad concreta que pueda ser integrada en la totalidad del proyecto y posteriormente poder aplicarla en cualquier ámbito en su correspondiente puesto de trabajo de Diseñador grafico.",
-            "Aprendizaje de la metodología de trabajo de nuestra empresa para crear una pauta repetitiva  que siempre pueda guiarle para acometer las tareas de su puesto de trabajo tanto en esta empresa como en cualquier otra."
-        ],
-        "picture": "/data/clean/pictures/310.jpeg"
-    },
-    {
-        "index": 189,
-        "id": 251,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "METAL AND WOOD PROYECTS, S.L.",
-        "address": "EL EXPEDIENTE NO SE ENVÍA A LA EMPRESA POR FALTA DE AUTORIZACIÓN DE LA DIRECTORA - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 207,
-        "id": 233,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "MOEBYUS MACHINES, S.L.",
-        "address": "c/ Rafael Caballos, 7 - 28029 Madrid",
-        "web": "https://moebyus.com/",
-        "objectives": [
-            "Mantener el buen funcionamiento de las impresoras 3D con que se trabaja en Moebyus Machines.",
-            "Imprimir piezas para responder a solicitudes de los clientes o para uso interno.",
-            "Diseñar piezas de dificultad básica a media para responder a solicitudes de los clientes o para uso interno.",
-            "Responder a preguntas de los clientes sobre impresión y diseño en 3D, así como sobre funcionamiento de las máquinas, ya sea en forma presencial o vía telefónica.",
-            "Revisar los hilos de conversación del grupo Clone Wars para responder a posibles consultas de la comunidad maker en España."
-        ],
-        "picture": "/data/clean/pictures/271.jpg"
-    },
-    {
-        "index": 210,
-        "id": 230,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "CASAL Y GALLARDO, S.L.",
-        "address": "c/ Conde de Romanones, 5 - Local Int. Drcha. - Madrid",
-        "web": "https://andresgallardo.com/",
-        "objectives": [
-            "Asistencia en la creación de prototipos en cera.",
-            "Asistencia en el montado de piezas de joyería.",
-            "Asistencia en el control de calidad y recepción de materiales.",
-            "Búsqueda de referencias y documentación para futuras colecciones.",
-            "Asistencia en gestión de stock de producto y visual merchandising de la tienda.",
-            "Asistencia en  la preparación de pedidos."
-        ],
-        "picture": "/data/clean/pictures/273.png"
-    },
-    {
-        "index": 218,
-        "id": 222,
-        "especialidad": [
-            "interiores",
-            "producto"
-        ],
-        "name": "E. ARIZA E HIJOS MONTAJES FOTOGRÁFICOS, S.L.",
-        "address": "c/ Miguel Servet, 16 (Pol. Ind. La Garena) - 28806 Alcalá de Henares (Madrid)",
-        "web": "https://www.grupoariza.net/",
-        "objectives": [
-            "Propuesta de diseño de interiores para potenciales clientes (empresas, locales…)",
-            "Diseño de prototipos de stands para empresas expositoras en ferias.",
-            "Diseño de interiores (casas y dependencias, hoteles…)",
-            "Diseño de prototipos de visual merchandasing para potenciales clientes.",
-            "Diseño de prototipos para escaparatismo para potenciales clientes.",
-            "Estar en contacto con los clientes para cada proyecto para la realización del mismo."
-        ],
-        "picture": "/data/clean/pictures/302.jpeg"
-    },
-    {
-        "index": 219,
-        "id": 221,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "YARUSSI ALVARADO, S.L.",
-        "address": "c/ Bustillo de Oro, 27 - 3º 3 - 28039 Madrid",
-        "web": "https://yarussialvaradostore.com/",
-        "objectives": [
-            "Aportación a los diseños de productos de nuestra empresa.",
-            "Aprendizaje y dominio de máquina de corte láser.",
-            "Colaboración en el diseño del Stand Yarussi Alvarado para la Feria Maison&Objet, Septiembre 2015 en Paris."
-        ],
-        "picture": "/data/clean/pictures/303.jpeg"
-    },
-    {
-        "index": 234,
-        "id": 206,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "HIDALGOS GROUP",
-        "address": "c/ Fuerteventura, 21 - 28703 San Sebastián de los Reyes (Madrid)",
-        "web": "https://www.hidalgosgroup.com/",
-        "objectives": [
-            "Diseño y desarrollo de packaging, expositores, maquetación de manuales de usuario.",
-            "Gestión de fabricación de packaging con los proveedores en China.",
-            "Fotomontajes de nuevas propuestas para clientes y creación de banco de fotos de propuestas existentes.",
-            "Manejo de herramientas informáticas como, Illustrator, Photoshop, Indesign, entorno Mac.",
-            "Manejo lengua  inglesa, nivel B2."
-        ],
-        "picture": "/data/clean/pictures/294.jpg"
-    },
-    {
-        "index": 251,
-        "id": 189,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "AF STEELCASE, S.A.",
-        "address": "C/. Antonio López, 243 - 28041 Madrid",
-        "web": "http://www.steelcase.com/eu-es/",
-        "objectives": [
-            "Participación en el desarrollo de diseño de producto, colaborando con el equipo de este departamento.",
-            "Manejo de las herramientas Autocad, Proingeer, Sketch up.",
-            "Visualización de los sistemas de fabricación.",
-            "Visualización de productos terminados."
-        ],
-        "picture": "/data/clean/pictures/57.png"
-    },
-    {
-        "index": 253,
-        "id": 187,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "STUDIO BANANA, S.L.",
-        "address": "C/. Plátano, 14 - 28029 Madrid",
-        "web": "https://studiobanana.com/",
-        "objectives": [
-            "Participación en el equipo  de la empresa compartiendo espacio y tareas con profesionales de distintas nacionalidades y especialidades dentro del ámbito de la creatividad. ",
-            "Asistencia a las reuniones de investigación, ideación y desarrollo de producto. Búsqueda de referencias. Trabajo con prototipos.",
-            "Integración del alumno en los proyectos que actualmente se están llevando a cabo en la empresa para que participe un proceso 360º. Pasando por cada etapa del diseño y experimentando con proyectos reales."
-        ],
-        "picture": "/data/clean/pictures/55.jpeg"
-    },
-    {
-        "index": 293,
-        "id": 148,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Artesanos del Fuego Madrid",
-        "address": "C/ Diego de Leon 49 - 28006 Madrid",
-        "web": "http://www.artesanosdelfuego.es/",
-        "objectives": [
-            "Contacto directo con el cliente para conocer necesidades.",
-            "Diseño e instalación del proyecto en el espacio."
-        ],
-        "picture": "/data/clean/pictures/68.png"
-    },
-    {
-        "index": 295,
-        "id": 146,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Industrias Hergom, S.A.",
-        "address": "Barrio Borrancho, s/n - 39110 Soto de la Marina, Cantabria ",
-        "web": "https://hergom.com/inicio",
-        "objectives": [
-            "Participar en las diferentes fases de un proyecto de industrialización.",
-            "Colaboración en los proyectos de cocina de leña, estufa y compacto.",
-            "Contacto directo con el cliente para conocer necesidades.",
-            "Diseño e instalación del proyecto en el espacio."
-        ],
-        "picture": "/data/clean/pictures/70.jpeg"
-    },
-    {
-        "index": 296,
-        "id": 145,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Fundación Prodintec",
-        "address": "Avda. Jardin Botánico 1345. Edificio “Antiguo secadero de tabacos” - 33203 Gijon, Asturias",
-        "web": "http://www.prodintec.es/es/",
-        "objectives": [
-            "Análisis estratégico y gestión del cilco de vida de producto.",
-            "Gestión documental.",
-            "Diseño conceptual de producto.",
-            "Diseño CAD 3D paramétrico."
-        ],
-        "picture": "/data/clean/pictures/71.jpeg"
-    },
-    {
-        "index": 299,
-        "id": 142,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Noviembre Estudio, S.L.",
-        "address": "c/ Illescas, 94, 8º B - 28047 Madrid",
-        "web": "https://www.noviembreestudio.es/",
-        "objectives": [
-            "Colaboración en las tareas de cocumentación, investigación y análisis de proyectos.",
-            "Participación en el desarrollo de proyectos, mediante la delineación de prototipo y modelado 3D.",
-            "Manejo de las herramientas básicas informáticas, relacionada a diseño de producto.",
-            "Asistente en las distintas tareas cotidianas de la empresa."
-        ],
-        "picture": "/data/clean/pictures/74.png"
-    },
-    {
-        "index": 301,
-        "id": 140,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Javier Arregui García",
-        "address": "c/ Magallanes, 15, oficina 2 \n - 28015 Madrid",
-        "objectives": [
-            "Participación en proyectos de diseño mediante generación de ideas y desarrollo de propuestas-cliente.",
-            "Desarrollo de proyectos mediante los métodos utilizados habitualmente en el estudio (paneles de variables, consumo, tendencias, bocetos, variaciones formales, modelado 3D, prototipado, etc.)",
-            "Localización y gestión de proveedores, realización de presupuestos y seguimiento de producción.",
-            "Actividades comerciales, como búsqueda de clientes, eventos, workshop, concursos."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 302,
-        "id": 139,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Estudio Pedro Feduchi",
-        "address": "c/ Hortaleza 108, b 2, - 28004 Madrid",
-        "web": "http://www.pedrofeduchi.es/",
-        "objectives": [
-            "Colaboración en los proyectos de diseño de producto.",
-            "Asistencia en tareas rutinarias del estudio de diseño.",
-            "Colaboración en las presentaciones de proyectos y diseños.",
-            "Edición y confección de noticias en la página web del estudio."
-        ],
-        "picture": ""
-    },
-    {
-        "index": 303,
-        "id": 138,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Inés Arroyo Valencia",
-        "address": "c/ Embajadores 181, 5º G - 28045 Madrid",
-        "objectives": [
-            "Diseño 2D para the iRegular Toys.",
-            "Diseño asistido por ordenador (3D) para the iRegular Toys.",
-            "Gestión para la producción en the iRegular Toys.",
-            "Maquetación web responsive HTML5 + CSS para the iRegular Toys"
-        ],
-        "picture": ""
-    },
-    {
-        "index": 305,
-        "id": 136,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Imanol Calderón Elósegui (MAYICE)",
-        "address": "c/ Sagasta 8, 2º A - 28004 Madrid",
-        "web": "http://mayicestudio.com/es/",
-        "objectives": [
-            "Colaboración en los proyectos de diseño de producto.",
-            "Búsqueda de proveedores para material y fabricación de productos.",
-            "Seguimiento de la producción de productos con proveedores.",
-            "Colaboración en tareas rutinarias del estudio de diseño.",
-            "Tareas relacionadas del área de marketing, notas de prensa."
-        ],
-        "picture": "/data/clean/pictures/124.jpeg"
-    },
-    {
-        "index": 318,
-        "id": 124,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Quattrocento Diseño SL",
-        "address": "C/ Mar de Oman, 8 - 2º 27 - 28033 Madrid",
-        "web": "http://www.quattrocentodiseno.es/",
-        "objectives": [
-            "Diseño: proyecto, desarrollo y producción de retail",
-            "Diseño y producción de eventos y acciones singulares",
-            "Diseño y producción de stands y arquitectura efímera",
-            "Adaptaciones de diseño para centros comerciales",
-            "Se realizará con los programas: Ilustrator, 3Dmax, Photoshop, Autocad, Sketchpro"
-        ],
-        "picture": "/data/clean/pictures/13.jpg"
-    },
-    {
-        "index": 326,
-        "id": 116,
-        "especialidad": [
-            "grafico",
-            "producto"
-        ],
-        "name": "CEMUSA-Corporación Europea de Mobiliario Urbano",
-        "address": "C/ Francisco Sancha, 24 - 28034 Madrid",
-        "web": "https://www.jcdecaux.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/18.jpeg"
-    },
-    {
-        "index": 338,
-        "id": 104,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Basurama",
-        "address": "Avda. Daroca, 49 - 28017 Madrid",
-        "web": "https://basurama.org/",
-        "objectives": [
-            "Sesiones de coordinación y evaluación: El estudio y los proyectos por equipos colaborativos. La base de esta colaboración se centra en la comunicación entre responsables y la evaluación en tiempo real (capacidad para ejercer y asumir la crítica compartida)",
-            "Ejecución de proyectos participativos: Participará y liderará procesos de diseño y construcción participativos en entornos comunitarios de orígenes diversos (comunidades de colegios, barrios, españoles, extranjeros, etc.)",
-            "Talleres de Formación y prácticas in situ: En Basurama trabajamos a través de diversos formatos, el estudiante deberá formarse en todos ellos para adquirir un conocimiento de usuario (impresoras 3D, máquinas CNC, tecnologías web, herramientas domésticas, etc)",
-            "Sesiones creativas de equipo: Los proyectos de Basurama son hipercontextuales y están concebidos a través de la suma de capas, el conocimiento de la cultura en la que se insertan así como los procesos globales que los atraviesan son indispensables.",
-            "El estudiante participará en todas las fases del proceso de creación, diseño, ejecución, posproducción de un proyecto real, llegando a liderarlo en algunas ocasiones dependiendo de su capacidad",
-            "Módulos teóricos durante las primeras semanas para entender el funcionamiento del estudio, a medida que este conocimiento se vaya integrando en el estudiante éste se irá sumando al proceso ejecutivo gradualmente."
-        ],
-        "picture": "/data/clean/pictures/2.jpg"
-    },
-    {
-        "index": 351,
-        "id": 92,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "TERMA SP. Z.O.O.",
-        "address": "Czaple, 100 - 80-298 Gdansk-Polska",
-        "web": "https://www.termagroup.pl/",
-        "objectives": [
-            "Diseño de producto seriado, en estrecha colaboración con ingenieros industriales y mecánicos en una empresa multi-disciplinar",
-            "Desarrollo de presentaciones de mis propuestas para exponerlas en el departamento de recursos humanos, publicidad, marketing y relaciones públicas",
-            "Desde la creación de ideas primitivas hasta el proceso de producción detallado teniendo en cuenta el máximo ahorro de coste de producción respecto al precio de venta",
-            "Presentación de producto a concurso y estudio previo de mercado para engocar el target del producto final, realizar prototipos y modelos en la sección de escultura y colaborar con los fotógrafos profesionales para enfocar visualmente mi producto de la manera más comercial. Teniendo constantemente en cuenta las dificultades técnicas de produción",
-            "Conseguir un esquema regular de actividades como prototipado, dibujo, renderizado, y defensa de presentaciones. Discutiendo ideas de proyectos diseñados y aportando nuevas ideas innovadoras"
-        ],
-        "picture": "/data/clean/pictures/36.jpeg"
-    },
-    {
-        "index": 392,
-        "id": 51,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Ciszak Dalmas, S.L.",
-        "address": "C/ Lope de Vega, 21, 2º D - 28014 Madrid",
-        "web": "https://www.ciszakdalmas.com/",
-        "objectives": [
-            "Participar en el desarrollo conceptual de los proyectos del estudio",
-            "Colaboración en el desarrollo del metaproyecto y bocetos",
-            "Maquetación",
-            "Diseño 3D",
-            "Fotografía y maquetación de presentaciones"
-        ],
-        "picture": "/data/clean/pictures/145.png"
-    },
-    {
-        "index": 396,
-        "id": 47,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Minimal Nuevo Diseño, S.L. (Stone design)",
-        "address": "C/ Segovia, 10 - 28032 Madrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 403,
-        "id": 40,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Bormioli Rocco, S.A.",
-        "address": "Avda. del Vidrio, s/n - 19200 Azuqueca de Henares",
-        "web": "https://www.bormiolirocco.com/en/",
-        "objectives": [
-            "Actividad en Ofinica Técnica del Taller Moldes",
-            "Manejo del programa de diseño NX",
-            "Trabajos de diseño de artículos y despiece de planos de moldes",
-            "Diseño de planos, molder, utillaje industrial, de artículos nuevos y modificación de existentes",
-            "Control y gestión de documentación en la Oficina Técnica"
-        ],
-        "picture": "/data/clean/pictures/130.png"
-    },
-    {
-        "index": 405,
-        "id": 39,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Sara World, S.L.",
-        "address": "C/Villanueva, 19 1ºDCH - 28001 Madrid",
-        "web": "https://www.saraworld.com/",
-        "objectives": [
-            "Estudio de las Marcas",
-            "Investigación de tendencias",
-            "Propuestas de diseños",
-            "Revisión por parte de la empresa",
-            "Presentación de la colección",
-            "Realización del Contratipo"
-        ],
-        "picture": "/data/clean/pictures/131.png"
-    },
-    {
-        "index": 407,
-        "id": 38,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Imasoto S.A.",
-        "address": "C/ Puerto de Navafría, 28 - 28935 Móstoles",
-        "web": "http://www.imasoto.com/",
-        "objectives": [
-            "Organización documental",
-            "Presupuestos",
-            "Maquetación",
-            "3D"
-        ],
-        "picture": "/data/clean/pictures/132.jpeg"
-    },
-    {
-        "index": 409,
-        "id": 36,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Enpieza Estudio, S.L.",
-        "address": "C/ Nicolas Morales 38-40, 2º, 7 - 28019 Madrid",
-        "web": "http://www.enpieza.com/",
-        "objectives": [
-            "Ideación de proyectos",
-            "Participación en reuniones de trabajo",
-            "Realización de briefing",
-            "Documentación gráfica del proyecto, planimetría, render con diferentes programas informáticos",
-            "Realización de prototipos",
-            "Búqueda y trato con proveedores",
-            "Comercialización de productos"
-        ],
-        "picture": "/data/clean/pictures/134.jpeg"
-    },
-    {
-        "index": 415,
-        "id": 30,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Paredes Pino QTC SLP",
-        "address": "C/ Meléndez Valdés, 10 - 28015 Madrid",
-        "objectives": [
-            "Ideación de proyectos",
-            "Participación en reuniones de trabajo",
-            "Realización de briefing",
-            "Documentación gráfica del proyecto, planimetría, render con diferentes programas informáticos",
-            "Realización de prototipos",
-            "Búsqueda y trato con proveedores",
-            "Entrevistas con clientes",
-            "Departamento de comunicación: web, periódicos, revistas"
-        ],
-        "picture": ""
-    },
-    {
-        "index": 417,
-        "id": 28,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Gabriel Corchero Products, S.L:",
-        "address": "C/ San Ildefonso, 25 - 28012 Madrid",
-        "web": "http://www.gabrielcorchero.org/",
-        "objectives": [
-            "Ideación de proyectos",
-            "Participación en reuniones de trabajo",
-            "Realización de briefing",
-            "Documentación gráfica del proyecto con programa 3Ds Max Design",
-            "Realización de prototipos",
-            "Conocimiento aspectos de trabajo en el estudio",
-            "Clientes y proveedores",
-            "COmunicación: web y otros medios"
-        ],
-        "picture": "/data/clean/pictures/138.jpg"
-    },
-    {
-        "index": 418,
-        "id": 27,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Estudio Álvaro Catalán de Ocón",
-        "address": "C/ Conde de Vistahermosa, 5, 1º D - 28019 Madrid",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 421,
-        "id": 24,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Professional Design, S.L.",
-        "address": "C/ Manuel Cortina, 11 - 28010 Madrid",
-        "web": "https://professional-design.com/",
-        "objectives": [
-            "Ideación de proyectos",
-            "Participación en reuniones de trabajo",
-            "Realización de briefing",
-            "Documentación gráfica del proyecto, planimetría, render con diferentes programas informáticos (autocad, 3dmax, indesing, ilustrator y power point)",
-            "Departamento de comunicación. Participación en proyectos de eventos. Material gráfico digital",
-            "Participación en reuniones con clientes"
-        ],
-        "picture": "/data/clean/pictures/152.png"
-    },
-    {
-        "index": 424,
-        "id": 22,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Saint Gobain Vicasa, S.a.",
-        "address": "Avda el vidrio s/n P.Ind. Garona - 19200 Azuqueca Henares, Madrid",
-        "web": "https://www.saint-gobain.es/",
-        "objectives": [
-            "Apoyo en dibujo de maquetas, moldes, utillajes diversos",
-            "Dibujo de diseño con 3DS Max u otros (trabajo cotidiano OTM)",
-            "Apoyo en plan acción 5S",
-            "Integración en un equipo multidisciplinar"
-        ],
-        "picture": "/data/clean/pictures/165.jpg"
-    },
-    {
-        "index": 429,
-        "id": 17,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Mad Lab, S.l.",
-        "address": "C/ Abtao 25 interior, nave B - 28007 Madrid",
-        "web": "https://www.mad-lab.com/",
-        "objectives": [],
-        "picture": "/data/clean/pictures/169.png"
-    },
-    {
-        "index": 434,
-        "id": 12,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "P. de la Oliva, S.A.",
-        "address": "C/ Brujula 18 - 28850 Torrejón de Ardoz, Madrid",
-        "web": "https://delaoliva.com/",
-        "objectives": [
-            "Programa Solid Work",
-            "Maquetación (Diseño Gráfico) Tarifa 2014",
-            "Desarrollo de nuevos proyectos (Nueva Silla Fantoni, Silla Escolar con Pata Abatible)",
-            "Montaje de Productos: Sillas y Bancadas",
-            "Estudio de Embalaje sobre productos para exportación"
-        ],
-        "picture": "/data/clean/pictures/172.png"
-    },
-    {
-        "index": 439,
-        "id": 7,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Tecnología Señalética, S.L. (TECNOSEÑAL)",
-        "address": "c/ Joaquín Bau, nº 2 (esq. Félix Boix) - 28036 Madrid",
-        "web": "http://www.tecnosenyal.com/es/home",
-        "objectives": [
-            "Colaborar en el desarrollo de proyectos de diseño, entrenando habilidades de dibujo para la elaboración de proyectos constructivos para el proyecto",
-            "Manejo de diversas herramientas informáticas para modelado como scketchup",
-            "Manejo herramientas para la presentación de la imagen de productos"
-        ],
-        "picture": "/data/clean/pictures/162.png"
-    },
-    {
-        "index": 442,
-        "id": 5,
-        "especialidad": [
-            "grafico",
-            "mec",
-            "producto"
-        ],
-        "name": "Dimad (Fundación Diseño Madrid)",
-        "address": " - ",
-        "objectives": [],
-        "picture": ""
-    },
-    {
-        "index": 445,
-        "id": 3,
-        "especialidad": [
-            "producto"
-        ],
-        "name": "Producciones Ana Sandra S:L.                        ",
-        "address": "C/ José Ortega y Gasset 5, 4º Izda. - 28006 Madrid",
-        "web": "https://www.agatharuizdelaprada.com/",
-        "objectives": [
-            "Proyectos en equipo constantemente. Desarrollo de trabajo en equipo",
-            "Trabajará mano a mano con su equipo de diseño creativo redes sociales y de comunicación",
-            "Trabajos con todo tipo de programas. Creación de nuevos estampados",
-            "Sobre todo el contexto cultural e histórico. Al desarrollar nuevos estampados deberá conocer toda la evolución creativa de la marca",
-            "Relación con todos y cada uno de los miembros del equipo. Trabajo junto con el director de diseño gráfico y en ocasiones con Agatha Ruíz de la Prada"
-        ],
-        "picture": "/data/clean/pictures/155.jpg"
-    }
+  {
+    "index": 17,
+    "id": 414,
+    "especialidad": ["producto"],
+    "name": "CNEX AIE, S.L.",
+    "address": "Cami de Ca la Madrona, 5-7, Pol. Ind. Mata-Rocafonda - 08304 Mataró (Barcelona)",
+    "web": "http://www.cnexaie.com/",
+    "objectives": [
+      "IDENTIDAD CORPORATIVA",
+      "   Creación de logotipos, folletos, dípticos, flyer, catálogos, banner web, etc.",
+      "DISEÑO DE MARCA",
+      "   Restyling marcas: My Pleasure y Alive (diseño de packaging).",
+      "DISEÑO DE PRODUCTO",
+      "   Creación de nuevos productos. ",
+      "FOTOGRAFIA",
+      "   Fotografía de productos, retoque e edición de imagen."
+    ],
+    "picture": "/data/clean/pictures/108.png"
+  },
+  {
+    "index": 18,
+    "id": 413,
+    "especialidad": ["producto"],
+    "name": "ESPADAYSANTACRUZ STUDIO, S.L.",
+    "address": "c/ Pedro Campos, 5, local - 28019 Madrid",
+    "web": "http://www.espadaysantacruz.com/",
+    "objectives": [
+      "Ideación y conceptualización:",
+      "- Desarrollar y proponer ideas en base a un briefing. ",
+      "- Participar en sesiones de Brainstorming. ",
+      "- Búsqueda de referencias. ",
+      "Diseño:",
+      "- Modelado de diseños en 3D.",
+      "- Renderizado.",
+      "Producción:",
+      "- Diseño técnico del objeto a producir (planos, despieces, etc ...).",
+      "- Búsqueda y contacto con proveedores. ",
+      "- Ensamblado de piezas. "
+    ],
+    "picture": "/data/clean/pictures/107.png"
+  },
+  {
+    "index": 29,
+    "id": 405,
+    "especialidad": ["producto"],
+    "name": "Fundación Diseño Madrid",
+    "address": "Diego de León, 51 - 3º dcha - 28006 Madrid",
+    "web": "https://dimad.org/",
+    "objectives": [
+      "Reuniones del equipo organizador de la 4ºBienal Iberoamericana del Diseño",
+      "Tareas de contacto con los diseñadores para nimarles a inscribirse en la 4º Bienal",
+      "Trabajos d einvestigación en internet y redes sociales sobre proyectos de diseño de todas las disciplinas",
+      "El alumno se integrará plenamente en el equipo de trabajo de Fundación DIMAD",
+      "El alumno cumplirá con el plan de trabajo y horarios que se le asignen",
+      "Tendrá que ceñirse al método de trabajo del equipo organizador de los proyectos"
+    ],
+    "picture": "/data/clean/pictures/153.png"
+  },
+  {
+    "index": 62,
+    "id": 374,
+    "especialidad": ["producto"],
+    "name": " RUTH VIEJO BENITO (ESTUDIO BÁLTICO)",
+    "address": "Costanilla de los Desamparados, 6, bajo dcha. - 28014 Madrid",
+    "web": "https://estudio-baltico.com/",
+    "objectives": [
+      "Participar en los antecedentes del proyecto y el desarrollo del briefing: 3CT, 7CT, 9CT, 10CG, 13CE, CE1, CE2, CE3.",
+      "Adecuar el espacio de trabajo a las necesidades técnicas del proyecto que vamos a desarrollar: 3CT, 7CG,18CG, CE1, CE2. CE3.",
+      "Colaboración en la elaboración de maquetas, diseño en 3d y la producción del producto diseñado: 3CT, 7CT, 10CG, 18CG, CE2, CE3.",
+      "Aprendizaje en la dirección de arte y creativa, presentación gráfica para nuestra nueva colección de mobiliario: 3CT, 6CT, 7CT, 7CG, 11CG, CE1. CE3. ",
+      "Participación en las sesiones de fotografía para la presentación de productos: 3CT, 7CT, 9CT, 11CG, CE1, CE2, CE3."
+    ],
+    "picture": "/data/clean/pictures/228.png"
+  },
+  {
+    "index": 64,
+    "id": 372,
+    "especialidad": ["producto"],
+    "name": "MASQUESPACIO S.L. ",
+    "address": "C/ Roger de Lauria 11, puerta 1 - 46002 Valencia",
+    "web": "https://masquespacio.com/en/",
+    "objectives": [
+      "Estudio de productos desarrollados para producción interna tanto para su comercialización como productos customizados para interiores",
+      "Desarrollo de planimetría de los productos diseñados",
+      "Presentación de los aspectos técnicos a proveedores",
+      "Búsqueda de materiales y proveedores necesarios para el desarrollo del producto",
+      "Seguimiento de la producción del producto",
+      "Preparación de presentaciones de los proyectos a proveedores",
+      "Ayuda en sesiones de fotos para la presentación de productos"
+    ],
+    "picture": "/data/clean/pictures/255.jpeg"
+  },
+  {
+    "index": 85,
+    "id": 351,
+    "especialidad": ["producto"],
+    "name": "NEOLASER, S.L.",
+    "address": "Camino Puente Viejo, 10   - 28500 Arganda del Rey (Madrid)",
+    "web": "http://neolaser.es/",
+    "objectives": [
+      "Diseño, renderizado y desarrollo de productos personalizados (mobiliario comercial, stands, rótulos, vinilos), incluyendo prototipos, planos, esquemas de montaje y otros  documentos para fabricación en talleres propios: 3CT, 6CT, 7CT, CE1, CE2, CE3, 7CG, 10CG, 18CG.",
+      "Estudio y diseño de acabados, materiales y colores: 3CT, 6CT, 7CT, CE1, CE2, CE3, 7CG, 10CG, 18CG",
+      "Resolver las cuestiones técnicas que puedan tener los clientes: 3CT, 7CT, 13CE,  CE3, 11CG, 18CG.",
+      "Manejo de programas informáticos para renderizado (AutoCAD, Solidworks, Adobe Illustrator…): 3CT, 6CT, 9CT, CE1, CE2, CE3, 10CG, 18CG. "
+    ],
+    "picture": "/data/clean/pictures/221.png"
+  },
+  {
+    "index": 86,
+    "id": 350,
+    "especialidad": ["producto"],
+    "name": "KIKEKELLER S.L.",
+    "address": "c/ Monte Urgell, 20 - 28210 Valdemorillo (Madrid)",
+    "web": "http://www.kikekeller.com/",
+    "objectives": [
+      "· Carpintería Metálica:",
+      "Manejo de herramientas y útiles de taller:  Zizalla de corte, Plegadora, Soldadura MIG, Sierra de cinta, Amoladora de mano, Taladro de mano y torre",
+      "· Participación en las diversas fases de realización de un proyecto",
+      "· Fabricación de prototipos"
+    ],
+    "picture": "/data/clean/pictures/220.png"
+  },
+  {
+    "index": 97,
+    "id": 339,
+    "especialidad": ["producto"],
+    "name": "TH3DOT S.L.",
+    "address": "c/ del Fénix, 19 (Aravaca) - 28023 Madrid",
+    "web": "https://th3dot.com/",
+    "objectives": [
+      "Asistir al equipo de diseño de producto en las necesidades que surjan en el desarrollo de los proyectos de TH3DOT",
+      "Acompañar al equipo de diseño de producto en las tareas de protipado y producción de productos",
+      "Colaborar con la empresa en diferentes proyectos y actividades que surgen en relación a la estrategia de venta de TH3DOT, y en los diferentes departamentos",
+      "Aprendizaje y uso de máquinas y herramientas básicas del diseño de producto (3D, CNC, máquina de corte láser, entre otras)",
+      "Mejorar y contribuir con ideas a los diferentes proyectos de TH3DOT, y en el departamento de diseño de producto."
+    ],
+    "picture": "/data/clean/pictures/186.png"
+  },
+  {
+    "index": 100,
+    "id": 336,
+    "especialidad": ["producto"],
+    "name": "SALINAS-PIDAL ARQUITECTOS S.L.",
+    "address": "c/ Florida, 5 - nave 6 - 28670 Villaviciosa de Odón (Madrid)",
+    "web": "http://exarchitects.com/",
+    "objectives": [
+      "Modelado y diseño de productos a petición del cliente",
+      "Fabricación de productos mediante herramientas de impresión 3D así como corte y grabado laser.",
+      "Acabado de piezas fabricadas: lijado, barnizado, etc.",
+      "Relación con clientes, realización de proyectos y presupuestos."
+    ],
+    "picture": "/data/clean/pictures/177.jpeg"
+  },
+  {
+    "index": 134,
+    "id": 303,
+    "especialidad": ["producto"],
+    "name": "ANA BARRIUSO ARRANZ (Amasarte cerámica artística) ",
+    "address": "c/ Minas, 6 - Bajo dcha. -  28004 Madrid ",
+    "web": "http://amasarte.es/",
+    "objectives": [
+      "Se realizarán proyectos a desarrollar en todo su proceso, comenzando por las entrevistas con el cliente, hasta el testeo con el usuario final.",
+      "Aprenderá a trabajar con diferentes profesionales del sector, según las características del producto (packaging,artesanos,arquitectos,etc…)",
+      "Conocerá diferentes métodos de trabajo, marketing y publicidad.",
+      "Aportaremos conocimientos sobre la actualidad económica basada en los requisitos de la sociedad actual.",
+      "El alumno participará en los diferentes ámbitos de la empresa, llegando a ser capaz de desarrollar cada uno de ellos de forma autónoma.",
+      "El alumno aprenderá a trabajar en diferentes aspectos de la empresa dedicada a el diseño de producto."
+    ],
+    "picture": "/data/clean/pictures/279.jpeg"
+  },
+  {
+    "index": 136,
+    "id": 301,
+    "especialidad": ["producto"],
+    "name": "JORGE PENADÉS SERRANO (OFICINA JORGE PENADÉS)",
+    "address": "Avda. del Manzanares 84 - Local 10 - 28019 Madrid",
+    "web": "https://oficinapenades.com/",
+    "objectives": [
+      "Brainstorming / análisis y evaluación de esas ideas / discusión y selección de la propuesta mas idónea.",
+      "Desarrollo de las actividades propias del estudio en colaboración con proveedores o fabricantes tanto nacionales como internacionales.",
+      "Visita a fábricas.",
+      "Desarrollo de propuestas / Elaboración de presupuestos / Entrar en contacto con posibles distribuidores.",
+      "Control de procesos de producción por parte de empresas externas.",
+      "Desarrollo de bocetos / Desarrollo de dibujos técnicos / Desarrollo de prototipos."
+    ],
+    "picture": "/data/clean/pictures/324.png"
+  },
+  {
+    "index": 137,
+    "id": 300,
+    "especialidad": ["producto"],
+    "name": "JOSÉ ANTONIO CAÑADAS PAREJO (NOPO CAMERAS)",
+    "address": "c/ O`donnell, 44 - Sotano B -  28009 Madrid",
+    "web": "https://nopocameras.com/",
+    "objectives": [
+      "Brainstorming / análisis y evaluación de esas ideas / discusión y selección de la propuesta mas idónea.",
+      "Desarrollo de las actividades propias del estudio en colaboración con proveedores o fabricantes tanto nacionales como internacionales.",
+      "Visita a fábricas.",
+      "Desarrollo de propuestas / Elaboración de presupuestos / Entrar en contacto con posibles distribuidores.",
+      "Control de procesos de producción por parte de empresas externas.",
+      "Desarrollo de bocetos / Desarrollo de dibujos técnicos / Desarrollo de prototipos."
+    ],
+    "picture": "/data/clean/pictures/325.png"
+  },
+  {
+    "index": 149,
+    "id": 288,
+    "especialidad": ["producto"],
+    "name": "FICHERA&QUICHE",
+    "address": "c/ Madera, 46 - 28004 Madrid",
+    "web": "http://fikeraandquiche.com/",
+    "objectives": [
+      "Diseño de mobiliario y de producto industrial.",
+      "Diseño gráfico aplicado al desarrollo de productos industriales.",
+      "Búsqueda y gestión de proveedores .",
+      "Participación en la creación de una red de distribución para la comercialización de los productos propios del estudio.",
+      "Participación y apoyo en la gestión de las estrategias de marketing finalizadas al posicionamiento del estudio.",
+      "Apoyo en la producción."
+    ],
+    "picture": "/data/clean/pictures/313.png"
+  },
+  {
+    "index": 151,
+    "id": 286,
+    "especialidad": ["producto"],
+    "name": "CAPTA DESARROLA FUTURO, S.L. (INCUT)",
+    "address": "Avda. de los Pirineos, 7 - Nave 13 B - 28703 San Sebastián de los Reyes (Madrid)",
+    "web": "https://www.incut.es/",
+    "objectives": [
+      "Colaboración en las labores de diseño, definición y producción de proyectos.",
+      "Colaboración en proyectos de diversa naturaleza, para dotar de una visión global de las posibilidades al alumno.",
+      "Aprendizaje y uso bajo supervisión de la maquinaria de taller para la producción.",
+      "Asistencia en reuniones de definición de proyectos con los clientes y proveedores.",
+      "Asistencia, aprendizaje y posterior realización supervisada de todos los procesos de proyecto, desde la realización, hasta la entrega.",
+      "Aprendizaje de las metodologías de trabajo y gestión de proyectos de INCUT."
+    ],
+    "picture": "/data/clean/pictures/315.png"
+  },
+  {
+    "index": 155,
+    "id": 285,
+    "especialidad": ["producto"],
+    "name": "FUNDACIÓN SÍNDROME DE DOWN MADRID",
+    "address": "c/ Caídos de la División Azul, 15 - 28016 Madrid",
+    "web": "http://www.downmadrid.org/",
+    "objectives": [
+      "Colaborar y participar en el diseño de nuevos productos que den valor al trabajo realizado por los participantes de Down Madrid.",
+      "Creación de nuevos productos artesanales aprovechando las competencias artísticas de los participantes de Down Madrid."
+    ],
+    "picture": "/data/clean/pictures/316.png"
+  },
+  {
+    "index": 157,
+    "id": 283,
+    "especialidad": ["producto"],
+    "name": "JOHN PEPE, S.C.",
+    "address": "c/ Abantos, 11 - 28002 Madrid",
+    "web": "http://johnpepe.es/",
+    "objectives": [
+      "Procesos creativos en grupo de planificación estratégica de marca y de diseño de productos específicos.",
+      "Trabajar en proyectos junto a diseñadores gráficos, diseñadores de interiores.y programadores.",
+      "Relación con proveedores tecnológicos y partners especializados en proyectos de interacción.",
+      "Trabajos de investigación y aplicación para proyectos de diseño.",
+      "Integración en la estructura de la empresa como un diseñador de la plantilla.",
+      "Trabajar en proyectos con una metodología definida de diseño. Desde la fase inicial de investigación hasta la final de testeo y comunicación."
+    ],
+    "picture": "/data/clean/pictures/333.jpg"
+  },
+  {
+    "index": 160,
+    "id": 280,
+    "especialidad": ["producto"],
+    "name": "TRAPIELLO MÁS O MENOS, S.L.",
+    "address": "c/ Conde de Xiquena, 7 - 4º - 28004 Madrid",
+    "web": "http://www.andrestrapiello.com/",
+    "objectives": [
+      "Sesiones críticas semanales, reuniones con el cliente, sesiones de afterwork con empresas colaboradoras como Alegría, Walk with me, Erretres…",
+      "Realización de concursos con empresas colaboradoras,  equipos flexibles, estructura horizontal de trabajo.",
+      "Diseño paramétrico. Producción con control numérico mezclado con técnicas  y procesos artesanales.",
+      "Se trabajará desde la autoproducción y bajo nuevos modelos de emprendimiento en todos los ámbitos del diseño.",
+      "El alumno colaborará en todos los procesos relativos al diseño de producto:",
+      "Investigación->Diseño->Producción->Comunicacióndel trabajo de distribución.",
+      "Se realizarán calendarios de producciódel trabajo de y esquemas de distribución del trabajo."
+    ],
+    "picture": "/data/clean/pictures/332.png"
+  },
+  {
+    "index": 161,
+    "id": 279,
+    "especialidad": ["producto"],
+    "name": "ÓSCAR ATASSI MORALES (ABPOAM ARQUITECTURA)",
+    "address": "c/ Concejal Benito Martín Lorenzo, 5 - 28005 Madrid",
+    "web": "http://www.abpoam.es/",
+    "objectives": [
+      "Se integrará como un componente más y se le revisará el trabajo que realice. Tendrá que exponerlo y se le corregirá.",
+      "Se le enseñará metodología de trabajo en equipo con otros profesionales del sector.",
+      "Manejará herramientas digitales: entorno cad, 3d, edición de foto, etc.",
+      "Trabajará sobre proyectos de diseño de arquitectura efímera y modelado 3d digital: Stands…",
+      "Se integrará en un estudio profesional de arquitectura.",
+      "Se le darán pautas ordenadas de cómo organizar y desarrollar el trabajo que se le encargue, con plazos y tiempos previstos de entrega."
+    ],
+    "picture": "/data/clean/pictures/343.png"
+  },
+  {
+    "index": 180,
+    "id": 260,
+    "especialidad": ["interiores", "producto"],
+    "name": "ESTUDIO ALVAREZ-SALA SLP",
+    "address": "c/ Lagasca, 21 - 1º Dcha - 28001 Madrid",
+    "web": "https://www.eas.es/",
+    "objectives": [
+      "Análisis de los diseños realizados, documentación y presentación de propuestas.",
+      "Realización de planos de distribución de los proyectos en fase de diseño.",
+      "Diseño de mobiliario integrado en oficinas.",
+      "Estudio ergonómico de los puestos de trabajo."
+    ],
+    "picture": "/data/clean/pictures/340.png"
+  },
+  {
+    "index": 186,
+    "id": 254,
+    "especialidad": ["grafico", "moda", "producto"],
+    "name": "MARCALIS",
+    "address": "c/ Caleruega, 51 - 2º C - 28033 Madrid",
+    "web": "http://marcalis.com/",
+    "objectives": [
+      "Con sede en Madrid, será el apoyo de nuestro equipo de diseño y presentación de productos.",
+      "Como parte de su trabajo, se espera que pueda llevar a cabo una investigación y un análisis en profundidad de la imagen y marca de nuestros clientes, realizar propuestas de diseños en base a sus necesidades y participar en la preparación de la documentación para las presentaciones.",
+      "Imprescindible nivel alto PHOTOSHOP."
+    ],
+    "picture": "/data/clean/pictures/309.png"
+  },
+  {
+    "index": 188,
+    "id": 252,
+    "especialidad": ["grafico", "moda", "producto"],
+    "name": "MEOLLO GLOBAL LOCAL",
+    "address": "Avda. Concha Espina, 7 - 1º izda. - 28016 Madrid",
+    "web": "https://meollo.net/",
+    "objectives": [
+      "Comunicación entre alumno ,compañeros y tutor para el desarrollo de catálogos y estampaciones textiles acorde a la imagen del proyecto, desde un boceto, montaje o render, hasta el resultado final. Asimilar los consejos y correcciones del tutor para la mejora de dichos trabajos en la medida de lo posible.",
+      "Trabajo en equipo junto a sus compañeros de la empresa desde su propio sector de diseñador gráfico, a diseñador industrial , responsable de finanzas o de ventas,etc  en multitud de contextos para lograr  un fin común.",
+      "Aprendizaje y mejora de sus capacidades con programas de diseño gráfico y diseño por ordenador. Adaptación a las nuevas tecnologías de diseño gráfico textil.",
+      "Aprendizaje y adaptación al contexto actual de trabajo en el campo de Diseño Grafico. Aprendizaje del sector desde sus inicios hasta la actualidad ,para su comprensión y utilización de los conocimientos adquiridos en el desarrollo de sus tareas en la empresa.",
+      "Desarrollar una actividad concreta que pueda ser integrada en la totalidad del proyecto y posteriormente poder aplicarla en cualquier ámbito en su correspondiente puesto de trabajo de Diseñador grafico.",
+      "Aprendizaje de la metodología de trabajo de nuestra empresa para crear una pauta repetitiva  que siempre pueda guiarle para acometer las tareas de su puesto de trabajo tanto en esta empresa como en cualquier otra."
+    ],
+    "picture": "/data/clean/pictures/310.jpeg"
+  },
+  {
+    "index": 189,
+    "id": 251,
+    "especialidad": ["producto"],
+    "name": "METAL AND WOOD PROYECTS, S.L.",
+    "address": "EL EXPEDIENTE NO SE ENVÍA A LA EMPRESA POR FALTA DE AUTORIZACIÓN DE LA DIRECTORA - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 207,
+    "id": 233,
+    "especialidad": ["producto"],
+    "name": "MOEBYUS MACHINES, S.L.",
+    "address": "c/ Rafael Caballos, 7 - 28029 Madrid",
+    "web": "https://moebyus.com/",
+    "objectives": [
+      "Mantener el buen funcionamiento de las impresoras 3D con que se trabaja en Moebyus Machines.",
+      "Imprimir piezas para responder a solicitudes de los clientes o para uso interno.",
+      "Diseñar piezas de dificultad básica a media para responder a solicitudes de los clientes o para uso interno.",
+      "Responder a preguntas de los clientes sobre impresión y diseño en 3D, así como sobre funcionamiento de las máquinas, ya sea en forma presencial o vía telefónica.",
+      "Revisar los hilos de conversación del grupo Clone Wars para responder a posibles consultas de la comunidad maker en España."
+    ],
+    "picture": "/data/clean/pictures/271.jpg"
+  },
+  {
+    "index": 210,
+    "id": 230,
+    "especialidad": ["producto"],
+    "name": "CASAL Y GALLARDO, S.L.",
+    "address": "c/ Conde de Romanones, 5 - Local Int. Drcha. - Madrid",
+    "web": "https://andresgallardo.com/",
+    "objectives": [
+      "Asistencia en la creación de prototipos en cera.",
+      "Asistencia en el montado de piezas de joyería.",
+      "Asistencia en el control de calidad y recepción de materiales.",
+      "Búsqueda de referencias y documentación para futuras colecciones.",
+      "Asistencia en gestión de stock de producto y visual merchandising de la tienda.",
+      "Asistencia en  la preparación de pedidos."
+    ],
+    "picture": "/data/clean/pictures/273.png"
+  },
+  {
+    "index": 218,
+    "id": 222,
+    "especialidad": ["interiores", "producto"],
+    "name": "E. ARIZA E HIJOS MONTAJES FOTOGRÁFICOS, S.L.",
+    "address": "c/ Miguel Servet, 16 (Pol. Ind. La Garena) - 28806 Alcalá de Henares (Madrid)",
+    "web": "https://www.grupoariza.net/",
+    "objectives": [
+      "Propuesta de diseño de interiores para potenciales clientes (empresas, locales…)",
+      "Diseño de prototipos de stands para empresas expositoras en ferias.",
+      "Diseño de interiores (casas y dependencias, hoteles…)",
+      "Diseño de prototipos de visual merchandasing para potenciales clientes.",
+      "Diseño de prototipos para escaparatismo para potenciales clientes.",
+      "Estar en contacto con los clientes para cada proyecto para la realización del mismo."
+    ],
+    "picture": "/data/clean/pictures/302.jpeg"
+  },
+  {
+    "index": 219,
+    "id": 221,
+    "especialidad": ["producto"],
+    "name": "YARUSSI ALVARADO, S.L.",
+    "address": "c/ Bustillo de Oro, 27 - 3º 3 - 28039 Madrid",
+    "web": "https://yarussialvaradostore.com/",
+    "objectives": [
+      "Aportación a los diseños de productos de nuestra empresa.",
+      "Aprendizaje y dominio de máquina de corte láser.",
+      "Colaboración en el diseño del Stand Yarussi Alvarado para la Feria Maison&Objet, Septiembre 2015 en Paris."
+    ],
+    "picture": "/data/clean/pictures/303.jpeg"
+  },
+  {
+    "index": 234,
+    "id": 206,
+    "especialidad": ["producto"],
+    "name": "HIDALGOS GROUP",
+    "address": "c/ Fuerteventura, 21 - 28703 San Sebastián de los Reyes (Madrid)",
+    "web": "https://www.hidalgosgroup.com/",
+    "objectives": [
+      "Diseño y desarrollo de packaging, expositores, maquetación de manuales de usuario.",
+      "Gestión de fabricación de packaging con los proveedores en China.",
+      "Fotomontajes de nuevas propuestas para clientes y creación de banco de fotos de propuestas existentes.",
+      "Manejo de herramientas informáticas como, Illustrator, Photoshop, Indesign, entorno Mac.",
+      "Manejo lengua  inglesa, nivel B2."
+    ],
+    "picture": "/data/clean/pictures/294.jpg"
+  },
+  {
+    "index": 251,
+    "id": 189,
+    "especialidad": ["producto"],
+    "name": "AF STEELCASE, S.A.",
+    "address": "C/. Antonio López, 243 - 28041 Madrid",
+    "web": "http://www.steelcase.com/eu-es/",
+    "objectives": [
+      "Participación en el desarrollo de diseño de producto, colaborando con el equipo de este departamento.",
+      "Manejo de las herramientas Autocad, Proingeer, Sketch up.",
+      "Visualización de los sistemas de fabricación.",
+      "Visualización de productos terminados."
+    ],
+    "picture": "/data/clean/pictures/57.png"
+  },
+  {
+    "index": 253,
+    "id": 187,
+    "especialidad": ["producto"],
+    "name": "STUDIO BANANA, S.L.",
+    "address": "C/. Plátano, 14 - 28029 Madrid",
+    "web": "https://studiobanana.com/",
+    "objectives": [
+      "Participación en el equipo  de la empresa compartiendo espacio y tareas con profesionales de distintas nacionalidades y especialidades dentro del ámbito de la creatividad. ",
+      "Asistencia a las reuniones de investigación, ideación y desarrollo de producto. Búsqueda de referencias. Trabajo con prototipos.",
+      "Integración del alumno en los proyectos que actualmente se están llevando a cabo en la empresa para que participe un proceso 360º. Pasando por cada etapa del diseño y experimentando con proyectos reales."
+    ],
+    "picture": "/data/clean/pictures/55.jpeg"
+  },
+  {
+    "index": 293,
+    "id": 148,
+    "especialidad": ["producto"],
+    "name": "Artesanos del Fuego Madrid",
+    "address": "C/ Diego de Leon 49 - 28006 Madrid",
+    "web": "http://www.artesanosdelfuego.es/",
+    "objectives": ["Contacto directo con el cliente para conocer necesidades.", "Diseño e instalación del proyecto en el espacio."],
+    "picture": "/data/clean/pictures/68.png"
+  },
+  {
+    "index": 295,
+    "id": 146,
+    "especialidad": ["producto"],
+    "name": "Industrias Hergom, S.A.",
+    "address": "Barrio Borrancho, s/n - 39110 Soto de la Marina, Cantabria ",
+    "web": "https://hergom.com/inicio",
+    "objectives": [
+      "Participar en las diferentes fases de un proyecto de industrialización.",
+      "Colaboración en los proyectos de cocina de leña, estufa y compacto.",
+      "Contacto directo con el cliente para conocer necesidades.",
+      "Diseño e instalación del proyecto en el espacio."
+    ],
+    "picture": "/data/clean/pictures/70.jpeg"
+  },
+  {
+    "index": 296,
+    "id": 145,
+    "especialidad": ["producto"],
+    "name": "Fundación Prodintec",
+    "address": "Avda. Jardin Botánico 1345. Edificio “Antiguo secadero de tabacos” - 33203 Gijon, Asturias",
+    "web": "http://www.prodintec.es/es/",
+    "objectives": [
+      "Análisis estratégico y gestión del cilco de vida de producto.",
+      "Gestión documental.",
+      "Diseño conceptual de producto.",
+      "Diseño CAD 3D paramétrico."
+    ],
+    "picture": "/data/clean/pictures/71.jpeg"
+  },
+  {
+    "index": 299,
+    "id": 142,
+    "especialidad": ["producto"],
+    "name": "Noviembre Estudio, S.L.",
+    "address": "c/ Illescas, 94, 8º B - 28047 Madrid",
+    "web": "https://www.noviembreestudio.es/",
+    "objectives": [
+      "Colaboración en las tareas de cocumentación, investigación y análisis de proyectos.",
+      "Participación en el desarrollo de proyectos, mediante la delineación de prototipo y modelado 3D.",
+      "Manejo de las herramientas básicas informáticas, relacionada a diseño de producto.",
+      "Asistente en las distintas tareas cotidianas de la empresa."
+    ],
+    "picture": "/data/clean/pictures/74.png"
+  },
+  {
+    "index": 301,
+    "id": 140,
+    "especialidad": ["producto"],
+    "name": "Javier Arregui García",
+    "address": "c/ Magallanes, 15, oficina 2 \n - 28015 Madrid",
+    "objectives": [
+      "Participación en proyectos de diseño mediante generación de ideas y desarrollo de propuestas-cliente.",
+      "Desarrollo de proyectos mediante los métodos utilizados habitualmente en el estudio (paneles de variables, consumo, tendencias, bocetos, variaciones formales, modelado 3D, prototipado, etc.)",
+      "Localización y gestión de proveedores, realización de presupuestos y seguimiento de producción.",
+      "Actividades comerciales, como búsqueda de clientes, eventos, workshop, concursos."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 302,
+    "id": 139,
+    "especialidad": ["producto"],
+    "name": "Estudio Pedro Feduchi",
+    "address": "c/ Hortaleza 108, b 2, - 28004 Madrid",
+    "web": "http://www.pedrofeduchi.es/",
+    "objectives": [
+      "Colaboración en los proyectos de diseño de producto.",
+      "Asistencia en tareas rutinarias del estudio de diseño.",
+      "Colaboración en las presentaciones de proyectos y diseños.",
+      "Edición y confección de noticias en la página web del estudio."
+    ],
+    "picture": ""
+  },
+  {
+    "index": 303,
+    "id": 138,
+    "especialidad": ["producto"],
+    "name": "Inés Arroyo Valencia",
+    "address": "c/ Embajadores 181, 5º G - 28045 Madrid",
+    "objectives": [
+      "Diseño 2D para the iRegular Toys.",
+      "Diseño asistido por ordenador (3D) para the iRegular Toys.",
+      "Gestión para la producción en the iRegular Toys.",
+      "Maquetación web responsive HTML5 + CSS para the iRegular Toys"
+    ],
+    "picture": ""
+  },
+  {
+    "index": 305,
+    "id": 136,
+    "especialidad": ["producto"],
+    "name": "Imanol Calderón Elósegui (MAYICE)",
+    "address": "c/ Sagasta 8, 2º A - 28004 Madrid",
+    "web": "http://mayicestudio.com/es/",
+    "objectives": [
+      "Colaboración en los proyectos de diseño de producto.",
+      "Búsqueda de proveedores para material y fabricación de productos.",
+      "Seguimiento de la producción de productos con proveedores.",
+      "Colaboración en tareas rutinarias del estudio de diseño.",
+      "Tareas relacionadas del área de marketing, notas de prensa."
+    ],
+    "picture": "/data/clean/pictures/124.jpeg"
+  },
+  {
+    "index": 318,
+    "id": 124,
+    "especialidad": ["producto"],
+    "name": "Quattrocento Diseño SL",
+    "address": "C/ Mar de Oman, 8 - 2º 27 - 28033 Madrid",
+    "web": "http://www.quattrocentodiseno.es/",
+    "objectives": [
+      "Diseño: proyecto, desarrollo y producción de retail",
+      "Diseño y producción de eventos y acciones singulares",
+      "Diseño y producción de stands y arquitectura efímera",
+      "Adaptaciones de diseño para centros comerciales",
+      "Se realizará con los programas: Ilustrator, 3Dmax, Photoshop, Autocad, Sketchpro"
+    ],
+    "picture": "/data/clean/pictures/13.jpg"
+  },
+  {
+    "index": 326,
+    "id": 116,
+    "especialidad": ["grafico", "producto"],
+    "name": "CEMUSA-Corporación Europea de Mobiliario Urbano",
+    "address": "C/ Francisco Sancha, 24 - 28034 Madrid",
+    "web": "https://www.jcdecaux.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/18.jpeg"
+  },
+  {
+    "index": 338,
+    "id": 104,
+    "especialidad": ["producto"],
+    "name": "Basurama",
+    "address": "Avda. Daroca, 49 - 28017 Madrid",
+    "web": "https://basurama.org/",
+    "objectives": [
+      "Sesiones de coordinación y evaluación: El estudio y los proyectos por equipos colaborativos. La base de esta colaboración se centra en la comunicación entre responsables y la evaluación en tiempo real (capacidad para ejercer y asumir la crítica compartida)",
+      "Ejecución de proyectos participativos: Participará y liderará procesos de diseño y construcción participativos en entornos comunitarios de orígenes diversos (comunidades de colegios, barrios, españoles, extranjeros, etc.)",
+      "Talleres de Formación y prácticas in situ: En Basurama trabajamos a través de diversos formatos, el estudiante deberá formarse en todos ellos para adquirir un conocimiento de usuario (impresoras 3D, máquinas CNC, tecnologías web, herramientas domésticas, etc)",
+      "Sesiones creativas de equipo: Los proyectos de Basurama son hipercontextuales y están concebidos a través de la suma de capas, el conocimiento de la cultura en la que se insertan así como los procesos globales que los atraviesan son indispensables.",
+      "El estudiante participará en todas las fases del proceso de creación, diseño, ejecución, posproducción de un proyecto real, llegando a liderarlo en algunas ocasiones dependiendo de su capacidad",
+      "Módulos teóricos durante las primeras semanas para entender el funcionamiento del estudio, a medida que este conocimiento se vaya integrando en el estudiante éste se irá sumando al proceso ejecutivo gradualmente."
+    ],
+    "picture": "/data/clean/pictures/2.jpg"
+  },
+  {
+    "index": 351,
+    "id": 92,
+    "especialidad": ["producto"],
+    "name": "TERMA SP. Z.O.O.",
+    "address": "Czaple, 100 - 80-298 Gdansk-Polska",
+    "web": "https://www.termagroup.pl/",
+    "objectives": [
+      "Diseño de producto seriado, en estrecha colaboración con ingenieros industriales y mecánicos en una empresa multi-disciplinar",
+      "Desarrollo de presentaciones de mis propuestas para exponerlas en el departamento de recursos humanos, publicidad, marketing y relaciones públicas",
+      "Desde la creación de ideas primitivas hasta el proceso de producción detallado teniendo en cuenta el máximo ahorro de coste de producción respecto al precio de venta",
+      "Presentación de producto a concurso y estudio previo de mercado para engocar el target del producto final, realizar prototipos y modelos en la sección de escultura y colaborar con los fotógrafos profesionales para enfocar visualmente mi producto de la manera más comercial. Teniendo constantemente en cuenta las dificultades técnicas de produción",
+      "Conseguir un esquema regular de actividades como prototipado, dibujo, renderizado, y defensa de presentaciones. Discutiendo ideas de proyectos diseñados y aportando nuevas ideas innovadoras"
+    ],
+    "picture": "/data/clean/pictures/36.jpeg"
+  },
+  {
+    "index": 392,
+    "id": 51,
+    "especialidad": ["producto"],
+    "name": "Ciszak Dalmas, S.L.",
+    "address": "C/ Lope de Vega, 21, 2º D - 28014 Madrid",
+    "web": "https://www.ciszakdalmas.com/",
+    "objectives": [
+      "Participar en el desarrollo conceptual de los proyectos del estudio",
+      "Colaboración en el desarrollo del metaproyecto y bocetos",
+      "Maquetación",
+      "Diseño 3D",
+      "Fotografía y maquetación de presentaciones"
+    ],
+    "picture": "/data/clean/pictures/145.png"
+  },
+  {
+    "index": 396,
+    "id": 47,
+    "especialidad": ["producto"],
+    "name": "Minimal Nuevo Diseño, S.L. (Stone design)",
+    "address": "C/ Segovia, 10 - 28032 Madrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 403,
+    "id": 40,
+    "especialidad": ["producto"],
+    "name": "Bormioli Rocco, S.A.",
+    "address": "Avda. del Vidrio, s/n - 19200 Azuqueca de Henares",
+    "web": "https://www.bormiolirocco.com/en/",
+    "objectives": [
+      "Actividad en Ofinica Técnica del Taller Moldes",
+      "Manejo del programa de diseño NX",
+      "Trabajos de diseño de artículos y despiece de planos de moldes",
+      "Diseño de planos, molder, utillaje industrial, de artículos nuevos y modificación de existentes",
+      "Control y gestión de documentación en la Oficina Técnica"
+    ],
+    "picture": "/data/clean/pictures/130.png"
+  },
+  {
+    "index": 405,
+    "id": 39,
+    "especialidad": ["producto"],
+    "name": "Sara World, S.L.",
+    "address": "C/Villanueva, 19 1ºDCH - 28001 Madrid",
+    "web": "https://www.saraworld.com/",
+    "objectives": [
+      "Estudio de las Marcas",
+      "Investigación de tendencias",
+      "Propuestas de diseños",
+      "Revisión por parte de la empresa",
+      "Presentación de la colección",
+      "Realización del Contratipo"
+    ],
+    "picture": "/data/clean/pictures/131.png"
+  },
+  {
+    "index": 407,
+    "id": 38,
+    "especialidad": ["producto"],
+    "name": "Imasoto S.A.",
+    "address": "C/ Puerto de Navafría, 28 - 28935 Móstoles",
+    "web": "http://www.imasoto.com/",
+    "objectives": ["Organización documental", "Presupuestos", "Maquetación", "3D"],
+    "picture": "/data/clean/pictures/132.jpeg"
+  },
+  {
+    "index": 409,
+    "id": 36,
+    "especialidad": ["producto"],
+    "name": "Enpieza Estudio, S.L.",
+    "address": "C/ Nicolas Morales 38-40, 2º, 7 - 28019 Madrid",
+    "web": "http://www.enpieza.com/",
+    "objectives": [
+      "Ideación de proyectos",
+      "Participación en reuniones de trabajo",
+      "Realización de briefing",
+      "Documentación gráfica del proyecto, planimetría, render con diferentes programas informáticos",
+      "Realización de prototipos",
+      "Búqueda y trato con proveedores",
+      "Comercialización de productos"
+    ],
+    "picture": "/data/clean/pictures/134.jpeg"
+  },
+  {
+    "index": 415,
+    "id": 30,
+    "especialidad": ["producto"],
+    "name": "Paredes Pino QTC SLP",
+    "address": "C/ Meléndez Valdés, 10 - 28015 Madrid",
+    "objectives": [
+      "Ideación de proyectos",
+      "Participación en reuniones de trabajo",
+      "Realización de briefing",
+      "Documentación gráfica del proyecto, planimetría, render con diferentes programas informáticos",
+      "Realización de prototipos",
+      "Búsqueda y trato con proveedores",
+      "Entrevistas con clientes",
+      "Departamento de comunicación: web, periódicos, revistas"
+    ],
+    "picture": ""
+  },
+  {
+    "index": 417,
+    "id": 28,
+    "especialidad": ["producto"],
+    "name": "Gabriel Corchero Products, S.L:",
+    "address": "C/ San Ildefonso, 25 - 28012 Madrid",
+    "web": "http://www.gabrielcorchero.org/",
+    "objectives": [
+      "Ideación de proyectos",
+      "Participación en reuniones de trabajo",
+      "Realización de briefing",
+      "Documentación gráfica del proyecto con programa 3Ds Max Design",
+      "Realización de prototipos",
+      "Conocimiento aspectos de trabajo en el estudio",
+      "Clientes y proveedores",
+      "COmunicación: web y otros medios"
+    ],
+    "picture": "/data/clean/pictures/138.jpg"
+  },
+  {
+    "index": 418,
+    "id": 27,
+    "especialidad": ["producto"],
+    "name": "Estudio Álvaro Catalán de Ocón",
+    "address": "C/ Conde de Vistahermosa, 5, 1º D - 28019 Madrid",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 421,
+    "id": 24,
+    "especialidad": ["producto"],
+    "name": "Professional Design, S.L.",
+    "address": "C/ Manuel Cortina, 11 - 28010 Madrid",
+    "web": "https://professional-design.com/",
+    "objectives": [
+      "Ideación de proyectos",
+      "Participación en reuniones de trabajo",
+      "Realización de briefing",
+      "Documentación gráfica del proyecto, planimetría, render con diferentes programas informáticos (autocad, 3dmax, indesing, ilustrator y power point)",
+      "Departamento de comunicación. Participación en proyectos de eventos. Material gráfico digital",
+      "Participación en reuniones con clientes"
+    ],
+    "picture": "/data/clean/pictures/152.png"
+  },
+  {
+    "index": 424,
+    "id": 22,
+    "especialidad": ["producto"],
+    "name": "Saint Gobain Vicasa, S.a.",
+    "address": "Avda el vidrio s/n P.Ind. Garona - 19200 Azuqueca Henares, Madrid",
+    "web": "https://www.saint-gobain.es/",
+    "objectives": [
+      "Apoyo en dibujo de maquetas, moldes, utillajes diversos",
+      "Dibujo de diseño con 3DS Max u otros (trabajo cotidiano OTM)",
+      "Apoyo en plan acción 5S",
+      "Integración en un equipo multidisciplinar"
+    ],
+    "picture": "/data/clean/pictures/165.jpg"
+  },
+  {
+    "index": 429,
+    "id": 17,
+    "especialidad": ["producto"],
+    "name": "Mad Lab, S.l.",
+    "address": "C/ Abtao 25 interior, nave B - 28007 Madrid",
+    "web": "https://www.mad-lab.com/",
+    "objectives": [],
+    "picture": "/data/clean/pictures/169.png"
+  },
+  {
+    "index": 434,
+    "id": 12,
+    "especialidad": ["producto"],
+    "name": "P. de la Oliva, S.A.",
+    "address": "C/ Brujula 18 - 28850 Torrejón de Ardoz, Madrid",
+    "web": "https://delaoliva.com/",
+    "objectives": [
+      "Programa Solid Work",
+      "Maquetación (Diseño Gráfico) Tarifa 2014",
+      "Desarrollo de nuevos proyectos (Nueva Silla Fantoni, Silla Escolar con Pata Abatible)",
+      "Montaje de Productos: Sillas y Bancadas",
+      "Estudio de Embalaje sobre productos para exportación"
+    ],
+    "picture": "/data/clean/pictures/172.png"
+  },
+  {
+    "index": 439,
+    "id": 7,
+    "especialidad": ["producto"],
+    "name": "Tecnología Señalética, S.L. (TECNOSEÑAL)",
+    "address": "c/ Joaquín Bau, nº 2 (esq. Félix Boix) - 28036 Madrid",
+    "web": "http://www.tecnosenyal.com/es/home",
+    "objectives": [
+      "Colaborar en el desarrollo de proyectos de diseño, entrenando habilidades de dibujo para la elaboración de proyectos constructivos para el proyecto",
+      "Manejo de diversas herramientas informáticas para modelado como scketchup",
+      "Manejo herramientas para la presentación de la imagen de productos"
+    ],
+    "picture": "/data/clean/pictures/162.png"
+  },
+  {
+    "index": 442,
+    "id": 5,
+    "especialidad": ["grafico", "mec", "producto"],
+    "name": "Dimad (Fundación Diseño Madrid)",
+    "address": " - ",
+    "objectives": [],
+    "picture": ""
+  },
+  {
+    "index": 445,
+    "id": 3,
+    "especialidad": ["producto"],
+    "name": "Producciones Ana Sandra S:L.                        ",
+    "address": "C/ José Ortega y Gasset 5, 4º Izda. - 28006 Madrid",
+    "web": "https://www.agatharuizdelaprada.com/",
+    "objectives": [
+      "Proyectos en equipo constantemente. Desarrollo de trabajo en equipo",
+      "Trabajará mano a mano con su equipo de diseño creativo redes sociales y de comunicación",
+      "Trabajos con todo tipo de programas. Creación de nuevos estampados",
+      "Sobre todo el contexto cultural e histórico. Al desarrollar nuevos estampados deberá conocer toda la evolución creativa de la marca",
+      "Relación con todos y cada uno de los miembros del equipo. Trabajo junto con el director de diseño gráfico y en ocasiones con Agatha Ruíz de la Prada"
+    ],
+    "picture": "/data/clean/pictures/155.jpg"
+  }
 ]

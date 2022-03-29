@@ -28,11 +28,12 @@ function post_type_portfolio()
         'show_ui'             => true,
         'query_var'           => true,
         'show_in_nav_menus'   => true,
-        'capability_type'     =>    'post',
+        'capability_type'     => 'post',
         'hierarchical'        => false,
         'menu_position'       => 5,
-        'supports'            => array('title', 'editor', 'thumbnail', 'comments', 'revisions'),
-        'rewrite'             => array('slug' => 'portfolio', 'with_front' => false)
+        'supports'            => array('title', 'editor', 'thumbnail', 'comments', 'revisions', 'custom-fields', 'meta'),
+        'rewrite'             => array('slug' => 'portfolio', 'with_front' => false), 
+        'show_in_rest'        => true
     );
 
     register_post_type('portfolio', $args);

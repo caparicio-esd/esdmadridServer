@@ -1,14 +1,14 @@
 $bp: (
-    'laptop_l': 1440px,
-    'laptop': 1024px,
-    'tablet': 768px,
-    'mobile_l': 425px,
-    'mobile_m': 375px,
-    'mobile_s': 320px,
+  "laptop_l": 1440px,
+  "laptop": 1024px,
+  "tablet": 768px,
+  "mobile_l": 425px,
+  "mobile_m": 375px,
+  "mobile_s": 320px,
 );
 
 @mixin media($width) {
-    @media screen and (max-width: #{$width}) {
-        @content;
-    }
+  @media screen and (max-width: #{$width}) {
+    @content;
+  }
 }

@@ -15,12 +15,19 @@
 function get_profesores()
 {   
 
-
+    // fetch db
+    // $results = new WP_Query(array(
+    //     'pagename' => 'la-escuela-crece' 
+    // ));
 
     // fetch file
     $uri = get_template_directory() . '/microservices/profesores_scraper/data/clean/profesores.json';
     $json = file_get_contents($uri);
     $data = json_decode($json, TRUE);
+
+    // construct response
+    // $response = new esd_BE_Profesores($results->posts[0]);
+    // $response->content = $data;
     
     return $data;
 }
