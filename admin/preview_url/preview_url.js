@@ -13,8 +13,9 @@ window.addEventListener("load", () => {
  *
  */
 let previewWindow = null;
+const isLocal = false;
 const wpPreviewBase = window.location.origin + "/wp-json/esd/v1/preview/";
-const frontEndBase = "http://localhost:3000/";
+const frontEndBase = isLocal ? "http://localhost:3000/" : "https://esdmadrid.es/";
 let isPageEditPage;
 let currentPost;
 
