@@ -1,5 +1,6 @@
 <?php
 
+namespace ESD_BE;
 trait Flags {
 
 
@@ -41,23 +42,23 @@ trait Flags {
 
     public function get_post_template_field_by_id($pid) 
     {
-        $result_out = new stdClass();
+        $result_out = new \stdClass();
         $parent_id = get_post_parent($pid);
         $target_id = $parent_id != null ? $parent_id->ID : $pid;
         $post_type = get_post_type($target_id);
         
-        foreach (esd_BE__BasicData::$template_collection as $result) {
+        foreach (BasicData::$template_collection as $result) {
             if ($result->id == $target_id) {
                 $result_out = $result;
             break;
             } else {
                 $template = '';
                 if ($post_type == 'post') {
-                    $template = esd_BE__BasicData::$flag_options[1];
+                    $template = BasicData::$flag_options[1];
                 } else if ($post_type == 'page') {
-                    $template = esd_BE__BasicData::$flag_options[0];
+                    $template = BasicData::$flag_options[0];
                 } else {
-                    $template = esd_BE__BasicData::$flag_options[1];
+                    $template = BasicData::$flag_options[1];
                 }
 
                 $result_out->id = 0;

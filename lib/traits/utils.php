@@ -1,5 +1,6 @@
 <?php
 
+namespace ESD_BE;
 trait Utils
 {
 
@@ -58,10 +59,10 @@ trait Utils
      */
     public function utils_static_assets_url($url_in)
     {
-        if (esd_BE__BasicData::$is_local) {
+        if (BasicData::$is_local) {
             $url_out = str_replace(
-                esd_BE__BasicData::$api_static_assets,
-                esd_BE__BasicData::$final_static_assets,
+                BasicData::$api_static_assets,
+                BasicData::$final_static_assets,
                 $url_in
             );
         } else {
@@ -85,11 +86,11 @@ trait Utils
         switch ($field_object->field_type) {
             case 'link':
                 if (isset($field_object->field_value['url'])) {
-                    $field_object->field_value['url'] = str_replace(esd_BE__BasicData::$root, '', $field_object->field_value['url']);
+                    $field_object->field_value['url'] = str_replace(BasicData::$root, '', $field_object->field_value['url']);
                 }
                 break;
             case 'date_picker':
-                $d = DateTime::createFromFormat('d/m/Y', $field_object->field_value);
+                $d = \DateTime::createFromFormat('d/m/Y', $field_object->field_value);
                 $field_object->field_value = $d;
                 break;
             case 'number':
@@ -112,7 +113,7 @@ trait Utils
      */
     public function utils_inner_anchors($content)
     {
-        return str_replace(esd_BE__BasicData::$root, '', $content);
+        return str_replace(BasicData::$root, '', $content);
     }
 
 

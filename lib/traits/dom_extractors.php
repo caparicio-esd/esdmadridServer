@@ -1,6 +1,8 @@
 <?php
 
-trait Dom_Extractor
+namespace ESD_BE;
+
+trait DomExtractor
 {
     use Utils;
 
@@ -14,7 +16,7 @@ trait Dom_Extractor
      */
     public function utils_normalize_content($content)
     {
-        $domDocument = new DOMDocument();
+        $domDocument = new \DOMDocument();
         @$domDocument->loadHTML(
             mb_convert_encoding("<div class=\"clean_content\">$content</div>", 'HTML-ENTITIES'),
             LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
@@ -115,11 +117,11 @@ trait Dom_Extractor
                         ($attr->name == 'href' && !strpos($attr->value, 'uploads')) ||
                         ($attr->name == 'data-saferedirecturl' && !strpos($attr->value, 'uploads'))
                     ) {
-                        $pageType = get_page_by_path(str_replace(esd_BE__BasicData::$root, '', $attr->value));
+                        $pageType = get_page_by_path(str_replace(BasicData::$root, '', $attr->value));
                         $pageRoute = $pageType == "post" ? "post" : "";
                         
-                        if (strpos($attr->value, esd_BE__BasicData::$root) > -1) {
-                            $attr->value = $pageRoute . str_replace(esd_BE__BasicData::$root, '', $attr->value);
+                        if (strpos($attr->value, BasicData::$root) > -1) {
+                            $attr->value = $pageRoute . str_replace(BasicData::$root, '', $attr->value);
                         }
                     }
                 }
@@ -145,7 +147,7 @@ trait Dom_Extractor
      */
     function kill_single_links($content)
     {
-        $domDocument = new DOMDocument();
+        $domDocument = new \DOMDocument();
         @$domDocument->loadHTML(
             mb_convert_encoding($content, 'HTML-ENTITIES'),
             LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
@@ -181,7 +183,7 @@ trait Dom_Extractor
      */
     function extract_single_links($content)
     {
-        $domDocument = new DOMDocument();
+        $domDocument = new \DOMDocument();
         @$domDocument->loadHTML(
             mb_convert_encoding($content, 'HTML-ENTITIES'),
             LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
@@ -197,7 +199,7 @@ trait Dom_Extractor
             $tags = $domDocument->getElementsByTagName($tagName);
 
             foreach ($tags as $tag) {
-                $linkTag = new stdClass();
+                $linkTag = new \stdClass();
                 $attrs = $tag->attributes;
 
                 foreach ($attrs as $attr) {
@@ -218,7 +220,7 @@ trait Dom_Extractor
 
         //filter
         foreach ($linksTag as $linkTag) {
-            $link = new stdClass();
+            $link = new \stdClass();
             $link->title = trim($linkTag->title);
             $link->url = $linkTag->url;
 
@@ -242,7 +244,7 @@ trait Dom_Extractor
      */
     public function extract_accordion($content)
     {
-        $domDocument = new DOMDocument();
+        $domDocument = new \DOMDocument();
         @$domDocument->loadHTML(
             mb_convert_encoding($content, 'HTML-ENTITIES'),
             LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
@@ -277,16 +279,16 @@ trait Dom_Extractor
                     );
                     array_push($accordion_sections, $accordion_section);
                 }
-                $accordion_section = new stdClass();
+                $accordion_section = new \stdClass();
                 $accordion_section->title = $tag->nodeValue;
-                $accordion_content = new DOMDocument();
+                $accordion_content = new \DOMDocument();
                 $accordion_content->loadHTML(
                     mb_convert_encoding("<div class=\"accordion_content\"></div>", 'HTML-ENTITIES'),
                     LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
                 );
             } else {
                 if ($accordion_content) {
-                    if ($tag instanceof DOMElement) {
+                    if ($tag instanceof \DOMElement) {
                         $node = $accordion_content->importNode($tag, true);
                         $accordion_content->documentElement->appendChild($node);
                     }
@@ -306,7 +308,7 @@ trait Dom_Extractor
      */
     public function extract_summary($content)
     {
-        $domDocument = new DOMDocument();
+        $domDocument = new \DOMDocument();
         @$domDocument->loadHTML(
             mb_convert_encoding($content, 'HTML-ENTITIES'),
             LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
@@ -319,8 +321,8 @@ trait Dom_Extractor
 
         foreach ($tags as $tag) {
             if ($tag->nodeName == 'p' || $tag->nodeName == 'div') {
-                $paragraph_content = new DOMDocument();
-                $paragraph_section = new stdClass();
+                $paragraph_content = new \DOMDocument();
+                $paragraph_section = new \stdClass();
                 $paragraph_content->loadHTML(
                     mb_convert_encoding("<div class=\"summary\"></div>", 'HTML-ENTITIES'),
                     LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
