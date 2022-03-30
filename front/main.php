@@ -1,4 +1,4 @@
-<?php get_template_part("header"); ?>
+<?php get_template_part("front/header"); ?>
 
 
 <div class="slider">
@@ -27,4 +27,4 @@
     </div>
 </div>
 
-<?php get_template_part("footer"); ?>
+<?php get_template_part("front/footer"); ?>
