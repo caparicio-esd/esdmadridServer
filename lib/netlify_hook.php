@@ -16,7 +16,7 @@ function netlify_build($post_id)
         $post_status == "publish" ||
         $post_status == "draft"
     ) {
-        $api_key = "5f69f14b5471a95792e191f0";
+        $api_key = NETLIFY_APIKEY;
         $netlify_hook = "https://api.netlify.com/build_hooks/$api_key";
 
         $response = wp_safe_remote_post(

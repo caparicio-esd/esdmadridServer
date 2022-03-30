@@ -39,8 +39,8 @@ function upload_to_ftp($args)
      * 
      * TODO---- stablish ssh tunnel first to connect.... 
      */
-    $connection = ftp_connect('home394109063.1and1-data.host', 22);
-    $login = ftp_login($connection, 'u66893151-carlos', 'Uploading12345$!');
+    $connection = ftp_connect(FTP_HOST, FTP_PORT);
+    $login = ftp_login($connection, FTP_USER, FTP_PASSWORD);
 
 
     /**
@@ -52,7 +52,7 @@ function upload_to_ftp($args)
     } else {
         foreach($pic_routes as $pic_route) {
             $local_route = "$base_dir/$date_subdir/$pic_route";
-            $remote_route = "sftp://home394109063.1and1-data.host/esdmadrid_2.0/wp-content/uploads/$date_subdir/$pic_route";
+            $remote_route = "sftp://" . FTP_HOST . "/esdmadrid_2.0/wp-content/uploads/$date_subdir/$pic_route";
             console_log($connection);
 
             $ftp_stream = ftp_put(

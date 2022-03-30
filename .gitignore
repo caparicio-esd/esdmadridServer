@@ -17,3 +17,5 @@ yarn-error.log*
 # vscode launch
 /.vscode
 **/.vscode
+
+.env.php
