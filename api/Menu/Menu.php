@@ -1,5 +1,9 @@
 <?php
 
+namespace ESD_BE\Api;
+
+use ESD_BE\BasicData;
+
 /**
  * Endpoint-----
  * 
@@ -73,12 +77,12 @@ function get_menu_template($menu_item)
 
     // if simple post 
     if ($menu_item->object == 'post') {
-        $template_flag = esd_BE__BasicData::$flag_options[1];
+        $template_flag = BasicData::$flag_options[1];
     }
 
     // if simple page 
     if ($menu_item->object == 'page') {
-        $template_flag = esd_BE__BasicData::$flag_options[0];
+        $template_flag = BasicData::$flag_options[0];
     }
 
     // if custom navigation
@@ -87,7 +91,7 @@ function get_menu_template($menu_item)
     }
 
     // if rest options
-    foreach (esd_BE__BasicData::$template_collection as $tc_item) {
+    foreach (BasicData::$template_collection as $tc_item) {
         if ($menu_item->object_id == $tc_item->id) {
             $template_flag = $tc_item->template;
             break;
@@ -109,7 +113,7 @@ function get_menu_template($menu_item)
 function just_needed_stuff_menu($menu_item)
 {
 
-    $menu = new stdClass();
+    $menu = new \stdClass();
 
     // check if custom link: 
     $menu_url = $menu_item->url == '' ? '#' : $menu_item->url;
@@ -119,7 +123,7 @@ function just_needed_stuff_menu($menu_item)
 
     $menu->menu_id = $menu_item->ID;
     $menu->menu_title = $menu_item->title;
-    $menu->menu_url = str_replace(esd_BE__BasicData::$root, "", $menu_url);
+    $menu->menu_url = str_replace(BasicData::$root, "", $menu_url);
     $menu->external = is_menu_external($menu->menu_url);
     $menu->menu_slug = set_url_based_on_protocol($menu->menu_url, $menu->external);
     $menu->menu_template = $template;

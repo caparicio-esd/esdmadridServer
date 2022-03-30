@@ -1,5 +1,9 @@
 <?php
 
+namespace ESD_BE\Api;
+
+use ESD_BE\BasicData;
+use ESD_BE\Page;
 
 /**
  * Endpoint-----
@@ -14,7 +18,7 @@
 
 function redirect_rest_pages()
 {
-    wp_redirect(esd_BE__BasicData::$api_root . 'posts');
+    wp_redirect(BasicData::$api_root . 'posts');
     exit;
 }
 
@@ -28,22 +32,22 @@ function get_rest_pages($request)
     
     // 
     if ($isNewPost) {
-        $results = new WP_Query(array('p' => intval($pslug), 'post_type' => 'any', 'post_status' => $status));
+        $results = new \WP_Query(array('p' => intval($pslug), 'post_type' => 'any', 'post_status' => $status));
     } else {
-        $results = new WP_Query(array('pagename' => $pslug, 'post_type' => 'any', 'post_status' => $status));
+        $results = new \WP_Query(array('pagename' => $pslug, 'post_type' => 'any', 'post_status' => $status));
     }
 
     if ($isPreview && !$isNewPost) {
         $autosave = wp_get_post_autosave($results->posts[0]->ID);
         if ($autosave) {
-            $response = new esd_BE_Page($autosave);
+            $response = new Page($autosave);
             return $response;
         } else {
-            $response = new esd_BE_Page($results->posts[0]);
+            $response = new Page($results->posts[0]);
             return $response;
         }
     } else {
-        $response = new esd_BE_Page($results->posts[0]);
+        $response = new Page($results->posts[0]);
         return $response;
     }
 }

@@ -1,5 +1,9 @@
 <?php
 
+namespace ESD_BE\Api;
+
+use ESD_BE\Post\Home;
+
 /**
  * Endpoint-----
  * 
@@ -43,7 +47,7 @@ function get_rest_posts_home()
     // construct response
     $response = [];
     foreach ($results as $index => $post) {
-        array_push($response, new esd_BE_Post_Home_ListItem($post));
+        array_push($response, new Home($post));
     }
 
     return $response;

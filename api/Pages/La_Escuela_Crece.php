@@ -1,5 +1,6 @@
-<?php 
+<?php
 
+use ESD_BE\EscuelaCrece;
 
 /**
  * Endpoint-----
@@ -16,7 +17,7 @@ function get_la_escuela_crece()
 {   
 
     // fetch db
-    $results = new WP_Query(array(
+    $results = new \WP_Query(array(
         'pagename' => 'la-escuela-crece' 
     ));
 
@@ -26,7 +27,7 @@ function get_la_escuela_crece()
     $data = json_decode($json, TRUE);
 
     // construct response
-    $response = new esd_BE_EscuelaCrece($results->posts[0]);
+    $response = new EscuelaCrece($results->posts[0]);
     $response->content = $data;
     
     return $response;

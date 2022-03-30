@@ -1,5 +1,9 @@
 <?php
 
+namespace ESD_BE\Api;
+
+use ESD_BE\Post\Search;
+
 /**
  * Endpoint-----
  * 
@@ -27,7 +31,7 @@ function get_rest_search($request)
 
     // fetch db
     if (isset($_GET['s']) && $s != '') {
-        $posts = new WP_Query(array(
+        $posts = new \WP_Query(array(
             's' => $s,
             'paged' => $page,
             'posts_per_page' => $posts_per_page, 
@@ -36,7 +40,7 @@ function get_rest_search($request)
 
 
         // construct response
-        $searchData = new stdClass();
+        $searchData = new \stdClass();
         $searchData->searchTerm = $posts->query['s'];
         $searchData->totalAmount = (int) $posts->found_posts;
         $searchData->page = $posts->query['paged'];
@@ -45,7 +49,7 @@ function get_rest_search($request)
         $searchData->postsOut = [];
 
         foreach ($posts->posts as $post) {
-            array_push($searchData->postsOut, new esd_BE_Post_Search($post));
+            array_push($searchData->postsOut, new Search($post));
         }
 
         return $searchData;
@@ -53,7 +57,7 @@ function get_rest_search($request)
 
     // fetch db
     else if (isset($_GET['category']) && $category != '') {
-        $posts = new WP_Query(array(
+        $posts = new \WP_Query(array(
             'tax_query' => array(
                 'relation' => 'OR',
                 array(
@@ -73,7 +77,7 @@ function get_rest_search($request)
         ));
 
         // construct response
-        $searchData = new stdClass();
+        $searchData = new \stdClass();
         $searchData->searchTerm = $posts->query['s'];
         $searchData->totalAmount = (int) $posts->found_posts;
         $searchData->page = $posts->query['paged'];
@@ -82,7 +86,7 @@ function get_rest_search($request)
         $searchData->postsOut = [];
 
         foreach ($posts->posts as $post) {
-            array_push($searchData->postsOut, new esd_BE_Post_Search($post));
+            array_push($searchData->postsOut, new Search($post));
         }
 
         return $searchData;
@@ -90,7 +94,7 @@ function get_rest_search($request)
 
     // error
     else {
-        return new WP_Error(
+        return new \WP_Error(
             'empty search query',
             'set a "s" variable in the URL to use the seach engine or set a "category" variable in the URL to use the seach engine filtering by category',
             array('status' => 404)

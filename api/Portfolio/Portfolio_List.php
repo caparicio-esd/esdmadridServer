@@ -1,5 +1,8 @@
 <?php
 
+namespace ESD_BE\Api;
+
+use ESD_BE\PortfolioItem;
 
 /**
  * Endpoint-----
@@ -29,7 +32,7 @@ function get_rest_portfolio_items()
     // response
     $response = [];
     foreach ($posts as $post) {
-        array_push($response, new esd_BE_Post_Portfolio_ListItem($post));
+        array_push($response, new PortfolioItem($post));
     }
 
     // filter year

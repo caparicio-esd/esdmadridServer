@@ -1,5 +1,8 @@
 <?php 
 
+namespace ESD_BE\Api;
+
+use ESD_BE\PlanEstudios;
 
 /**
  * Endpoint-----
@@ -28,7 +31,7 @@ function get_rest_plan_estudios()
     $especialidad = isset($_GET['especialidad']) ? $_GET['especialidad'] : 'grafico';
 
     // fetch db
-    $results = new WP_Query(array(
+    $results = new \WP_Query(array(
         'pagename' => $plan_estudios_URL[$especialidad]
     ));
 
@@ -42,7 +45,7 @@ function get_rest_plan_estudios()
     }
 
     // construct response
-    $response = new esd_BE_PlanEstudios($results->posts[0]);
+    $response = new PlanEstudios($results->posts[0]);
     $response->content = $data;
     
     return $response;

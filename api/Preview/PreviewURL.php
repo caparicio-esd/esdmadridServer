@@ -1,5 +1,7 @@
 <?php
 
+namespace ESD_BE\Api;
+
 /**
  * Endpoint-----
  * 
@@ -11,7 +13,7 @@
 
 function get_preview_url($request)
 {
-    $query = new WP_Query(array(
+    $query = new \WP_Query(array(
         "p" => $request["id"],
         "post_type" => "any",
     ));

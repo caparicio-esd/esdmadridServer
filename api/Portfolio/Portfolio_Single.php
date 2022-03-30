@@ -1,5 +1,8 @@
 <?php
 
+namespace ESD_BE\Api;
+
+use ESD_BE\PortfolioItem;
 
 /**
  * Endpoint-----
@@ -24,7 +27,7 @@ function get_rest_portfolio_item($request)
     ));
 
     // response
-    $response = new esd_BE_Post_Portfolio_ListItem($posts[0]);
+    $response = new PortfolioItem($posts[0]);
 
 
     return $response;

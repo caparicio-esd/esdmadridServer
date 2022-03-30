@@ -1,11 +1,12 @@
 <?php
 
+use ESD_BE\BasicData;
 
 function netlify_build($post_id)
 {
     if (
         wp_is_post_revision($post_id) ||
-        esd_BE__BasicData::$is_local
+        BasicData::$is_local
     ) {
         return;
     }

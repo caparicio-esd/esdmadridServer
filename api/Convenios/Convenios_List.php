@@ -1,5 +1,6 @@
 <?php
 
+namespace ESD_BE\Api;
 
 /**
  * Endpoint-----
