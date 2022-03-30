@@ -1,27 +1,24 @@
 {
-  "name": "ESD_api",
-  "version": "1.0.0",
+  "name": "esd_api",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
     "start": "wp-scripts start",
     "build": "wp-scripts build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/carlosapa/esdmadridserver.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/carlosapa/esdmadridserver/issues"
-  },
-  "homepage": "https://gitlab.com/carlosapa/esdmadridserver#readme",
+  "license": "MIT",
   "devDependencies": {
     "@wordpress/scripts": "^12.5.0"
-  }
+  },
+  "private": true,
+  "workspaces": [
+    "microservices/asignaturas_scraper",
+    "microservices/extract_companies",
+    "microservices/extract_convenios",
+    "microservices/laescuelacrece_scraper",
+    "microservices/profesores_scraper"
+  ]
 }
