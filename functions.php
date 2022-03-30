@@ -1,6 +1,5 @@
 <?php
-
-require dirname(__FILE__) . '.env.php';
+require dirname(__FILE__) . '/.env.php';
 
 
 // hooks
